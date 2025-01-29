@@ -1,0 +1,3 @@
+0	Welcome to LineageSquared!
+0	THIS IS THE DEV SERVER
+0	STABILITY IS NOT GUARANTEED!

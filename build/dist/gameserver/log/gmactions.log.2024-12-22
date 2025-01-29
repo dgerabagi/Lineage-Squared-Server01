@@ -1,0 +1,57 @@
+[22.12.24 12:55:30] SUCCESS PacMan[268481203] admin_admin
+[22.12.24 12:55:31] SUCCESS PacMan[268481203] admin_char_manage
+[22.12.24 12:55:32] SUCCESS PacMan[268481203] admin_show_characters 0
+[22.12.24 13:02:32] SUCCESS PacMan[268481203] admin_admin
+[22.12.24 13:02:33] SUCCESS PacMan[268481203] admin_char_manage
+[22.12.24 13:02:35] SUCCESS PacMan[268481203] admin_server admserver.htm
+[22.12.24 13:02:35] SUCCESS PacMan[268481203] admin_show_html reload.htm
+[22.12.24 13:02:38] SUCCESS PacMan[268481203] admin_reload_htm
+[22.12.24 13:03:23] SUCCESS PacMan[268481203] admin_reload_htm
+[22.12.24 13:03:24] SUCCESS PacMan[268481203] admin_reload_htm
+[22.12.24 13:10:47] SUCCESS PacMan[268481203] admin_gmspeed 3
+[22.12.24 13:30:03] SUCCESS PacMan[268481203] -> 30844 Walderal admin_admin
+[22.12.24 13:30:04] SUCCESS PacMan[268481203] -> 30844 Walderal admin_char_manage
+[22.12.24 13:30:04] SUCCESS PacMan[268481203] -> 30844 Walderal admin_show_characters 0
+[22.12.24 13:30:06] SUCCESS PacMan[268481203] admin_teleportto Jarvan
+[22.12.24 13:37:00] SUCCESS PacMan[268481203] admin_admin
+[22.12.24 13:37:01] SUCCESS PacMan[268481203] admin_char_manage
+[22.12.24 13:37:02] SUCCESS PacMan[268481203] admin_show_characters 0
+[22.12.24 13:37:03] SUCCESS PacMan[268481203] admin_teleportto Darkling
+[22.12.24 13:37:26] SUCCESS PacMan[268481203] admin_admin
+[22.12.24 13:37:27] SUCCESS PacMan[268481203] admin_char_manage
+[22.12.24 13:37:27] SUCCESS PacMan[268481203] admin_show_characters 0
+[22.12.24 13:37:29] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_character_list Darkling
+[22.12.24 13:37:31] SUCCESS PacMan[268481203] admin_recall_char_menu Darkling
+[22.12.24 13:59:41] SUCCESS PacMan[268481203] admin_admin
+[22.12.24 13:59:45] SUCCESS PacMan[268481203] admin_char_manage
+[22.12.24 13:59:47] SUCCESS PacMan[268481203] admin_char_manage
+[22.12.24 13:59:48] SUCCESS PacMan[268481203] admin_show_characters 0
+[22.12.24 14:00:42] SUCCESS PacMan[268481203] admin_admin
+[22.12.24 15:23:12] SUCCESS PacMan[268481203] admin_admin
+[22.12.24 15:23:13] SUCCESS PacMan[268481203] admin_char_manage
+[22.12.24 15:23:14] SUCCESS PacMan[268481203] admin_show_characters 0
+[22.12.24 15:23:18] SUCCESS PacMan[268481203] admin_teleportto Jarvan
+[22.12.24 16:02:32] SUCCESS PacMan[268481203] admin_admin
+[22.12.24 16:02:33] SUCCESS PacMan[268481203] admin_char_manage
+[22.12.24 16:02:33] SUCCESS PacMan[268481203] admin_show_characters 0
+[22.12.24 16:02:38] SUCCESS PacMan[268481203] admin_teleportto lina
+[22.12.24 16:02:43] SUCCESS PacMan[268481203] admin_admin
+[22.12.24 16:02:44] SUCCESS PacMan[268481203] admin_char_manage
+[22.12.24 16:02:45] SUCCESS PacMan[268481203] admin_show_characters 0
+[22.12.24 16:02:46] SUCCESS PacMan[268481203] admin_admin
+[22.12.24 16:02:47] SUCCESS PacMan[268481203] admin_char_manage
+[22.12.24 16:02:48] SUCCESS PacMan[268481203] admin_find_dualbox
+[22.12.24 16:02:51] SUCCESS PacMan[268481203] admin_show_characters 0
+[22.12.24 16:15:22] SUCCESS PacMan[268481203] admin_teleportto SexYPoutanak1
+[22.12.24 16:31:47] SUCCESS PacMan[268481203] admin_admin
+[22.12.24 16:31:48] SUCCESS PacMan[268481203] admin_char_manage
+[22.12.24 16:31:49] SUCCESS PacMan[268481203] admin_show_characters 0
+[22.12.24 16:31:51] SUCCESS PacMan[268481203] admin_teleportto Jarvan
+[22.12.24 16:34:29] SUCCESS PacMan[268481203] -> 18865 Sticky Mushroom admin_admin
+[22.12.24 16:34:31] SUCCESS PacMan[268481203] -> 18865 Sticky Mushroom admin_show_moves
+[22.12.24 16:34:31] SUCCESS PacMan[268481203] -> 18865 Sticky Mushroom admin_show_html teleports/town.htm
+[22.12.24 16:34:32] SUCCESS PacMan[268481203] -> 18865 Sticky Mushroom admin_show_html teleports/town/giran.htm
+[22.12.24 16:34:33] SUCCESS PacMan[268481203] admin_move_to 82698 148638 -3473
+[22.12.24 19:27:03] SUCCESS PacMan[268481203] admin_admin
+[22.12.24 19:27:04] SUCCESS PacMan[268481203] admin_char_manage
+[22.12.24 19:27:04] SUCCESS PacMan[268481203] admin_show_characters 0

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="36600" template_id="13128" name="Vote/Donation Shop" title="">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2444.468" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="7.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="780" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="382" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1345.8" />
+		<set name="baseMpReg" value="2.7" />
+		<set name="basePAtk" value="1303" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="471" />
+		<set name="baseRunSpd" value="160" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="40" />
+		<set name="castle_id" value="3" />
+		<set name="collision_height" value="19.5" />
+		<set name="collision_radius" value="8.0" />
+		<set name="level" value="70" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="DonateNpc" />
+		<skills>
+			<skill id="4416" level="1" />	<!--Undead-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="150" />
+			<defence attribute="water" value="150" />
+			<defence attribute="wind" value="150" />
+			<defence attribute="earth" value="150" />
+			<defence attribute="holy" value="150" />
+			<defence attribute="unholy" value="150" />
+		</attributes>
+	</npc>
+	<npc id="36601" template_id="25283" name="Manager" title="Tournament">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2444.468" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="7.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="780" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="382" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1345.8" />
+		<set name="baseMpReg" value="2.7" />
+		<set name="basePAtk" value="1303" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="471" />
+		<set name="baseRunSpd" value="160" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="40" />
+		<set name="castle_id" value="3" />
+		<set name="collision_height" value="55.0" />
+		<set name="collision_radius" value="42.5" />
+		<set name="htm_root" value="events/" />
+		<set name="level" value="70" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="TournamentManager" />
+		<skills>
+			<skill id="4416" level="1" />	<!--Undead-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="150" />
+			<defence attribute="water" value="150" />
+			<defence attribute="wind" value="150" />
+			<defence attribute="earth" value="150" />
+			<defence attribute="holy" value="150" />
+			<defence attribute="unholy" value="150" />
+		</attributes>
+	</npc>
+	<npc id="36676" template_id="22346" name="Lineage²" title="GM Shop">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2444.468" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="7.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="780" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="382" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1345.8" />
+		<set name="baseMpReg" value="2.7" />
+		<set name="basePAtk" value="1303" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="471" />
+		<set name="baseRunSpd" value="160" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="40" />
+		<set name="castle_id" value="3" />
+		<set name="collision_height" value="42.0" />
+		<set name="collision_radius" value="10.0" />
+		<set name="level" value="70" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="Merchant" />
+		<skills>
+			<skill id="4416" level="1" />	<!--Undead-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="150" />
+			<defence attribute="water" value="150" />
+			<defence attribute="wind" value="150" />
+			<defence attribute="earth" value="150" />
+			<defence attribute="holy" value="150" />
+			<defence attribute="unholy" value="150" />
+		</attributes>
+	</npc>
+	<npc id="36677" template_id="30427" name="Julia" title="Gatekeeper">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2632.196" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="0" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="10" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="352980" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1475" />
+		<set name="baseMpReg" value="0.9" />
+		<set name="basePAtk" value="16" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="95400" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="25.0" />
+		<set name="collision_radius" value="8.0" />
+		<set name="level" value="70" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="GlobalGatekeeper" />
+		<skills>
+			<skill id="4416" level="18" />	<!--Dwarves-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+	<npc id="36677" template_id="30427" name="Julia" title="Gatekeeper">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2632.196" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="0" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="10" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="352980" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1475" />
+		<set name="baseMpReg" value="0.9" />
+		<set name="basePAtk" value="16" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="95400" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="25.0" />
+		<set name="collision_radius" value="8.0" />
+		<set name="level" value="70" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="GlobalGatekeeper" />
+		<skills>
+			<skill id="4416" level="18" />	<!--Dwarves-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+	<npc id="36678" template_id="30427" name="Julia" title="Gatekeeper">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2632.196" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="0" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="10" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="352980" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1475" />
+		<set name="baseMpReg" value="0.9" />
+		<set name="basePAtk" value="16" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="95400" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="25.0" />
+		<set name="collision_radius" value="8.0" />
+		<set name="level" value="70" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="FameZoneNpc" />
+		<skills>
+			<skill id="4416" level="18" />	<!--Dwarves-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+	<npc id="36678" template_id="30427" name="Julia" title="Gatekeeper">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="CharacterAI" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2632.196" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="0" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="10" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="352980" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1475" />
+		<set name="baseMpReg" value="0.9" />
+		<set name="basePAtk" value="16" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="95400" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="25.0" />
+		<set name="collision_radius" value="8.0" />
+		<set name="level" value="70" />
+		<set name="rewardExp" value="0" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="PvPZoneNpc" />
+		<skills>
+			<skill id="4416" level="18" />	<!--Dwarves-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+</list>

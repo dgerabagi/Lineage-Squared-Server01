@@ -1,0 +1,85 @@
+[12.12.24 15:43:00] enchants PacMan|Trying to put enchant|69|+2|268479757
+[12.12.24 15:43:25] enchants PacMan|Trying to put enchant|69|+3|268479757
+[12.12.24 15:43:31] enchants PacMan|Trying to put enchant|69|+4|268479757
+[12.12.24 15:43:39] enchants PacMan|Trying to put enchant|69|+5|268479757
+[12.12.24 15:43:45] enchants PacMan|Trying to put enchant|69|+6|268479757
+[12.12.24 15:43:50] enchants PacMan|Trying to put enchant|69|+7|268479757
+[12.12.24 15:43:55] enchants PacMan|Trying to put enchant|69|+8|268479757
+[12.12.24 15:44:00] enchants PacMan|Trying to put enchant|69|+9|268479757
+[12.12.24 15:44:05] enchants PacMan|Trying to put enchant|69|+10|268479757
+[12.12.24 15:44:10] enchants PacMan|Trying to put enchant|69|+11|268479757
+[12.12.24 15:44:15] enchants PacMan|Trying to put enchant|69|+12|268479757
+[12.12.24 15:47:12] enchants PacMan|Trying to put enchant|69|+0|268479760
+[12.12.24 15:47:22] enchants PacMan|Trying to put enchant|69|+1|268479760
+[12.12.24 15:47:27] enchants PacMan|Trying to put enchant|69|+2|268479760
+[12.12.24 15:47:31] enchants PacMan|Trying to put enchant|69|+3|268479760
+[12.12.24 15:47:35] enchants PacMan|Trying to put enchant|69|+4|268479760
+[12.12.24 15:47:39] enchants PacMan|Trying to put enchant|69|+5|268479760
+[12.12.24 16:15:43] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[12.12.24 16:15:43] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[12.12.24 16:15:43] bosses BaylorManager : Init BaylorManager.
+[12.12.24 16:16:19] enchants PacMan|Trying to put enchant|69|+0|268479759
+[12.12.24 16:16:24] enchants PacMan|Trying to put enchant|69|+1|268479759
+[12.12.24 16:16:35] enchants PacMan|Trying to put enchant|69|+2|268479759
+[12.12.24 16:16:40] enchants PacMan|Trying to put enchant|69|+3|268479759
+[12.12.24 16:16:45] enchants PacMan|Trying to put enchant|69|+4|268479759
+[12.12.24 16:16:53] enchants PacMan|Trying to put enchant|69|+0|268479759
+[12.12.24 16:16:57] enchants PacMan|Trying to put enchant|69|+1|268479759
+[12.12.24 16:17:02] enchants PacMan|Trying to put enchant|69|+2|268479759
+[12.12.24 16:17:06] enchants PacMan|Trying to put enchant|69|+3|268479759
+[12.12.24 18:42:07] enchant_skills EBASHU|Successfully enchanted|229|to+101|97
+[12.12.24 18:42:09] enchant_skills EBASHU|Successfully enchanted|229|to+102|95
+[12.12.24 18:42:11] enchant_skills EBASHU|Successfully enchanted|229|to+103|93
+[12.12.24 18:42:13] enchant_skills EBASHU|Successfully enchanted|229|to+104|91
+[12.12.24 18:42:15] enchant_skills EBASHU|Failed to enchant|229|to+105|89
+[12.12.24 18:42:18] enchant_skills EBASHU|Successfully enchanted|229|to+101|97
+[12.12.24 18:42:20] enchant_skills EBASHU|Successfully enchanted|229|to+102|95
+[12.12.24 18:42:21] enchant_skills EBASHU|Successfully enchanted|229|to+103|93
+[12.12.24 18:42:24] enchant_skills EBASHU|Successfully enchanted|229|to+104|91
+[12.12.24 18:42:26] enchant_skills EBASHU|Successfully enchanted|229|to+105|89
+[12.12.24 18:42:29] enchant_skills EBASHU|Successfully enchanted|229|to+106|87
+[12.12.24 18:42:36] enchant_skills EBASHU|Successfully enchanted|191|to+101|97
+[12.12.24 18:42:38] enchant_skills EBASHU|Successfully enchanted|191|to+102|95
+[12.12.24 18:42:40] enchant_skills EBASHU|Successfully enchanted|191|to+103|93
+[12.12.24 18:42:42] enchant_skills EBASHU|Successfully enchanted|191|to+104|91
+[12.12.24 18:42:44] enchant_skills EBASHU|Successfully enchanted|191|to+105|89
+[12.12.24 18:42:46] enchant_skills EBASHU|Successfully enchanted|191|to+106|87
+[12.12.24 18:42:50] enchant_skills EBASHU|Successfully enchanted|191|to+107|85
+[12.12.24 18:42:54] enchant_skills EBASHU|Failed to enchant|191|to+108|83
+[12.12.24 18:44:01] enchant_skills EBASHU|Successfully enchanted|191|to+101|97
+[12.12.24 18:44:03] enchant_skills EBASHU|Successfully enchanted|191|to+102|95
+[12.12.24 18:44:04] enchant_skills EBASHU|Successfully enchanted|191|to+103|93
+[12.12.24 18:44:06] enchant_skills EBASHU|Successfully enchanted|191|to+104|91
+[12.12.24 18:44:08] enchant_skills EBASHU|Successfully enchanted|191|to+105|89
+[12.12.24 18:44:09] enchant_skills EBASHU|Successfully enchanted|191|to+106|87
+[12.12.24 19:06:30] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[12.12.24 19:06:30] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[12.12.24 19:06:30] bosses BaylorManager : Init BaylorManager.
+[12.12.24 19:22:37] enchant_skills wild|Successfully enchanted|1400|to+301|97
+[12.12.24 21:26:56] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[12.12.24 21:26:56] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[12.12.24 21:26:56] bosses BaylorManager : Init BaylorManager.
+[12.12.24 21:31:48] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[12.12.24 21:31:48] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[12.12.24 21:31:48] bosses BaylorManager : Init BaylorManager.
+[12.12.24 21:41:10] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[12.12.24 21:41:10] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[12.12.24 21:41:10] bosses BaylorManager : Init BaylorManager.
+[12.12.24 21:42:38] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[12.12.24 21:42:38] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[12.12.24 21:42:38] bosses BaylorManager : Init BaylorManager.
+[12.12.24 21:47:08] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[12.12.24 21:47:08] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[12.12.24 21:47:08] bosses BaylorManager : Init BaylorManager.
+[12.12.24 22:05:27] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[12.12.24 22:05:27] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[12.12.24 22:05:27] bosses BaylorManager : Init BaylorManager.
+[12.12.24 22:13:19] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[12.12.24 22:13:19] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[12.12.24 22:13:19] bosses BaylorManager : Init BaylorManager.
+[12.12.24 22:27:07] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[12.12.24 22:27:07] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[12.12.24 22:27:07] bosses BaylorManager : Init BaylorManager.
+[12.12.24 23:05:27] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[12.12.24 23:05:27] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[12.12.24 23:05:27] bosses BaylorManager : Init BaylorManager.

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Shadai exchange soul crystall 14 lvl -->
+
+<list>
+	<config showall="true" notax="true" ignoreprice="true" keepenchanted="false" />
+	<item>
+		<!-- Ancient Tome of the Demon -->
+		<ingredient count="3000" id="9599" />
+		<!-- Dim Life Force -->
+		<ingredient count="16" id="9680" />
+		<!-- Life Force -->
+		<ingredient count="8" id="9681" />
+		<!-- Contained Life Force -->
+		<ingredient count="4" id="9682" />
+		<!-- Red Soul Crystal - Stage 12 -->
+		<ingredient count="1" id="5580" />
+		<!-- Red Soul Crystal - Stage 13 -->
+		<production count="1" id="5908" />
+	</item>
+	<item>
+		<!-- Ancient Tome of the Demon -->
+		<ingredient count="3000" id="9599" />
+		<!-- Dim Life Force -->
+		<ingredient count="16" id="9680" />
+		<!-- Life Force -->
+		<ingredient count="8" id="9681" />
+		<!-- Contained Life Force -->
+		<ingredient count="4" id="9682" />
+		<!-- Green Soul Crystal - Stage 12 -->
+		<ingredient count="1" id="5581" />
+		<!-- Green Soul Crystal - Stage 13 -->
+		<production count="1" id="5911" />
+	</item>
+	<item>
+		<!-- Ancient Tome of the Demon -->
+		<ingredient count="3000" id="9599" />
+		<!-- Dim Life Force -->
+		<ingredient count="16" id="9680" />
+		<!-- Life Force -->
+		<ingredient count="8" id="9681" />
+		<!-- Contained Life Force -->
+		<ingredient count="4" id="9682" />
+		<!-- Blue Soul Crystal - Stage 12 -->
+		<ingredient count="1" id="5582" />
+		<!-- Blue Soul Crystal - Stage 13 -->
+		<production count="1" id="5914" />
+	</item>
+	<item>
+		<!-- Ancient Tome of the Demon -->
+		<ingredient count="4000" id="9599" />
+		<!-- Dim Life Force -->
+		<ingredient count="24" id="9680" />
+		<!-- Life Force -->
+		<ingredient count="12" id="9681" />
+		<!-- Contained Life Force -->
+		<ingredient count="6" id="9682" />
+		<!-- Red Soul Crystal - Stage 13 -->
+		<ingredient count="1" id="5908" />
+		<!-- Red Soul Crystal - Stage 14 -->
+		<production count="1" id="9570" />
+	</item>
+	<item>
+		<!-- Ancient Tome of the Demon -->
+		<ingredient count="4000" id="9599" />
+		<!-- Dim Life Force -->
+		<ingredient count="24" id="9680" />
+		<!-- Life Force -->
+		<ingredient count="12" id="9681" />
+		<!-- Contained Life Force -->
+		<ingredient count="6" id="9682" />
+		<!-- Green Soul Crystal - Stage 13 -->
+		<ingredient count="1" id="5911" />
+		<!-- Green Soul Crystal - Stage 14 -->
+		<production count="1" id="9572" />
+	</item>
+	<item>
+		<!-- Ancient Tome of the Demon -->
+		<ingredient count="4000" id="9599" />
+		<!-- Dim Life Force -->
+		<ingredient count="24" id="9680" />
+		<!-- Life Force -->
+		<ingredient count="12" id="9681" />
+		<!-- Contained Life Force -->
+		<ingredient count="6" id="9682" />
+		<!-- Blue Soul Crystal - Stage 13 -->
+		<ingredient count="1" id="5914" />
+		<!-- Blue Soul Crystal - Stage 14 -->
+		<production count="1" id="9571" />
+	</item>
+	<item>
+		<!-- Ancient Tome of the Demon -->
+		<ingredient count="5000" id="9599" />
+		<!-- Dim Life Force -->
+		<ingredient count="32" id="9680" />
+		<!-- Life Force -->
+		<ingredient count="16" id="9681" />
+		<!-- Contained Life Force -->
+		<ingredient count="8" id="9682" />
+		<!-- Red Soul Crystal - Stage 14 -->
+		<ingredient count="1" id="9570" />
+		<!-- Red Soul Crystal - Stage 15 -->
+		<production count="1" id="10480" />
+	</item>
+	<item>
+		<!-- Ancient Tome of the Demon -->
+		<ingredient count="5000" id="9599" />
+		<!-- Dim Life Force -->
+		<ingredient count="32" id="9680" />
+		<!-- Life Force -->
+		<ingredient count="16" id="9681" />
+		<!-- Contained Life Force -->
+		<ingredient count="8" id="9682" />
+		<!-- Green Soul Crystal - Stage 14 -->
+		<ingredient count="1" id="9572" />
+		<!-- Green Soul Crystal - Stage 15 -->
+		<production count="1" id="10482" />
+	</item>
+	<item>
+		<!-- Ancient Tome of the Demon -->
+		<ingredient count="5000" id="9599" />
+		<!-- Dim Life Force -->
+		<ingredient count="32" id="9680" />
+		<!-- Life Force -->
+		<ingredient count="16" id="9681" />
+		<!-- Contained Life Force -->
+		<ingredient count="8" id="9682" />
+		<!-- Blue Soul Crystal - Stage 14 -->
+		<ingredient count="1" id="9571" />
+		<!-- Blue Soul Crystal - Stage 15 -->
+		<production count="1" id="10481" />
+	</item>
+</list>

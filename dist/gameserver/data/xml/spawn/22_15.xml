@@ -1,0 +1,2411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+<!--Eye of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="67549" y="-74049" z="-3692" h="0" />
+		<npc id="21520" /><!--Eye of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68304" y="-72930" z="-3704" h="0" />
+		<npc id="21520" /><!--Eye of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70276" y="-72367" z="-3765" h="0" />
+		<npc id="21520" /><!--Eye of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70751" y="-70166" z="-3794" h="0" />
+		<npc id="21520" /><!--Eye of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72752" y="-73197" z="-3767" h="0" />
+		<npc id="21520" /><!--Eye of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="71342" y="-76784" z="-3968" h="0" />
+		<npc id="21520" /><!--Eye of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72834" y="-75740" z="-3735" h="0" />
+		<npc id="21520" /><!--Eye of Splendor-->
+	</spawn>
+<!--Claws of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="74433" y="-76349" z="-3635" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69351" y="-78257" z="-3969" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="67910" y="-74998" z="-3716" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68676" y="-79538" z="-3861" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68551" y="-82303" z="-3528" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69110" y="-84024" z="-3596" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70624" y="-85866" z="-3104" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72733" y="-86885" z="-4280" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72071" y="-84291" z="-4313" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72395" y="-84202" z="-4313" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="75692" y="-87659" z="-3137" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79268" y="-84741" z="-3604" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="75804" y="-83726" z="-3608" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79979" y="-87764" z="-3562" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="75985" y="-86430" z="-3589" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78740" y="-85420" z="-3567" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78584" y="-89099" z="-3137" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79783" y="-88589" z="-3518" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79134" y="-88081" z="-3564" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81244" y="-88302" z="-3500" h="0" />
+		<npc id="21521" /><!--Claws of Splendor-->
+	</spawn>
+<!--Flash of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="66348" y="-71790" z="-3805" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="67202" y="-73030" z="-3704" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68705" y="-72001" z="-3779" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69145" y="-72299" z="-3797" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69450" y="-73350" z="-3776" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69762" y="-70794" z="-3852" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70923" y="-73002" z="-3797" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72423" y="-73593" z="-3747" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72333" y="-72716" z="-3769" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="73221" y="-76773" z="-3590" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="76346" y="-75949" z="-3618" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="75914" y="-76469" z="-3618" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="74089" y="-76566" z="-3632" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70574" y="-77730" z="-4080" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="73742" y="-74702" z="-3551" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68421" y="-75863" z="-3712" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69195" y="-75622" z="-3764" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68807" y="-80394" z="-3712" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68451" y="-81702" z="-3543" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70183" y="-83618" z="-3416" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70794" y="-84825" z="-3160" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70195" y="-87599" z="-3083" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69349" y="-87239" z="-2956" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72491" y="-84416" z="-4312" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72483" y="-83521" z="-4313" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="76456" y="-88228" z="-3137" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="75432" y="-85024" z="-3598" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="76960" y="-87475" z="-3551" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78226" y="-86578" z="-3568" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77250" y="-83878" z="-3607" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78847" y="-89065" z="-3140" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77293" y="-88618" z="-3137" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="80567" y="-87320" z="-3606" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78772" y="-82046" z="-3615" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="80480" y="-81615" z="-4037" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79158" y="-79087" z="-4037" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82539" y="-78577" z="-4037" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78230" y="-79925" z="-4037" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="80195" y="-78027" z="-4088" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77167" y="-74619" z="-3232" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79155" y="-71653" z="-3643" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81483" y="-71568" z="-3479" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82909" y="-75654" z="-4385" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84494" y="-75761" z="-3479" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84085" y="-75967" z="-3479" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85989" y="-74371" z="-3515" h="0" />
+		<npc id="21523" /><!--Flash of Splendor-->
+	</spawn>
+<!--Blade of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="66893" y="-72224" z="-3784" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70463" y="-72872" z="-3791" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70580" y="-73301" z="-3785" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68909" y="-75437" z="-3768" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69927" y="-72546" z="-3793" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="73057" y="-74884" z="-3660" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="73453" y="-76024" z="-3680" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="71957" y="-74123" z="-3722" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="71812" y="-75587" z="-3808" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="76145" y="-76751" z="-3617" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="74480" y="-75883" z="-3627" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68499" y="-78543" z="-3907" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69244" y="-77215" z="-3908" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68945" y="-76535" z="-3777" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68394" y="-78901" z="-3907" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68962" y="-82404" z="-3549" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69412" y="-83846" z="-3596" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70651" y="-86556" z="-3160" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70719" y="-87190" z="-3137" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69071" y="-86970" z="-2943" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72766" y="-85664" z="-4244" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72444" y="-84263" z="-4314" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72298" y="-83681" z="-4313" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="75092" y="-86989" z="-3177" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="75548" y="-85812" z="-3586" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="74572" y="-82962" z="-3528" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78812" y="-87496" z="-3621" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77228" y="-86076" z="-3608" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77576" y="-87812" z="-3668" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79232" y="-86615" z="-3620" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79673" y="-87196" z="-3626" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79408" y="-85646" z="-3602" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="80449" y="-86638" z="-3612" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79867" y="-86337" z="-3611" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79150" y="-81101" z="-4037" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="80471" y="-78819" z="-4037" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81620" y="-80861" z="-4100" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78862" y="-79487" z="-4037" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79695" y="-80220" z="-4037" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78973" y="-78153" z="-4037" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78420" y="-74854" z="-3312" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77167" y="-74263" z="-3232" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82531" y="-71404" z="-3462" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84047" y="-72312" z="-3501" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85018" y="-74219" z="-3563" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85972" y="-74740" z="-3479" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="86778" y="-73839" z="-3608" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="87088" y="-72925" z="-3661" h="0" />
+		<npc id="21524" /><!--Blade of Splendor-->
+	</spawn>
+<!--Wisdom of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68118" y="-74196" z="-3728" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69322" y="-72559" z="-3800" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69692" y="-72026" z="-3776" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69762" y="-70438" z="-3852" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="74442" y="-74631" z="-3421" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72730" y="-73972" z="-3715" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="71826" y="-75117" z="-3763" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="75565" y="-76173" z="-3618" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="74772" y="-75310" z="-3619" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69315" y="-78836" z="-3948" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69432" y="-77833" z="-3974" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69249" y="-76119" z="-3728" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68578" y="-75226" z="-3711" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="68472" y="-81011" z="-3603" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77879" y="-81381" z="-3614" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78702" y="-80663" z="-4037" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81962" y="-79405" z="-4037" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="80205" y="-80002" z="-4037" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79856" y="-76621" z="-3995" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79580" y="-75730" z="-3737" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79080" y="-75121" z="-3552" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77368" y="-74619" z="-3232" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79256" y="-71831" z="-3643" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82320" y="-73117" z="-4465" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84596" y="-73153" z="-3574" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="83982" y="-75638" z="-3480" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="87287" y="-74013" z="-3576" h="0" />
+		<npc id="21526" /><!--Wisdom of Splendor-->
+	</spawn>
+<!--Fury of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77202" y="-80628" z="-3614" h="0" />
+		<npc id="21527" /><!--Fury of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79901" y="-80931" z="-4037" h="0" />
+		<npc id="21527" /><!--Fury of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81224" y="-80714" z="-4037" h="0" />
+		<npc id="21527" /><!--Fury of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81218" y="-79793" z="-4100" h="0" />
+		<npc id="21527" /><!--Fury of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81459" y="-78871" z="-4037" h="0" />
+		<npc id="21527" /><!--Fury of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82431" y="-77088" z="-4055" h="0" />
+		<npc id="21527" /><!--Fury of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78705" y="-75105" z="-3687" h="0" />
+		<npc id="21527" /><!--Fury of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79457" y="-71831" z="-3643" h="0" />
+		<npc id="21527" /><!--Fury of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81707" y="-72516" z="-3599" h="0" />
+		<npc id="21527" /><!--Fury of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85219" y="-73662" z="-3599" h="0" />
+		<npc id="21527" /><!--Fury of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85405" y="-74554" z="-3544" h="0" />
+		<npc id="21527" /><!--Fury of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84980" y="-74958" z="-3499" h="0" />
+		<npc id="21527" /><!--Fury of Splendor-->
+	</spawn>
+<!--Soul of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69445" y="-82978" z="-3514" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70791" y="-87686" z="-3120" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="69776" y="-87425" z="-3031" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="73410" y="-84358" z="-3712" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72263" y="-83298" z="-4313" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="74459" y="-85616" z="-3384" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="76635" y="-85554" z="-3610" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="76433" y="-85910" z="-3610" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78131" y="-85232" z="-3587" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="76431" y="-86830" z="-3602" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77576" y="-87456" z="-3668" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="76937" y="-88523" z="-3137" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="80229" y="-89055" z="-3518" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79926" y="-88783" z="-3520" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81968" y="-88044" z="-3487" h="0" />
+		<npc id="21529" /><!--Soul of Splendor-->
+	</spawn>
+<!--Victory of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82538" y="-87160" z="-3671" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81909" y="-86277" z="-3608" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84295" y="-85506" z="-3677" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="87606" y="-85436" z="-3573" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="87437" y="-84586" z="-3680" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="83594" y="-83744" z="-3557" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82935" y="-83753" z="-3608" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="83298" y="-82896" z="-3608" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="89532" y="-75212" z="-3705" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="88113" y="-73031" z="-3692" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="91376" y="-78897" z="-3750" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="89136" y="-76862" z="-3832" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="91194" y="-83729" z="-2764" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="91573" y="-82317" z="-2759" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72686" y="-91079" z="-2187" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="73775" y="-90642" z="-2152" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70829" y="-89312" z="-2337" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="75618" y="-93267" z="-1608" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="76177" y="-91761" z="-3309" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="74831" y="-91690" z="-1992" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77941" y="-93407" z="-3155" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77154" y="-92151" z="-3400" h="0" />
+		<npc id="21530" /><!--Victory of Splendor-->
+	</spawn>
+<!--Punishment of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82183" y="-86050" z="-3607" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81186" y="-86826" z="-3591" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82913" y="-84560" z="-3559" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82267" y="-83450" z="-3608" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85508" y="-85044" z="-3578" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="86455" y="-85004" z="-3741" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="88479" y="-84051" z="-3594" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="86898" y="-83489" z="-3680" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="83534" y="-82927" z="-3759" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85224" y="-84050" z="-3589" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82731" y="-83037" z="-3608" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="83750" y="-81402" z="-3588" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="89098" y="-72796" z="-3597" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="90257" y="-77869" z="-3805" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="90511" y="-77070" z="-3830" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="92129" y="-80333" z="-3707" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="91452" y="-83166" z="-2707" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70536" y="-90494" z="-1944" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72155" y="-90729" z="-2252" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77790" y="-91872" z="-3374" h="0" />
+		<npc id="21531" /><!--Punishment of Splendor-->
+	</spawn>
+<!--Shout of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84741" y="-86179" z="-2868" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82411" y="-83952" z="-3608" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81607" y="-84573" z="-3649" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="83558" y="-84774" z="-3487" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="87824" y="-79773" z="-3707" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="88349" y="-84420" z="-3513" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85752" y="-85538" z="-3741" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84238" y="-82393" z="-3759" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85191" y="-81946" z="-3558" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="83735" y="-81963" z="-3603" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84339" y="-82927" z="-3759" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="91049" y="-74267" z="-3632" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="90382" y="-76083" z="-3801" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="89649" y="-78120" z="-3794" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="91822" y="-79536" z="-3707" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="91899" y="-83783" z="-2760" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="92774" y="-82766" z="-2742" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70217" y="-89688" z="-2184" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="73237" y="-90978" z="-2117" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="71293" y="-89973" z="-2291" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77179" y="-91240" z="-3248" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77272" y="-92945" z="-3394" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79101" y="-93201" z="-3190" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="77242" y="-93561" z="-3335" h="0" />
+		<npc id="21532" /><!--Shout of Splendor-->
+	</spawn>
+<!--Alliance of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82687" y="-86577" z="-3512" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="83571" y="-86153" z="-3170" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81507" y="-84751" z="-3649" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82325" y="-84883" z="-3605" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84497" y="-84794" z="-3677" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="86799" y="-82199" z="-3706" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85953" y="-85538" z="-3741" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="86320" y="-83471" z="-3680" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="83621" y="-84377" z="-3445" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84510" y="-81161" z="-3525" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="83116" y="-82203" z="-3608" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="90053" y="-74083" z="-3672" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="88992" y="-74846" z="-3758" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="88102" y="-76991" z="-3767" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="89073" y="-78729" z="-3827" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="91173" y="-78321" z="-3798" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="93341" y="-80958" z="-2830" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="92768" y="-81638" z="-2767" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="72616" y="-90205" z="-2245" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="71761" y="-90240" z="-2262" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="70502" y="-88647" z="-2445" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="76407" y="-93411" z="-3356" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="76906" y="-92821" z="-3400" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="78667" y="-92202" z="-3239" h="0" />
+		<npc id="21533" /><!--Alliance of Splendor-->
+	</spawn>
+<!--Signet of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="80812" y="-92930" z="-3129" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81196" y="-91793" z="-3118" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81728" y="-92285" z="-3137" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85650" y="-89150" z="-2759" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84347" y="-90174" z="-2760" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84800" y="-91528" z="-2759" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85038" y="-90007" z="-2714" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="87505" y="-89876" z="-3092" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="89949" y="-90836" z="-2750" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="89139" y="-91704" z="-2785" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="91193" y="-92369" z="-2764" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="93451" y="-91774" z="-2758" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="96098" y="-90190" z="-2781" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="95398" y="-90850" z="-2802" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="95941" y="-88969" z="-2834" h="0" />
+		<npc id="21535" /><!--Signet of Splendor-->
+	</spawn>
+<!--Crown of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="80748" y="-92375" z="-3117" h="0" />
+		<npc id="21536" /><!--Crown of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82751" y="-90950" z="-2958" h="0" />
+		<npc id="21536" /><!--Crown of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="83554" y="-89739" z="-2759" h="0" />
+		<npc id="21536" /><!--Crown of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85813" y="-90123" z="-2759" h="0" />
+		<npc id="21536" /><!--Crown of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="86767" y="-88858" z="-2756" h="0" />
+		<npc id="21536" /><!--Crown of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="88867" y="-91875" z="-2843" h="0" />
+		<npc id="21536" /><!--Crown of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="91388" y="-91037" z="-2794" h="0" />
+		<npc id="21536" /><!--Crown of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="92630" y="-91285" z="-2787" h="0" />
+		<npc id="21536" /><!--Crown of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="96617" y="-90446" z="-2795" h="0" />
+		<npc id="21536" /><!--Crown of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="95534" y="-90254" z="-2799" h="0" />
+		<npc id="21536" /><!--Crown of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="95739" y="-88613" z="-2834" h="0" />
+		<npc id="21536" /><!--Crown of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="95419" y="-86785" z="-2797" h="0" />
+		<npc id="21536" /><!--Crown of Splendor-->
+	</spawn>
+<!--Fang of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="80463" y="-91519" z="-3108" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79607" y="-92824" z="-3125" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="81106" y="-90944" z="-3133" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82878" y="-92158" z="-3114" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84748" y="-89496" z="-2729" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="83528" y="-89125" z="-2759" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84785" y="-90473" z="-2738" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="86202" y="-90753" z="-2760" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85199" y="-90752" z="-2897" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="87448" y="-89137" z="-2718" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="89472" y="-91875" z="-2843" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="89069" y="-92231" z="-2843" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="90517" y="-91964" z="-2767" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="92518" y="-90400" z="-2800" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="95891" y="-91346" z="-2846" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="96076" y="-89431" z="-2799" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="95326" y="-86113" z="-2795" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="95751" y="-87185" z="-2797" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="95444" y="-86898" z="-2894" h="0" />
+		<npc id="21537" /><!--Fang of Splendor-->
+	</spawn>
+<!--Wailing of Splendor-->
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="79776" y="-91725" z="-3135" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82283" y="-92294" z="-3144" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="82085" y="-91127" z="-3083" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84273" y="-91110" z="-2870" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="84418" y="-91546" z="-2804" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="85342" y="-89574" z="-2739" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="86089" y="-88906" z="-2758" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="90576" y="-90749" z="-2811" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="92712" y="-92235" z="-2842" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="91903" y="-91646" z="-2803" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="96013" y="-88120" z="-2795" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="97029" y="-89687" z="-2795" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="96444" y="-89147" z="-2834" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="48" respawn_random="0" period_of_day="none">
+		<point x="95746" y="-86720" z="-2894" h="0" />
+		<npc id="21539" /><!--Wailing of Splendor-->
+	</spawn>
+<!--Pilgrim of Splendor-->
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="71901" y="-84180" z="-3712" h="0" />
+		<npc id="21541" /><!--Pilgrim of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="75963" y="-85019" z="-3610" h="0" />
+		<npc id="21541" /><!--Pilgrim of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="79339" y="-89542" z="-3141" h="0" />
+		<npc id="21541" /><!--Pilgrim of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="80138" y="-82448" z="-3649" h="0" />
+		<npc id="21541" /><!--Pilgrim of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="79527" y="-77818" z="-4037" h="0" />
+		<npc id="21541" /><!--Pilgrim of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="79716" y="-79024" z="-4099" h="0" />
+		<npc id="21541" /><!--Pilgrim of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="80632" y="-76414" z="-4022" h="0" />
+		<npc id="21541" /><!--Pilgrim of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="77395" y="-85216" z="-3608" h="0" />
+		<npc id="21541" /><!--Pilgrim of Splendor-->
+	</spawn>
+<!--Judge of Splendor-->
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="87304" y="-80544" z="-3698" h="0" />
+		<npc id="21544" /><!--Judge of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="84425" y="-80176" z="-3536" h="0" />
+		<npc id="21544" /><!--Judge of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="90918" y="-79271" z="-3742" h="0" />
+		<npc id="21544" /><!--Judge of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="73400" y="-91032" z="-2096" h="0" />
+		<npc id="21544" /><!--Judge of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="75857" y="-92396" z="-3390" h="0" />
+		<npc id="21544" /><!--Judge of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="78099" y="-92704" z="-3463" h="0" />
+		<npc id="21544" /><!--Judge of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="89572" y="-91697" z="-2843" h="0" />
+		<npc id="21544" /><!--Judge of Splendor-->
+	</spawn>
+	<spawn count="1" respawn="100" respawn_random="0" period_of_day="none">
+		<point x="94909" y="-90335" z="-2799" h="0" />
+		<npc id="21544" /><!--Judge of Splendor-->
+	</spawn>
+	<spawn count="10" respawn="360" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93079" y="-88818" zmin="-3856" zmax="-3656" />
+			<add x="94030" y="-89133" zmin="-3856" zmax="-3656" />
+			<add x="94548" y="-88736" zmin="-3856" zmax="-3656" />
+			<add x="94124" y="-87720" zmin="-3856" zmax="-3656" />
+		</territory>
+		<npc id="27214" /><!--Guardian of Forbidden Knowledge-->
+	</spawn>
+	<spawn count="10" respawn="360" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79556" y="-73656" zmin="-4497" zmax="-4397" />
+			<add x="80256" y="-73936" zmin="-4464" zmax="-4364" />
+			<add x="80512" y="-73451" zmin="-4495" zmax="-4395" />
+			<add x="80053" y="-72882" zmin="-4494" zmax="-4394" />
+			<add x="79218" y="-72808" zmin="-4464" zmax="-4364" />
+		</territory>
+		<npc id="27215" /><!--Guardian of Forbidden Knowledge-->
+	</spawn>
+	<spawn count="10" respawn="360" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71781" y="-82891" zmin="-4337" zmax="-4237" />
+			<add x="71972" y="-83882" zmin="-4341" zmax="-4241" />
+			<add x="72748" y="-83666" zmin="-4341" zmax="-4241" />
+			<add x="72383" y="-82716" zmin="-4332" zmax="-4232" />
+		</territory>
+		<npc id="27216" /><!--Guardian of Forbidden Knowledge-->
+	</spawn>
+	<spawn count="4" respawn="360" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86108" y="-76340" zmin="-3524" zmax="-3324" />
+			<add x="86108" y="-76140" zmin="-3524" zmax="-3324" />
+			<add x="86308" y="-76140" zmin="-3524" zmax="-3324" />
+			<add x="86308" y="-76340" zmin="-3524" zmax="-3324" />
+		</territory>
+		<npc id="27317" /><!--Restrainer of Glory-->
+	</spawn>
+	<spawn count="2" respawn="360" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87052" y="-75716" zmin="-3584" zmax="-3384" />
+			<add x="87052" y="-75516" zmin="-3584" zmax="-3384" />
+			<add x="87252" y="-75516" zmin="-3584" zmax="-3384" />
+			<add x="87252" y="-75716" zmin="-3584" zmax="-3384" />
+		</territory>
+		<npc id="27317" /><!--Restrainer of Glory-->
+	</spawn>
+	<spawn count="2" respawn="360" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86700" y="-75316" zmin="-3584" zmax="-3384" />
+			<add x="86700" y="-75116" zmin="-3584" zmax="-3384" />
+			<add x="86900" y="-75116" zmin="-3584" zmax="-3384" />
+			<add x="86900" y="-75316" zmin="-3584" zmax="-3384" />
+		</territory>
+		<npc id="27317" /><!--Restrainer of Glory-->
+	</spawn>
+	<spawn count="1" respawn="43200" respawn_random="3600" period_of_day="none">
+		<territory>
+			<add x="92820" y="-75188" zmin="-1984" zmax="-1384" />
+			<add x="93276" y="-75632" zmin="-1984" zmax="-1384" />
+			<add x="93936" y="-75024" zmin="-1984" zmax="-1384" />
+			<add x="93312" y="-74616" zmin="-1984" zmax="-1384" />
+		</territory>
+		<npc id="25322" /><!--Demon's Agent Falston-->
+	</spawn>
+	<spawn count="1" respawn="43200" respawn_random="3600" period_of_day="none">
+		<territory>
+			<add x="89920" y="-86548" zmin="-2800" zmax="-2200" />
+			<add x="90516" y="-84784" zmin="-2800" zmax="-2200" />
+			<add x="92124" y="-85512" zmin="-2800" zmax="-2200" />
+			<add x="91532" y="-86872" zmin="-2800" zmax="-2200" />
+		</territory>
+		<npc id="25325" /><!--Flame of Splendor Barakiel-->
+	</spawn>
+	<!--[121] monastic_fortress-->
+	<spawn group="monastic_fortress_peace_merchant" count="1" respawn="15000" respawn_random="0" period_of_day="none">
+		<point x="70364" y="-90484" z="-1918" h="0" />
+		<npc id="36356" /><!--Suspicious Merchant-->
+	</spawn>
+	<spawn group="monastic_fortress_peace_commanders" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="70189" y="-93935" z="-1399" h="-3960" />
+		<npc id="36357" /><!--Guard Captain-->
+	</spawn>
+	<spawn group="monastic_fortress_peace_commanders" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="73680" y="-95456" z="-1152" h="0" />
+		<npc id="36358" /><!--Archer Captain-->
+	</spawn>
+	<spawn group="monastic_fortress_peace_commanders" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="73831" y="-94119" z="-1401" h="-20000" />
+		<npc id="36360" /><!--Support Unit Captain-->
+	</spawn>
+	<spawn group="monastic_fortress_siege_commanders" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70189" y="-93935" z="-1399" h="-3960" />
+		<npc id="36379" /><!--Guard Captain-->
+	</spawn>
+	<spawn group="monastic_fortress_siege_commanders" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73831" y="-94119" z="-1401" h="-20000" />
+		<npc id="36382" /><!--Support Unit Captain-->
+	</spawn>
+	<spawn group="monastic_fortress_siege_commanders" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73680" y="-95456" z="-1152" h="0" />
+		<npc id="36385" /><!--Archer Captain-->
+	</spawn>
+	<spawn group="monastic_fortress_mercenary" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70356" y="-92000" z="-1443" h="-3816" />
+		<npc id="36390" /><!--Mercenary Captain-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="71758" y="-92864" z="-1431" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="71854" y="-92902" z="-1430" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="71822" y="-92889" z="-1431" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="71790" y="-92876" z="-1431" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="72530" y="-96537" z="-1431" h="-20664" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="72499" y="-96524" z="-1431" h="-20664" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="72466" y="-96510" z="-1431" h="-20664" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="72435" y="-96496" z="-1431" h="-20664" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="72353" y="-94169" z="-1431" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="72387" y="-94182" z="-1428" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="72423" y="-94197" z="-1428" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="72458" y="-94212" z="-1431" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="71977" y="-95361" z="-1431" h="-20664" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="71945" y="-95348" z="-1431" h="-20664" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="71912" y="-95334" z="-1428" h="-20664" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="71880" y="-95321" z="-1431" h="-20664" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72816" y="-93280" z="-1050" h="12304" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72848" y="-93296" z="-1050" h="12304" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73616" y="-93616" z="-1050" h="12304" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73584" y="-93600" z="-1050" h="12304" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71104" y="-92576" z="-1050" h="12304" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71072" y="-92560" z="-1050" h="12304" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="69904" y="-93321" z="-1050" h="28820" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="69888" y="-93360" z="-1050" h="28820" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="69536" y="-94224" z="-1050" h="28820" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="69520" y="-94256" z="-1050" h="28820" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="69472" y="-94736" z="-1054" h="-29120" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="69488" y="-94768" z="-1054" h="-29120" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70096" y="-95536" z="-1050" h="-20652" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70048" y="-95520" z="-1050" h="-20652" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70832" y="-95840" z="-1050" h="-20652" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70864" y="-95856" z="-1050" h="-20652" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71600" y="-96160" z="-1050" h="-20652" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71632" y="-96176" z="-1050" h="-20652" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73184" y="-96816" z="-1050" h="-20652" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73216" y="-96832" z="-1050" h="-20652" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73984" y="-96624" z="-1054" h="-12128" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="74016" y="-96608" z="-1054" h="-12128" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="74368" y="-96080" z="-1050" h="-4180" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="74384" y="-96048" z="-1050" h="-4180" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="74752" y="-95184" z="-1050" h="-4180" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="74768" y="-95152" z="-1050" h="-4180" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71825" y="-93586" z="-1431" h="17048" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71807" y="-93632" z="-1431" h="17048" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71849" y="-93629" z="-1431" h="17048" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71893" y="-93625" z="-1431" h="17048" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71765" y="-93634" z="-1431" h="17048" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72548" y="-95982" z="-1431" h="-17128" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72592" y="-95984" z="-1431" h="-17128" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72635" y="-95986" z="-1431" h="-17128" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72679" y="-95988" z="-1431" h="-17128" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72612" y="-96024" z="-1431" h="-17128" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71327" y="-94354" z="-1431" h="0" />
+		<npc id="36389" /><!--Ballista-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72939" y="-95085" z="-1431" h="0" />
+		<npc id="36389" /><!--Ballista-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="74346" y="-95685" z="-1431" h="0" />
+		<npc id="36389" /><!--Ballista-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="69741" y="-94242" z="-1430" h="0" />
+		<npc id="36389" /><!--Ballista-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72112" y="-93248" z="-985" h="29160" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72099" y="-93280" z="-985" h="29160" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72124" y="-93215" z="-985" h="29160" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72138" y="-93256" z="-985" h="29160" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71360" y="-92944" z="-985" h="-4112" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71372" y="-92913" z="-985" h="-4112" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71348" y="-92973" z="-985" h="-4112" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71331" y="-92932" z="-985" h="-4112" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72213" y="-96166" z="-985" h="-4464" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72225" y="-96137" z="-985" h="-4464" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72199" y="-96196" z="-985" h="-4464" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72186" y="-96154" z="-985" h="-4464" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72942" y="-96468" z="-985" h="28696" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72929" y="-96499" z="-985" h="28696" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72955" y="-96437" z="-985" h="28696" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72975" y="-96481" z="-985" h="28696" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72286" y="-93604" z="-1075" h="12248" />
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72259" y="-93593" z="-1075" h="12248" />
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72297" y="-93580" z="-1075" h="12248" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72268" y="-93569" z="-1075" h="12248" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72084" y="-93067" z="-1252" h="-20432" />
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72112" y="-93079" z="-1252" h="-20432" />
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72073" y="-93091" z="-1252" h="-20432" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72101" y="-93103" z="-1252" h="-20432" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70996" y="-93070" z="-1075" h="12600" />
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71025" y="-93081" z="-1075" h="12600" />
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71006" y="-93045" z="-1075" h="12600" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71035" y="-93057" z="-1075" h="12600" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71516" y="-92837" z="-1252" h="-19936" />
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71489" y="-92828" z="-1252" h="-19936" />
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71507" y="-92862" z="-1252" h="-19936" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71480" y="-92852" z="-1252" h="-19936" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72032" y="-95812" z="-1075" h="-20200" />
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72064" y="-95826" z="-1075" h="-20200" />
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72019" y="-95844" z="-1075" h="-20200" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72052" y="-95858" z="-1075" h="-20200" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72207" y="-96327" z="-1252" h="12200" />
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72236" y="-96339" z="-1252" h="12200" />
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72218" y="-96300" z="-1252" h="12200" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72246" y="-96313" z="-1252" h="12200" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73315" y="-96341" z="-1075" h="-20688" />
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73286" y="-96329" z="-1075" h="-20688" />
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73305" y="-96364" z="-1075" h="-20688" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73277" y="-96353" z="-1075" h="-20688" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72824" y="-96582" z="-1252" h="12304" />
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72796" y="-96571" z="-1252" h="12304" />
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72834" y="-96557" z="-1252" h="12304" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72806" y="-96547" z="-1252" h="12304" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73717" y="-94018" z="-1401" h="-7356" />
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73556" y="-94135" z="-1401" h="1184" />
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73623" y="-94208" z="-1401" h="4688" />
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73647" y="-94295" z="-1401" h="8212" />
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73813" y="-94313" z="-1401" h="15520" />
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73987" y="-94125" z="-1401" h="-31512" />
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73517" y="-95650" z="-1248" h="12456" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73549" y="-95662" z="-1247" h="12456" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73801" y="-95215" z="-1248" h="-20664" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73834" y="-95229" z="-1248" h="-20664" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73664" y="-95440" z="-1354" h="0" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73415" y="-95576" z="-1354" h="-20664" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73373" y="-95502" z="-1354" h="28812" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73496" y="-95194" z="-1354" h="28812" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73587" y="-95156" z="-1354" h="12456" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73937" y="-95304" z="-1354" h="12456" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73979" y="-95392" z="-1352" h="-4132" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73855" y="-95686" z="-1352" h="-4132" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="73770" y="-95720" z="-1354" h="-20664" />
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70238" y="-93955" z="-1399" h="28812" />
+		<npc id="36380" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70252" y="-93922" z="-1399" h="28812" />
+		<npc id="36380" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70225" y="-93988" z="-1398" h="28812" />
+		<npc id="36380" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70210" y="-94023" z="-1399" h="28812" />
+		<npc id="36380" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70266" y="-93889" z="-1399" h="28812" />
+		<npc id="36380" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70302" y="-93903" z="-1399" h="28812" />
+		<npc id="36381" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70290" y="-93936" z="-1399" h="28812" />
+		<npc id="36381" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70276" y="-93970" z="-1399" h="28812" />
+		<npc id="36381" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70263" y="-94003" z="-1399" h="28812" />
+		<npc id="36381" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="70249" y="-94036" z="-1399" h="28812" />
+		<npc id="36381" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72195" y="-94701" z="-506" h="12456" />
+		<npc id="36368" /><!--Rebel Commander-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72154" y="-94653" z="-506" h="12456" />
+		<npc id="36369" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72187" y="-94666" z="-505" h="12456" />
+		<npc id="36369" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72221" y="-94679" z="-505" h="12456" />
+		<npc id="36369" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72254" y="-94692" z="-506" h="12456" />
+		<npc id="36369" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72084" y="-94844" z="-506" h="-20384" />
+		<npc id="36369" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72115" y="-94856" z="-506" h="-20384" />
+		<npc id="36369" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72146" y="-94868" z="-506" h="-20384" />
+		<npc id="36369" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72177" y="-94880" z="-506" h="-20384" />
+		<npc id="36369" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72300" y="-94506" z="-536" h="12456" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72333" y="-94519" z="-536" h="12456" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72365" y="-94532" z="-536" h="12456" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72397" y="-94544" z="-536" h="12456" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72429" y="-94556" z="-536" h="12456" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72461" y="-94568" z="-536" h="12456" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72493" y="-94582" z="-536" h="12456" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72525" y="-94594" z="-536" h="12456" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71743" y="-94208" z="-1061" h="28812" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71757" y="-94176" z="-1060" h="28812" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71771" y="-94143" z="-1060" h="28812" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72342" y="-95265" z="-716" h="28812" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72330" y="-95294" z="-716" h="28812" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72354" y="-95235" z="-716" h="28812" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71614" y="-94904" z="-912" h="12272" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71585" y="-94892" z="-911" h="12272" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71555" y="-94880" z="-911" h="12272" />
+		<npc id="36370" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72154" y="-94653" z="-506" h="12456" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72187" y="-94666" z="-505" h="12456" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72221" y="-94679" z="-505" h="12456" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72254" y="-94692" z="-506" h="12456" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72084" y="-94844" z="-506" h="-20384" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72115" y="-94856" z="-506" h="-20384" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72146" y="-94868" z="-506" h="-20384" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72177" y="-94880" z="-506" h="-20384" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72300" y="-94506" z="-536" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72333" y="-94519" z="-536" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72365" y="-94532" z="-536" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72397" y="-94544" z="-536" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72429" y="-94556" z="-536" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72461" y="-94568" z="-536" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72493" y="-94582" z="-536" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="72525" y="-94594" z="-536" h="12456" />
+		<npc id="36371" /><!--Court Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71769" y="-93698" z="-1431" h="17048" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71812" y="-93695" z="-1431" h="17048" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71853" y="-93694" z="-1431" h="17048" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="71897" y="-93691" z="-1431" h="17048" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72552" y="-95917" z="-1431" h="-17128" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72596" y="-95919" z="-1431" h="-17128" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72639" y="-95922" z="-1431" h="-17128" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72684" y="-95924" z="-1431" h="-17128" />
+		<npc id="36372" /><!--Guard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b1]-->
+			<add x="71241" y="-94442" zmin="-1480" zmax="-1280" />
+			<add x="71567" y="-94038" zmin="-1480" zmax="-1280" />
+			<add x="71277" y="-93257" zmin="-1480" zmax="-1280" />
+			<add x="70887" y="-93093" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b1]-->
+			<add x="71241" y="-94442" zmin="-1480" zmax="-1280" />
+			<add x="71567" y="-94038" zmin="-1480" zmax="-1280" />
+			<add x="71277" y="-93257" zmin="-1480" zmax="-1280" />
+			<add x="70887" y="-93093" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b1]-->
+			<add x="71241" y="-94442" zmin="-1480" zmax="-1280" />
+			<add x="71567" y="-94038" zmin="-1480" zmax="-1280" />
+			<add x="71277" y="-93257" zmin="-1480" zmax="-1280" />
+			<add x="70887" y="-93093" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b2]-->
+			<add x="73182" y="-95066" zmin="-1480" zmax="-1280" />
+			<add x="73422" y="-94986" zmin="-1480" zmax="-1280" />
+			<add x="73236" y="-93671" zmin="-1480" zmax="-1280" />
+			<add x="72957" y="-93684" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b2]-->
+			<add x="73182" y="-95066" zmin="-1480" zmax="-1280" />
+			<add x="73422" y="-94986" zmin="-1480" zmax="-1280" />
+			<add x="73236" y="-93671" zmin="-1480" zmax="-1280" />
+			<add x="72957" y="-93684" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b2]-->
+			<add x="73182" y="-95066" zmin="-1480" zmax="-1280" />
+			<add x="73422" y="-94986" zmin="-1480" zmax="-1280" />
+			<add x="73236" y="-93671" zmin="-1480" zmax="-1280" />
+			<add x="72957" y="-93684" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b3]-->
+			<add x="71812" y="-96016" zmin="-1480" zmax="-1280" />
+			<add x="71292" y="-95127" zmin="-1480" zmax="-1280" />
+			<add x="71088" y="-94447" zmin="-1480" zmax="-1280" />
+			<add x="70047" y="-94843" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b3]-->
+			<add x="71812" y="-96016" zmin="-1480" zmax="-1280" />
+			<add x="71292" y="-95127" zmin="-1480" zmax="-1280" />
+			<add x="71088" y="-94447" zmin="-1480" zmax="-1280" />
+			<add x="70047" y="-94843" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b3]-->
+			<add x="71812" y="-96016" zmin="-1480" zmax="-1280" />
+			<add x="71292" y="-95127" zmin="-1480" zmax="-1280" />
+			<add x="71088" y="-94447" zmin="-1480" zmax="-1280" />
+			<add x="70047" y="-94843" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b4]-->
+			<add x="72915" y="-96050" zmin="-1480" zmax="-1280" />
+			<add x="73847" y="-96564" zmin="-1480" zmax="-1280" />
+			<add x="74038" y="-96038" zmin="-1480" zmax="-1280" />
+			<add x="72748" y="-95525" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b4]-->
+			<add x="72915" y="-96050" zmin="-1480" zmax="-1280" />
+			<add x="73847" y="-96564" zmin="-1480" zmax="-1280" />
+			<add x="74038" y="-96038" zmin="-1480" zmax="-1280" />
+			<add x="72748" y="-95525" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b4]-->
+			<add x="72915" y="-96050" zmin="-1480" zmax="-1280" />
+			<add x="73847" y="-96564" zmin="-1480" zmax="-1280" />
+			<add x="74038" y="-96038" zmin="-1480" zmax="-1280" />
+			<add x="72748" y="-95525" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b5]-->
+			<add x="73527" y="-94943" zmin="-1480" zmax="-1280" />
+			<add x="74308" y="-95074" zmin="-1480" zmax="-1280" />
+			<add x="74474" y="-94751" zmin="-1480" zmax="-1280" />
+			<add x="73432" y="-94506" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36386" /><!--Archer-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b5]-->
+			<add x="73527" y="-94943" zmin="-1480" zmax="-1280" />
+			<add x="74308" y="-95074" zmin="-1480" zmax="-1280" />
+			<add x="74474" y="-94751" zmin="-1480" zmax="-1280" />
+			<add x="73432" y="-94506" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36383" /><!--Wizard-->
+	</spawn>
+	<spawn group="monastic_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_reinforce_b5]-->
+			<add x="73527" y="-94943" zmin="-1480" zmax="-1280" />
+			<add x="74308" y="-95074" zmin="-1480" zmax="-1280" />
+			<add x="74474" y="-94751" zmin="-1480" zmax="-1280" />
+			<add x="73432" y="-94506" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36384" /><!--Healer-->
+	</spawn>
+	<spawn group="monastic_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_gunner1]-->
+			<add x="71241" y="-94442" zmin="-1480" zmax="-1280" />
+			<add x="71567" y="-94038" zmin="-1480" zmax="-1280" />
+			<add x="71277" y="-93257" zmin="-1480" zmax="-1280" />
+			<add x="70887" y="-93093" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36377" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="monastic_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_gunner2]-->
+			<add x="73182" y="-95066" zmin="-1480" zmax="-1280" />
+			<add x="73422" y="-94986" zmin="-1480" zmax="-1280" />
+			<add x="73236" y="-93671" zmin="-1480" zmax="-1280" />
+			<add x="72957" y="-93684" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36377" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="monastic_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_gunner3]-->
+			<add x="71812" y="-96016" zmin="-1480" zmax="-1280" />
+			<add x="71292" y="-95127" zmin="-1480" zmax="-1280" />
+			<add x="71088" y="-94447" zmin="-1480" zmax="-1280" />
+			<add x="70047" y="-94843" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36377" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="monastic_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_gunner4]-->
+			<add x="72915" y="-96050" zmin="-1480" zmax="-1280" />
+			<add x="73847" y="-96564" zmin="-1480" zmax="-1280" />
+			<add x="74038" y="-96038" zmin="-1480" zmax="-1280" />
+			<add x="72748" y="-95525" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36377" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="monastic_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory><!--[fort121_2215_gunner5]-->
+			<add x="73527" y="-94943" zmin="-1480" zmax="-1280" />
+			<add x="74308" y="-95074" zmin="-1480" zmax="-1280" />
+			<add x="74474" y="-94751" zmin="-1480" zmax="-1280" />
+			<add x="73432" y="-94506" zmin="-1480" zmax="-1280" />
+		</territory>
+		<npc id="36377" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="monastic_fortress_envoy" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72358" y="-94360" z="-1272" h="12456" />
+		<npc id="36454" /><!--Special Envoy-->
+	</spawn>
+	<spawn group="monastic_fortress_envoy" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="72324" y="-94346" z="-1272" h="12456" />
+		<npc id="36455" /><!--Special Envoy-->
+	</spawn>
+</list>

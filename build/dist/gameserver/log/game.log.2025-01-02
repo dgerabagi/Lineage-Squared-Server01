@@ -1,0 +1,171 @@
+[02.01.25 08:22:59] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[02.01.25 08:22:59] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[02.01.25 08:22:59] bosses BaylorManager : Init BaylorManager.
+[02.01.25 09:43:20] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[02.01.25 09:43:20] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[02.01.25 09:43:20] bosses BaylorManager : Init BaylorManager.
+[02.01.25 10:29:47] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[02.01.25 10:29:47] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[02.01.25 10:29:47] bosses BaylorManager : Init BaylorManager.
+[02.01.25 10:48:21] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[02.01.25 10:48:21] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[02.01.25 10:48:21] bosses BaylorManager : Init BaylorManager.
+[02.01.25 10:57:12] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[02.01.25 10:57:12] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[02.01.25 10:57:12] bosses BaylorManager : Init BaylorManager.
+[02.01.25 11:05:15] fame Omoi|180|7290|mobFromFameZone
+[02.01.25 11:07:08] fame Omoi|180|7470|mobFromFameZone
+[02.01.25 11:18:02] fame Mochin|180|14380|mobFromFameZone
+[02.01.25 11:23:37] fame Mochin|180|14560|mobFromFameZone
+[02.01.25 11:24:20] fame Mochin|180|14740|mobFromFameZone
+[02.01.25 11:26:19] fame Mochin|180|14920|mobFromFameZone
+[02.01.25 11:27:58] fame Mochin|180|15100|mobFromFameZone
+[02.01.25 11:28:39] fame Mochin|180|15280|mobFromFameZone
+[02.01.25 11:30:45] fame Mochin|180|15460|mobFromFameZone
+[02.01.25 11:34:01] fame Mochin|180|15640|mobFromFameZone
+[02.01.25 12:04:32] enchants 10|Trying to put enchant|9454|+0|268514460
+[02.01.25 12:16:59] clan_reputation TogetherAsOne|1700|5300|FortressSiegeEvent[119;Aaru Fortress]
+[02.01.25 12:17:22] enchants 10|Trying to put enchant|9454|+1|268514460
+[02.01.25 12:17:29] enchants 10|Trying to put enchant|9454|+2|268514460
+[02.01.25 12:34:51] clan_reputation TogetherAsOne|300|5600|raid
+[02.01.25 13:43:22] fame Omoi|90|7560|mobFromFameZone
+[02.01.25 13:43:22] fame Nanja|90|4920|mobFromFameZone
+[02.01.25 13:44:11] fame Omoi|90|7650|mobFromFameZone
+[02.01.25 13:44:11] fame Nanja|90|5010|mobFromFameZone
+[02.01.25 13:44:55] fame Omoi|90|7740|mobFromFameZone
+[02.01.25 13:44:55] fame Nanja|90|5100|mobFromFameZone
+[02.01.25 13:45:31] fame Omoi|90|7830|mobFromFameZone
+[02.01.25 13:45:31] fame Nanja|90|5190|mobFromFameZone
+[02.01.25 13:46:20] fame Omoi|90|7920|mobFromFameZone
+[02.01.25 13:46:20] fame Nanja|90|5280|mobFromFameZone
+[02.01.25 13:48:22] fame Omoi|90|8010|mobFromFameZone
+[02.01.25 13:48:22] fame Nanja|90|5370|mobFromFameZone
+[02.01.25 13:49:14] fame Omoi|90|8100|mobFromFameZone
+[02.01.25 13:49:14] fame Nanja|90|5460|mobFromFameZone
+[02.01.25 13:49:56] fame Omoi|90|8190|mobFromFameZone
+[02.01.25 13:49:56] fame Nanja|90|5550|mobFromFameZone
+[02.01.25 13:50:15] fame Omoi|90|8280|mobFromFameZone
+[02.01.25 13:50:15] fame Nanja|90|5640|mobFromFameZone
+[02.01.25 13:51:01] fame Omoi|90|8370|mobFromFameZone
+[02.01.25 13:51:01] fame Nanja|90|5730|mobFromFameZone
+[02.01.25 13:51:38] fame Omoi|90|8460|mobFromFameZone
+[02.01.25 13:51:38] fame Nanja|90|5820|mobFromFameZone
+[02.01.25 13:52:08] fame Omoi|90|8550|mobFromFameZone
+[02.01.25 13:52:08] fame Nanja|90|5910|mobFromFameZone
+[02.01.25 14:05:29] fame Omoi|90|8640|mobFromFameZone
+[02.01.25 14:05:29] fame Nanja|90|6000|mobFromFameZone
+[02.01.25 14:07:02] fame Omoi|90|8730|mobFromFameZone
+[02.01.25 14:07:02] fame Nanja|90|6090|mobFromFameZone
+[02.01.25 14:08:50] fame Omoi|90|8820|mobFromFameZone
+[02.01.25 14:08:50] fame Nanja|90|6180|mobFromFameZone
+[02.01.25 14:10:45] fame Omoi|90|8910|mobFromFameZone
+[02.01.25 14:10:45] fame Nanja|90|6270|mobFromFameZone
+[02.01.25 14:11:17] enchants Omoi|Trying to put enchant|9425|+0|268640094
+[02.01.25 14:11:24] enchants Omoi|Trying to put enchant|9425|+1|268640094
+[02.01.25 14:11:29] enchants Omoi|Trying to put enchant|9425|+2|268640094
+[02.01.25 14:12:04] enchants Omoi|Trying to put enchant|9425|+3|268640094
+[02.01.25 14:34:03] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[02.01.25 14:34:03] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[02.01.25 14:34:03] bosses BaylorManager : Init BaylorManager.
+[02.01.25 14:50:49] enchants Omoi|Trying to put enchant|9425|+0|268482999
+[02.01.25 14:50:54] enchants Omoi|Trying to put enchant|9425|+1|268482999
+[02.01.25 14:50:58] enchants Omoi|Trying to put enchant|9425|+2|268482999
+[02.01.25 14:51:05] enchants Omoi|Trying to put enchant|9428|+0|268640095
+[02.01.25 14:51:09] enchants Omoi|Trying to put enchant|9428|+1|268640095
+[02.01.25 14:51:21] enchants Omoi|Trying to put enchant|9428|+2|268640095
+[02.01.25 14:51:28] enchants Omoi|Trying to put enchant|9429|+0|268640096
+[02.01.25 14:51:39] enchants Omoi|Trying to put enchant|9429|+0|268640096
+[02.01.25 14:51:47] enchants Omoi|Trying to put enchant|9429|+1|268640096
+[02.01.25 14:51:58] enchants Omoi|Trying to put enchant|9429|+2|268640096
+[02.01.25 14:52:05] enchants Omoi|Trying to put enchant|9430|+0|268640097
+[02.01.25 14:52:12] enchants Omoi|Trying to put enchant|9430|+1|268640097
+[02.01.25 14:52:17] enchants Omoi|Trying to put enchant|9430|+2|268640097
+[02.01.25 14:52:25] enchants Omoi|Trying to put enchant|9431|+0|268640108
+[02.01.25 14:52:30] enchants Omoi|Trying to put enchant|9431|+1|268640108
+[02.01.25 14:52:35] enchants Omoi|Trying to put enchant|9431|+2|268640108
+[02.01.25 14:56:34] fame Omoi|180|9090|mobFromFameZone
+[02.01.25 14:56:41] fame Mochin|180|15820|mobFromFameZone
+[02.01.25 14:57:17] fame Mochin|180|16000|mobFromFameZone
+[02.01.25 14:57:41] fame Mochin|180|16180|mobFromFameZone
+[02.01.25 14:58:00] fame Omoi|180|9270|mobFromFameZone
+[02.01.25 14:58:17] fame Mochin|180|16360|mobFromFameZone
+[02.01.25 14:58:34] fame Omoi|180|9450|mobFromFameZone
+[02.01.25 14:59:00] fame Omoi|180|9630|mobFromFameZone
+[02.01.25 14:59:17] fame Mochin|180|16540|mobFromFameZone
+[02.01.25 15:00:15] fame Mochin|180|16720|mobFromFameZone
+[02.01.25 15:04:45] fame Mochin|180|16900|mobFromFameZone
+[02.01.25 15:05:28] fame Mochin|180|17080|mobFromFameZone
+[02.01.25 15:06:02] clan_reputation TogetherAsOne|300|6300|raid
+[02.01.25 15:08:16] enchants 10|Trying to put enchant|6379|+0|268486466
+[02.01.25 15:08:23] enchants 10|Trying to put enchant|6379|+1|268486466
+[02.01.25 15:08:27] enchants 10|Trying to put enchant|6379|+2|268486466
+[02.01.25 15:08:31] enchants 10|Trying to put enchant|6380|+0|268486468
+[02.01.25 15:08:36] enchants 10|Trying to put enchant|6380|+1|268486468
+[02.01.25 15:08:40] enchants 10|Trying to put enchant|6380|+2|268486468
+[02.01.25 15:08:45] enchants 10|Trying to put enchant|6381|+0|268486470
+[02.01.25 15:08:49] enchants 10|Trying to put enchant|6381|+1|268486470
+[02.01.25 15:08:53] enchants 10|Trying to put enchant|6381|+2|268486470
+[02.01.25 15:08:57] enchants 10|Trying to put enchant|6382|+0|268486471
+[02.01.25 15:09:02] enchants 10|Trying to put enchant|6382|+1|268486471
+[02.01.25 15:09:08] enchants 10|Trying to put enchant|6382|+2|268486471
+[02.01.25 15:13:11] clan_reputation TogetherAsOne|300|6600|raid
+[02.01.25 15:20:55] enchants Nanja|Trying to put enchant|13882|+0|268485253
+[02.01.25 15:21:09] enchants Nanja|Trying to put enchant|13882|+1|268485253
+[02.01.25 15:21:14] enchant_skills Mochin|Successfully enchanted|420|to+201|97
+[02.01.25 15:21:18] enchants Nanja|Trying to put enchant|13882|+2|268485253
+[02.01.25 15:21:20] enchant_skills Mochin|Successfully enchanted|420|to+202|95
+[02.01.25 15:21:20] enchant_skills Mochin|Successfully enchanted|420|to+203|93
+[02.01.25 15:21:21] enchant_skills Mochin|Successfully enchanted|420|to+204|91
+[02.01.25 15:21:21] enchant_skills Mochin|Failed to enchant|420|to+205|89
+[02.01.25 15:21:22] enchant_skills Mochin|Successfully enchanted|420|to+201|97
+[02.01.25 15:21:22] enchant_skills Mochin|Successfully enchanted|420|to+202|95
+[02.01.25 15:21:22] enchant_skills Mochin|Successfully enchanted|420|to+203|93
+[02.01.25 15:21:23] enchant_skills Mochin|Successfully enchanted|420|to+204|91
+[02.01.25 15:21:23] enchant_skills Mochin|Successfully enchanted|420|to+205|89
+[02.01.25 15:21:24] enchant_skills Mochin|Successfully enchanted|420|to+206|87
+[02.01.25 15:21:24] enchant_skills Mochin|Successfully enchanted|420|to+207|85
+[02.01.25 15:21:24] enchant_skills Mochin|Successfully enchanted|420|to+208|83
+[02.01.25 15:21:25] enchant_skills Mochin|Successfully enchanted|420|to+209|81
+[02.01.25 15:21:26] enchant_skills Mochin|Successfully enchanted|420|to+210|79
+[02.01.25 15:21:26] enchant_skills Mochin|Successfully enchanted|420|to+211|77
+[02.01.25 15:21:27] enchant_skills Mochin|Successfully enchanted|420|to+212|75
+[02.01.25 15:21:27] enchant_skills Mochin|Successfully enchanted|420|to+213|73
+[02.01.25 15:21:28] enchant_skills Mochin|Failed to enchant|420|to+214|71
+[02.01.25 15:21:28] enchant_skills Mochin|Successfully enchanted|420|to+201|97
+[02.01.25 15:21:28] enchant_skills Mochin|Successfully enchanted|420|to+202|95
+[02.01.25 15:21:29] enchant_skills Mochin|Successfully enchanted|420|to+203|93
+[02.01.25 15:21:29] enchant_skills Mochin|Successfully enchanted|420|to+204|91
+[02.01.25 15:21:29] enchant_skills Mochin|Successfully enchanted|420|to+205|89
+[02.01.25 15:21:30] enchant_skills Mochin|Successfully enchanted|420|to+206|87
+[02.01.25 15:21:30] enchant_skills Mochin|Successfully enchanted|420|to+207|85
+[02.01.25 15:21:31] enchant_skills Mochin|Successfully enchanted|420|to+208|83
+[02.01.25 15:21:32] enchant_skills Mochin|Successfully enchanted|420|to+209|81
+[02.01.25 15:21:32] enchant_skills Mochin|Successfully enchanted|420|to+210|79
+[02.01.25 15:21:33] enchant_skills Mochin|Successfully enchanted|420|to+211|77
+[02.01.25 15:21:33] enchant_skills Mochin|Successfully enchanted|420|to+212|75
+[02.01.25 15:21:33] enchant_skills Mochin|Successfully enchanted|420|to+213|73
+[02.01.25 15:21:34] enchant_skills Mochin|Successfully enchanted|420|to+214|71
+[02.01.25 15:21:34] enchant_skills Mochin|Successfully enchanted|420|to+215|69
+[02.01.25 15:22:35] clan_reputation DevotedSouls|200|2900|raid
+[02.01.25 15:27:09] clan_reputation DevotedSouls|200|3100|raid
+[02.01.25 15:28:35] enchants ArGeS|Trying to put enchant|6380|+1|268681624
+[02.01.25 15:40:52] clan_reputation TogetherAsOne|300|6900|raid
+[02.01.25 15:44:11] enchants ArGeS|Trying to put enchant|6380|+2|268681624
+[02.01.25 15:45:52] clan_reputation TogetherAsOne|300|7200|raid
+[02.01.25 15:47:53] clan_reputation TogetherAsOne|300|7500|raid
+[02.01.25 15:50:56] clan_reputation TogetherAsOne|300|7800|raid
+[02.01.25 15:55:35] enchants ArGeS|Trying to put enchant|6381|+0|268681625
+[02.01.25 15:57:26] clan_reputation TogetherAsOne|300|8100|raid
+[02.01.25 15:58:30] enchants Nanja|Trying to put enchant|13882|+3|268485253
+[02.01.25 16:09:36] fame Omoi|180|9810|mobFromFameZone
+[02.01.25 16:10:20] fame Omoi|180|9990|mobFromFameZone
+[02.01.25 16:10:50] fame Omoi|180|10170|mobFromFameZone
+[02.01.25 16:11:45] fame Omoi|180|10350|mobFromFameZone
+[02.01.25 16:12:18] fame Omoi|180|10530|mobFromFameZone
+[02.01.25 16:12:38] fame Omoi|180|10710|mobFromFameZone
+[02.01.25 16:13:17] fame Omoi|180|10890|mobFromFameZone
+[02.01.25 16:14:20] fame Omoi|180|11070|mobFromFameZone
+[02.01.25 16:15:20] fame Omoi|180|11250|mobFromFameZone
+[02.01.25 16:15:35] fame Omoi|180|11430|mobFromFameZone
+[02.01.25 16:16:42] fame Omoi|180|11610|mobFromFameZone
+[02.01.25 16:17:49] fame Omoi|180|11790|mobFromFameZone

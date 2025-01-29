@@ -1,0 +1,26 @@
+[05.12.24 15:02:36] SUCCESS PacMan[268481203] admin_admin
+[05.12.24 15:02:37] SUCCESS PacMan[268481203] admin_char_manage
+[05.12.24 15:02:37] SUCCESS PacMan[268481203] admin_show_characters 0
+[05.12.24 15:02:39] SUCCESS PacMan[268481203] admin_admin
+[05.12.24 15:02:40] SUCCESS PacMan[268481203] admin_show_moves
+[05.12.24 15:02:40] SUCCESS PacMan[268481203] admin_show_html teleports/town.htm
+[05.12.24 15:02:41] SUCCESS PacMan[268481203] admin_show_html teleports/town/giran.htm
+[05.12.24 15:02:42] SUCCESS PacMan[268481203] admin_move_to 82698 148638 -3473
+[05.12.24 15:04:01] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_admin
+[05.12.24 15:04:02] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_char_manage
+[05.12.24 15:04:02] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_show_characters 0
+[05.12.24 15:07:26] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_admin
+[05.12.24 15:07:26] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_server admserver.htm
+[05.12.24 15:07:28] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_show_html reload.htm
+[05.12.24 15:07:31] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_reload_multisell
+[05.12.24 15:08:47] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[05.12.24 15:08:48] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_gmshop
+[05.12.24 15:08:49] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[05.12.24 15:08:50] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[05.12.24 15:08:51] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[05.12.24 15:08:52] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[05.12.24 15:09:25] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_gmspeed 3
+[05.12.24 16:56:32] SUCCESS PacMan[268481203] -> 30080 Clarissa admin_admin
+[05.12.24 16:56:33] SUCCESS PacMan[268481203] -> 30080 Clarissa admin_char_manage
+[05.12.24 16:56:33] SUCCESS PacMan[268481203] -> 30080 Clarissa admin_char_manage
+[05.12.24 16:56:34] SUCCESS PacMan[268481203] -> 30080 Clarissa admin_show_characters 0

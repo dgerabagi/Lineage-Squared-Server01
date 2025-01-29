@@ -1,0 +1,3907 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67816" y="82824" zmin="-3704" zmax="-3204" />
+			<add x="68004" y="80048" zmin="-3704" zmax="-3204" />
+			<add x="72888" y="78864" zmin="-3704" zmax="-3204" />
+			<add x="77052" y="79140" zmin="-3704" zmax="-3204" />
+			<add x="77336" y="82840" zmin="-3704" zmax="-3204" />
+		</territory>
+		<npc id="20583" /><!--Timak Orc-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70176" y="80096" zmin="-3724" zmax="-3324" />
+			<add x="70884" y="82216" zmin="-3724" zmax="-3324" />
+			<add x="74440" y="82112" zmin="-3724" zmax="-3324" />
+			<add x="74240" y="79580" zmin="-3724" zmax="-3324" />
+		</territory>
+		<npc id="20583" /><!--Timak Orc-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67804" y="82812" zmin="-3708" zmax="-3008" />
+			<add x="68020" y="89924" zmin="-3708" zmax="-3008" />
+			<add x="70784" y="91300" zmin="-3708" zmax="-3008" />
+			<add x="73576" y="88844" zmin="-3708" zmax="-3008" />
+			<add x="71184" y="82804" zmin="-3708" zmax="-3008" />
+		</territory>
+		<npc id="20583" /><!--Timak Orc-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="68744" y="88124" zmin="-3640" zmax="-3040" />
+			<add x="69116" y="84652" zmin="-3640" zmax="-3040" />
+			<add x="71032" y="84104" zmin="-3640" zmax="-3040" />
+			<add x="72440" y="89076" zmin="-3640" zmax="-3040" />
+		</territory>
+		<npc id="20583" /><!--Timak Orc-->
+	</spawn>
+	<spawn count="12" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71324" y="82964" zmin="-3704" zmax="-3004" />
+			<add x="73616" y="88848" zmin="-3704" zmax="-3004" />
+			<add x="77100" y="88148" zmin="-3704" zmax="-3004" />
+			<add x="77248" y="82936" zmin="-3704" zmax="-3004" />
+		</territory>
+		<npc id="20583" /><!--Timak Orc-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70792" y="91312" zmin="-3632" zmax="-3032" />
+			<add x="72572" y="92232" zmin="-3632" zmax="-3032" />
+			<add x="77104" y="88140" zmin="-3632" zmax="-3032" />
+			<add x="73592" y="88864" zmin="-3632" zmax="-3032" />
+		</territory>
+		<npc id="20583" /><!--Timak Orc-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71692" y="67532" zmin="-3852" zmax="-3452" />
+			<add x="72192" y="70208" zmin="-3852" zmax="-3452" />
+			<add x="75060" y="69644" zmin="-3852" zmax="-3452" />
+			<add x="74552" y="68140" zmin="-3852" zmax="-3452" />
+		</territory>
+		<npc id="20584" /><!--Timak Orc Archer-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="75376" y="70288" zmin="-3876" zmax="-3176" />
+			<add x="72476" y="70600" zmin="-3876" zmax="-3176" />
+			<add x="72836" y="78816" zmin="-3876" zmax="-3176" />
+			<add x="77104" y="79076" zmin="-3876" zmax="-3176" />
+			<add x="76996" y="72864" zmin="-3876" zmax="-3176" />
+		</territory>
+		<npc id="20584" /><!--Timak Orc Archer-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="73436" y="72148" zmin="-3836" zmax="-3336" />
+			<add x="73588" y="76792" zmin="-3836" zmax="-3336" />
+			<add x="76304" y="76860" zmin="-3836" zmax="-3336" />
+			<add x="76404" y="73456" zmin="-3836" zmax="-3336" />
+		</territory>
+		<npc id="20584" /><!--Timak Orc Archer-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67264" y="71080" zmin="-3780" zmax="-3280" />
+			<add x="68024" y="80016" zmin="-3780" zmax="-3280" />
+			<add x="72828" y="78832" zmin="-3780" zmax="-3280" />
+			<add x="72472" y="70564" zmin="-3780" zmax="-3280" />
+		</territory>
+		<npc id="20584" /><!--Timak Orc Archer-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69104" y="77332" zmin="-3812" zmax="-3612" />
+			<add x="69068" y="76044" zmin="-3812" zmax="-3612" />
+			<add x="70124" y="75432" zmin="-3812" zmax="-3612" />
+			<add x="71480" y="76248" zmin="-3812" zmax="-3612" />
+			<add x="71300" y="77528" zmin="-3812" zmax="-3612" />
+			<add x="70308" y="78136" zmin="-3812" zmax="-3612" />
+		</territory>
+		<npc id="20584" /><!--Timak Orc Archer-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71264" y="70956" zmin="-3804" zmax="-3604" />
+			<add x="72024" y="71500" zmin="-3804" zmax="-3604" />
+			<add x="72080" y="72212" zmin="-3804" zmax="-3604" />
+			<add x="71440" y="72860" zmin="-3804" zmax="-3604" />
+			<add x="70664" y="72352" zmin="-3804" zmax="-3604" />
+			<add x="70556" y="71580" zmin="-3804" zmax="-3604" />
+		</territory>
+		<npc id="20584" /><!--Timak Orc Archer-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67816" y="82824" zmin="-3704" zmax="-3204" />
+			<add x="68004" y="80048" zmin="-3704" zmax="-3204" />
+			<add x="72888" y="78864" zmin="-3704" zmax="-3204" />
+			<add x="77052" y="79140" zmin="-3704" zmax="-3204" />
+			<add x="77336" y="82840" zmin="-3704" zmax="-3204" />
+		</territory>
+		<npc id="20584" /><!--Timak Orc Archer-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70176" y="80096" zmin="-3724" zmax="-3324" />
+			<add x="70884" y="82216" zmin="-3724" zmax="-3324" />
+			<add x="74440" y="82112" zmin="-3724" zmax="-3324" />
+			<add x="74240" y="79580" zmin="-3724" zmax="-3324" />
+		</territory>
+		<npc id="20584" /><!--Timak Orc Archer-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67804" y="82812" zmin="-3708" zmax="-3008" />
+			<add x="68020" y="89924" zmin="-3708" zmax="-3008" />
+			<add x="70784" y="91300" zmin="-3708" zmax="-3008" />
+			<add x="73576" y="88844" zmin="-3708" zmax="-3008" />
+			<add x="71184" y="82804" zmin="-3708" zmax="-3008" />
+		</territory>
+		<npc id="20584" /><!--Timak Orc Archer-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="68744" y="88124" zmin="-3640" zmax="-3040" />
+			<add x="69116" y="84652" zmin="-3640" zmax="-3040" />
+			<add x="71032" y="84104" zmin="-3640" zmax="-3040" />
+			<add x="72440" y="89076" zmin="-3640" zmax="-3040" />
+		</territory>
+		<npc id="20584" /><!--Timak Orc Archer-->
+	</spawn>
+	<spawn count="8" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71324" y="82964" zmin="-3704" zmax="-3004" />
+			<add x="73616" y="88848" zmin="-3704" zmax="-3004" />
+			<add x="77100" y="88148" zmin="-3704" zmax="-3004" />
+			<add x="77248" y="82936" zmin="-3704" zmax="-3004" />
+		</territory>
+		<npc id="20584" /><!--Timak Orc Archer-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70792" y="91312" zmin="-3632" zmax="-3032" />
+			<add x="72572" y="92232" zmin="-3632" zmax="-3032" />
+			<add x="77104" y="88140" zmin="-3632" zmax="-3032" />
+			<add x="73592" y="88864" zmin="-3632" zmax="-3032" />
+		</territory>
+		<npc id="20584" /><!--Timak Orc Archer-->
+	</spawn>
+	<spawn count="12" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67232" y="71080" zmin="-3932" zmax="-3532" />
+			<add x="67604" y="65788" zmin="-3932" zmax="-3532" />
+			<add x="74916" y="65664" zmin="-3932" zmax="-3532" />
+			<add x="75472" y="70192" zmin="-3932" zmax="-3532" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71692" y="67532" zmin="-3852" zmax="-3452" />
+			<add x="72192" y="70208" zmin="-3852" zmax="-3452" />
+			<add x="75060" y="69644" zmin="-3852" zmax="-3452" />
+			<add x="74552" y="68140" zmin="-3852" zmax="-3452" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="10" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="75376" y="70288" zmin="-3876" zmax="-3176" />
+			<add x="72476" y="70600" zmin="-3876" zmax="-3176" />
+			<add x="72836" y="78816" zmin="-3876" zmax="-3176" />
+			<add x="77104" y="79076" zmin="-3876" zmax="-3176" />
+			<add x="76996" y="72864" zmin="-3876" zmax="-3176" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="73436" y="72148" zmin="-3836" zmax="-3336" />
+			<add x="73588" y="76792" zmin="-3836" zmax="-3336" />
+			<add x="76304" y="76860" zmin="-3836" zmax="-3336" />
+			<add x="76404" y="73456" zmin="-3836" zmax="-3336" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="7" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67264" y="71080" zmin="-3780" zmax="-3280" />
+			<add x="68024" y="80016" zmin="-3780" zmax="-3280" />
+			<add x="72828" y="78832" zmin="-3780" zmax="-3280" />
+			<add x="72472" y="70564" zmin="-3780" zmax="-3280" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69104" y="77332" zmin="-3812" zmax="-3612" />
+			<add x="69068" y="76044" zmin="-3812" zmax="-3612" />
+			<add x="70124" y="75432" zmin="-3812" zmax="-3612" />
+			<add x="71480" y="76248" zmin="-3812" zmax="-3612" />
+			<add x="71300" y="77528" zmin="-3812" zmax="-3612" />
+			<add x="70308" y="78136" zmin="-3812" zmax="-3612" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71264" y="70956" zmin="-3804" zmax="-3604" />
+			<add x="72024" y="71500" zmin="-3804" zmax="-3604" />
+			<add x="72080" y="72212" zmin="-3804" zmax="-3604" />
+			<add x="71440" y="72860" zmin="-3804" zmax="-3604" />
+			<add x="70664" y="72352" zmin="-3804" zmax="-3604" />
+			<add x="70556" y="71580" zmin="-3804" zmax="-3604" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="8" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67816" y="82824" zmin="-3704" zmax="-3204" />
+			<add x="68004" y="80048" zmin="-3704" zmax="-3204" />
+			<add x="72888" y="78864" zmin="-3704" zmax="-3204" />
+			<add x="77052" y="79140" zmin="-3704" zmax="-3204" />
+			<add x="77336" y="82840" zmin="-3704" zmax="-3204" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70176" y="80096" zmin="-3724" zmax="-3324" />
+			<add x="70884" y="82216" zmin="-3724" zmax="-3324" />
+			<add x="74440" y="82112" zmin="-3724" zmax="-3324" />
+			<add x="74240" y="79580" zmin="-3724" zmax="-3324" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="8" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67804" y="82812" zmin="-3708" zmax="-3008" />
+			<add x="68020" y="89924" zmin="-3708" zmax="-3008" />
+			<add x="70784" y="91300" zmin="-3708" zmax="-3008" />
+			<add x="73576" y="88844" zmin="-3708" zmax="-3008" />
+			<add x="71184" y="82804" zmin="-3708" zmax="-3008" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="68744" y="88124" zmin="-3640" zmax="-3040" />
+			<add x="69116" y="84652" zmin="-3640" zmax="-3040" />
+			<add x="71032" y="84104" zmin="-3640" zmax="-3040" />
+			<add x="72440" y="89076" zmin="-3640" zmax="-3040" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="12" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71324" y="82964" zmin="-3704" zmax="-3004" />
+			<add x="73616" y="88848" zmin="-3704" zmax="-3004" />
+			<add x="77100" y="88148" zmin="-3704" zmax="-3004" />
+			<add x="77248" y="82936" zmin="-3704" zmax="-3004" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70792" y="91312" zmin="-3632" zmax="-3032" />
+			<add x="72572" y="92232" zmin="-3632" zmax="-3032" />
+			<add x="77104" y="88140" zmin="-3632" zmax="-3032" />
+			<add x="73592" y="88864" zmin="-3632" zmax="-3032" />
+		</territory>
+		<npc id="20585" /><!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="10" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67232" y="71080" zmin="-3932" zmax="-3532" />
+			<add x="67604" y="65788" zmin="-3932" zmax="-3532" />
+			<add x="74916" y="65664" zmin="-3932" zmax="-3532" />
+			<add x="75472" y="70192" zmin="-3932" zmax="-3532" />
+		</territory>
+		<npc id="20586" /><!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71692" y="67532" zmin="-3852" zmax="-3452" />
+			<add x="72192" y="70208" zmin="-3852" zmax="-3452" />
+			<add x="75060" y="69644" zmin="-3852" zmax="-3452" />
+			<add x="74552" y="68140" zmin="-3852" zmax="-3452" />
+		</territory>
+		<npc id="20586" /><!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="8" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="75376" y="70288" zmin="-3876" zmax="-3176" />
+			<add x="72476" y="70600" zmin="-3876" zmax="-3176" />
+			<add x="72836" y="78816" zmin="-3876" zmax="-3176" />
+			<add x="77104" y="79076" zmin="-3876" zmax="-3176" />
+			<add x="76996" y="72864" zmin="-3876" zmax="-3176" />
+		</territory>
+		<npc id="20586" /><!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="73436" y="72148" zmin="-3836" zmax="-3336" />
+			<add x="73588" y="76792" zmin="-3836" zmax="-3336" />
+			<add x="76304" y="76860" zmin="-3836" zmax="-3336" />
+			<add x="76404" y="73456" zmin="-3836" zmax="-3336" />
+		</territory>
+		<npc id="20586" /><!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="12" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67264" y="71080" zmin="-3780" zmax="-3280" />
+			<add x="68024" y="80016" zmin="-3780" zmax="-3280" />
+			<add x="72828" y="78832" zmin="-3780" zmax="-3280" />
+			<add x="72472" y="70564" zmin="-3780" zmax="-3280" />
+		</territory>
+		<npc id="20586" /><!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69104" y="77332" zmin="-3812" zmax="-3612" />
+			<add x="69068" y="76044" zmin="-3812" zmax="-3612" />
+			<add x="70124" y="75432" zmin="-3812" zmax="-3612" />
+			<add x="71480" y="76248" zmin="-3812" zmax="-3612" />
+			<add x="71300" y="77528" zmin="-3812" zmax="-3612" />
+			<add x="70308" y="78136" zmin="-3812" zmax="-3612" />
+		</territory>
+		<npc id="20586" /><!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71264" y="70956" zmin="-3804" zmax="-3604" />
+			<add x="72024" y="71500" zmin="-3804" zmax="-3604" />
+			<add x="72080" y="72212" zmin="-3804" zmax="-3604" />
+			<add x="71440" y="72860" zmin="-3804" zmax="-3604" />
+			<add x="70664" y="72352" zmin="-3804" zmax="-3604" />
+			<add x="70556" y="71580" zmin="-3804" zmax="-3604" />
+		</territory>
+		<npc id="20586" /><!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="10" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67232" y="71080" zmin="-3932" zmax="-3532" />
+			<add x="67604" y="65788" zmin="-3932" zmax="-3532" />
+			<add x="74916" y="65664" zmin="-3932" zmax="-3532" />
+			<add x="75472" y="70192" zmin="-3932" zmax="-3532" />
+		</territory>
+		<npc id="20587" /><!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67232" y="71080" zmin="-3932" zmax="-3532" />
+			<add x="67604" y="65788" zmin="-3932" zmax="-3532" />
+			<add x="74916" y="65664" zmin="-3932" zmax="-3532" />
+			<add x="75472" y="70192" zmin="-3932" zmax="-3532" />
+		</territory>
+		<npc id="20767" /><!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="75376" y="70288" zmin="-3876" zmax="-3176" />
+			<add x="72476" y="70600" zmin="-3876" zmax="-3176" />
+			<add x="72836" y="78816" zmin="-3876" zmax="-3176" />
+			<add x="77104" y="79076" zmin="-3876" zmax="-3176" />
+			<add x="76996" y="72864" zmin="-3876" zmax="-3176" />
+		</territory>
+		<npc id="20767" /><!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67264" y="71080" zmin="-3780" zmax="-3280" />
+			<add x="68024" y="80016" zmin="-3780" zmax="-3280" />
+			<add x="72828" y="78832" zmin="-3780" zmax="-3280" />
+			<add x="72472" y="70564" zmin="-3780" zmax="-3280" />
+		</territory>
+		<npc id="20767" /><!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="8" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67816" y="82824" zmin="-3704" zmax="-3204" />
+			<add x="68004" y="80048" zmin="-3704" zmax="-3204" />
+			<add x="72888" y="78864" zmin="-3704" zmax="-3204" />
+			<add x="77052" y="79140" zmin="-3704" zmax="-3204" />
+			<add x="77336" y="82840" zmin="-3704" zmax="-3204" />
+		</territory>
+		<npc id="20767" /><!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="8" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67804" y="82812" zmin="-3708" zmax="-3008" />
+			<add x="68020" y="89924" zmin="-3708" zmax="-3008" />
+			<add x="70784" y="91300" zmin="-3708" zmax="-3008" />
+			<add x="73576" y="88844" zmin="-3708" zmax="-3008" />
+			<add x="71184" y="82804" zmin="-3708" zmax="-3008" />
+		</territory>
+		<npc id="20767" /><!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="8" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71324" y="82964" zmin="-3704" zmax="-3004" />
+			<add x="73616" y="88848" zmin="-3704" zmax="-3004" />
+			<add x="77100" y="88148" zmin="-3704" zmax="-3004" />
+			<add x="77248" y="82936" zmin="-3704" zmax="-3004" />
+		</territory>
+		<npc id="20767" /><!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70792" y="91312" zmin="-3632" zmax="-3032" />
+			<add x="72572" y="92232" zmin="-3632" zmax="-3032" />
+			<add x="77104" y="88140" zmin="-3632" zmax="-3032" />
+			<add x="73592" y="88864" zmin="-3632" zmax="-3032" />
+		</territory>
+		<npc id="20767" /><!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="1" respawn="43200" respawn_random="3600" period_of_day="none">
+		<territory>
+			<add x="66180" y="67864" zmin="-3808" zmax="-3208" />
+			<add x="66628" y="66688" zmin="-3808" zmax="-3208" />
+			<add x="67584" y="66832" zmin="-3808" zmax="-3208" />
+			<add x="67448" y="68072" zmin="-3808" zmax="-3208" />
+		</territory>
+		<npc id="25085" /><!--Timak Orc Chief Ranger-->
+	</spawn>
+	<spawn count="1" respawn="43200" respawn_random="3600" period_of_day="none">
+		<territory>
+			<add x="73440" y="66332" zmin="-3836" zmax="-3236" />
+			<add x="72756" y="66616" zmin="-3836" zmax="-3236" />
+			<add x="73060" y="67468" zmin="-3836" zmax="-3236" />
+			<add x="74200" y="67716" zmin="-3836" zmax="-3236" />
+			<add x="74076" y="66520" zmin="-3836" zmax="-3236" />
+		</territory>
+		<npc id="25155" /><!--Shaman King Selu-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79071" y="69942" zmin="-3443" zmax="-2943" />
+			<add x="78411" y="70276" zmin="-3443" zmax="-2943" />
+			<add x="77707" y="69696" zmin="-3443" zmax="-2943" />
+			<add x="77537" y="68456" zmin="-3443" zmax="-2943" />
+			<add x="78191" y="68439" zmin="-3443" zmax="-2943" />
+			<add x="78787" y="68977" zmin="-3443" zmax="-2943" />
+			<add x="79419" y="68906" zmin="-3443" zmax="-2943" />
+			<add x="79430" y="69333" zmin="-3443" zmax="-2943" />
+		</territory>
+		<npc id="22787" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79071" y="69942" zmin="-3443" zmax="-2943" />
+			<add x="78411" y="70276" zmin="-3443" zmax="-2943" />
+			<add x="77707" y="69696" zmin="-3443" zmax="-2943" />
+			<add x="77537" y="68456" zmin="-3443" zmax="-2943" />
+			<add x="78191" y="68439" zmin="-3443" zmax="-2943" />
+			<add x="78787" y="68977" zmin="-3443" zmax="-2943" />
+			<add x="79419" y="68906" zmin="-3443" zmax="-2943" />
+			<add x="79430" y="69333" zmin="-3443" zmax="-2943" />
+		</territory>
+		<npc id="22786" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79071" y="69942" zmin="-3443" zmax="-2943" />
+			<add x="78411" y="70276" zmin="-3443" zmax="-2943" />
+			<add x="77707" y="69696" zmin="-3443" zmax="-2943" />
+			<add x="77537" y="68456" zmin="-3443" zmax="-2943" />
+			<add x="78191" y="68439" zmin="-3443" zmax="-2943" />
+			<add x="78787" y="68977" zmin="-3443" zmax="-2943" />
+			<add x="79419" y="68906" zmin="-3443" zmax="-2943" />
+			<add x="79430" y="69333" zmin="-3443" zmax="-2943" />
+		</territory>
+		<npc id="22788" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="81804" y="69041" zmin="-3524" zmax="-3024" />
+			<add x="80764" y="69135" zmin="-3524" zmax="-3024" />
+			<add x="80159" y="69560" zmin="-3524" zmax="-3024" />
+			<add x="79553" y="69286" zmin="-3524" zmax="-3024" />
+			<add x="79528" y="68690" zmin="-3524" zmax="-3024" />
+			<add x="80430" y="67047" zmin="-3524" zmax="-3024" />
+			<add x="81074" y="66786" zmin="-3524" zmax="-3024" />
+			<add x="81632" y="68225" zmin="-3524" zmax="-3024" />
+		</territory>
+		<npc id="22787" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="81804" y="69041" zmin="-3524" zmax="-3024" />
+			<add x="80764" y="69135" zmin="-3524" zmax="-3024" />
+			<add x="80159" y="69560" zmin="-3524" zmax="-3024" />
+			<add x="79553" y="69286" zmin="-3524" zmax="-3024" />
+			<add x="79528" y="68690" zmin="-3524" zmax="-3024" />
+			<add x="80430" y="67047" zmin="-3524" zmax="-3024" />
+			<add x="81074" y="66786" zmin="-3524" zmax="-3024" />
+			<add x="81632" y="68225" zmin="-3524" zmax="-3024" />
+		</territory>
+		<npc id="22786" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="81804" y="69041" zmin="-3524" zmax="-3024" />
+			<add x="80764" y="69135" zmin="-3524" zmax="-3024" />
+			<add x="80159" y="69560" zmin="-3524" zmax="-3024" />
+			<add x="79553" y="69286" zmin="-3524" zmax="-3024" />
+			<add x="79528" y="68690" zmin="-3524" zmax="-3024" />
+			<add x="80430" y="67047" zmin="-3524" zmax="-3024" />
+			<add x="81074" y="66786" zmin="-3524" zmax="-3024" />
+			<add x="81632" y="68225" zmin="-3524" zmax="-3024" />
+		</territory>
+		<npc id="22788" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="84439" y="65974" zmin="-3305" zmax="-2805" />
+			<add x="84146" y="66490" zmin="-3305" zmax="-2805" />
+			<add x="83588" y="66493" zmin="-3305" zmax="-2805" />
+			<add x="83261" y="66485" zmin="-3305" zmax="-2805" />
+			<add x="83243" y="65741" zmin="-3305" zmax="-2805" />
+			<add x="83454" y="65554" zmin="-3305" zmax="-2805" />
+			<add x="84881" y="65577" zmin="-3305" zmax="-2805" />
+			<add x="84909" y="65950" zmin="-3305" zmax="-2805" />
+		</territory>
+		<npc id="22787" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="84439" y="65974" zmin="-3305" zmax="-2805" />
+			<add x="84146" y="66490" zmin="-3305" zmax="-2805" />
+			<add x="83588" y="66493" zmin="-3305" zmax="-2805" />
+			<add x="83261" y="66485" zmin="-3305" zmax="-2805" />
+			<add x="83243" y="65741" zmin="-3305" zmax="-2805" />
+			<add x="83454" y="65554" zmin="-3305" zmax="-2805" />
+			<add x="84881" y="65577" zmin="-3305" zmax="-2805" />
+			<add x="84909" y="65950" zmin="-3305" zmax="-2805" />
+		</territory>
+		<npc id="22786" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="84439" y="65974" zmin="-3305" zmax="-2805" />
+			<add x="84146" y="66490" zmin="-3305" zmax="-2805" />
+			<add x="83588" y="66493" zmin="-3305" zmax="-2805" />
+			<add x="83261" y="66485" zmin="-3305" zmax="-2805" />
+			<add x="83243" y="65741" zmin="-3305" zmax="-2805" />
+			<add x="83454" y="65554" zmin="-3305" zmax="-2805" />
+			<add x="84881" y="65577" zmin="-3305" zmax="-2805" />
+			<add x="84909" y="65950" zmin="-3305" zmax="-2805" />
+		</territory>
+		<npc id="22788" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="84869" y="65555" zmin="-3883" zmax="-2883" />
+			<add x="88555" y="65547" zmin="-3883" zmax="-2883" />
+			<add x="87809" y="66717" zmin="-3883" zmax="-2883" />
+			<add x="86382" y="67622" zmin="-3883" zmax="-2883" />
+			<add x="85188" y="67166" zmin="-3883" zmax="-2883" />
+		</territory>
+		<npc id="22787" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="84869" y="65555" zmin="-3883" zmax="-2883" />
+			<add x="88555" y="65547" zmin="-3883" zmax="-2883" />
+			<add x="87809" y="66717" zmin="-3883" zmax="-2883" />
+			<add x="86382" y="67622" zmin="-3883" zmax="-2883" />
+			<add x="85188" y="67166" zmin="-3883" zmax="-2883" />
+		</territory>
+		<npc id="22786" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="84869" y="65555" zmin="-3883" zmax="-2883" />
+			<add x="88555" y="65547" zmin="-3883" zmax="-2883" />
+			<add x="87809" y="66717" zmin="-3883" zmax="-2883" />
+			<add x="86382" y="67622" zmin="-3883" zmax="-2883" />
+			<add x="85188" y="67166" zmin="-3883" zmax="-2883" />
+		</territory>
+		<npc id="22788" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87169" y="68965" zmin="-3126" zmax="-2926" />
+			<add x="86885" y="69131" zmin="-3126" zmax="-2926" />
+			<add x="86413" y="69109" zmin="-3126" zmax="-2926" />
+			<add x="86084" y="68921" zmin="-3126" zmax="-2926" />
+			<add x="86067" y="68178" zmin="-3126" zmax="-2926" />
+			<add x="86277" y="67990" zmin="-3126" zmax="-2926" />
+			<add x="86895" y="68010" zmin="-3126" zmax="-2926" />
+			<add x="87165" y="68206" zmin="-3126" zmax="-2926" />
+		</territory>
+		<npc id="22787" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87169" y="68965" zmin="-3126" zmax="-2926" />
+			<add x="86885" y="69131" zmin="-3126" zmax="-2926" />
+			<add x="86413" y="69109" zmin="-3126" zmax="-2926" />
+			<add x="86084" y="68921" zmin="-3126" zmax="-2926" />
+			<add x="86067" y="68178" zmin="-3126" zmax="-2926" />
+			<add x="86277" y="67990" zmin="-3126" zmax="-2926" />
+			<add x="86895" y="68010" zmin="-3126" zmax="-2926" />
+			<add x="87165" y="68206" zmin="-3126" zmax="-2926" />
+		</territory>
+		<npc id="22786" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87169" y="68965" zmin="-3126" zmax="-2926" />
+			<add x="86885" y="69131" zmin="-3126" zmax="-2926" />
+			<add x="86413" y="69109" zmin="-3126" zmax="-2926" />
+			<add x="86084" y="68921" zmin="-3126" zmax="-2926" />
+			<add x="86067" y="68178" zmin="-3126" zmax="-2926" />
+			<add x="86277" y="67990" zmin="-3126" zmax="-2926" />
+			<add x="86895" y="68010" zmin="-3126" zmax="-2926" />
+			<add x="87165" y="68206" zmin="-3126" zmax="-2926" />
+		</territory>
+		<npc id="22788" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90073" y="67793" zmin="-3760" zmax="-3560" />
+			<add x="89789" y="67959" zmin="-3760" zmax="-3560" />
+			<add x="89318" y="67937" zmin="-3760" zmax="-3560" />
+			<add x="88989" y="67749" zmin="-3760" zmax="-3560" />
+			<add x="88971" y="67006" zmin="-3760" zmax="-3560" />
+			<add x="89182" y="66818" zmin="-3760" zmax="-3560" />
+			<add x="89800" y="66838" zmin="-3760" zmax="-3560" />
+			<add x="90070" y="67034" zmin="-3760" zmax="-3560" />
+		</territory>
+		<npc id="22787" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90073" y="67793" zmin="-3760" zmax="-3560" />
+			<add x="89789" y="67959" zmin="-3760" zmax="-3560" />
+			<add x="89318" y="67937" zmin="-3760" zmax="-3560" />
+			<add x="88989" y="67749" zmin="-3760" zmax="-3560" />
+			<add x="88971" y="67006" zmin="-3760" zmax="-3560" />
+			<add x="89182" y="66818" zmin="-3760" zmax="-3560" />
+			<add x="89800" y="66838" zmin="-3760" zmax="-3560" />
+			<add x="90070" y="67034" zmin="-3760" zmax="-3560" />
+		</territory>
+		<npc id="22786" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90073" y="67793" zmin="-3760" zmax="-3560" />
+			<add x="89789" y="67959" zmin="-3760" zmax="-3560" />
+			<add x="89318" y="67937" zmin="-3760" zmax="-3560" />
+			<add x="88989" y="67749" zmin="-3760" zmax="-3560" />
+			<add x="88971" y="67006" zmin="-3760" zmax="-3560" />
+			<add x="89182" y="66818" zmin="-3760" zmax="-3560" />
+			<add x="89800" y="66838" zmin="-3760" zmax="-3560" />
+			<add x="90070" y="67034" zmin="-3760" zmax="-3560" />
+		</territory>
+		<npc id="22788" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="92060" y="68074" zmin="-3779" zmax="-2879" />
+			<add x="91776" y="68240" zmin="-3779" zmax="-2879" />
+			<add x="91304" y="68218" zmin="-3779" zmax="-2879" />
+			<add x="90976" y="68030" zmin="-3779" zmax="-2879" />
+			<add x="90958" y="67287" zmin="-3779" zmax="-2879" />
+			<add x="91168" y="67099" zmin="-3779" zmax="-2879" />
+			<add x="91787" y="67119" zmin="-3779" zmax="-2879" />
+			<add x="92057" y="67315" zmin="-3779" zmax="-2879" />
+		</territory>
+		<npc id="22787" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="92060" y="68074" zmin="-3779" zmax="-2879" />
+			<add x="91776" y="68240" zmin="-3779" zmax="-2879" />
+			<add x="91304" y="68218" zmin="-3779" zmax="-2879" />
+			<add x="90976" y="68030" zmin="-3779" zmax="-2879" />
+			<add x="90958" y="67287" zmin="-3779" zmax="-2879" />
+			<add x="91168" y="67099" zmin="-3779" zmax="-2879" />
+			<add x="91787" y="67119" zmin="-3779" zmax="-2879" />
+			<add x="92057" y="67315" zmin="-3779" zmax="-2879" />
+		</territory>
+		<npc id="22786" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="92060" y="68074" zmin="-3779" zmax="-2879" />
+			<add x="91776" y="68240" zmin="-3779" zmax="-2879" />
+			<add x="91304" y="68218" zmin="-3779" zmax="-2879" />
+			<add x="90976" y="68030" zmin="-3779" zmax="-2879" />
+			<add x="90958" y="67287" zmin="-3779" zmax="-2879" />
+			<add x="91168" y="67099" zmin="-3779" zmax="-2879" />
+			<add x="91787" y="67119" zmin="-3779" zmax="-2879" />
+			<add x="92057" y="67315" zmin="-3779" zmax="-2879" />
+		</territory>
+		<npc id="22788" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87845" y="68773" zmin="-3764" zmax="-2764" />
+			<add x="89242" y="68258" zmin="-3764" zmax="-2764" />
+			<add x="90846" y="69229" zmin="-3764" zmax="-2764" />
+			<add x="91848" y="70495" zmin="-3764" zmax="-2764" />
+			<add x="90613" y="70730" zmin="-3764" zmax="-2764" />
+			<add x="88247" y="70449" zmin="-3764" zmax="-2764" />
+		</territory>
+		<npc id="22787" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87845" y="68773" zmin="-3764" zmax="-2764" />
+			<add x="89242" y="68258" zmin="-3764" zmax="-2764" />
+			<add x="90846" y="69229" zmin="-3764" zmax="-2764" />
+			<add x="91848" y="70495" zmin="-3764" zmax="-2764" />
+			<add x="90613" y="70730" zmin="-3764" zmax="-2764" />
+			<add x="88247" y="70449" zmin="-3764" zmax="-2764" />
+		</territory>
+		<npc id="22786" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87845" y="68773" zmin="-3764" zmax="-2764" />
+			<add x="89242" y="68258" zmin="-3764" zmax="-2764" />
+			<add x="90846" y="69229" zmin="-3764" zmax="-2764" />
+			<add x="91848" y="70495" zmin="-3764" zmax="-2764" />
+			<add x="90613" y="70730" zmin="-3764" zmax="-2764" />
+			<add x="88247" y="70449" zmin="-3764" zmax="-2764" />
+		</territory>
+		<npc id="22788" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93792" y="69440" zmin="-3851" zmax="-2851" />
+			<add x="95163" y="70886" zmin="-3851" zmax="-2851" />
+			<add x="93795" y="71347" zmin="-3851" zmax="-2851" />
+			<add x="92262" y="70814" zmin="-3851" zmax="-2851" />
+			<add x="92501" y="68335" zmin="-3851" zmax="-2851" />
+			<add x="93665" y="66871" zmin="-3851" zmax="-2851" />
+			<add x="94653" y="66934" zmin="-3851" zmax="-2851" />
+			<add x="97262" y="69006" zmin="-3851" zmax="-2851" />
+			<add x="96506" y="69958" zmin="-3851" zmax="-2851" />
+			<add x="94265" y="68391" zmin="-3851" zmax="-2851" />
+		</territory>
+		<npc id="22787" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93792" y="69440" zmin="-3851" zmax="-2851" />
+			<add x="95163" y="70886" zmin="-3851" zmax="-2851" />
+			<add x="93795" y="71347" zmin="-3851" zmax="-2851" />
+			<add x="92262" y="70814" zmin="-3851" zmax="-2851" />
+			<add x="92501" y="68335" zmin="-3851" zmax="-2851" />
+			<add x="93665" y="66871" zmin="-3851" zmax="-2851" />
+			<add x="94653" y="66934" zmin="-3851" zmax="-2851" />
+			<add x="97262" y="69006" zmin="-3851" zmax="-2851" />
+			<add x="96506" y="69958" zmin="-3851" zmax="-2851" />
+			<add x="94265" y="68391" zmin="-3851" zmax="-2851" />
+		</territory>
+		<npc id="22786" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93792" y="69440" zmin="-3851" zmax="-2851" />
+			<add x="95163" y="70886" zmin="-3851" zmax="-2851" />
+			<add x="93795" y="71347" zmin="-3851" zmax="-2851" />
+			<add x="92262" y="70814" zmin="-3851" zmax="-2851" />
+			<add x="92501" y="68335" zmin="-3851" zmax="-2851" />
+			<add x="93665" y="66871" zmin="-3851" zmax="-2851" />
+			<add x="94653" y="66934" zmin="-3851" zmax="-2851" />
+			<add x="97262" y="69006" zmin="-3851" zmax="-2851" />
+			<add x="96506" y="69958" zmin="-3851" zmax="-2851" />
+			<add x="94265" y="68391" zmin="-3851" zmax="-2851" />
+		</territory>
+		<npc id="22788" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="82698" y="69298" zmin="-3208" zmax="-3008" />
+			<add x="82898" y="69298" zmin="-3208" zmax="-3008" />
+			<add x="82898" y="69498" zmin="-3208" zmax="-3008" />
+			<add x="82698" y="69498" zmin="-3208" zmax="-3008" />
+		</territory>
+		<npc id="22787" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="82698" y="69298" zmin="-3208" zmax="-3008" />
+			<add x="82898" y="69298" zmin="-3208" zmax="-3008" />
+			<add x="82898" y="69498" zmin="-3208" zmax="-3008" />
+			<add x="82698" y="69498" zmin="-3208" zmax="-3008" />
+		</territory>
+		<npc id="22786" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="82698" y="69298" zmin="-3208" zmax="-3008" />
+			<add x="82898" y="69298" zmin="-3208" zmax="-3008" />
+			<add x="82898" y="69498" zmin="-3208" zmax="-3008" />
+			<add x="82698" y="69498" zmin="-3208" zmax="-3008" />
+		</territory>
+		<npc id="22788" /><!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_01]-->
+			<add x="98056" y="79316" zmin="-3776" zmax="-3476" />
+			<add x="98116" y="76416" zmin="-3776" zmax="-3476" />
+			<add x="97108" y="76352" zmin="-3776" zmax="-3476" />
+			<add x="95516" y="79240" zmin="-3776" zmax="-3476" />
+			<add x="96132" y="79892" zmin="-3776" zmax="-3476" />
+		</territory>
+		<npc id="20577" /><!--Leto Lizardman-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_01]-->
+			<add x="98056" y="79316" zmin="-3776" zmax="-3476" />
+			<add x="98116" y="76416" zmin="-3776" zmax="-3476" />
+			<add x="97108" y="76352" zmin="-3776" zmax="-3476" />
+			<add x="95516" y="79240" zmin="-3776" zmax="-3476" />
+			<add x="96132" y="79892" zmin="-3776" zmax="-3476" />
+		</territory>
+		<npc id="20578" /><!--Leto Lizardman Archer-->
+	</spawn>
+	<spawn count="1" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_01]-->
+			<add x="98056" y="79316" zmin="-3776" zmax="-3476" />
+			<add x="98116" y="76416" zmin="-3776" zmax="-3476" />
+			<add x="97108" y="76352" zmin="-3776" zmax="-3476" />
+			<add x="95516" y="79240" zmin="-3776" zmax="-3476" />
+			<add x="96132" y="79892" zmin="-3776" zmax="-3476" />
+		</territory>
+		<npc id="20582" /><!--Leto Lizardman Overlord-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_01]-->
+			<add x="98056" y="79316" zmin="-3776" zmax="-3476" />
+			<add x="98116" y="76416" zmin="-3776" zmax="-3476" />
+			<add x="97108" y="76352" zmin="-3776" zmax="-3476" />
+			<add x="95516" y="79240" zmin="-3776" zmax="-3476" />
+			<add x="96132" y="79892" zmin="-3776" zmax="-3476" />
+		</territory>
+		<npc id="20581" /><!--Leto Lizardman Shaman-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_01]-->
+			<add x="98056" y="79316" zmin="-3776" zmax="-3476" />
+			<add x="98116" y="76416" zmin="-3776" zmax="-3476" />
+			<add x="97108" y="76352" zmin="-3776" zmax="-3476" />
+			<add x="95516" y="79240" zmin="-3776" zmax="-3476" />
+			<add x="96132" y="79892" zmin="-3776" zmax="-3476" />
+		</territory>
+		<npc id="20579" /><!--Leto Lizardman Soldier-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_01]-->
+			<add x="98056" y="79316" zmin="-3776" zmax="-3476" />
+			<add x="98116" y="76416" zmin="-3776" zmax="-3476" />
+			<add x="97108" y="76352" zmin="-3776" zmax="-3476" />
+			<add x="95516" y="79240" zmin="-3776" zmax="-3476" />
+			<add x="96132" y="79892" zmin="-3776" zmax="-3476" />
+		</territory>
+		<npc id="20580" /><!--Leto Lizardman Warrior-->
+	</spawn>
+	<spawn count="1" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_02]-->
+			<add x="94615" y="74573" zmin="-3640" zmax="-3340" />
+			<add x="97017" y="76457" zmin="-3640" zmax="-3340" />
+			<add x="95484" y="79247" zmin="-3640" zmax="-3340" />
+			<add x="95036" y="77252" zmin="-3640" zmax="-3340" />
+			<add x="95027" y="76436" zmin="-3640" zmax="-3340" />
+		</territory>
+		<npc id="20577" /><!--Leto Lizardman-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_02]-->
+			<add x="94615" y="74573" zmin="-3640" zmax="-3340" />
+			<add x="97017" y="76457" zmin="-3640" zmax="-3340" />
+			<add x="95484" y="79247" zmin="-3640" zmax="-3340" />
+			<add x="95036" y="77252" zmin="-3640" zmax="-3340" />
+			<add x="95027" y="76436" zmin="-3640" zmax="-3340" />
+		</territory>
+		<npc id="20578" /><!--Leto Lizardman Archer-->
+	</spawn>
+	<spawn count="1" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_02]-->
+			<add x="94615" y="74573" zmin="-3640" zmax="-3340" />
+			<add x="97017" y="76457" zmin="-3640" zmax="-3340" />
+			<add x="95484" y="79247" zmin="-3640" zmax="-3340" />
+			<add x="95036" y="77252" zmin="-3640" zmax="-3340" />
+			<add x="95027" y="76436" zmin="-3640" zmax="-3340" />
+		</territory>
+		<npc id="20582" /><!--Leto Lizardman Overlord-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_02]-->
+			<add x="94615" y="74573" zmin="-3640" zmax="-3340" />
+			<add x="97017" y="76457" zmin="-3640" zmax="-3340" />
+			<add x="95484" y="79247" zmin="-3640" zmax="-3340" />
+			<add x="95036" y="77252" zmin="-3640" zmax="-3340" />
+			<add x="95027" y="76436" zmin="-3640" zmax="-3340" />
+		</territory>
+		<npc id="20581" /><!--Leto Lizardman Shaman-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_02]-->
+			<add x="94615" y="74573" zmin="-3640" zmax="-3340" />
+			<add x="97017" y="76457" zmin="-3640" zmax="-3340" />
+			<add x="95484" y="79247" zmin="-3640" zmax="-3340" />
+			<add x="95036" y="77252" zmin="-3640" zmax="-3340" />
+			<add x="95027" y="76436" zmin="-3640" zmax="-3340" />
+		</territory>
+		<npc id="20579" /><!--Leto Lizardman Soldier-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_02]-->
+			<add x="94615" y="74573" zmin="-3640" zmax="-3340" />
+			<add x="97017" y="76457" zmin="-3640" zmax="-3340" />
+			<add x="95484" y="79247" zmin="-3640" zmax="-3340" />
+			<add x="95036" y="77252" zmin="-3640" zmax="-3340" />
+			<add x="95027" y="76436" zmin="-3640" zmax="-3340" />
+		</territory>
+		<npc id="20580" /><!--Leto Lizardman Warrior-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86486" y="86105" z="-2872" h="-14500" />
+		<npc id="32741" /><!--Ankumi-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86522" y="85792" z="-2888" h="-8292" />
+		<npc id="32744" /><!--Johnny-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86381" y="85967" z="-2860" h="-5884" />
+		<npc id="32743" /><!--Sally-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86351" y="85797" z="-2856" h="-1424" />
+		<npc id="32742" /><!--Laki-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_Hdoma01]-->
+			<add x="85506" y="95105" zmin="-3496" zmax="-3096" />
+			<add x="84154" y="94935" zmin="-3496" zmax="-3096" />
+			<add x="83788" y="94311" zmin="-3496" zmax="-3096" />
+			<add x="84071" y="93382" zmin="-3496" zmax="-3096" />
+			<add x="86705" y="92874" zmin="-3496" zmax="-3096" />
+			<add x="89784" y="92913" zmin="-3496" zmax="-3096" />
+			<add x="86986" y="94818" zmin="-3496" zmax="-3096" />
+		</territory>
+		<npc id="18864" /><!--Fantasy Mushroom-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_Hdoma02]-->
+			<add x="87824" y="90141" zmin="-3364" zmax="-3064" />
+			<add x="90193" y="90351" zmin="-3364" zmax="-3064" />
+			<add x="90154" y="92865" zmin="-3364" zmax="-3064" />
+			<add x="86020" y="92802" zmin="-3364" zmax="-3064" />
+		</territory>
+		<npc id="18864" /><!--Fantasy Mushroom-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_Hdoma03]-->
+			<add x="90226" y="90225" zmin="-3532" zmax="-3132" />
+			<add x="93824" y="90350" zmin="-3532" zmax="-3132" />
+			<add x="93807" y="91179" zmin="-3532" zmax="-3132" />
+			<add x="94404" y="91216" zmin="-3532" zmax="-3132" />
+			<add x="93846" y="92149" zmin="-3532" zmax="-3132" />
+			<add x="92407" y="92828" zmin="-3532" zmax="-3132" />
+			<add x="90231" y="93038" zmin="-3532" zmax="-3132" />
+		</territory>
+		<npc id="18864" /><!--Fantasy Mushroom-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_Hdoma04]-->
+			<add x="90621" y="86217" zmin="-3664" zmax="-3164" />
+			<add x="93117" y="86786" zmin="-3664" zmax="-3164" />
+			<add x="94874" y="88615" zmin="-3664" zmax="-3164" />
+			<add x="94808" y="89710" zmin="-3664" zmax="-3164" />
+			<add x="94466" y="90314" zmin="-3664" zmax="-3164" />
+			<add x="90876" y="90210" zmin="-3664" zmax="-3164" />
+			<add x="90934" y="87988" zmin="-3664" zmax="-3164" />
+		</territory>
+		<npc id="18864" /><!--Fantasy Mushroom-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_Hdoma05]-->
+			<add x="90628" y="82190" zmin="-3772" zmax="-3272" />
+			<add x="93474" y="82874" zmin="-3772" zmax="-3272" />
+			<add x="93266" y="84255" zmin="-3772" zmax="-3272" />
+			<add x="93018" y="86680" zmin="-3772" zmax="-3272" />
+			<add x="90623" y="86146" zmin="-3772" zmax="-3272" />
+			<add x="90518" y="83819" zmin="-3772" zmax="-3272" />
+		</territory>
+		<npc id="18864" /><!--Fantasy Mushroom-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_Hdoma06]-->
+			<add x="93898" y="78545" zmin="-3628" zmax="-3028" />
+			<add x="93745" y="80663" zmin="-3628" zmax="-3028" />
+			<add x="93279" y="81267" zmin="-3628" zmax="-3028" />
+			<add x="93419" y="82805" zmin="-3628" zmax="-3028" />
+			<add x="89967" y="81996" zmin="-3628" zmax="-3028" />
+			<add x="90102" y="80395" zmin="-3628" zmax="-3028" />
+			<add x="90114" y="78154" zmin="-3628" zmax="-3028" />
+		</territory>
+		<npc id="18864" /><!--Fantasy Mushroom-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_Hdoma07]-->
+			<add x="90126" y="75727" zmin="-3624" zmax="-3024" />
+			<add x="92012" y="75066" zmin="-3624" zmax="-3024" />
+			<add x="93712" y="76300" zmin="-3624" zmax="-3024" />
+			<add x="93881" y="78502" zmin="-3624" zmax="-3024" />
+			<add x="90110" y="78107" zmin="-3624" zmax="-3024" />
+			<add x="90130" y="76314" zmin="-3624" zmax="-3024" />
+		</territory>
+		<npc id="18864" /><!--Fantasy Mushroom-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_Hdoma08]-->
+			<add x="83574" y="81143" zmin="-3764" zmax="-3164" />
+			<add x="84317" y="78566" zmin="-3764" zmax="-3164" />
+			<add x="90032" y="80379" zmin="-3764" zmax="-3164" />
+			<add x="89805" y="82652" zmin="-3764" zmax="-3164" />
+			<add x="88113" y="82041" zmin="-3764" zmax="-3164" />
+			<add x="87565" y="81617" zmin="-3764" zmax="-3164" />
+			<add x="86704" y="81466" zmin="-3764" zmax="-3164" />
+		</territory>
+		<npc id="18864" /><!--Fantasy Mushroom-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_Hdoma09]-->
+			<add x="84825" y="76246" zmin="-3736" zmax="-3236" />
+			<add x="90083" y="76311" zmin="-3736" zmax="-3236" />
+			<add x="90055" y="80311" zmin="-3736" zmax="-3236" />
+			<add x="84326" y="78491" zmin="-3736" zmax="-3236" />
+		</territory>
+		<npc id="18864" /><!--Fantasy Mushroom-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_Hdoma10]-->
+			<add x="90010" y="75377" zmin="-3700" zmax="-3100" />
+			<add x="90003" y="76237" zmin="-3700" zmax="-3100" />
+			<add x="84872" y="76159" zmin="-3700" zmax="-3100" />
+			<add x="85344" y="74443" zmin="-3700" zmax="-3100" />
+			<add x="86602" y="73053" zmin="-3700" zmax="-3100" />
+			<add x="87873" y="73006" zmin="-3700" zmax="-3100" />
+			<add x="88387" y="74005" zmin="-3700" zmax="-3100" />
+			<add x="88585" y="74722" zmin="-3700" zmax="-3100" />
+			<add x="88585" y="74722" zmin="-3700" zmax="-3100" />
+		</territory>
+		<npc id="18864" /><!--Fantasy Mushroom-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_Hdoma11]-->
+			<add x="80624" y="78522" zmin="-3764" zmax="-3064" />
+			<add x="84158" y="78474" zmin="-3764" zmax="-3064" />
+			<add x="83401" y="81285" zmin="-3764" zmax="-3064" />
+			<add x="82869" y="81739" zmin="-3764" zmax="-3064" />
+			<add x="81475" y="82293" zmin="-3764" zmax="-3064" />
+			<add x="80331" y="81043" zmin="-3764" zmax="-3064" />
+		</territory>
+		<npc id="18864" /><!--Fantasy Mushroom-->
+	</spawn>
+	<spawn count="2" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_Hdoma12]-->
+			<add x="83830" y="75409" zmin="-3764" zmax="-3164" />
+			<add x="85090" y="74493" zmin="-3764" zmax="-3164" />
+			<add x="84190" y="78433" zmin="-3764" zmax="-3164" />
+			<add x="80674" y="78445" zmin="-3764" zmax="-3164" />
+			<add x="80768" y="77501" zmin="-3764" zmax="-3164" />
+		</territory>
+		<npc id="18864" /><!--Fantasy Mushroom-->
+	</spawn>
+	<spawn count="16" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug01]-->
+			<add x="81339" y="81736" zmin="-3744" zmax="-3144" />
+			<add x="80393" y="80565" zmin="-3744" zmax="-3144" />
+			<add x="80497" y="79902" zmin="-3744" zmax="-3144" />
+			<add x="81724" y="80391" zmin="-3744" zmax="-3144" />
+			<add x="81885" y="79224" zmin="-3744" zmax="-3144" />
+			<add x="80356" y="78399" zmin="-3744" zmax="-3144" />
+			<add x="80814" y="76584" zmin="-3744" zmax="-3144" />
+			<add x="81330" y="76044" zmin="-3744" zmax="-3144" />
+			<add x="83112" y="75632" zmin="-3744" zmax="-3144" />
+			<add x="85032" y="74338" zmin="-3744" zmax="-3144" />
+			<add x="85686" y="75194" zmin="-3744" zmax="-3144" />
+			<add x="84159" y="76994" zmin="-3744" zmax="-3144" />
+			<add x="84260" y="77769" zmin="-3744" zmax="-3144" />
+			<add x="85274" y="78338" zmin="-3744" zmax="-3144" />
+			<add x="85637" y="81077" zmin="-3744" zmax="-3144" />
+			<add x="84431" y="81804" zmin="-3744" zmax="-3144" />
+			<add x="83397" y="81505" zmin="-3744" zmax="-3144" />
+			<add x="82001" y="82940" zmin="-3744" zmax="-3144" />
+			<add x="80864" y="82644" zmin="-3744" zmax="-3144" />
+		</territory>
+		<npc id="18868" /><!--Energy Plant-->
+	</spawn>
+	<spawn count="7" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug01]-->
+			<add x="81339" y="81736" zmin="-3744" zmax="-3144" />
+			<add x="80393" y="80565" zmin="-3744" zmax="-3144" />
+			<add x="80497" y="79902" zmin="-3744" zmax="-3144" />
+			<add x="81724" y="80391" zmin="-3744" zmax="-3144" />
+			<add x="81885" y="79224" zmin="-3744" zmax="-3144" />
+			<add x="80356" y="78399" zmin="-3744" zmax="-3144" />
+			<add x="80814" y="76584" zmin="-3744" zmax="-3144" />
+			<add x="81330" y="76044" zmin="-3744" zmax="-3144" />
+			<add x="83112" y="75632" zmin="-3744" zmax="-3144" />
+			<add x="85032" y="74338" zmin="-3744" zmax="-3144" />
+			<add x="85686" y="75194" zmin="-3744" zmax="-3144" />
+			<add x="84159" y="76994" zmin="-3744" zmax="-3144" />
+			<add x="84260" y="77769" zmin="-3744" zmax="-3144" />
+			<add x="85274" y="78338" zmin="-3744" zmax="-3144" />
+			<add x="85637" y="81077" zmin="-3744" zmax="-3144" />
+			<add x="84431" y="81804" zmin="-3744" zmax="-3144" />
+			<add x="83397" y="81505" zmin="-3744" zmax="-3144" />
+			<add x="82001" y="82940" zmin="-3744" zmax="-3144" />
+			<add x="80864" y="82644" zmin="-3744" zmax="-3144" />
+		</territory>
+		<npc id="18866" /><!--Rainbow Frog-->
+	</spawn>
+	<spawn count="7" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug01]-->
+			<add x="81339" y="81736" zmin="-3744" zmax="-3144" />
+			<add x="80393" y="80565" zmin="-3744" zmax="-3144" />
+			<add x="80497" y="79902" zmin="-3744" zmax="-3144" />
+			<add x="81724" y="80391" zmin="-3744" zmax="-3144" />
+			<add x="81885" y="79224" zmin="-3744" zmax="-3144" />
+			<add x="80356" y="78399" zmin="-3744" zmax="-3144" />
+			<add x="80814" y="76584" zmin="-3744" zmax="-3144" />
+			<add x="81330" y="76044" zmin="-3744" zmax="-3144" />
+			<add x="83112" y="75632" zmin="-3744" zmax="-3144" />
+			<add x="85032" y="74338" zmin="-3744" zmax="-3144" />
+			<add x="85686" y="75194" zmin="-3744" zmax="-3144" />
+			<add x="84159" y="76994" zmin="-3744" zmax="-3144" />
+			<add x="84260" y="77769" zmin="-3744" zmax="-3144" />
+			<add x="85274" y="78338" zmin="-3744" zmax="-3144" />
+			<add x="85637" y="81077" zmin="-3744" zmax="-3144" />
+			<add x="84431" y="81804" zmin="-3744" zmax="-3144" />
+			<add x="83397" y="81505" zmin="-3744" zmax="-3144" />
+			<add x="82001" y="82940" zmin="-3744" zmax="-3144" />
+			<add x="80864" y="82644" zmin="-3744" zmax="-3144" />
+		</territory>
+		<npc id="18865" /><!--Sticky Mushroom-->
+	</spawn>
+	<spawn count="20" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug02]-->
+			<add x="88468" y="81335" zmin="-3568" zmax="-3168" />
+			<add x="87339" y="79594" zmin="-3568" zmax="-3168" />
+			<add x="88198" y="78376" zmin="-3568" zmax="-3168" />
+			<add x="86473" y="78348" zmin="-3568" zmax="-3168" />
+			<add x="86211" y="77578" zmin="-3568" zmax="-3168" />
+			<add x="87362" y="76016" zmin="-3568" zmax="-3168" />
+			<add x="86617" y="74523" zmin="-3568" zmax="-3168" />
+			<add x="88157" y="73135" zmin="-3568" zmax="-3168" />
+			<add x="89169" y="74499" zmin="-3568" zmax="-3168" />
+			<add x="91685" y="75475" zmin="-3568" zmax="-3168" />
+			<add x="92553" y="74971" zmin="-3568" zmax="-3168" />
+			<add x="92809" y="75466" zmin="-3568" zmax="-3168" />
+			<add x="92157" y="76350" zmin="-3568" zmax="-3168" />
+			<add x="92619" y="76950" zmin="-3568" zmax="-3168" />
+			<add x="93781" y="76709" zmin="-3568" zmax="-3168" />
+			<add x="94152" y="79492" zmin="-3568" zmax="-3168" />
+			<add x="93084" y="81226" zmin="-3568" zmax="-3168" />
+			<add x="91457" y="81814" zmin="-3568" zmax="-3168" />
+			<add x="90533" y="81086" zmin="-3568" zmax="-3168" />
+		</territory>
+		<npc id="18868" /><!--Energy Plant-->
+	</spawn>
+	<spawn count="9" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug02]-->
+			<add x="88468" y="81335" zmin="-3568" zmax="-3168" />
+			<add x="87339" y="79594" zmin="-3568" zmax="-3168" />
+			<add x="88198" y="78376" zmin="-3568" zmax="-3168" />
+			<add x="86473" y="78348" zmin="-3568" zmax="-3168" />
+			<add x="86211" y="77578" zmin="-3568" zmax="-3168" />
+			<add x="87362" y="76016" zmin="-3568" zmax="-3168" />
+			<add x="86617" y="74523" zmin="-3568" zmax="-3168" />
+			<add x="88157" y="73135" zmin="-3568" zmax="-3168" />
+			<add x="89169" y="74499" zmin="-3568" zmax="-3168" />
+			<add x="91685" y="75475" zmin="-3568" zmax="-3168" />
+			<add x="92553" y="74971" zmin="-3568" zmax="-3168" />
+			<add x="92809" y="75466" zmin="-3568" zmax="-3168" />
+			<add x="92157" y="76350" zmin="-3568" zmax="-3168" />
+			<add x="92619" y="76950" zmin="-3568" zmax="-3168" />
+			<add x="93781" y="76709" zmin="-3568" zmax="-3168" />
+			<add x="94152" y="79492" zmin="-3568" zmax="-3168" />
+			<add x="93084" y="81226" zmin="-3568" zmax="-3168" />
+			<add x="91457" y="81814" zmin="-3568" zmax="-3168" />
+			<add x="90533" y="81086" zmin="-3568" zmax="-3168" />
+		</territory>
+		<npc id="18866" /><!--Rainbow Frog-->
+	</spawn>
+	<spawn count="9" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug02]-->
+			<add x="88468" y="81335" zmin="-3568" zmax="-3168" />
+			<add x="87339" y="79594" zmin="-3568" zmax="-3168" />
+			<add x="88198" y="78376" zmin="-3568" zmax="-3168" />
+			<add x="86473" y="78348" zmin="-3568" zmax="-3168" />
+			<add x="86211" y="77578" zmin="-3568" zmax="-3168" />
+			<add x="87362" y="76016" zmin="-3568" zmax="-3168" />
+			<add x="86617" y="74523" zmin="-3568" zmax="-3168" />
+			<add x="88157" y="73135" zmin="-3568" zmax="-3168" />
+			<add x="89169" y="74499" zmin="-3568" zmax="-3168" />
+			<add x="91685" y="75475" zmin="-3568" zmax="-3168" />
+			<add x="92553" y="74971" zmin="-3568" zmax="-3168" />
+			<add x="92809" y="75466" zmin="-3568" zmax="-3168" />
+			<add x="92157" y="76350" zmin="-3568" zmax="-3168" />
+			<add x="92619" y="76950" zmin="-3568" zmax="-3168" />
+			<add x="93781" y="76709" zmin="-3568" zmax="-3168" />
+			<add x="94152" y="79492" zmin="-3568" zmax="-3168" />
+			<add x="93084" y="81226" zmin="-3568" zmax="-3168" />
+			<add x="91457" y="81814" zmin="-3568" zmax="-3168" />
+			<add x="90533" y="81086" zmin="-3568" zmax="-3168" />
+		</territory>
+		<npc id="18865" /><!--Sticky Mushroom-->
+	</spawn>
+	<spawn count="10" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug03]-->
+			<add x="93994" y="83476" zmin="-3668" zmax="-3368" />
+			<add x="93310" y="84016" zmin="-3668" zmax="-3368" />
+			<add x="93185" y="86210" zmin="-3668" zmax="-3368" />
+			<add x="91345" y="86454" zmin="-3668" zmax="-3368" />
+			<add x="90583" y="86343" zmin="-3668" zmax="-3368" />
+			<add x="90099" y="85399" zmin="-3668" zmax="-3368" />
+			<add x="90527" y="83859" zmin="-3668" zmax="-3368" />
+			<add x="89915" y="83247" zmin="-3668" zmax="-3368" />
+			<add x="90323" y="82619" zmin="-3668" zmax="-3368" />
+			<add x="92175" y="82214" zmin="-3668" zmax="-3368" />
+			<add x="93839" y="82582" zmin="-3668" zmax="-3368" />
+		</territory>
+		<npc id="18868" /><!--Energy Plant-->
+	</spawn>
+	<spawn count="4" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug03]-->
+			<add x="93994" y="83476" zmin="-3668" zmax="-3368" />
+			<add x="93310" y="84016" zmin="-3668" zmax="-3368" />
+			<add x="93185" y="86210" zmin="-3668" zmax="-3368" />
+			<add x="91345" y="86454" zmin="-3668" zmax="-3368" />
+			<add x="90583" y="86343" zmin="-3668" zmax="-3368" />
+			<add x="90099" y="85399" zmin="-3668" zmax="-3368" />
+			<add x="90527" y="83859" zmin="-3668" zmax="-3368" />
+			<add x="89915" y="83247" zmin="-3668" zmax="-3368" />
+			<add x="90323" y="82619" zmin="-3668" zmax="-3368" />
+			<add x="92175" y="82214" zmin="-3668" zmax="-3368" />
+			<add x="93839" y="82582" zmin="-3668" zmax="-3368" />
+		</territory>
+		<npc id="18866" /><!--Rainbow Frog-->
+	</spawn>
+	<spawn count="4" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug03]-->
+			<add x="93994" y="83476" zmin="-3668" zmax="-3368" />
+			<add x="93310" y="84016" zmin="-3668" zmax="-3368" />
+			<add x="93185" y="86210" zmin="-3668" zmax="-3368" />
+			<add x="91345" y="86454" zmin="-3668" zmax="-3368" />
+			<add x="90583" y="86343" zmin="-3668" zmax="-3368" />
+			<add x="90099" y="85399" zmin="-3668" zmax="-3368" />
+			<add x="90527" y="83859" zmin="-3668" zmax="-3368" />
+			<add x="89915" y="83247" zmin="-3668" zmax="-3368" />
+			<add x="90323" y="82619" zmin="-3668" zmax="-3368" />
+			<add x="92175" y="82214" zmin="-3668" zmax="-3368" />
+			<add x="93839" y="82582" zmin="-3668" zmax="-3368" />
+		</territory>
+		<npc id="18865" /><!--Sticky Mushroom-->
+	</spawn>
+	<spawn count="12" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug04]-->
+			<add x="94588" y="90508" zmin="-3608" zmax="-3108" />
+			<add x="93165" y="91174" zmin="-3608" zmax="-3108" />
+			<add x="92774" y="90205" zmin="-3608" zmax="-3108" />
+			<add x="91874" y="90026" zmin="-3608" zmax="-3108" />
+			<add x="91449" y="89018" zmin="-3608" zmax="-3108" />
+			<add x="90269" y="88575" zmin="-3608" zmax="-3108" />
+			<add x="91409" y="86478" zmin="-3608" zmax="-3108" />
+			<add x="93203" y="86272" zmin="-3608" zmax="-3108" />
+			<add x="94154" y="87126" zmin="-3608" zmax="-3108" />
+			<add x="94506" y="87978" zmin="-3608" zmax="-3108" />
+			<add x="95623" y="89043" zmin="-3608" zmax="-3108" />
+			<add x="95175" y="89795" zmin="-3608" zmax="-3108" />
+			<add x="94841" y="90063" zmin="-3608" zmax="-3108" />
+		</territory>
+		<npc id="18868" /><!--Energy Plant-->
+	</spawn>
+	<spawn count="5" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug04]-->
+			<add x="94588" y="90508" zmin="-3608" zmax="-3108" />
+			<add x="93165" y="91174" zmin="-3608" zmax="-3108" />
+			<add x="92774" y="90205" zmin="-3608" zmax="-3108" />
+			<add x="91874" y="90026" zmin="-3608" zmax="-3108" />
+			<add x="91449" y="89018" zmin="-3608" zmax="-3108" />
+			<add x="90269" y="88575" zmin="-3608" zmax="-3108" />
+			<add x="91409" y="86478" zmin="-3608" zmax="-3108" />
+			<add x="93203" y="86272" zmin="-3608" zmax="-3108" />
+			<add x="94154" y="87126" zmin="-3608" zmax="-3108" />
+			<add x="94506" y="87978" zmin="-3608" zmax="-3108" />
+			<add x="95623" y="89043" zmin="-3608" zmax="-3108" />
+			<add x="95175" y="89795" zmin="-3608" zmax="-3108" />
+			<add x="94841" y="90063" zmin="-3608" zmax="-3108" />
+		</territory>
+		<npc id="18866" /><!--Rainbow Frog-->
+	</spawn>
+	<spawn count="5" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug04]-->
+			<add x="94588" y="90508" zmin="-3608" zmax="-3108" />
+			<add x="93165" y="91174" zmin="-3608" zmax="-3108" />
+			<add x="92774" y="90205" zmin="-3608" zmax="-3108" />
+			<add x="91874" y="90026" zmin="-3608" zmax="-3108" />
+			<add x="91449" y="89018" zmin="-3608" zmax="-3108" />
+			<add x="90269" y="88575" zmin="-3608" zmax="-3108" />
+			<add x="91409" y="86478" zmin="-3608" zmax="-3108" />
+			<add x="93203" y="86272" zmin="-3608" zmax="-3108" />
+			<add x="94154" y="87126" zmin="-3608" zmax="-3108" />
+			<add x="94506" y="87978" zmin="-3608" zmax="-3108" />
+			<add x="95623" y="89043" zmin="-3608" zmax="-3108" />
+			<add x="95175" y="89795" zmin="-3608" zmax="-3108" />
+			<add x="94841" y="90063" zmin="-3608" zmax="-3108" />
+		</territory>
+		<npc id="18865" /><!--Sticky Mushroom-->
+	</spawn>
+	<spawn count="14" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug05]-->
+			<add x="91070" y="92840" zmin="-3568" zmax="-2968" />
+			<add x="86774" y="94622" zmin="-3568" zmax="-2968" />
+			<add x="86165" y="93839" zmin="-3568" zmax="-2968" />
+			<add x="85237" y="94836" zmin="-3568" zmax="-2968" />
+			<add x="83887" y="93863" zmin="-3568" zmax="-2968" />
+			<add x="84716" y="93221" zmin="-3568" zmax="-2968" />
+			<add x="85714" y="92670" zmin="-3568" zmax="-2968" />
+			<add x="86767" y="90828" zmin="-3568" zmax="-2968" />
+			<add x="90862" y="90747" zmin="-3568" zmax="-2968" />
+			<add x="91384" y="91633" zmin="-3568" zmax="-2968" />
+			<add x="92561" y="92566" zmin="-3568" zmax="-2968" />
+			<add x="92346" y="93226" zmin="-3568" zmax="-2968" />
+		</territory>
+		<npc id="18868" /><!--Energy Plant-->
+	</spawn>
+	<spawn count="6" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug05]-->
+			<add x="91070" y="92840" zmin="-3568" zmax="-2968" />
+			<add x="86774" y="94622" zmin="-3568" zmax="-2968" />
+			<add x="86165" y="93839" zmin="-3568" zmax="-2968" />
+			<add x="85237" y="94836" zmin="-3568" zmax="-2968" />
+			<add x="83887" y="93863" zmin="-3568" zmax="-2968" />
+			<add x="84716" y="93221" zmin="-3568" zmax="-2968" />
+			<add x="85714" y="92670" zmin="-3568" zmax="-2968" />
+			<add x="86767" y="90828" zmin="-3568" zmax="-2968" />
+			<add x="90862" y="90747" zmin="-3568" zmax="-2968" />
+			<add x="91384" y="91633" zmin="-3568" zmax="-2968" />
+			<add x="92561" y="92566" zmin="-3568" zmax="-2968" />
+			<add x="92346" y="93226" zmin="-3568" zmax="-2968" />
+		</territory>
+		<npc id="18866" /><!--Rainbow Frog-->
+	</spawn>
+	<spawn count="6" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rrug05]-->
+			<add x="91070" y="92840" zmin="-3568" zmax="-2968" />
+			<add x="86774" y="94622" zmin="-3568" zmax="-2968" />
+			<add x="86165" y="93839" zmin="-3568" zmax="-2968" />
+			<add x="85237" y="94836" zmin="-3568" zmax="-2968" />
+			<add x="83887" y="93863" zmin="-3568" zmax="-2968" />
+			<add x="84716" y="93221" zmin="-3568" zmax="-2968" />
+			<add x="85714" y="92670" zmin="-3568" zmax="-2968" />
+			<add x="86767" y="90828" zmin="-3568" zmax="-2968" />
+			<add x="90862" y="90747" zmin="-3568" zmax="-2968" />
+			<add x="91384" y="91633" zmin="-3568" zmax="-2968" />
+			<add x="92561" y="92566" zmin="-3568" zmax="-2968" />
+			<add x="92346" y="93226" zmin="-3568" zmax="-2968" />
+		</territory>
+		<npc id="18865" /><!--Sticky Mushroom-->
+	</spawn>
+	<spawn count="3" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rug01]-->
+			<add x="84900" y="73795" zmin="-3716" zmax="-3416" />
+			<add x="87732" y="72139" zmin="-3716" zmax="-3416" />
+			<add x="88334" y="72910" zmin="-3716" zmax="-3416" />
+			<add x="86558" y="74502" zmin="-3716" zmax="-3416" />
+			<add x="87295" y="75990" zmin="-3716" zmax="-3416" />
+			<add x="86749" y="76682" zmin="-3716" zmax="-3416" />
+		</territory>
+		<npc id="18865" /><!--Sticky Mushroom-->
+	</spawn>
+	<spawn count="3" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rug02]-->
+			<add x="84223" y="77014" zmin="-3752" zmax="-3452" />
+			<add x="85742" y="75221" zmin="-3752" zmax="-3452" />
+			<add x="86714" y="76764" zmin="-3752" zmax="-3452" />
+			<add x="85338" y="78318" zmin="-3752" zmax="-3452" />
+			<add x="84304" y="77728" zmin="-3752" zmax="-3452" />
+		</territory>
+		<npc id="18865" /><!--Sticky Mushroom-->
+	</spawn>
+	<spawn count="5" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rug03]-->
+			<add x="85322" y="78385" zmin="-3680" zmax="-3280" />
+			<add x="88034" y="78422" zmin="-3680" zmax="-3280" />
+			<add x="87192" y="79571" zmin="-3680" zmax="-3280" />
+			<add x="88418" y="81396" zmin="-3680" zmax="-3280" />
+			<add x="85892" y="82552" zmin="-3680" zmax="-3280" />
+		</territory>
+		<npc id="18865" /><!--Sticky Mushroom-->
+	</spawn>
+	<spawn count="3" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rug04]-->
+			<add x="88087" y="81760" zmin="-3608" zmax="-3308" />
+			<add x="88841" y="81373" zmin="-3608" zmax="-3308" />
+			<add x="90468" y="81167" zmin="-3608" zmax="-3308" />
+			<add x="91738" y="82199" zmin="-3608" zmax="-3308" />
+			<add x="89919" y="82579" zmin="-3608" zmax="-3308" />
+			<add x="89306" y="83476" zmin="-3608" zmax="-3308" />
+		</territory>
+		<npc id="18865" /><!--Sticky Mushroom-->
+	</spawn>
+	<spawn count="3" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_2220_rug05]-->
+			<add x="90424" y="89901" zmin="-3500" zmax="-3200" />
+			<add x="91425" y="89425" zmin="-3500" zmax="-3200" />
+			<add x="91986" y="90457" zmin="-3500" zmax="-3200" />
+			<add x="92808" y="90630" zmin="-3500" zmax="-3200" />
+			<add x="93595" y="92473" zmin="-3500" zmax="-3200" />
+			<add x="92575" y="92471" zmin="-3500" zmax="-3200" />
+			<add x="91488" y="91591" zmin="-3500" zmax="-3200" />
+		</territory>
+		<npc id="18865" /><!--Sticky Mushroom-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91309" y="84191" z="-3640" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91496" y="86119" z="-3584" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91732" y="86578" z="-3560" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93860" y="88864" z="-3536" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86326" y="91899" z="-3152" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91578" y="90976" z="-3384" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90678" y="90285" z="-3376" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87765" y="92288" z="-3144" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85091" y="92943" z="-3360" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91171" y="78886" z="-3216" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91180" y="75145" z="-3328" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86655" y="73798" z="-3520" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85543" y="73682" z="-3576" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85959" y="77716" z="-3552" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80819" y="80715" z="-3384" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85966" y="80010" z="-3656" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88050" y="79583" z="-3392" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84388" y="78952" z="-3680" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84995" y="79334" z="-3662" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80977" y="80522" z="-3387" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85082" y="75863" z="-3659" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84823" y="75111" z="-3644" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91191" y="75969" z="-3187" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="94109" y="79751" z="-3332" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93700" y="79354" z="-3315" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92500" y="83631" z="-3673" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86629" y="92670" z="-3180" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84170" y="94125" z="-3465" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="94075" y="90197" z="-3470" h="0" />
+		<npc id="22768" /><!--Tanta Lizardman Scout-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92164" y="85266" z="-3648" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91859" y="86108" z="-3592" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91149" y="88335" z="-3440" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90842" y="90022" z="-3408" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87798" y="90149" z="-3264" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88944" y="91557" z="-3240" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91131" y="91384" z="-3360" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90974" y="90557" z="-3368" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86146" y="92202" z="-3152" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83745" y="94248" z="-3416" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90637" y="78908" z="-3208" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90412" y="77148" z="-3224" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92006" y="76608" z="-3184" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90404" y="75503" z="-3272" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87287" y="74098" z="-3480" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86167" y="74460" z="-3528" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85873" y="77107" z="-3632" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83158" y="75164" z="-3632" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82050" y="77453" z="-3616" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83948" y="77671" z="-3720" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83509" y="75721" z="-3664" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83760" y="81523" z="-3616" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85037" y="79741" z="-3664" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85993" y="78008" z="-3536" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85087" y="77838" z="-3536" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84483" y="79572" z="-3713" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81229" y="82095" z="-3248" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81148" y="82648" z="-3194" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80941" y="81354" z="-3336" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="89301" y="75171" z="-3342" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90494" y="76025" z="-3202" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93636" y="79793" z="-3332" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93665" y="80452" z="-3333" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93011" y="86476" z="-3532" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93629" y="89182" z="-3559" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84286" y="93552" z="-3439" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84794" y="94814" z="-3457" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90009" y="92847" z="-3278" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93687" y="90022" z="-3481" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92201" y="84532" z="-3676" h="0" />
+		<npc id="22769" /><!--Tanta Lizardman Warrior-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90512" y="88172" z="-3384" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90674" y="88541" z="-3416" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93859" y="84541" z="-3576" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93788" y="83742" z="-3568" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92077" y="87464" z="-3528" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92144" y="88251" z="-3512" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86993" y="91859" z="-3144" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86238" y="91153" z="-3136" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87218" y="91486" z="-3184" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="89025" y="91059" z="-3312" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91487" y="90139" z="-3440" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90573" y="92009" z="-3296" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88264" y="92799" z="-3152" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83482" y="93772" z="-3376" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83994" y="94572" z="-3416" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84505" y="94067" z="-3456" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="95142" y="91513" z="-3344" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91530" y="80013" z="-3352" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93221" y="80277" z="-3328" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="94116" y="78137" z="-3312" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90593" y="77498" z="-3216" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92279" y="74542" z="-3336" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91789" y="74624" z="-3344" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90853" y="75705" z="-3224" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87878" y="72318" z="-3432" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88396" y="73976" z="-3376" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86871" y="73351" z="-3504" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87677" y="74430" z="-3432" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87902" y="76296" z="-3400" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83908" y="75695" z="-3680" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82611" y="76423" z="-3656" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83357" y="78524" z="-3736" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81606" y="82490" z="-3168" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="89498" y="80820" z="-3480" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87286" y="78224" z="-3464" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86731" y="79365" z="-3512" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84947" y="78474" z="-3640" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92189" y="83650" z="-3680" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86732" y="81110" z="-3614" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86835" y="81322" z="-3586" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80905" y="82160" z="-3248" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81250" y="80994" z="-3359" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81581" y="79126" z="-3507" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80731" y="77176" z="-3468" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92914" y="79396" z="-3293" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91967" y="81327" z="-3470" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91804" y="90989" z="-3392" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91973" y="89776" z="-3460" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84610" y="93696" z="-3441" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91692" y="85313" z="-3656" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91976" y="84922" z="-3684" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90060" y="79509" z="-3294" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83951" y="76430" z="-3698" h="0" />
+		<npc id="22770" /><!--Tanta Lizardman Soldier-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91904" y="81929" z="-3536" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91235" y="88278" z="-3440" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91096" y="88159" z="-3432" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91102" y="89220" z="-3440" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93387" y="85183" z="-3648" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92281" y="87166" z="-3560" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93277" y="89314" z="-3560" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88266" y="89761" z="-3152" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86913" y="91401" z="-3160" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90927" y="92090" z="-3352" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91368" y="92364" z="-3368" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87360" y="92871" z="-3144" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90727" y="92676" z="-3352" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84581" y="93017" z="-3368" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84889" y="95473" z="-3432" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93533" y="82987" z="-3544" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91640" y="79001" z="-3240" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91283" y="79466" z="-3272" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93497" y="78381" z="-3200" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93222" y="76126" z="-3312" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92713" y="74933" z="-3344" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90761" y="75216" z="-3320" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88328" y="72809" z="-3440" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88759" y="76959" z="-3288" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87787" y="73399" z="-3440" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87597" y="77681" z="-3464" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85618" y="73610" z="-3576" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84053" y="75775" z="-3672" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83034" y="75668" z="-3624" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82982" y="76026" z="-3648" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82981" y="78245" z="-3712" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84032" y="80928" z="-3640" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="89706" y="80159" z="-3392" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87310" y="79764" z="-3464" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86602" y="79726" z="-3536" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87698" y="79336" z="-3448" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88151" y="81385" z="-3456" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80747" y="81780" z="-3260" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81071" y="82417" z="-3228" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80793" y="81038" z="-3378" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81409" y="78824" z="-3483" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81300" y="76597" z="-3549" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="89236" y="75594" z="-3317" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92556" y="79147" z="-3292" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93455" y="79273" z="-3282" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93418" y="84299" z="-3617" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92359" y="85948" z="-3611" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92125" y="91079" z="-3408" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87301" y="91154" z="-3259" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87733" y="91177" z="-3292" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84849" y="93718" z="-3429" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84383" y="93822" z="-3460" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91271" y="83645" z="-3646" h="0" />
+		<npc id="22771" /><!--Tanta Lizardman Berserker-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91091" y="86073" z="-3536" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91709" y="84406" z="-3688" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90791" y="88185" z="-3400" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90458" y="88078" z="-3368" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91502" y="88459" z="-3440" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92286" y="85033" z="-3664" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93038" y="88427" z="-3304" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="89678" y="91472" z="-3256" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90547" y="90870" z="-3360" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90895" y="90982" z="-3368" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87070" y="92502" z="-3152" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88072" y="92193" z="-3152" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85180" y="93919" z="-3400" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84166" y="94474" z="-3432" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="94093" y="80173" z="-3328" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93201" y="81845" z="-3456" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="94043" y="76396" z="-3328" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93335" y="74790" z="-3368" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87898" y="74991" z="-3360" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87185" y="72704" z="-3448" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86595" y="77439" z="-3536" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86616" y="77150" z="-3576" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85650" y="73425" z="-3568" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84618" y="75445" z="-3648" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85589" y="76716" z="-3672" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82646" y="76024" z="-3616" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82478" y="79670" z="-3624" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88712" y="80052" z="-3376" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="89756" y="81904" z="-3568" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86226" y="78986" z="-3536" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87706" y="78447" z="-3448" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91813" y="83795" z="-3669" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91585" y="82716" z="-3602" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90201" y="82796" z="-3550" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84875" y="80449" z="-3725" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84243" y="80701" z="-3677" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81836" y="82710" z="-3162" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81755" y="82934" z="-3147" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81182" y="80679" z="-3376" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81618" y="80254" z="-3478" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82134" y="76791" z="-3637" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82360" y="76147" z="-3641" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82407" y="76854" z="-3675" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81904" y="77698" z="-3591" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88342" y="75261" z="-3316" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="89671" y="75221" z="-3334" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91823" y="75730" z="-3186" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92628" y="75624" z="-3299" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93114" y="76440" z="-3340" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93921" y="79440" z="-3331" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92723" y="81141" z="-3421" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92251" y="81209" z="-3471" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93090" y="83501" z="-3613" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92188" y="90873" z="-3422" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91978" y="90661" z="-3406" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87130" y="91668" z="-3161" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86938" y="92252" z="-3149" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86998" y="92951" z="-3167" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85172" y="93668" z="-3403" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85717" y="94806" z="-3397" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86067" y="94273" z="-3317" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92975" y="91282" z="-3440" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93491" y="88852" z="-3565" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92875" y="87343" z="-3563" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90238" y="79086" z="-3236" h="0" />
+		<npc id="22772" /><!--Tanta Lizardman Archer-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91863" y="88156" z="-3480" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90972" y="88101" z="-3424" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="89320" y="91017" z="-3312" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88053" y="90307" z="-3280" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91462" y="90393" z="-3424" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90431" y="92178" z="-3272" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91048" y="90357" z="-3392" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87915" y="92793" z="-3136" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87481" y="92012" z="-3152" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86979" y="93666" z="-3184" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84492" y="94336" z="-3464" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84917" y="94645" z="-3456" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85223" y="94883" z="-3440" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91593" y="81221" z="-3456" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91294" y="81388" z="-3472" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91482" y="81231" z="-3456" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91326" y="78712" z="-3208" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91255" y="79091" z="-3224" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88647" y="75521" z="-3304" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88362" y="77498" z="-3376" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88385" y="77354" z="-3360" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86554" y="73823" z="-3520" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86593" y="73458" z="-3504" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86587" y="74559" z="-3512" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88134" y="77811" z="-3408" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92238" y="90680" z="-3428" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88562" y="91600" z="-3243" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="88059" y="91682" z="-3205" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92929" y="87720" z="-3565" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90536" y="79206" z="-3251" h="0" />
+		<npc id="22773" /><!--Tanta Lizardman Magician-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90646" y="87158" z="-3408" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="89871" y="90204" z="-3320" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91763" y="90127" z="-3440" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92970" y="85893" z="-3608" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92553" y="84533" z="-3672" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92448" y="88204" z="-3552" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86527" y="91547" z="-3144" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90078" y="91446" z="-3280" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90577" y="91317" z="-3344" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91221" y="90655" z="-3384" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87522" y="93271" z="-3144" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84691" y="95506" z="-3408" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="94985" y="88116" z="-3488" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="90411" y="80718" z="-3440" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93557" y="78824" z="-3232" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92341" y="77225" z="-3304" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="94164" y="76127" z="-3328" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87973" y="72640" z="-3432" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87986" y="75510" z="-3344" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85342" y="75610" z="-3664" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84061" y="75930" z="-3688" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82528" y="78392" z="-3656" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="79568" y="80105" z="-3360" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87014" y="79918" z="-3504" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87288" y="78343" z="-3464" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="86309" y="78753" z="-3520" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87706" y="78447" z="-3448" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="87020" y="80005" z="-3504" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91479" y="85063" z="-3674" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84972" y="80980" z="-3685" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81824" y="82341" z="-3202" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81273" y="82794" z="-3167" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81187" y="77223" z="-3509" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="82069" y="76558" z="-3642" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="93997" y="79567" z="-3332" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92350" y="86311" z="-3601" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="92502" y="91209" z="-3441" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85316" y="95163" z="-3439" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="84666" y="94971" z="-3438" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="91775" y="79624" z="-3325" h="0" />
+		<npc id="22774" /><!--Tanta Lizardman Summoner-->
+	</spawn>	
+	<spawn count="5" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_04]-->
+			<add x="82892" y="86896" zmin="-3496" zmax="-3096" />
+			<add x="83512" y="86424" zmin="-3496" zmax="-3096" />
+			<add x="85716" y="88811" zmin="-3496" zmax="-3096" />
+			<add x="85387" y="89905" zmin="-3496" zmax="-3096" />
+			<add x="83340" y="88824" zmin="-3496" zmax="-3096" />
+		</territory>
+		<npc id="20780" /><!--Bloody Axe Elite-->
+	</spawn>
+	<spawn count="4" respawn="5" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_05]-->
+			<add x="82832" y="92484" zmin="-3556" zmax="-3256" />
+			<add x="82672" y="91491" zmin="-3556" zmax="-3256" />
+			<add x="85020" y="91044" zmin="-3556" zmax="-3256" />
+			<add x="84858" y="92012" zmin="-3556" zmax="-3256" />
+		</territory>
+		<npc id="20780" /><!--Bloody Axe Elite-->
+	</spawn>
+	<spawn count="5" respawn="15" respawn_random="0" period_of_day="none">
+		<territory><!--[oren21_qm2220_06]-->
+			<add x="96606" y="93003" zmin="-3763" zmax="-3463" />
+			<add x="96553" y="91432" zmin="-3763" zmax="-3463" />
+			<add x="97534" y="91493" zmin="-3763" zmax="-3463" />
+			<add x="97090" y="93071" zmin="-3763" zmax="-3463" />
+		</territory>
+		<npc id="27323" /><!--Divine Emissary-->
+	</spawn>
+
+	<!--Antharas Fortress Spawn-->
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80031" y="92773" z="-2880" h="37568" />
+		<npc id="36182" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="80329" y="92637" z="-2880" h="5012" />
+		<npc id="36182" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="79686" y="91280" z="-2720" h="37660" />
+		<npc id="36172" /><!--Foreman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="78231" y="89249" z="-2880" h="5012" />
+		<npc id="36183" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="77927" y="89390" z="-2880" h="37920" />
+		<npc id="36183" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="78812" y="90685" z="-2880" h="5012" />
+		<npc id="36184" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="79666" y="91408" z="-2880" h="37660" />
+		<npc id="36184" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="78611" y="90849" z="-2880" h="37660" />
+		<npc id="36184" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="79865" y="91249" z="-2880" h="5012" />
+		<npc id="36184" /><!--Doorman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="76848" y="92624" z="-2880" h="62456" />
+		<npc id="36181" /><!--Detention Camp Warden-->
+	</spawn>
+	<spawn group="antharas_fortress_peace_merchant" count="1" respawn="10" respawn_random="0" period_of_day="none">
+		<point x="80904" y="94098" z="-3152" h="64664" />
+		<npc id="36173" /><!--Suspicious Merchant-->
+	</spawn>
+	<spawn group="antharas_fortress_peace_commanders" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79440" y="88752" z="-2608" h="0" />
+		<npc id="36175" /><!--Archer Captain-->
+	</spawn>
+	<spawn group="antharas_fortress_peace_commanders" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77262" y="91704" z="-2864" h="5112" />
+		<npc id="36174" /><!--Guard Captain-->
+	</spawn>
+	<spawn group="antharas_fortress_peace_commanders" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80929" y="90510" z="-2860" h="-25344" />
+		<npc id="36177" /><!--Support Unit Captain-->
+	</spawn>
+	<spawn group="antharas_fortress_siege_commanders" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="79440" y="88752" z="-2608" h="0" />
+		<npc id="36202" /><!--Archer Captain-->
+	</spawn>
+	<spawn group="antharas_fortress_siege_commanders" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="77262" y="91704" z="-2864" h="5112" />
+		<npc id="36196" /><!--Guard Captain-->
+	</spawn>
+	<spawn group="antharas_fortress_siege_commanders" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="80929" y="90510" z="-2860" h="-25344" />
+		<npc id="36199" /><!--Support Unit Captain-->
+	</spawn>
+	<spawn group="antharas_fortress_siege_commanders" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78915" y="93374" z="-2732" h="13024" />
+		<npc id="36190" /><!--Main Machine-->
+	</spawn>
+	<spawn group="antharas_fortress_siege_commanders" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="80755" y="89002" z="-2850" h="21984" />
+		<npc id="36204" /><!--General-->
+	</spawn>
+	<spawn group="antharas_fortress_out_power_units" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="78715" y="93037" z="-2887" h="-19200" />
+		<npc id="36191" /><!--Backup Power Unit-->
+	</spawn>
+	<spawn group="antharas_fortress_out_power_units" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="78418" y="93601" z="-2887" h="29984" />
+		<npc id="36191" /><!--Backup Power Unit-->
+	</spawn>
+	<spawn group="antharas_fortress_out_power_units" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="78978" y="93899" z="-2887" h="13396" />
+		<npc id="36191" /><!--Backup Power Unit-->
+	</spawn>
+	<spawn group="antharas_fortress_out_power_units" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="79279" y="93337" z="-2887" h="3356" />
+		<npc id="36191" /><!--Backup Power Unit-->
+	</spawn>
+	<spawn group="antharas_fortress_out_power_units" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79137" y="92935" z="-2887" h="-11044" />
+		<npc id="36192" /><!--Control Unit-->
+	</spawn>
+	<spawn group="antharas_fortress_in_power_units" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79248" y="93680" z="-2828" h="-27408" />
+		<npc id="36193" /><!--Power Control Unit-->
+	</spawn>
+	<spawn group="antharas_fortress_in_power_units" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78624" y="93872" z="-2796" h="-11176" />
+		<npc id="36193" /><!--Power Control Unit-->
+	</spawn>
+	<spawn group="antharas_fortress_in_power_units" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78448" y="93248" z="-2764" h="5940" />
+		<npc id="36193" /><!--Power Control Unit-->
+	</spawn>
+	<spawn group="antharas_fortress_mercenary" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80491" y="94076" z="-3114" h="-18296" />
+		<npc id="36207" /><!--Mercenary Caption-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79297" y="91077" z="-1962" h="5012" />
+		<npc id="36185" /><!--Rebel Commander-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79311" y="91132" z="-1962" h="5012" />
+		<npc id="36186" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79325" y="91107" z="-1961" h="5012" />
+		<npc id="36186" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79338" y="91082" z="-1962" h="5012" />
+		<npc id="36186" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79351" y="91057" z="-1962" h="5012" />
+		<npc id="36186" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79124" y="91037" z="-1962" h="-27876" />
+		<npc id="36186" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79137" y="91011" z="-1961" h="-27876" />
+		<npc id="36186" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79150" y="90986" z="-1961" h="-27876" />
+		<npc id="36186" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79164" y="90960" z="-1961" h="-27876" />
+		<npc id="36186" /><!--Decorated Rebel Soldier-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79519" y="91168" z="-1993" h="5012" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79629" y="90970" z="-1993" h="5012" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79613" y="90998" z="-1993" h="5012" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79535" y="91139" z="-1993" h="5012" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79550" y="91110" z="-1993" h="5012" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79597" y="91025" z="-1993" h="5012" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79566" y="91082" z="-1993" h="5012" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79582" y="91053" z="-1993" h="5012" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79312" y="91744" z="-2517" h="20576" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79280" y="91729" z="-2517" h="20576" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79342" y="91757" z="-2517" h="20576" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79055" y="90553" z="-2172" h="22200" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79080" y="90569" z="-2172" h="22200" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79029" y="90537" z="-2172" h="22200" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78724" y="91294" z="-2367" h="5536" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78708" y="91320" z="-2367" h="5536" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_noowner_flagdef" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78692" y="91346" z="-2367" h="5536" />
+		<npc id="36187" /><!--Rebel Private-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79311" y="91132" z="-1962" h="5012" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79325" y="91107" z="-1961" h="5012" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79338" y="91082" z="-1962" h="5012" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79351" y="91057" z="-1962" h="5012" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79124" y="91037" z="-1962" h="-27876" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79137" y="91011" z="-1961" h="-27876" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79150" y="90986" z="-1961" h="-27876" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79164" y="90960" z="-1961" h="-27876" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79519" y="91168" z="-1993" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79629" y="90970" z="-1993" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79613" y="90998" z="-1993" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79535" y="91139" z="-1993" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79550" y="91110" z="-1993" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79597" y="91025" z="-1993" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79566" y="91082" z="-1993" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_owner_flagdef" count="1" respawn="180" respawn_random="0" period_of_day="none">
+		<point x="79582" y="91053" z="-1993" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_envoy" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79618" y="91276" z="-2728" h="5012" />
+		<npc id="36443" /><!--Special Envoy-->
+	</spawn>
+	<spawn group="antharas_fortress_envoy" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79641" y="91231" z="-2728" h="5012" />
+		<npc id="36444" /><!--Special Envoy-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="80164" y="92755" z="-2887" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="80179" y="92726" z="-2887" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="80194" y="92696" z="-2887" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="80209" y="92667" z="-2887" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="78095" y="89267" z="-2887" h="-27616" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="78079" y="89296" z="-2887" h="-27616" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="78064" y="89325" z="-2888" h="-27616" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="78049" y="89354" z="-2888" h="-27616" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="79766" y="91389" z="-2887" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="79782" y="91357" z="-2887" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="79798" y="91325" z="-2887" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="79814" y="91293" z="-2887" h="5012" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="78711" y="90707" z="-2887" h="-27876" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="78696" y="90737" z="-2887" h="-27876" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="78680" y="90767" z="-2887" h="-27876" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="600" respawn_random="0" period_of_day="none">
+		<point x="78664" y="90798" z="-2887" h="-27876" />
+		<npc id="36188" /><!--Court Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79664" y="93712" z="-2512" h="4916" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79680" y="93696" z="-2512" h="4916" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80720" y="91728" z="-2512" h="4916" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80736" y="91696" z="-2512" h="4916" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81104" y="91008" z="-2512" h="4916" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81120" y="90976" z="-2512" h="4916" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81488" y="90272" z="-2512" h="4916" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81504" y="90240" z="-2512" h="4916" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81760" y="89488" z="-2513" h="-3000" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81744" y="89456" z="-2513" h="-3000" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81632" y="89008" z="-2513" h="-3000" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81616" y="88976" z="-2513" h="-3000" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81120" y="88576" z="-2512" h="-11176" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81088" y="88560" z="-2512" h="-11176" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80528" y="88256" z="-2512" h="-11176" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80496" y="88240" z="-2512" h="-11176" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79936" y="87952" z="-2512" h="-11176" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79904" y="87936" z="-2512" h="-11176" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79440" y="87824" z="-2513" h="-19404" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79408" y="87840" z="-2513" h="-19404" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78960" y="87968" z="-2513" h="-19404" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78928" y="87968" z="-2513" h="-19404" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78560" y="88400" z="-2512" h="-26876" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78544" y="88432" z="-2512" h="-26876" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77536" y="90304" z="-2512" h="-26876" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77520" y="90320" z="-2512" h="-26876" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77152" y="91024" z="-2512" h="-27196" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77136" y="91056" z="-2512" h="-27196" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="76768" y="91744" z="-2512" h="-27196" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="76752" y="91776" z="-2512" h="-27196" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="76480" y="92528" z="-2513" h="29668" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="76496" y="92560" z="-2513" h="29668" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="76640" y="93008" z="-2513" h="29668" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="76656" y="93040" z="-2513" h="29668" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="76992" y="93376" z="-2512" h="22340" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77024" y="93392" z="-2512" h="22340" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77568" y="93680" z="-2512" h="22340" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77600" y="93696" z="-2512" h="22340" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78176" y="94000" z="-2512" h="22340" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78208" y="94016" z="-2512" h="22340" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78816" y="94192" z="-2513" h="13736" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78848" y="94192" z="-2513" h="13736" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79296" y="94064" z="-2513" h="13532" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79328" y="94048" z="-2513" h="13532" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79649" y="92243" z="-2887" h="8328" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79600" y="92224" z="-2887" h="8328" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79648" y="92192" z="-2887" h="8328" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79696" y="92160" z="-2887" h="8328" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79552" y="92256" z="-2887" h="8328" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78640" y="89840" z="-2887" h="-23452" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78640" y="89904" z="-2887" h="-23452" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78704" y="89872" z="-2887" h="-23452" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78768" y="89840" z="-2887" h="-23452" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78576" y="89936" z="-2887" h="-23452" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78912" y="91925" z="-2887" h="0" />
+		<npc id="36206" /><!--Ballista-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79252" y="90176" z="-2887" h="0" />
+		<npc id="36206" /><!--Ballista-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80247" y="88389" z="-2887" h="0" />
+		<npc id="36206" /><!--Ballista-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78023" y="93737" z="-2887" h="0" />
+		<npc id="36206" /><!--Ballista-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80144" y="92288" z="-2444" h="21316" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80118" y="92274" z="-2444" h="21316" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80169" y="92301" z="-2444" h="21316" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80157" y="92261" z="-2444" h="21316" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79820" y="92909" z="-2444" h="-11532" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79794" y="92896" z="-2444" h="-11532" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79845" y="92922" z="-2444" h="-11532" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79806" y="92935" z="-2444" h="-11532" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78894" y="92293" z="-2444" h="0" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78870" y="92312" z="-2444" h="0" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78870" y="92275" z="-2444" h="0" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78893" y="92259" z="-2444" h="0" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78111" y="89718" z="-2444" h="-11536" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78138" y="89731" z="-2444" h="-11536" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78085" y="89705" z="-2444" h="-11536" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78099" y="89743" z="-2444" h="-11536" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78424" y="89120" z="-2444" h="21948" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78400" y="89106" z="-2444" h="21948" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78449" y="89135" z="-2444" h="21948" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78438" y="89097" z="-2444" h="21948" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79504" y="89904" z="-2444" h="-29660" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79514" y="89875" z="-2444" h="-29660" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79538" y="89899" z="-2444" h="-29660" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_default_guards" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79549" y="89870" z="-2444" h="-29660" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80041" y="91903" z="-2534" h="5204" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80027" y="91928" z="-2534" h="5204" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80063" y="91914" z="-2534" h="5204" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80049" y="91939" z="-2534" h="5204" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80253" y="92417" z="-2711" h="-28436" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80241" y="92443" z="-2711" h="-28436" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80229" y="92406" z="-2711" h="-28436" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80218" y="92432" z="-2711" h="-28436" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79444" y="93042" z="-2534" h="-10792" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79457" y="93021" z="-2534" h="-10792" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79469" y="93057" z="-2534" h="-10792" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79481" y="93035" z="-2534" h="-10792" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80002" y="92905" z="-2711" h="-27968" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79989" y="92931" z="-2711" h="-27968" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79980" y="92894" z="-2711" h="-27968" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79966" y="92920" z="-2711" h="-27968" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78766" y="92652" z="-2534" h="-27780" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78780" y="92626" z="-2534" h="-27780" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78743" y="92640" z="-2534" h="-27780" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78757" y="92614" z="-2534" h="-27780" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78620" y="92101" z="-2711" h="21324" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78645" y="92115" z="-2711" h="21324" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78609" y="92123" z="-2711" h="21324" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78634" y="92136" z="-2711" h="21324" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78212" y="90103" z="-2534" h="-28000" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78225" y="90077" z="-2534" h="-28000" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78191" y="90092" z="-2534" h="-28000" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78203" y="90067" z="-2534" h="-28000" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78012" y="89566" z="-2711" h="5388" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77999" y="89590" z="-2711" h="5388" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78034" y="89577" z="-2711" h="5388" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78020" y="89602" z="-2711" h="5388" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78800" y="88975" z="-2534" h="-28044" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78786" y="89001" z="-2534" h="-28044" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78778" y="88963" z="-2534" h="-28044" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78764" y="88989" z="-2534" h="-28044" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78249" y="89119" z="-2711" h="5816" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78264" y="89095" z="-2711" h="5816" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78270" y="89131" z="-2711" h="5816" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78285" y="89106" z="-2711" h="5816" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79359" y="89915" z="-2534" h="5508" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79374" y="89890" z="-2534" h="5508" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79380" y="89927" z="-2534" h="5508" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79396" y="89902" z="-2534" h="5508" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79914" y="89779" z="-2711" h="22244" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79901" y="89800" z="-2711" h="22244" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79889" y="89764" z="-2711" h="22244" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79875" y="89784" z="-2711" h="22244" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80877" y="90674" z="-2860" h="-15340" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80651" y="90653" z="-2860" h="-5296" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80655" y="90503" z="-2860" h="-1140" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80744" y="90436" z="-2860" h="3800" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="80752" y="90336" z="-2860" h="6872" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="81068" y="90402" z="-2860" h="26684" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79439" y="88751" z="-2816" h="0" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79721" y="88646" z="-2816" h="53247" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79741" y="88735" z="-2816" h="5500" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79584" y="89030" z="-2816" h="5500" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79507" y="89047" z="-2816" h="20480" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79151" y="88858" z="-2815" h="20480" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79125" y="88784" z="-2811" h="38143" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79290" y="88472" z="-2815" h="38143" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79366" y="88459" z="-2815" h="53247" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79502" y="88494" z="-2707" h="20480" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79532" y="88508" z="-2707" h="20480" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79374" y="89007" z="-2707" h="53247" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79345" y="88993" z="-2707" h="53247" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77287" y="91801" z="-2864" h="36863" />
+		<npc id="36197" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77303" y="91769" z="-2864" h="36863" />
+		<npc id="36197" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77319" y="91737" z="-2863" h="36863" />
+		<npc id="36197" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77335" y="91705" z="-2863" h="36863" />
+		<npc id="36197" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77351" y="91673" z="-2863" h="36863" />
+		<npc id="36197" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77335" y="91817" z="-2864" h="36863" />
+		<npc id="36198" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77351" y="91785" z="-2864" h="36863" />
+		<npc id="36198" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77367" y="91753" z="-2864" h="36863" />
+		<npc id="36198" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77383" y="91721" z="-2864" h="36863" />
+		<npc id="36198" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="77399" y="91689" z="-2864" h="36863" />
+		<npc id="36198" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_live_with_c_center" count="6" respawn="60" respawn_random="0" period_of_day="none">
+		<territory><!--[fort116_2220_outer_shop]-->
+			<add x="79786" y="93260" zmin="-2914" zmax="-2714" />
+			<add x="79487" y="93817" zmin="-2914" zmax="-2714" />
+			<add x="79239" y="93024" zmin="-2914" zmax="-2714" />
+			<add x="79017" y="92891" zmin="-2914" zmax="-2714" />
+			<add x="78355" y="93076" zmin="-2914" zmax="-2714" />
+			<add x="78255" y="93271" zmin="-2914" zmax="-2714" />
+			<add x="78454" y="94048" zmin="-2914" zmax="-2714" />
+			<add x="77857" y="93749" zmin="-2914" zmax="-2714" />
+			<add x="78486" y="92562" zmin="-2914" zmax="-2714" />
+			<add x="78486" y="92562" zmin="-2914" zmax="-2714" />
+		</territory>
+		<npc id="36194" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79520" y="92208" z="-2887" h="8328" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79568" y="92176" z="-2887" h="8328" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79616" y="92144" z="-2887" h="8328" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="79664" y="92112" z="-2887" h="8328" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78619" y="89987" z="-2887" h="-23452" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78683" y="89957" z="-2887" h="-23452" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78748" y="89927" z="-2887" h="-23452" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_1" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<point x="78813" y="89896" z="-2887" h="-23452" />
+		<npc id="36189" /><!--Guard-->
+	</spawn>
+	<territory name="fort116_2220_reinforce_a1">
+		<add x="78948" y="87303" zmin="-3347" zmax="-1347" />
+		<add x="82380" y="89012" zmin="-3347" zmax="-1347" />
+		<add x="79358" y="94791" zmin="-3347" zmax="-1347" />
+		<add x="75895" y="92869" zmin="-3347" zmax="-1347" />
+	</territory>
+	<territory name="fort116_2220_reinforce_b1">
+		<add x="78795" y="89182" zmin="-2928" zmax="-2728" />
+		<add x="80176" y="89052" zmin="-2928" zmax="-2728" />
+		<add x="80216" y="89733" zmin="-2928" zmax="-2728" />
+		<add x="78715" y="89322" zmin="-2928" zmax="-2728" />
+	</territory>
+	<territory name="fort116_2220_reinforce_b2">
+		<add x="77737" y="90356" zmin="-2928" zmax="-2728" />
+		<add x="78352" y="91140" zmin="-2928" zmax="-2728" />
+		<add x="78176" y="91440" zmin="-2928" zmax="-2728" />
+		<add x="77324" y="91084" zmin="-2928" zmax="-2728" />
+	</territory>
+	<territory name="fort116_2220_reinforce_b3">
+		<add x="78825" y="92692" zmin="-2928" zmax="-2728" />
+		<add x="79150" y="91981" zmin="-2928" zmax="-2728" />
+		<add x="79533" y="92736" zmin="-2928" zmax="-2728" />
+		<add x="79348" y="93119" zmin="-2928" zmax="-2728" />
+	</territory>
+	<territory name="fort116_2220_reinforce_b4">
+		<add x="79815" y="90166" zmin="-2928" zmax="-2728" />
+		<add x="80015" y="89761" zmin="-2928" zmax="-2728" />
+		<add x="80663" y="91257" zmin="-2928" zmax="-2728" />
+		<add x="80520" y="91492" zmin="-2928" zmax="-2728" />
+	</territory>
+	<territory name="fort116_2220_reinforce_b5">
+		<add x="77011" y="92379" zmin="-2928" zmax="-2728" />
+		<add x="78580" y="92649" zmin="-2928" zmax="-2728" />
+		<add x="78121" y="93345" zmin="-2928" zmax="-2728" />
+		<add x="76912" y="92882" zmin="-2928" zmax="-2728" />
+	</territory>
+	<territory name="fort116_2220_gunner1">
+		<add x="78795" y="89182" zmin="-2928" zmax="-2728" />
+		<add x="80176" y="89052" zmin="-2928" zmax="-2728" />
+		<add x="80216" y="89733" zmin="-2928" zmax="-2728" />
+		<add x="78715" y="89322" zmin="-2928" zmax="-2728" />
+	</territory>
+	<territory name="fort116_2220_gunner2">
+		<add x="77737" y="90356" zmin="-2928" zmax="-2728" />
+		<add x="78352" y="91140" zmin="-2928" zmax="-2728" />
+		<add x="78176" y="91440" zmin="-2928" zmax="-2728" />
+		<add x="77324" y="91084" zmin="-2928" zmax="-2728" />
+	</territory>
+	<territory name="fort116_2220_gunner3">
+		<add x="78825" y="92692" zmin="-2928" zmax="-2728" />
+		<add x="79150" y="91981" zmin="-2928" zmax="-2728" />
+		<add x="79533" y="92736" zmin="-2928" zmax="-2728" />
+		<add x="79348" y="93119" zmin="-2928" zmax="-2728" />
+	</territory>
+	<territory name="fort116_2220_gunner4">
+		<add x="79815" y="90166" zmin="-2928" zmax="-2728" />
+		<add x="80015" y="89761" zmin="-2928" zmax="-2728" />
+		<add x="80663" y="91257" zmin="-2928" zmax="-2728" />
+		<add x="80520" y="91492" zmin="-2928" zmax="-2728" />
+	</territory>
+	<territory name="fort116_2220_gunner5">
+		<add x="77011" y="92379" zmin="-2928" zmax="-2728" />
+		<add x="78580" y="92649" zmin="-2928" zmax="-2728" />
+		<add x="78121" y="93345" zmin="-2928" zmax="-2728" />
+		<add x="76912" y="92882" zmin="-2928" zmax="-2728" />
+	</territory>
+	<spawn group="antharas_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b1" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b1" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b1" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b2" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b2" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b2" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b3" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b3" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b3" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b4" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b4" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b4" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b5" />
+		<npc id="36203" /><!--Archer-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="2" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b5" />
+		<npc id="36200" /><!--Wizard-->
+	</spawn>
+	<spawn group="antharas_fortress_reinforce_2" count="1" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_reinforce_b5" />
+		<npc id="36201" /><!--Healer-->
+	</spawn>
+		<spawn group="antharas_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_gunner1" />
+		<npc id="36194" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="antharas_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_gunner2" />
+		<npc id="36194" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="antharas_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_gunner3" />
+		<npc id="36194" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="antharas_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_gunner4" />
+		<npc id="36194" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+	<spawn group="antharas_fortress_gunner" count="3" respawn="0" respawn_random="0" period_of_day="none">
+		<territory name="fort116_2220_gunner5" />
+		<npc id="36194" /><!--Dwarven Gunnery Sergeant-->
+	</spawn>
+</list>

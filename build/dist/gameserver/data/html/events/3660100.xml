@@ -1,0 +1,440 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Gludio Territory Manager Multisell -->
+
+<list>
+  <config showall="true" notax="true" keepenchanted="false" />
+
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13757" count="160" />
+   <production id="10505" count="1" /> <!-- CP Striped Silk Shirt-->
+  </item>
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13758" count="160" />
+   <production id="10504" count="1" /> <!-- HP Striped Silk Shirt-->
+  </item>
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13759" count="160" />
+   <production id="10503" count="1" /> <!-- MP Striped Silk Shirt-->
+  </item>
+  
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13758" count="160" />
+   <production id="13941" count="1" /> <!-- Top-Grade Magic Pouch Cloth Belt-->
+  </item>
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13759" count="160" />
+   <production id="13957" count="1" /> <!-- Top-Grade Magic Pin Cloth Belt-->
+  </item>
+  
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13757" count="160" />
+   <production id="13740" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13758" count="160" />
+   <production id="13741" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13759" count="160" />
+   <production id="13742" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13760" count="160" />
+   <production id="13743" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13761" count="160" />
+   <production id="13744" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13762" count="160" />
+   <production id="13745" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13763" count="160" />
+   <production id="13746" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13764" count="160" />
+   <production id="13747" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="3596400" />
+   <ingredient id="13765" count="160" />
+   <production id="13748" count="1" />
+  </item>
+
+  <item>
+   <ingredient id="57" count="1798200" />
+   <ingredient id="13757" count="80" />
+   <production id="14592" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="1798200" />
+   <ingredient id="13758" count="80" />
+   <production id="14593" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="1798200" />
+   <ingredient id="13759" count="80" />
+   <production id="14594" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="1798200" />
+   <ingredient id="13760" count="80" />
+   <production id="14595" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="1798200" />
+   <ingredient id="13761" count="80" />
+   <production id="14596" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="1798200" />
+   <ingredient id="13762" count="80" />
+   <production id="14597" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="1798200" />
+   <ingredient id="13763" count="80" />
+   <production id="14598" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="1798200" />
+   <ingredient id="13764" count="80" />
+   <production id="14599" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="1798200" />
+   <ingredient id="13765" count="80" />
+   <production id="14600" count="1" />
+  </item>
+
+  <item>
+   <ingredient id="57" count="2696400" />
+   <ingredient id="13757" count="120" />
+   <production id="14664" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2696400" />
+   <ingredient id="13758" count="120" />
+   <production id="14665" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2696400" />
+   <ingredient id="13759" count="120" />
+   <production id="14666" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2696400" />
+   <ingredient id="13760" count="120" />
+   <production id="14667" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2696400" />
+   <ingredient id="13761" count="120" />
+   <production id="14668" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2696400" />
+   <ingredient id="13762" count="120" />
+   <production id="14669" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2696400" />
+   <ingredient id="13763" count="120" />
+   <production id="14670" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2696400" />
+   <ingredient id="13764" count="120" />
+   <production id="14671" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2696400" />
+   <ingredient id="13765" count="120" />
+   <production id="14672" count="1" />
+  </item>
+
+  <item>
+   <ingredient id="57" count="14500" />
+   <ingredient id="13757" count="13" />
+   <production id="5591" count="1" /> <!-- CP Potion -->
+  </item>
+  <item>
+   <ingredient id="57" count="15600" />
+   <ingredient id="13757" count="14" />
+   <production id="5592" count="1" /> <!-- Greater CP Potion -->
+  </item>
+  
+  <item>
+   <ingredient id="57" count="21000" />
+   <ingredient id="13757" count="8" />
+   <production id="14685" count="1" /> <!-- Greater Elixir of Life (B-Grade) -->
+  </item>
+  <item>
+   <ingredient id="57" count="21000" />
+   <ingredient id="13757" count="8" />
+   <production id="14686" count="1" /> <!-- Greater Elixir of Life (A-Grade) -->
+  </item>
+  <item>
+   <ingredient id="57" count="21000" />
+   <ingredient id="13757" count="8" />
+   <production id="14687" count="1" /> <!-- Greater Elixir of Life (S-Grade) -->
+  </item>
+  <item>
+   <ingredient id="57" count="21000" />
+   <ingredient id="13757" count="8" />
+   <production id="14691" count="1" /> <!-- Greater Elixir of Mental Strength (B-Grade) -->
+  </item>
+  <item>
+   <ingredient id="57" count="21000" />
+   <ingredient id="13757" count="8" />
+   <production id="14692" count="1" /> <!-- Greater Elixir of Mental Strength (A-Grade) -->
+  </item>
+  <item>
+   <ingredient id="57" count="21000" />
+   <ingredient id="13757" count="8" />
+   <production id="14693" count="1" /> <!-- Greater Elixir of Mental Strength (S-Grade) -->
+  </item>
+  
+  <item>
+   <ingredient id="57" count="1000000" />
+   <ingredient id="13757" count="20" />
+   <production id="1804" count="1" /> <!-- Recipe: Soulshot: D-Grade-->
+  </item>
+  <item>
+   <ingredient id="57" count="1000000" />
+   <ingredient id="13757" count="20" />
+   <production id="1805" count="1" /> <!-- Recipe: Soulshot: C-Grade-->
+  </item>
+  <item>
+   <ingredient id="57" count="1000000" />
+   <ingredient id="13757" count="20" />
+   <production id="1806" count="1" /> <!-- Recipe: Soulshot: B-Grade-->
+  </item>
+  <item>
+   <ingredient id="57" count="1000000" />
+   <ingredient id="13757" count="20" />
+   <production id="1807" count="1" /> <!-- Recipe: Soulshot: A-Grade-->
+  </item>
+  
+  <item>
+   <ingredient id="57" count="1000000" />
+   <ingredient id="13757" count="20" />
+   <production id="3953" count="1" /> <!-- Recipe: Blessed Spiritshot D-Grade-->
+  </item>
+  <item>
+   <ingredient id="57" count="1000000" />
+   <ingredient id="13757" count="20" />
+   <production id="3954" count="1" /> <!-- Recipe: Blessed Spiritshot C-Grade-->
+  </item>
+  <item>
+   <ingredient id="57" count="1000000" />
+   <ingredient id="13757" count="20" />
+   <production id="3955" count="1" /> <!-- Recipe: Blessed Spiritshot B-Grade-->
+  </item>
+  <item>
+   <ingredient id="57" count="1000000" />
+   <ingredient id="13757" count="20" />
+   <production id="3956" count="1" /> <!-- Recipe: Blessed Spiritshot A-Grade-->
+  </item>
+  
+  <item>
+   <ingredient id="57" count="1000000" />
+   <ingredient id="13757" count="20" />
+   <production id="1666" count="1" /> <!-- Recipe: Wooden Arrow-->
+  </item>
+  <item>
+   <ingredient id="57" count="1000000" />
+   <ingredient id="13757" count="20" />
+   <production id="2250" count="1" /> <!-- Recipe: Bone Arrow-->
+  </item>
+  <item>
+   <ingredient id="57" count="1000000" />
+   <ingredient id="13757" count="20" />
+   <production id="2251" count="1" /> <!-- Recipe: Steel Arrow-->
+  </item>
+  <item>
+   <ingredient id="57" count="1000000" />
+   <ingredient id="13757" count="20" />
+   <production id="5230" count="1" /> <!-- Recipe: Mithril Arrow-->
+  </item>
+  
+  <item>
+   <ingredient id="57" count="2100000" />
+   <ingredient id="13757" count="80" />
+   <production id="14962" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2100000" />
+   <ingredient id="13757" count="80" />
+   <production id="14963" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2100000" />
+   <ingredient id="13757" count="80" />
+   <production id="14964" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2100000" />
+   <ingredient id="13757" count="80" />
+   <production id="14965" count="1" />
+  </item>
+
+  <item>
+   <ingredient id="57" count="801600" />
+   <ingredient id="13757" count="107" />
+   <production id="14582" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2604600" />
+   <ingredient id="13763" count="347" />
+   <production id="14589" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="2604600" />
+   <ingredient id="13759" count="347" />
+   <production id="14586" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="3472800" />
+   <ingredient id="13765" count="463" />
+   <production id="14583" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="534000" />
+   <ingredient id="13757" count="71" />
+   <production id="14584" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="534000" />
+   <ingredient id="13761" count="71" />
+   <production id="14585" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="534000" />
+   <ingredient id="13763" count="71" />
+   <production id="14587" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="534000" />
+   <ingredient id="13757" count="71" />
+   <production id="14588" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="534000" />
+   <ingredient id="13759" count="71" />
+   <production id="14590" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="534000" />
+   <ingredient id="13758" count="71" />
+   <production id="14591" count="1" />
+  </item>
+  
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13758" count="800" />
+   <production id="14562" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13758" count="800" />
+   <production id="14563" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13757" count="800" />
+   <production id="14560" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13757" count="800" />
+   <production id="14561" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13759" count="800" />
+   <production id="14564" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13759" count="800" />
+   <production id="14565" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13760" count="800" />
+   <production id="14566" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13760" count="800" />
+   <production id="14567" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13761" count="800" />
+   <production id="14568" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13761" count="800" />
+   <production id="14569" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13762" count="800" />
+   <production id="14570" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13762" count="800" />
+   <production id="14571" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13763" count="800" />
+   <production id="14572" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13763" count="800" />
+   <production id="14573" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13764" count="800" />
+   <production id="14574" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13764" count="800" />
+   <production id="14575" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13765" count="800" />
+   <production id="14576" count="1" />
+  </item>
+  <item>
+   <ingredient id="57" count="21000000" />
+   <ingredient id="13765" count="800" />
+   <production id="14577" count="1" />
+  </item>
+</list>

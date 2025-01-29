@@ -1,0 +1,30 @@
+[10.01.25 10:59:52] SUCCESS PacMan[268481203] admin_admin
+[10.01.25 10:59:53] SUCCESS PacMan[268481203] admin_char_manage
+[10.01.25 10:59:53] SUCCESS PacMan[268481203] admin_show_characters 0
+[10.01.25 11:00:03] SUCCESS PacMan[268481203] admin_admin
+[10.01.25 11:00:08] SUCCESS PacMan[268481203] admin_char_manage
+[10.01.25 11:00:09] SUCCESS PacMan[268481203] admin_show_characters 0
+[10.01.25 12:04:59] SUCCESS PacMan[268481203] admin_admin
+[10.01.25 12:05:00] SUCCESS PacMan[268481203] admin_gmshop
+[10.01.25 12:05:03] SUCCESS PacMan[268481203] admin_show_html gmstore/gear/jewels.htm
+[10.01.25 12:05:04] SUCCESS PacMan[268481203] admin_buy 9917
+[10.01.25 16:45:56] SUCCESS PacMan[268481203] admin_admin
+[10.01.25 16:45:57] SUCCESS PacMan[268481203] admin_show_moves
+[10.01.25 16:45:58] SUCCESS PacMan[268481203] admin_show_html teleports/town.htm
+[10.01.25 16:45:58] SUCCESS PacMan[268481203] admin_show_html teleports/town/giran.htm
+[10.01.25 16:45:59] SUCCESS PacMan[268481203] admin_move_to 82698 148638 -3473
+[10.01.25 19:04:36] SUCCESS PacMan[268481203] admin_admin
+[10.01.25 19:04:37] SUCCESS PacMan[268481203] admin_char_manage
+[10.01.25 19:04:37] SUCCESS PacMan[268481203] admin_show_characters 0
+[10.01.25 20:08:55] SUCCESS PacMan[268481203] admin_admin
+[10.01.25 20:08:56] SUCCESS PacMan[268481203] admin_char_manage
+[10.01.25 20:08:57] SUCCESS PacMan[268481203] admin_show_characters 0
+[10.01.25 20:09:00] SUCCESS PacMan[268481203] admin_admin
+[10.01.25 22:13:04] SUCCESS PacMan[268481203] admin_admin
+[10.01.25 22:13:05] SUCCESS PacMan[268481203] admin_char_manage
+[10.01.25 22:13:06] SUCCESS PacMan[268481203] admin_show_characters 0
+[10.01.25 22:13:08] SUCCESS PacMan[268481203] admin_teleportto OneShoTOneHiT
+[10.01.25 22:13:35] SUCCESS PacMan[268481203] admin_admin
+[10.01.25 22:13:36] SUCCESS PacMan[268481203] admin_char_manage
+[10.01.25 22:13:37] SUCCESS PacMan[268481203] admin_show_characters 0
+[10.01.25 22:13:39] SUCCESS PacMan[268481203] admin_teleportto CoreR

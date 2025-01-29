@@ -1,0 +1,46 @@
+<html>
+<head>
+  <title>AutoFarm Target Filter</title>
+</head>
+<body>
+<br>
+<center>
+  <table border=0 background="L2UI_CT1.Windows_DF_TooltipBG">
+    <tr>
+      <td align="center">
+        <br>
+        <font name="hs12" color="e3e3e3">AutoFarm Target Filter</font>
+        <img src="L2UI_CT1.Gauge_DF_CP_Center" width="600" height="2">
+      </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <br>
+  <table border=0 cellspacing=4 cellpadding=2>
+    <!-- We'll inject rows using FILTER_LIST -->
+    %FILTER_LIST%
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
+        <button value="Refresh" action="bypass _bbsautofarmfilter show" width="80" height="25" 
+                back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+      </td>
+      <td>
+        <button value="Reset" action="bypass _bbsautofarmfilter reset" width="80" height="25"
+                back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+      </td>
+      <td>
+        <button value="Back" action="bypass _bbsautofarm main" width="80" height="25"
+                back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+      </td>
+    </tr>
+  </table>
+        </td>
+    </tr>
+  </table>
+  
+</center>
+</body>
+</html>

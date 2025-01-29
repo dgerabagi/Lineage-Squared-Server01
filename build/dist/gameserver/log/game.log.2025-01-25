@@ -1,0 +1,925 @@
+[25.01.25 08:34:58] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[25.01.25 08:34:58] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[25.01.25 08:34:58] bosses BaylorManager : Init BaylorManager.
+[25.01.25 10:37:39] clan_reputation 1nTeaM|300|6147|raid
+[25.01.25 13:20:36] clan_reputation 1nTeaM|1500|8247|raid
+[25.01.25 14:43:18] enchants xThorosx|Trying to put enchant|9584|+2|268652003
+[25.01.25 14:43:23] enchants xThorosx|Trying to put enchant|9584|+3|268652003
+[25.01.25 14:44:01] enchants xThorosx|Trying to put enchant|9584|+0|268532357
+[25.01.25 14:44:04] enchants xThorosx|Trying to put enchant|9584|+1|268532357
+[25.01.25 14:44:07] enchants xThorosx|Trying to put enchant|9584|+2|268532357
+[25.01.25 14:44:10] enchants xThorosx|Trying to put enchant|9584|+3|268532357
+[25.01.25 14:44:21] enchants xThorosx|Trying to put enchant|9584|+4|268652002
+[25.01.25 14:44:30] enchants xThorosx|Trying to put enchant|9584|+4|268652003
+[25.01.25 14:44:37] enchants xThorosx|Trying to put enchant|9584|+4|268532357
+[25.01.25 14:44:43] enchants xThorosx|Trying to put enchant|9584|+5|268652002
+[25.01.25 14:44:49] enchants xThorosx|Trying to put enchant|9584|+5|268652003
+[25.01.25 14:44:55] enchants xThorosx|Trying to put enchant|9584|+5|268532357
+[25.01.25 14:45:02] enchants xThorosx|Trying to put enchant|9584|+6|268652003
+[25.01.25 14:45:06] enchants xThorosx|Trying to put enchant|9584|+6|268652002
+[25.01.25 15:11:49] enchant_skills Anita|Failed to enchant|1401|to+110|79
+[25.01.25 15:11:53] enchant_skills Anita|Successfully enchanted|1401|to+101|97
+[25.01.25 15:11:54] enchant_skills Anita|Successfully enchanted|1401|to+102|95
+[25.01.25 15:11:54] enchant_skills Anita|Successfully enchanted|1401|to+103|93
+[25.01.25 15:11:55] enchant_skills Anita|Successfully enchanted|1401|to+104|91
+[25.01.25 15:11:55] enchant_skills Anita|Successfully enchanted|1401|to+105|89
+[25.01.25 15:11:56] enchant_skills Anita|Successfully enchanted|1401|to+106|87
+[25.01.25 15:11:56] enchant_skills Anita|Successfully enchanted|1401|to+107|85
+[25.01.25 15:11:56] enchant_skills Anita|Successfully enchanted|1401|to+108|83
+[25.01.25 15:11:57] enchant_skills Anita|Successfully enchanted|1401|to+109|81
+[25.01.25 15:11:57] enchant_skills Anita|Successfully enchanted|1401|to+110|79
+[25.01.25 15:11:58] enchant_skills Anita|Failed to enchant|1401|to+111|77
+[25.01.25 15:11:59] enchant_skills Anita|Successfully enchanted|1401|to+101|97
+[25.01.25 15:11:59] enchant_skills Anita|Successfully enchanted|1401|to+102|95
+[25.01.25 15:12:00] enchant_skills Anita|Successfully enchanted|1401|to+103|93
+[25.01.25 15:12:00] enchant_skills Anita|Successfully enchanted|1401|to+104|91
+[25.01.25 15:12:00] enchant_skills Anita|Successfully enchanted|1401|to+105|89
+[25.01.25 15:12:01] enchant_skills Anita|Successfully enchanted|1401|to+106|87
+[25.01.25 15:12:01] enchant_skills Anita|Successfully enchanted|1401|to+107|85
+[25.01.25 15:12:02] enchant_skills Anita|Failed to enchant|1401|to+108|83
+[25.01.25 15:12:02] enchant_skills Anita|Successfully enchanted|1401|to+101|97
+[25.01.25 15:12:03] enchant_skills Anita|Successfully enchanted|1401|to+102|95
+[25.01.25 15:12:03] enchant_skills Anita|Successfully enchanted|1401|to+103|93
+[25.01.25 15:12:04] enchant_skills Anita|Successfully enchanted|1401|to+104|91
+[25.01.25 15:12:04] enchant_skills Anita|Successfully enchanted|1401|to+105|89
+[25.01.25 15:12:05] enchant_skills Anita|Successfully enchanted|1401|to+106|87
+[25.01.25 15:12:05] enchant_skills Anita|Successfully enchanted|1401|to+107|85
+[25.01.25 15:12:06] enchant_skills Anita|Successfully enchanted|1401|to+108|83
+[25.01.25 15:12:06] enchant_skills Anita|Successfully enchanted|1401|to+109|81
+[25.01.25 15:12:07] enchant_skills Anita|Successfully enchanted|1401|to+110|79
+[25.01.25 15:12:07] enchant_skills Anita|Failed to enchant|1401|to+111|77
+[25.01.25 15:12:08] enchant_skills Anita|Successfully enchanted|1401|to+101|97
+[25.01.25 15:12:08] enchant_skills Anita|Successfully enchanted|1401|to+102|95
+[25.01.25 15:12:09] enchant_skills Anita|Successfully enchanted|1401|to+103|93
+[25.01.25 15:12:09] enchant_skills Anita|Successfully enchanted|1401|to+104|91
+[25.01.25 15:12:10] enchant_skills Anita|Successfully enchanted|1401|to+105|89
+[25.01.25 15:12:10] enchant_skills Anita|Successfully enchanted|1401|to+106|87
+[25.01.25 15:12:11] enchant_skills Anita|Successfully enchanted|1401|to+107|85
+[25.01.25 15:12:11] enchant_skills Anita|Successfully enchanted|1401|to+108|83
+[25.01.25 15:12:11] enchant_skills Anita|Successfully enchanted|1401|to+109|81
+[25.01.25 15:12:12] enchant_skills Anita|Successfully enchanted|1401|to+110|79
+[25.01.25 15:12:12] enchant_skills Anita|Failed to enchant|1401|to+111|77
+[25.01.25 15:12:13] enchant_skills Anita|Successfully enchanted|1401|to+101|97
+[25.01.25 15:12:13] enchant_skills Anita|Successfully enchanted|1401|to+102|95
+[25.01.25 15:12:14] enchant_skills Anita|Successfully enchanted|1401|to+103|93
+[25.01.25 15:12:14] enchant_skills Anita|Successfully enchanted|1401|to+104|91
+[25.01.25 15:12:15] enchant_skills Anita|Successfully enchanted|1401|to+105|89
+[25.01.25 15:12:15] enchant_skills Anita|Successfully enchanted|1401|to+106|87
+[25.01.25 15:12:16] enchant_skills Anita|Successfully enchanted|1401|to+107|85
+[25.01.25 15:12:16] enchant_skills Anita|Successfully enchanted|1401|to+108|83
+[25.01.25 15:12:17] enchant_skills Anita|Successfully enchanted|1401|to+109|81
+[25.01.25 15:12:17] enchant_skills Anita|Successfully enchanted|1401|to+110|79
+[25.01.25 15:12:17] enchant_skills Anita|Successfully enchanted|1401|to+111|77
+[25.01.25 15:12:18] enchant_skills Anita|Successfully enchanted|1401|to+112|75
+[25.01.25 15:12:18] enchant_skills Anita|Successfully enchanted|1401|to+113|73
+[25.01.25 15:12:19] enchant_skills Anita|Successfully enchanted|1401|to+114|71
+[25.01.25 15:12:19] enchant_skills Anita|Successfully enchanted|1401|to+115|69
+[25.01.25 15:12:52] enchant_skills Anita|Successfully enchanted|115|to+110|79
+[25.01.25 15:12:52] enchant_skills Anita|Successfully enchanted|115|to+111|77
+[25.01.25 15:12:53] enchant_skills Anita|Successfully enchanted|115|to+112|75
+[25.01.25 15:12:53] enchant_skills Anita|Failed to enchant|115|to+113|73
+[25.01.25 15:12:54] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:12:54] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:12:55] enchant_skills Anita|Failed to enchant|115|to+103|93
+[25.01.25 15:12:55] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:12:56] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:12:56] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:12:56] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:12:57] enchant_skills Anita|Successfully enchanted|115|to+105|89
+[25.01.25 15:12:57] enchant_skills Anita|Successfully enchanted|115|to+106|87
+[25.01.25 15:12:58] enchant_skills Anita|Successfully enchanted|115|to+107|85
+[25.01.25 15:12:58] enchant_skills Anita|Successfully enchanted|115|to+108|83
+[25.01.25 15:12:59] enchant_skills Anita|Successfully enchanted|115|to+109|81
+[25.01.25 15:12:59] enchant_skills Anita|Successfully enchanted|115|to+110|79
+[25.01.25 15:12:59] enchant_skills Anita|Failed to enchant|115|to+111|77
+[25.01.25 15:13:00] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:01] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:01] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:13:02] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:13:02] enchant_skills Anita|Failed to enchant|115|to+105|89
+[25.01.25 15:13:03] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:03] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:04] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:13:04] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:13:05] enchant_skills Anita|Successfully enchanted|115|to+105|89
+[25.01.25 15:13:05] enchant_skills Anita|Successfully enchanted|115|to+106|87
+[25.01.25 15:13:06] enchant_skills Anita|Successfully enchanted|115|to+107|85
+[25.01.25 15:13:06] enchant_skills Anita|Failed to enchant|115|to+108|83
+[25.01.25 15:13:07] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:07] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:08] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:13:08] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:13:09] enchant_skills Anita|Successfully enchanted|115|to+105|89
+[25.01.25 15:13:09] enchant_skills Anita|Successfully enchanted|115|to+106|87
+[25.01.25 15:13:10] enchant_skills Anita|Successfully enchanted|115|to+107|85
+[25.01.25 15:13:10] enchant_skills Anita|Successfully enchanted|115|to+108|83
+[25.01.25 15:13:10] enchant_skills Anita|Successfully enchanted|115|to+109|81
+[25.01.25 15:13:11] enchant_skills Anita|Successfully enchanted|115|to+110|79
+[25.01.25 15:13:11] enchant_skills Anita|Successfully enchanted|115|to+111|77
+[25.01.25 15:13:12] enchant_skills Anita|Failed to enchant|115|to+112|75
+[25.01.25 15:13:13] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:13] enchant_skills Anita|Failed to enchant|115|to+102|95
+[25.01.25 15:13:14] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:14] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:15] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:13:15] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:13:16] enchant_skills Anita|Successfully enchanted|115|to+105|89
+[25.01.25 15:13:16] enchant_skills Anita|Successfully enchanted|115|to+106|87
+[25.01.25 15:13:16] enchant_skills Anita|Successfully enchanted|115|to+107|85
+[25.01.25 15:13:17] enchant_skills Anita|Successfully enchanted|115|to+108|83
+[25.01.25 15:13:17] enchant_skills Anita|Successfully enchanted|115|to+109|81
+[25.01.25 15:13:18] enchant_skills Anita|Successfully enchanted|115|to+110|79
+[25.01.25 15:13:18] enchant_skills Anita|Failed to enchant|115|to+111|77
+[25.01.25 15:13:18] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:19] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:19] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:13:20] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:13:20] enchant_skills Anita|Failed to enchant|115|to+105|89
+[25.01.25 15:13:21] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:22] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:22] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:13:23] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:13:23] enchant_skills Anita|Successfully enchanted|115|to+105|89
+[25.01.25 15:13:24] enchant_skills Anita|Successfully enchanted|115|to+106|87
+[25.01.25 15:13:24] enchant_skills Anita|Successfully enchanted|115|to+107|85
+[25.01.25 15:13:25] enchant_skills Anita|Failed to enchant|115|to+108|83
+[25.01.25 15:13:25] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:26] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:26] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:13:27] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:13:27] enchant_skills Anita|Successfully enchanted|115|to+105|89
+[25.01.25 15:13:28] enchant_skills Anita|Failed to enchant|115|to+106|87
+[25.01.25 15:13:28] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:29] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:29] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:13:30] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:13:30] enchant_skills Anita|Successfully enchanted|115|to+105|89
+[25.01.25 15:13:31] enchant_skills Anita|Successfully enchanted|115|to+106|87
+[25.01.25 15:13:32] enchant_skills Anita|Successfully enchanted|115|to+107|85
+[25.01.25 15:13:32] enchant_skills Anita|Successfully enchanted|115|to+108|83
+[25.01.25 15:13:33] enchant_skills Anita|Failed to enchant|115|to+109|81
+[25.01.25 15:13:33] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:34] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:34] enchant_skills Anita|Failed to enchant|115|to+103|93
+[25.01.25 15:13:35] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:35] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:36] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:13:36] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:13:37] enchant_skills Anita|Successfully enchanted|115|to+105|89
+[25.01.25 15:13:37] enchant_skills Anita|Successfully enchanted|115|to+106|87
+[25.01.25 15:13:38] enchant_skills Anita|Successfully enchanted|115|to+107|85
+[25.01.25 15:13:38] enchant_skills Anita|Successfully enchanted|115|to+108|83
+[25.01.25 15:13:39] enchant_skills Anita|Successfully enchanted|115|to+109|81
+[25.01.25 15:13:39] enchant_skills Anita|Successfully enchanted|115|to+110|79
+[25.01.25 15:13:40] enchant_skills Anita|Failed to enchant|115|to+111|77
+[25.01.25 15:13:40] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:41] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:41] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:13:42] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:13:42] enchant_skills Anita|Successfully enchanted|115|to+105|89
+[25.01.25 15:13:43] enchant_skills Anita|Successfully enchanted|115|to+106|87
+[25.01.25 15:13:43] enchant_skills Anita|Successfully enchanted|115|to+107|85
+[25.01.25 15:13:44] enchant_skills Anita|Successfully enchanted|115|to+108|83
+[25.01.25 15:13:44] enchant_skills Anita|Successfully enchanted|115|to+109|81
+[25.01.25 15:13:45] enchant_skills Anita|Successfully enchanted|115|to+110|79
+[25.01.25 15:13:45] enchant_skills Anita|Successfully enchanted|115|to+111|77
+[25.01.25 15:13:45] enchant_skills Anita|Successfully enchanted|115|to+112|75
+[25.01.25 15:13:46] enchant_skills Anita|Successfully enchanted|115|to+113|73
+[25.01.25 15:13:46] enchant_skills Anita|Successfully enchanted|115|to+114|71
+[25.01.25 15:13:47] enchant_skills Anita|Failed to enchant|115|to+115|69
+[25.01.25 15:13:48] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:48] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:49] enchant_skills Anita|Failed to enchant|115|to+103|93
+[25.01.25 15:13:49] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:49] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:50] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:13:50] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:13:51] enchant_skills Anita|Successfully enchanted|115|to+105|89
+[25.01.25 15:13:51] enchant_skills Anita|Successfully enchanted|115|to+106|87
+[25.01.25 15:13:52] enchant_skills Anita|Successfully enchanted|115|to+107|85
+[25.01.25 15:13:52] enchant_skills Anita|Successfully enchanted|115|to+108|83
+[25.01.25 15:13:53] enchant_skills Anita|Successfully enchanted|115|to+109|81
+[25.01.25 15:13:53] enchant_skills Anita|Successfully enchanted|115|to+110|79
+[25.01.25 15:13:53] enchant_skills Anita|Successfully enchanted|115|to+111|77
+[25.01.25 15:13:54] enchant_skills Anita|Failed to enchant|115|to+112|75
+[25.01.25 15:13:54] enchant_skills Anita|Failed to enchant|115|to+101|97
+[25.01.25 15:13:55] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:55] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:56] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:13:56] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:13:57] enchant_skills Anita|Successfully enchanted|115|to+105|89
+[25.01.25 15:13:57] enchant_skills Anita|Failed to enchant|115|to+106|87
+[25.01.25 15:13:57] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:13:58] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:13:59] enchant_skills Anita|Failed to enchant|115|to+103|93
+[25.01.25 15:13:59] enchant_skills Anita|Successfully enchanted|115|to+101|97
+[25.01.25 15:14:00] enchant_skills Anita|Successfully enchanted|115|to+102|95
+[25.01.25 15:14:00] enchant_skills Anita|Successfully enchanted|115|to+103|93
+[25.01.25 15:14:01] enchant_skills Anita|Successfully enchanted|115|to+104|91
+[25.01.25 15:14:01] enchant_skills Anita|Successfully enchanted|115|to+105|89
+[25.01.25 15:14:02] enchant_skills Anita|Successfully enchanted|115|to+106|87
+[25.01.25 15:14:02] enchant_skills Anita|Successfully enchanted|115|to+107|85
+[25.01.25 15:14:03] enchant_skills Anita|Successfully enchanted|115|to+108|83
+[25.01.25 15:14:03] enchant_skills Anita|Successfully enchanted|115|to+109|81
+[25.01.25 15:14:03] enchant_skills Anita|Successfully enchanted|115|to+110|79
+[25.01.25 15:14:04] enchant_skills Anita|Successfully enchanted|115|to+111|77
+[25.01.25 15:14:04] enchant_skills Anita|Successfully enchanted|115|to+112|75
+[25.01.25 15:14:05] enchant_skills Anita|Successfully enchanted|115|to+113|73
+[25.01.25 15:14:05] enchant_skills Anita|Successfully enchanted|115|to+114|71
+[25.01.25 15:14:06] enchant_skills Anita|Successfully enchanted|115|to+115|69
+[25.01.25 15:14:18] enchant_skills Anita|Successfully enchanted|1206|to+110|79
+[25.01.25 15:14:18] enchant_skills Anita|Successfully enchanted|1206|to+111|77
+[25.01.25 15:14:19] enchant_skills Anita|Successfully enchanted|1206|to+112|75
+[25.01.25 15:14:19] enchant_skills Anita|Successfully enchanted|1206|to+113|73
+[25.01.25 15:14:20] enchant_skills Anita|Successfully enchanted|1206|to+114|71
+[25.01.25 15:14:20] enchant_skills Anita|Successfully enchanted|1206|to+115|69
+[25.01.25 15:15:13] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:15:14] enchant_skills Anita|Successfully enchanted|122|to+111|77
+[25.01.25 15:15:14] enchant_skills Anita|Failed to enchant|122|to+112|75
+[25.01.25 15:15:15] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:15:15] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:15:16] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:15:16] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:15:16] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:15:17] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:15:17] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:15:18] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:15:18] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:15:19] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:15:19] enchant_skills Anita|Successfully enchanted|122|to+111|77
+[25.01.25 15:15:19] enchant_skills Anita|Failed to enchant|122|to+112|75
+[25.01.25 15:15:20] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:15:21] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:15:21] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:15:22] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:15:22] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:15:23] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:15:23] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:15:24] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:15:24] enchant_skills Anita|Failed to enchant|122|to+109|81
+[25.01.25 15:15:25] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:15:25] enchant_skills Anita|Failed to enchant|122|to+102|95
+[25.01.25 15:15:26] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:15:26] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:15:27] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:15:27] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:15:28] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:15:28] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:15:29] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:15:29] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:15:30] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:15:30] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:15:30] enchant_skills Anita|Successfully enchanted|122|to+111|77
+[25.01.25 15:15:31] enchant_skills Anita|Successfully enchanted|122|to+112|75
+[25.01.25 15:15:31] enchant_skills Anita|Failed to enchant|122|to+113|73
+[25.01.25 15:15:32] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:15:33] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:15:33] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:15:34] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:15:34] enchant_skills Anita|Failed to enchant|122|to+105|89
+[25.01.25 15:15:35] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:15:35] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:15:36] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:15:36] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:15:37] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:15:37] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:15:38] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:15:38] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:15:39] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:15:39] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:15:40] enchant_skills Anita|Successfully enchanted|122|to+111|77
+[25.01.25 15:15:40] enchant_skills Anita|Failed to enchant|122|to+112|75
+[25.01.25 15:15:41] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:15:41] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:15:42] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:15:42] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:15:43] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:15:43] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:15:44] enchant_skills Anita|Failed to enchant|122|to+107|85
+[25.01.25 15:15:44] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:15:45] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:15:45] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:15:46] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:15:46] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:15:47] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:15:47] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:15:48] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:15:48] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:15:49] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:15:49] enchant_skills Anita|Failed to enchant|122|to+111|77
+[25.01.25 15:15:50] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:15:50] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:15:51] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:15:51] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:15:52] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:15:52] enchant_skills Anita|Failed to enchant|122|to+106|87
+[25.01.25 15:15:53] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:15:53] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:15:54] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:15:54] enchant_skills Anita|Failed to enchant|122|to+104|91
+[25.01.25 15:15:55] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:15:55] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:15:56] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:15:56] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:15:57] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:15:57] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:15:58] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:15:58] enchant_skills Anita|Failed to enchant|122|to+108|83
+[25.01.25 15:15:59] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:15:59] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:00] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:00] enchant_skills Anita|Failed to enchant|122|to+104|91
+[25.01.25 15:16:01] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:02] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:02] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:03] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:03] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:16:04] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:16:04] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:16:04] enchant_skills Anita|Failed to enchant|122|to+108|83
+[25.01.25 15:16:05] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:05] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:06] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:06] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:07] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:16:07] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:16:08] enchant_skills Anita|Failed to enchant|122|to+107|85
+[25.01.25 15:16:08] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:09] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:09] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:10] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:10] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:16:11] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:16:11] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:16:12] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:16:12] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:16:13] enchant_skills Anita|Failed to enchant|122|to+110|79
+[25.01.25 15:16:13] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:14] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:14] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:15] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:15] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:16:16] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:16:16] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:16:17] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:16:17] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:16:18] enchant_skills Anita|Failed to enchant|122|to+110|79
+[25.01.25 15:16:18] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:19] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:19] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:20] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:20] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:16:21] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:16:21] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:16:21] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:16:22] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:16:22] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:16:23] enchant_skills Anita|Successfully enchanted|122|to+111|77
+[25.01.25 15:16:23] enchant_skills Anita|Failed to enchant|122|to+112|75
+[25.01.25 15:16:24] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:24] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:24] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:25] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:25] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:16:26] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:16:26] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:16:27] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:16:27] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:16:28] enchant_skills Anita|Failed to enchant|122|to+110|79
+[25.01.25 15:16:28] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:29] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:29] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:30] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:30] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:16:31] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:16:31] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:16:32] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:16:32] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:16:33] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:16:33] enchant_skills Anita|Failed to enchant|122|to+111|77
+[25.01.25 15:16:34] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:34] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:35] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:35] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:35] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:16:36] enchant_skills Anita|Failed to enchant|122|to+106|87
+[25.01.25 15:16:37] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:37] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:38] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:38] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:39] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:16:39] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:16:39] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:16:40] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:16:40] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:16:41] enchant_skills Anita|Failed to enchant|122|to+110|79
+[25.01.25 15:16:41] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:42] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:42] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:43] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:43] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:16:44] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:16:44] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:16:45] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:16:45] enchant_skills Anita|Failed to enchant|122|to+109|81
+[25.01.25 15:16:46] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:46] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:47] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:47] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:48] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:16:48] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:16:49] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:16:49] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:16:50] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:16:50] enchant_skills Anita|Failed to enchant|122|to+110|79
+[25.01.25 15:16:51] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:52] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:52] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:53] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:53] enchant_skills Anita|Failed to enchant|122|to+105|89
+[25.01.25 15:16:54] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:54] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:55] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:55] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:16:56] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:16:56] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:16:57] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:16:57] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:16:57] enchant_skills Anita|Failed to enchant|122|to+109|81
+[25.01.25 15:16:58] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:16:59] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:16:59] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:16:59] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:00] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:17:00] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:17:01] enchant_skills Anita|Failed to enchant|122|to+107|85
+[25.01.25 15:17:01] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:02] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:02] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:17:03] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:03] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:17:04] enchant_skills Anita|Failed to enchant|122|to+106|87
+[25.01.25 15:17:04] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:05] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:05] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:17:05] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:06] enchant_skills Anita|Failed to enchant|122|to+105|89
+[25.01.25 15:17:07] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:07] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:08] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:17:08] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:09] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:17:09] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:17:10] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:17:10] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:17:11] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:17:11] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:17:12] enchant_skills Anita|Failed to enchant|122|to+111|77
+[25.01.25 15:17:12] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:13] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:13] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:17:14] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:14] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:17:15] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:17:15] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:17:15] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:17:16] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:17:16] enchant_skills Anita|Failed to enchant|122|to+110|79
+[25.01.25 15:17:17] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:17] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:18] enchant_skills Anita|Failed to enchant|122|to+103|93
+[25.01.25 15:17:19] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:19] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:20] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:17:20] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:21] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:17:21] enchant_skills Anita|Failed to enchant|122|to+106|87
+[25.01.25 15:17:22] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:22] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:23] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:17:23] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:24] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:17:24] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:17:25] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:17:25] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:17:26] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:17:26] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:17:26] enchant_skills Anita|Successfully enchanted|122|to+111|77
+[25.01.25 15:17:27] enchant_skills Anita|Successfully enchanted|122|to+112|75
+[25.01.25 15:17:27] enchant_skills Anita|Successfully enchanted|122|to+113|73
+[25.01.25 15:17:28] enchant_skills Anita|Failed to enchant|122|to+114|71
+[25.01.25 15:17:28] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:29] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:29] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:17:30] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:30] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:17:31] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:17:31] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:17:32] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:17:32] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:17:33] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:17:33] enchant_skills Anita|Successfully enchanted|122|to+111|77
+[25.01.25 15:17:34] enchant_skills Anita|Successfully enchanted|122|to+112|75
+[25.01.25 15:17:34] enchant_skills Anita|Successfully enchanted|122|to+113|73
+[25.01.25 15:17:35] enchant_skills Anita|Successfully enchanted|122|to+114|71
+[25.01.25 15:17:35] enchant_skills Anita|Failed to enchant|122|to+115|69
+[25.01.25 15:17:36] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:36] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:36] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:17:37] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:38] enchant_skills Anita|Failed to enchant|122|to+105|89
+[25.01.25 15:17:38] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:39] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:39] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:17:40] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:40] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:17:41] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:17:41] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:17:41] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:17:42] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:17:42] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:17:43] enchant_skills Anita|Successfully enchanted|122|to+111|77
+[25.01.25 15:17:43] enchant_skills Anita|Successfully enchanted|122|to+112|75
+[25.01.25 15:17:44] enchant_skills Anita|Successfully enchanted|122|to+113|73
+[25.01.25 15:17:44] enchant_skills Anita|Failed to enchant|122|to+114|71
+[25.01.25 15:17:45] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:45] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:46] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:17:46] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:46] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:17:47] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:17:48] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:17:48] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:17:49] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:17:49] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:17:49] enchant_skills Anita|Successfully enchanted|122|to+111|77
+[25.01.25 15:17:50] enchant_skills Anita|Failed to enchant|122|to+112|75
+[25.01.25 15:17:50] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:51] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:51] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:17:52] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:52] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:17:53] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:17:53] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:17:54] enchant_skills Anita|Failed to enchant|122|to+108|83
+[25.01.25 15:17:54] enchant_skills Anita|Successfully enchanted|122|to+101|97
+[25.01.25 15:17:55] enchant_skills Anita|Successfully enchanted|122|to+102|95
+[25.01.25 15:17:55] enchant_skills Anita|Successfully enchanted|122|to+103|93
+[25.01.25 15:17:56] enchant_skills Anita|Successfully enchanted|122|to+104|91
+[25.01.25 15:17:56] enchant_skills Anita|Successfully enchanted|122|to+105|89
+[25.01.25 15:17:57] enchant_skills Anita|Successfully enchanted|122|to+106|87
+[25.01.25 15:17:57] enchant_skills Anita|Successfully enchanted|122|to+107|85
+[25.01.25 15:17:58] enchant_skills Anita|Successfully enchanted|122|to+108|83
+[25.01.25 15:17:58] enchant_skills Anita|Successfully enchanted|122|to+109|81
+[25.01.25 15:17:58] enchant_skills Anita|Successfully enchanted|122|to+110|79
+[25.01.25 15:17:59] enchant_skills Anita|Successfully enchanted|122|to+111|77
+[25.01.25 15:17:59] enchant_skills Anita|Successfully enchanted|122|to+112|75
+[25.01.25 15:18:00] enchant_skills Anita|Successfully enchanted|122|to+113|73
+[25.01.25 15:18:00] enchant_skills Anita|Successfully enchanted|122|to+114|71
+[25.01.25 15:18:01] enchant_skills Anita|Successfully enchanted|122|to+115|69
+[25.01.25 15:18:33] enchant_skills Anita|Successfully enchanted|336|to+101|97
+[25.01.25 15:18:34] enchant_skills Anita|Successfully enchanted|336|to+102|95
+[25.01.25 15:18:34] enchant_skills Anita|Successfully enchanted|336|to+103|93
+[25.01.25 15:18:34] enchant_skills Anita|Successfully enchanted|336|to+104|91
+[25.01.25 15:18:35] enchant_skills Anita|Successfully enchanted|336|to+105|89
+[25.01.25 15:18:36] enchant_skills Anita|Successfully enchanted|336|to+106|87
+[25.01.25 15:18:36] enchant_skills Anita|Successfully enchanted|336|to+107|85
+[25.01.25 15:18:37] enchant_skills Anita|Failed to enchant|336|to+108|83
+[25.01.25 15:18:37] enchant_skills Anita|Successfully enchanted|336|to+101|97
+[25.01.25 15:18:38] enchant_skills Anita|Successfully enchanted|336|to+102|95
+[25.01.25 15:18:38] enchant_skills Anita|Successfully enchanted|336|to+103|93
+[25.01.25 15:18:38] enchant_skills Anita|Successfully enchanted|336|to+104|91
+[25.01.25 15:18:39] enchant_skills Anita|Successfully enchanted|336|to+105|89
+[25.01.25 15:18:39] enchant_skills Anita|Successfully enchanted|336|to+106|87
+[25.01.25 15:18:40] enchant_skills Anita|Successfully enchanted|336|to+107|85
+[25.01.25 15:18:40] enchant_skills Anita|Failed to enchant|336|to+108|83
+[25.01.25 15:18:41] enchant_skills Anita|Successfully enchanted|336|to+101|97
+[25.01.25 15:18:41] enchant_skills Anita|Successfully enchanted|336|to+102|95
+[25.01.25 15:18:42] enchant_skills Anita|Successfully enchanted|336|to+103|93
+[25.01.25 15:18:42] enchant_skills Anita|Successfully enchanted|336|to+104|91
+[25.01.25 15:18:43] enchant_skills Anita|Failed to enchant|336|to+105|89
+[25.01.25 15:18:43] enchant_skills Anita|Successfully enchanted|336|to+101|97
+[25.01.25 15:18:44] enchant_skills Anita|Successfully enchanted|336|to+102|95
+[25.01.25 15:18:44] enchant_skills Anita|Successfully enchanted|336|to+103|93
+[25.01.25 15:18:45] enchant_skills Anita|Successfully enchanted|336|to+104|91
+[25.01.25 15:18:45] enchant_skills Anita|Successfully enchanted|336|to+105|89
+[25.01.25 15:18:46] enchant_skills Anita|Successfully enchanted|336|to+106|87
+[25.01.25 15:18:46] enchant_skills Anita|Failed to enchant|336|to+107|85
+[25.01.25 15:18:47] enchant_skills Anita|Successfully enchanted|336|to+101|97
+[25.01.25 15:18:47] enchant_skills Anita|Successfully enchanted|336|to+102|95
+[25.01.25 15:18:48] enchant_skills Anita|Successfully enchanted|336|to+103|93
+[25.01.25 15:18:49] enchant_skills Anita|Successfully enchanted|336|to+104|91
+[25.01.25 15:18:49] enchant_skills Anita|Successfully enchanted|336|to+105|89
+[25.01.25 15:18:50] enchant_skills Anita|Successfully enchanted|336|to+106|87
+[25.01.25 15:18:50] enchant_skills Anita|Successfully enchanted|336|to+107|85
+[25.01.25 15:18:51] enchant_skills Anita|Successfully enchanted|336|to+108|83
+[25.01.25 15:18:51] enchant_skills Anita|Successfully enchanted|336|to+109|81
+[25.01.25 15:19:02] enchant_skills Anita|Successfully enchanted|336|to+110|74
+[25.01.25 15:19:03] enchant_skills Anita|Failed to enchant|336|to+111|72
+[25.01.25 15:19:08] enchant_skills Anita|Successfully enchanted|336|to+101|97
+[25.01.25 15:19:09] enchant_skills Anita|Successfully enchanted|336|to+102|95
+[25.01.25 15:19:09] enchant_skills Anita|Successfully enchanted|336|to+103|93
+[25.01.25 15:19:10] enchant_skills Anita|Successfully enchanted|336|to+104|91
+[25.01.25 15:19:10] enchant_skills Anita|Successfully enchanted|336|to+105|89
+[25.01.25 15:19:10] enchant_skills Anita|Failed to enchant|336|to+106|87
+[25.01.25 15:19:11] enchant_skills Anita|Successfully enchanted|336|to+101|97
+[25.01.25 15:19:12] enchant_skills Anita|Successfully enchanted|336|to+102|95
+[25.01.25 15:19:12] enchant_skills Anita|Successfully enchanted|336|to+103|93
+[25.01.25 15:19:12] enchant_skills Anita|Successfully enchanted|336|to+104|91
+[25.01.25 15:19:13] enchant_skills Anita|Successfully enchanted|336|to+105|89
+[25.01.25 15:19:13] enchant_skills Anita|Failed to enchant|336|to+106|87
+[25.01.25 15:19:14] enchant_skills Anita|Successfully enchanted|336|to+101|97
+[25.01.25 15:19:14] enchant_skills Anita|Successfully enchanted|336|to+102|95
+[25.01.25 15:19:15] enchant_skills Anita|Successfully enchanted|336|to+103|93
+[25.01.25 15:19:15] enchant_skills Anita|Successfully enchanted|336|to+104|91
+[25.01.25 15:19:16] enchant_skills Anita|Successfully enchanted|336|to+105|89
+[25.01.25 15:19:16] enchant_skills Anita|Successfully enchanted|336|to+106|87
+[25.01.25 15:19:17] enchant_skills Anita|Successfully enchanted|336|to+107|85
+[25.01.25 15:19:17] enchant_skills Anita|Successfully enchanted|336|to+108|83
+[25.01.25 15:19:17] enchant_skills Anita|Successfully enchanted|336|to+109|81
+[25.01.25 15:19:18] enchant_skills Anita|Successfully enchanted|336|to+110|74
+[25.01.25 15:19:18] enchant_skills Anita|Successfully enchanted|336|to+111|72
+[25.01.25 15:19:19] enchant_skills Anita|Successfully enchanted|336|to+112|70
+[25.01.25 15:20:03] enchant_skills Anita|Successfully enchanted|1402|to+101|97
+[25.01.25 15:20:04] enchant_skills Anita|Successfully enchanted|1402|to+102|95
+[25.01.25 15:20:04] enchant_skills Anita|Successfully enchanted|1402|to+103|93
+[25.01.25 15:20:05] enchant_skills Anita|Successfully enchanted|1402|to+104|91
+[25.01.25 15:20:05] enchant_skills Anita|Successfully enchanted|1402|to+105|89
+[25.01.25 15:20:06] enchant_skills Anita|Successfully enchanted|1402|to+106|87
+[25.01.25 15:20:06] enchant_skills Anita|Successfully enchanted|1402|to+107|85
+[25.01.25 15:20:06] enchant_skills Anita|Failed to enchant|1402|to+108|83
+[25.01.25 15:20:07] enchant_skills Anita|Successfully enchanted|1402|to+101|97
+[25.01.25 15:20:07] enchant_skills Anita|Successfully enchanted|1402|to+102|95
+[25.01.25 15:20:08] enchant_skills Anita|Successfully enchanted|1402|to+103|93
+[25.01.25 15:20:08] enchant_skills Anita|Successfully enchanted|1402|to+104|91
+[25.01.25 15:20:09] enchant_skills Anita|Successfully enchanted|1402|to+105|89
+[25.01.25 15:20:09] enchant_skills Anita|Successfully enchanted|1402|to+106|87
+[25.01.25 15:20:10] enchant_skills Anita|Successfully enchanted|1402|to+107|85
+[25.01.25 15:20:10] enchant_skills Anita|Successfully enchanted|1402|to+108|83
+[25.01.25 15:20:11] enchant_skills Anita|Successfully enchanted|1402|to+109|81
+[25.01.25 15:22:11] enchant_skills Anita|Successfully enchanted|279|to+301|97
+[25.01.25 15:22:11] enchant_skills Anita|Failed to enchant|279|to+302|95
+[25.01.25 15:22:11] enchant_skills Anita|Successfully enchanted|279|to+301|97
+[25.01.25 15:22:12] enchant_skills Anita|Successfully enchanted|279|to+302|95
+[25.01.25 15:22:12] enchant_skills Anita|Successfully enchanted|279|to+303|93
+[25.01.25 15:22:13] enchant_skills Anita|Failed to enchant|279|to+304|91
+[25.01.25 15:22:13] enchant_skills Anita|Successfully enchanted|279|to+301|97
+[25.01.25 15:22:14] enchant_skills Anita|Successfully enchanted|279|to+302|95
+[25.01.25 15:22:14] enchant_skills Anita|Successfully enchanted|279|to+303|93
+[25.01.25 15:22:15] enchant_skills Anita|Successfully enchanted|279|to+304|91
+[25.01.25 15:22:15] enchant_skills Anita|Successfully enchanted|279|to+305|89
+[25.01.25 15:22:16] enchant_skills Anita|Successfully enchanted|279|to+306|87
+[25.01.25 15:22:16] enchant_skills Anita|Successfully enchanted|279|to+307|85
+[25.01.25 15:22:17] enchant_skills Anita|Successfully enchanted|279|to+308|83
+[25.01.25 15:22:17] enchant_skills Anita|Successfully enchanted|279|to+309|81
+[25.01.25 15:22:55] enchant_skills Anita|Successfully enchanted|1539|to+101|97
+[25.01.25 15:22:56] enchant_skills Anita|Successfully enchanted|1539|to+102|95
+[25.01.25 15:22:56] enchant_skills Anita|Successfully enchanted|1539|to+103|93
+[25.01.25 15:22:57] enchant_skills Anita|Successfully enchanted|1539|to+104|91
+[25.01.25 15:22:57] enchant_skills Anita|Failed to enchant|1539|to+105|89
+[25.01.25 15:22:57] enchant_skills Anita|Successfully enchanted|1539|to+101|97
+[25.01.25 15:22:58] enchant_skills Anita|Successfully enchanted|1539|to+102|95
+[25.01.25 15:22:58] enchant_skills Anita|Successfully enchanted|1539|to+103|93
+[25.01.25 15:22:59] enchant_skills Anita|Failed to enchant|1539|to+104|91
+[25.01.25 15:22:59] enchant_skills Anita|Successfully enchanted|1539|to+101|97
+[25.01.25 15:23:00] enchant_skills Anita|Successfully enchanted|1539|to+102|95
+[25.01.25 15:23:00] enchant_skills Anita|Failed to enchant|1539|to+103|93
+[25.01.25 15:23:01] enchant_skills Anita|Successfully enchanted|1539|to+101|97
+[25.01.25 15:23:01] enchant_skills Anita|Successfully enchanted|1539|to+102|95
+[25.01.25 15:23:02] enchant_skills Anita|Successfully enchanted|1539|to+103|93
+[25.01.25 15:23:02] enchant_skills Anita|Successfully enchanted|1539|to+104|91
+[25.01.25 15:23:03] enchant_skills Anita|Failed to enchant|1539|to+105|89
+[25.01.25 15:23:04] enchant_skills Anita|Successfully enchanted|1539|to+101|97
+[25.01.25 15:23:04] enchant_skills Anita|Successfully enchanted|1539|to+102|95
+[25.01.25 15:23:05] enchant_skills Anita|Successfully enchanted|1539|to+103|93
+[25.01.25 15:23:05] enchant_skills Anita|Successfully enchanted|1539|to+104|91
+[25.01.25 15:23:06] enchant_skills Anita|Successfully enchanted|1539|to+105|89
+[25.01.25 15:23:06] enchant_skills Anita|Successfully enchanted|1539|to+106|87
+[25.01.25 15:23:07] enchant_skills Anita|Successfully enchanted|1539|to+107|85
+[25.01.25 15:23:07] enchant_skills Anita|Successfully enchanted|1539|to+108|83
+[25.01.25 15:23:08] enchant_skills Anita|Successfully enchanted|1539|to+109|81
+[25.01.25 15:24:16] enchant_skills Anita|Successfully enchanted|213|to+101|97
+[25.01.25 15:24:17] enchant_skills Anita|Successfully enchanted|213|to+102|95
+[25.01.25 15:24:17] enchant_skills Anita|Successfully enchanted|213|to+103|93
+[25.01.25 15:24:18] enchant_skills Anita|Successfully enchanted|213|to+104|91
+[25.01.25 15:24:18] enchant_skills Anita|Successfully enchanted|213|to+105|89
+[25.01.25 15:24:19] enchant_skills Anita|Successfully enchanted|213|to+106|87
+[25.01.25 15:24:19] enchant_skills Anita|Successfully enchanted|213|to+107|85
+[25.01.25 15:24:20] enchant_skills Anita|Successfully enchanted|213|to+108|83
+[25.01.25 15:24:20] enchant_skills Anita|Failed to enchant|213|to+109|81
+[25.01.25 15:24:21] enchant_skills Anita|Successfully enchanted|213|to+101|97
+[25.01.25 15:24:21] enchant_skills Anita|Successfully enchanted|213|to+102|95
+[25.01.25 15:24:22] enchant_skills Anita|Successfully enchanted|213|to+103|93
+[25.01.25 15:24:22] enchant_skills Anita|Successfully enchanted|213|to+104|91
+[25.01.25 15:24:22] enchant_skills Anita|Successfully enchanted|213|to+105|89
+[25.01.25 15:24:23] enchant_skills Anita|Successfully enchanted|213|to+106|87
+[25.01.25 15:24:23] enchant_skills Anita|Successfully enchanted|213|to+107|85
+[25.01.25 15:24:24] enchant_skills Anita|Failed to enchant|213|to+108|83
+[25.01.25 15:24:25] enchant_skills Anita|Successfully enchanted|213|to+101|97
+[25.01.25 15:24:25] enchant_skills Anita|Successfully enchanted|213|to+102|95
+[25.01.25 15:24:26] enchant_skills Anita|Successfully enchanted|213|to+103|93
+[25.01.25 15:24:26] enchant_skills Anita|Successfully enchanted|213|to+104|91
+[25.01.25 15:24:27] enchant_skills Anita|Successfully enchanted|213|to+105|89
+[25.01.25 15:24:27] enchant_skills Anita|Successfully enchanted|213|to+106|87
+[25.01.25 15:24:28] enchant_skills Anita|Successfully enchanted|213|to+107|85
+[25.01.25 15:24:28] enchant_skills Anita|Failed to enchant|213|to+108|83
+[25.01.25 15:24:29] enchant_skills Anita|Successfully enchanted|213|to+101|97
+[25.01.25 15:24:30] enchant_skills Anita|Successfully enchanted|213|to+102|95
+[25.01.25 15:24:30] enchant_skills Anita|Successfully enchanted|213|to+103|93
+[25.01.25 15:24:31] enchant_skills Anita|Successfully enchanted|213|to+104|91
+[25.01.25 15:24:31] enchant_skills Anita|Successfully enchanted|213|to+105|89
+[25.01.25 15:24:31] enchant_skills Anita|Successfully enchanted|213|to+106|87
+[25.01.25 15:24:32] enchant_skills Anita|Failed to enchant|213|to+107|85
+[25.01.25 15:24:33] enchant_skills Anita|Successfully enchanted|213|to+101|97
+[25.01.25 15:24:33] enchant_skills Anita|Successfully enchanted|213|to+102|95
+[25.01.25 15:24:34] enchant_skills Anita|Successfully enchanted|213|to+103|93
+[25.01.25 15:24:34] enchant_skills Anita|Successfully enchanted|213|to+104|91
+[25.01.25 15:24:35] enchant_skills Anita|Successfully enchanted|213|to+105|89
+[25.01.25 15:24:35] enchant_skills Anita|Successfully enchanted|213|to+106|87
+[25.01.25 15:24:36] enchant_skills Anita|Successfully enchanted|213|to+107|85
+[25.01.25 15:24:36] enchant_skills Anita|Successfully enchanted|213|to+108|83
+[25.01.25 15:24:37] enchant_skills Anita|Failed to enchant|213|to+109|81
+[25.01.25 15:24:37] enchant_skills Anita|Successfully enchanted|213|to+101|97
+[25.01.25 15:24:38] enchant_skills Anita|Successfully enchanted|213|to+102|95
+[25.01.25 15:24:38] enchant_skills Anita|Successfully enchanted|213|to+103|93
+[25.01.25 15:24:38] enchant_skills Anita|Successfully enchanted|213|to+104|91
+[25.01.25 15:24:39] enchant_skills Anita|Successfully enchanted|213|to+105|89
+[25.01.25 15:24:39] enchant_skills Anita|Successfully enchanted|213|to+106|87
+[25.01.25 15:24:40] enchant_skills Anita|Successfully enchanted|213|to+107|85
+[25.01.25 15:24:40] enchant_skills Anita|Successfully enchanted|213|to+108|83
+[25.01.25 15:24:41] enchant_skills Anita|Successfully enchanted|213|to+109|81
+[25.01.25 15:25:09] enchant_skills Anita|Successfully enchanted|146|to+101|97
+[25.01.25 15:25:09] enchant_skills Anita|Successfully enchanted|146|to+102|95
+[25.01.25 15:25:10] enchant_skills Anita|Successfully enchanted|146|to+103|93
+[25.01.25 15:25:10] enchant_skills Anita|Successfully enchanted|146|to+104|91
+[25.01.25 15:25:11] enchant_skills Anita|Successfully enchanted|146|to+105|89
+[25.01.25 15:25:12] enchant_skills Anita|Successfully enchanted|146|to+106|87
+[25.01.25 15:25:12] enchant_skills Anita|Successfully enchanted|146|to+107|85
+[25.01.25 15:25:12] enchant_skills Anita|Successfully enchanted|146|to+108|83
+[25.01.25 15:25:13] enchant_skills Anita|Successfully enchanted|146|to+109|81
+[25.01.25 15:25:29] enchant_skills Anita|Successfully enchanted|436|to+109|81
+[25.01.25 15:25:30] enchant_skills Anita|Successfully enchanted|436|to+110|74
+[25.01.25 15:25:32] enchant_skills Anita|Successfully enchanted|436|to+111|72
+[25.01.25 15:25:33] enchant_skills Anita|Successfully enchanted|436|to+112|70
+[25.01.25 15:26:14] enchant_skills Anita|Successfully enchanted|228|to+110|79
+[25.01.25 15:26:15] enchant_skills Anita|Successfully enchanted|228|to+111|77
+[25.01.25 15:26:15] enchant_skills Anita|Failed to enchant|228|to+112|75
+[25.01.25 15:26:15] enchant_skills Anita|Successfully enchanted|228|to+101|97
+[25.01.25 15:26:16] enchant_skills Anita|Successfully enchanted|228|to+102|95
+[25.01.25 15:26:16] enchant_skills Anita|Successfully enchanted|228|to+103|93
+[25.01.25 15:26:17] enchant_skills Anita|Successfully enchanted|228|to+104|91
+[25.01.25 15:26:18] enchant_skills Anita|Successfully enchanted|228|to+105|89
+[25.01.25 15:26:18] enchant_skills Anita|Successfully enchanted|228|to+106|87
+[25.01.25 15:26:19] enchant_skills Anita|Failed to enchant|228|to+107|85
+[25.01.25 15:26:19] enchant_skills Anita|Successfully enchanted|228|to+101|97
+[25.01.25 15:26:20] enchant_skills Anita|Successfully enchanted|228|to+102|95
+[25.01.25 15:26:20] enchant_skills Anita|Successfully enchanted|228|to+103|93
+[25.01.25 15:26:21] enchant_skills Anita|Successfully enchanted|228|to+104|91
+[25.01.25 15:26:21] enchant_skills Anita|Successfully enchanted|228|to+105|89
+[25.01.25 15:26:22] enchant_skills Anita|Successfully enchanted|228|to+106|87
+[25.01.25 15:26:22] enchant_skills Anita|Successfully enchanted|228|to+107|85
+[25.01.25 15:26:22] enchant_skills Anita|Successfully enchanted|228|to+108|83
+[25.01.25 15:26:23] enchant_skills Anita|Successfully enchanted|228|to+109|81
+[25.01.25 15:26:23] enchant_skills Anita|Successfully enchanted|228|to+110|79
+[25.01.25 15:26:24] enchant_skills Anita|Successfully enchanted|228|to+111|77
+[25.01.25 15:26:24] enchant_skills Anita|Successfully enchanted|228|to+112|75
+[25.01.25 15:26:25] enchant_skills Anita|Successfully enchanted|228|to+113|73
+[25.01.25 15:26:25] enchant_skills Anita|Failed to enchant|228|to+114|71
+[25.01.25 15:26:26] enchant_skills Anita|Successfully enchanted|228|to+101|97
+[25.01.25 15:26:26] enchant_skills Anita|Successfully enchanted|228|to+102|95
+[25.01.25 15:26:26] enchant_skills Anita|Failed to enchant|228|to+103|93
+[25.01.25 15:26:27] enchant_skills Anita|Successfully enchanted|228|to+101|97
+[25.01.25 15:26:27] enchant_skills Anita|Successfully enchanted|228|to+102|95
+[25.01.25 15:26:28] enchant_skills Anita|Successfully enchanted|228|to+103|93
+[25.01.25 15:26:28] enchant_skills Anita|Successfully enchanted|228|to+104|91
+[25.01.25 15:26:29] enchant_skills Anita|Successfully enchanted|228|to+105|89
+[25.01.25 15:26:29] enchant_skills Anita|Successfully enchanted|228|to+106|87
+[25.01.25 15:26:29] enchant_skills Anita|Failed to enchant|228|to+107|85
+[25.01.25 15:26:30] enchant_skills Anita|Successfully enchanted|228|to+101|97
+[25.01.25 15:26:30] enchant_skills Anita|Successfully enchanted|228|to+102|95
+[25.01.25 15:26:31] enchant_skills Anita|Successfully enchanted|228|to+103|93
+[25.01.25 15:26:31] enchant_skills Anita|Successfully enchanted|228|to+104|91
+[25.01.25 15:26:32] enchant_skills Anita|Successfully enchanted|228|to+105|89
+[25.01.25 15:26:32] enchant_skills Anita|Successfully enchanted|228|to+106|87
+[25.01.25 15:26:33] enchant_skills Anita|Successfully enchanted|228|to+107|85
+[25.01.25 15:26:33] enchant_skills Anita|Failed to enchant|228|to+108|83
+[25.01.25 15:26:34] enchant_skills Anita|Successfully enchanted|228|to+101|97
+[25.01.25 15:26:34] enchant_skills Anita|Successfully enchanted|228|to+102|95
+[25.01.25 15:26:35] enchant_skills Anita|Successfully enchanted|228|to+103|93
+[25.01.25 15:26:35] enchant_skills Anita|Successfully enchanted|228|to+104|91
+[25.01.25 15:26:35] enchant_skills Anita|Successfully enchanted|228|to+105|89
+[25.01.25 15:26:36] enchant_skills Anita|Successfully enchanted|228|to+106|87
+[25.01.25 15:26:36] enchant_skills Anita|Successfully enchanted|228|to+107|85
+[25.01.25 15:26:37] enchant_skills Anita|Failed to enchant|228|to+108|83
+[25.01.25 15:26:38] enchant_skills Anita|Successfully enchanted|228|to+101|97
+[25.01.25 15:26:38] enchant_skills Anita|Successfully enchanted|228|to+102|95
+[25.01.25 15:26:38] enchant_skills Anita|Successfully enchanted|228|to+103|93
+[25.01.25 15:26:39] enchant_skills Anita|Successfully enchanted|228|to+104|91
+[25.01.25 15:26:39] enchant_skills Anita|Successfully enchanted|228|to+105|89
+[25.01.25 15:26:40] enchant_skills Anita|Successfully enchanted|228|to+106|87
+[25.01.25 15:26:40] enchant_skills Anita|Successfully enchanted|228|to+107|85
+[25.01.25 15:26:41] enchant_skills Anita|Successfully enchanted|228|to+108|83
+[25.01.25 15:26:41] enchant_skills Anita|Successfully enchanted|228|to+109|81
+[25.01.25 15:26:41] enchant_skills Anita|Successfully enchanted|228|to+110|79
+[25.01.25 15:26:42] enchant_skills Anita|Successfully enchanted|228|to+111|77
+[25.01.25 15:26:43] enchant_skills Anita|Successfully enchanted|228|to+112|75
+[25.01.25 15:26:43] enchant_skills Anita|Successfully enchanted|228|to+113|73
+[25.01.25 15:26:43] enchant_skills Anita|Successfully enchanted|228|to+114|71
+[25.01.25 15:26:44] enchant_skills Anita|Successfully enchanted|228|to+115|69
+[25.01.25 15:27:19] enchant_skills Anita|Successfully enchanted|235|to+101|97
+[25.01.25 15:27:20] enchant_skills Anita|Successfully enchanted|235|to+102|95
+[25.01.25 15:27:20] enchant_skills Anita|Successfully enchanted|235|to+103|93
+[25.01.25 15:27:21] enchant_skills Anita|Successfully enchanted|235|to+104|91
+[25.01.25 15:27:21] enchant_skills Anita|Successfully enchanted|235|to+105|89
+[25.01.25 15:27:22] enchant_skills Anita|Successfully enchanted|235|to+106|87
+[25.01.25 15:27:22] enchant_skills Anita|Successfully enchanted|235|to+107|85
+[25.01.25 15:27:23] enchant_skills Anita|Failed to enchant|235|to+108|83
+[25.01.25 15:27:23] enchant_skills Anita|Successfully enchanted|235|to+101|97
+[25.01.25 15:27:24] enchant_skills Anita|Successfully enchanted|235|to+102|95
+[25.01.25 15:27:24] enchant_skills Anita|Successfully enchanted|235|to+103|93
+[25.01.25 15:27:25] enchant_skills Anita|Successfully enchanted|235|to+104|91
+[25.01.25 15:27:25] enchant_skills Anita|Successfully enchanted|235|to+105|89
+[25.01.25 15:27:26] enchant_skills Anita|Failed to enchant|235|to+106|87
+[25.01.25 15:27:26] enchant_skills Anita|Successfully enchanted|235|to+101|97
+[25.01.25 15:27:27] enchant_skills Anita|Successfully enchanted|235|to+102|95
+[25.01.25 15:27:27] enchant_skills Anita|Successfully enchanted|235|to+103|93
+[25.01.25 15:27:28] enchant_skills Anita|Successfully enchanted|235|to+104|91
+[25.01.25 15:27:28] enchant_skills Anita|Successfully enchanted|235|to+105|89
+[25.01.25 15:27:29] enchant_skills Anita|Successfully enchanted|235|to+106|87
+[25.01.25 15:27:29] enchant_skills Anita|Successfully enchanted|235|to+107|85
+[25.01.25 15:27:29] enchant_skills Anita|Successfully enchanted|235|to+108|83
+[25.01.25 15:27:30] enchant_skills Anita|Successfully enchanted|235|to+109|81
+[25.01.25 15:27:54] enchant_skills Anita|Failed to enchant|328|to+310|74
+[25.01.25 15:27:59] enchant_skills Anita|Successfully enchanted|328|to+301|97
+[25.01.25 15:28:00] enchant_skills Anita|Successfully enchanted|328|to+302|95
+[25.01.25 15:28:00] enchant_skills Anita|Successfully enchanted|328|to+303|93
+[25.01.25 15:28:01] enchant_skills Anita|Successfully enchanted|328|to+304|91
+[25.01.25 15:28:01] enchant_skills Anita|Successfully enchanted|328|to+305|89
+[25.01.25 15:28:02] enchant_skills Anita|Successfully enchanted|328|to+306|87
+[25.01.25 15:28:02] enchant_skills Anita|Successfully enchanted|328|to+307|85
+[25.01.25 15:28:03] enchant_skills Anita|Successfully enchanted|328|to+308|83
+[25.01.25 15:28:03] enchant_skills Anita|Successfully enchanted|328|to+309|81
+[25.01.25 15:28:04] enchant_skills Anita|Successfully enchanted|328|to+310|74
+[25.01.25 15:28:04] enchant_skills Anita|Successfully enchanted|328|to+311|72
+[25.01.25 15:28:04] enchant_skills Anita|Failed to enchant|328|to+312|70
+[25.01.25 15:28:05] enchant_skills Anita|Successfully enchanted|328|to+301|97
+[25.01.25 15:28:05] enchant_skills Anita|Successfully enchanted|328|to+302|95
+[25.01.25 15:28:06] enchant_skills Anita|Successfully enchanted|328|to+303|93
+[25.01.25 15:28:06] enchant_skills Anita|Successfully enchanted|328|to+304|91
+[25.01.25 15:28:07] enchant_skills Anita|Successfully enchanted|328|to+305|89
+[25.01.25 15:28:07] enchant_skills Anita|Successfully enchanted|328|to+306|87
+[25.01.25 15:28:08] enchant_skills Anita|Failed to enchant|328|to+307|85
+[25.01.25 15:28:09] enchant_skills Anita|Successfully enchanted|328|to+301|97
+[25.01.25 15:28:09] enchant_skills Anita|Successfully enchanted|328|to+302|95
+[25.01.25 15:28:09] enchant_skills Anita|Successfully enchanted|328|to+303|93
+[25.01.25 15:28:10] enchant_skills Anita|Successfully enchanted|328|to+304|91
+[25.01.25 15:28:10] enchant_skills Anita|Successfully enchanted|328|to+305|89
+[25.01.25 15:28:11] enchant_skills Anita|Successfully enchanted|328|to+306|87
+[25.01.25 15:28:11] enchant_skills Anita|Successfully enchanted|328|to+307|85
+[25.01.25 15:28:12] enchant_skills Anita|Successfully enchanted|328|to+308|83
+[25.01.25 15:28:12] enchant_skills Anita|Successfully enchanted|328|to+309|81
+[25.01.25 15:28:13] enchant_skills Anita|Successfully enchanted|328|to+310|74
+[25.01.25 15:28:13] enchant_skills Anita|Successfully enchanted|328|to+311|72
+[25.01.25 15:28:14] enchant_skills Anita|Successfully enchanted|328|to+312|70
+[25.01.25 15:31:04] enchant_skills Anita|Successfully enchanted|33|to+101|97
+[25.01.25 15:31:08] enchant_skills Anita|Successfully enchanted|33|to+102|95
+[25.01.25 15:31:08] enchant_skills Anita|Successfully enchanted|33|to+103|93
+[25.01.25 15:31:09] enchant_skills Anita|Successfully enchanted|33|to+104|91
+[25.01.25 15:31:09] enchant_skills Anita|Failed to enchant|33|to+105|89
+[25.01.25 15:31:09] enchant_skills Anita|Successfully enchanted|33|to+101|97
+[25.01.25 15:31:10] enchant_skills Anita|Successfully enchanted|33|to+102|95
+[25.01.25 15:31:11] enchant_skills Anita|Successfully enchanted|33|to+103|93
+[25.01.25 15:31:11] enchant_skills Anita|Successfully enchanted|33|to+104|91
+[25.01.25 15:31:12] enchant_skills Anita|Successfully enchanted|33|to+105|89
+[25.01.25 15:31:12] enchant_skills Anita|Successfully enchanted|33|to+106|87
+[25.01.25 15:31:13] enchant_skills Anita|Successfully enchanted|33|to+107|85
+[25.01.25 15:31:13] enchant_skills Anita|Failed to enchant|33|to+108|83
+[25.01.25 15:31:14] enchant_skills Anita|Successfully enchanted|33|to+101|97
+[25.01.25 15:31:14] enchant_skills Anita|Successfully enchanted|33|to+102|95
+[25.01.25 15:31:15] enchant_skills Anita|Successfully enchanted|33|to+103|93
+[25.01.25 15:31:15] enchant_skills Anita|Successfully enchanted|33|to+104|91
+[25.01.25 15:31:16] enchant_skills Anita|Successfully enchanted|33|to+105|89
+[25.01.25 15:31:17] enchant_skills Anita|Successfully enchanted|33|to+106|87
+[25.01.25 15:31:17] enchant_skills Anita|Successfully enchanted|33|to+107|85
+[25.01.25 15:31:17] enchant_skills Anita|Successfully enchanted|33|to+108|83
+[25.01.25 15:31:18] enchant_skills Anita|Successfully enchanted|33|to+109|81
+[25.01.25 15:32:00] enchant_skills Anita|Successfully enchanted|70|to+301|97
+[25.01.25 15:32:00] enchant_skills Anita|Successfully enchanted|70|to+302|95
+[25.01.25 15:32:01] enchant_skills Anita|Successfully enchanted|70|to+303|93
+[25.01.25 15:32:01] enchant_skills Anita|Successfully enchanted|70|to+304|91
+[25.01.25 15:32:02] enchant_skills Anita|Successfully enchanted|70|to+305|89
+[25.01.25 15:32:02] enchant_skills Anita|Successfully enchanted|70|to+306|87
+[25.01.25 15:32:03] enchant_skills Anita|Successfully enchanted|70|to+307|85
+[25.01.25 15:32:03] enchant_skills Anita|Successfully enchanted|70|to+308|83
+[25.01.25 15:32:04] enchant_skills Anita|Successfully enchanted|70|to+309|81
+[25.01.25 15:33:45] enchant_skills Anita|Successfully enchanted|110|to+101|97
+[25.01.25 15:33:46] enchant_skills Anita|Failed to enchant|110|to+102|95
+[25.01.25 15:33:46] enchant_skills Anita|Successfully enchanted|110|to+101|97
+[25.01.25 15:33:47] enchant_skills Anita|Successfully enchanted|110|to+102|95
+[25.01.25 15:33:47] enchant_skills Anita|Successfully enchanted|110|to+103|93
+[25.01.25 15:33:48] enchant_skills Anita|Successfully enchanted|110|to+104|91
+[25.01.25 15:33:48] enchant_skills Anita|Successfully enchanted|110|to+105|89
+[25.01.25 15:33:48] enchant_skills Anita|Successfully enchanted|110|to+106|87
+[25.01.25 15:33:49] enchant_skills Anita|Successfully enchanted|110|to+107|85
+[25.01.25 15:33:49] enchant_skills Anita|Successfully enchanted|110|to+108|83
+[25.01.25 15:33:50] enchant_skills Anita|Successfully enchanted|110|to+109|81

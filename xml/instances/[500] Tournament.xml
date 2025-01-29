@@ -1,0 +1,13 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+	<!-- Tournament -->
+	<instance id="500" name="Tournament" maxChannels="100" collapseIfEmpty="10" timelimit="30" dispelBuffs="false" respawn="60">
+		<return loc="83224 149560 -3472"/>
+		<teleport loc="148680 46728 -3408"/>
+		<spawns/>
+		<doors>
+		</doors>
+		<zones>
+		</zones>
+	</instance>
+</list>

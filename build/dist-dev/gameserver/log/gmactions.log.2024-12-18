@@ -1,0 +1,41 @@
+[18.12.24 11:54:30] SUCCESS PacMan[268481203] admin_admin
+[18.12.24 11:54:31] SUCCESS PacMan[268481203] admin_server admserver.htm
+[18.12.24 11:54:32] SUCCESS PacMan[268481203] admin_show_html reload.htm
+[18.12.24 11:54:34] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 11:55:12] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 11:55:13] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 11:57:25] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 11:57:57] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 11:57:57] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 11:58:44] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 11:59:57] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:01:23] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:02:13] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:04:35] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:05:06] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:05:37] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:05:50] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:07:18] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:07:36] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:08:07] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:13:02] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:13:03] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:13:51] SUCCESS PacMan[268481203] admin_admin
+[18.12.24 12:13:54] SUCCESS PacMan[268481203] admin_char_manage
+[18.12.24 12:13:56] SUCCESS PacMan[268481203] admin_gmshop
+[18.12.24 12:13:56] SUCCESS PacMan[268481203] admin_admin
+[18.12.24 12:13:57] SUCCESS PacMan[268481203] admin_server admserver.htm
+[18.12.24 12:13:58] SUCCESS PacMan[268481203] admin_show_html scripts.htm
+[18.12.24 12:13:59] SUCCESS PacMan[268481203] admin_server admserver.htm
+[18.12.24 12:13:59] SUCCESS PacMan[268481203] admin_show_html reload.htm
+[18.12.24 12:14:01] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:15:24] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 12:16:11] SUCCESS PacMan[268481203] admin_reload_htm
+[18.12.24 19:44:29] SUCCESS PacMan[268481203] admin_admin
+[18.12.24 19:44:31] SUCCESS PacMan[268481203] admin_char_manage
+[18.12.24 19:44:32] SUCCESS PacMan[268481203] admin_show_characters 0
+[18.12.24 19:44:34] SUCCESS PacMan[268481203] admin_teleportto Ricman
+[18.12.24 20:24:57] SUCCESS PacMan[268481203] admin_admin
+[18.12.24 20:24:58] SUCCESS PacMan[268481203] admin_char_manage
+[18.12.24 20:24:59] SUCCESS PacMan[268481203] admin_show_characters 0
+[18.12.24 20:25:01] SUCCESS PacMan[268481203] admin_teleportto Darkling

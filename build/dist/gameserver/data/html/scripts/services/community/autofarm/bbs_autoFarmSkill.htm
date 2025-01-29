@@ -1,0 +1,185 @@
+<html noscrollbar="1">
+<head>
+    <title>AutoFarm Skill Editor (Beta)</title>
+</head>
+<body>
+<center>
+<br>
+<table background="l2ui_ct1.Windows_DF_TooltipBG" cellspacing="2" cellpadding="2" width="750">
+    <tr>
+        <td align="center">
+            <font name="hs12" color="e3e3e3">Skill Selection &amp; Settings</font>
+            <img src="L2UI_CT1.Gauge_DF_CP_Center" width="750" height="2">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <!-- SELECTED SKILL ICON & Info -->
+            <table cellpadding="4" cellspacing="0">
+                <tr>
+                    <td align="center" valign="top" width="200">
+                        <button action="bypass _bbsautofarm skillclear %SLOT%" width="32" height="32"
+                                back="%SELECTED_ICON%" fore="%SELECTED_ICON%">
+                        <font color="808080">%SELECTED_SKILL_ID%</font>
+                    </td>
+                    <td>
+                        <table cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td width="150">
+                                    <font color="LEVEL">Skill Slot:</font> 
+                                </td>
+                                <td width="50" align="right">
+                                    %SLOT%
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="150">
+                                    <font color="LEVEL">Trigger at CP:</font> 
+                                </td>
+                                <td width="50" align="right">
+                                    %TARGET_CP%
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="150">
+                                    <font color="LEVEL">Trigger at HP:</font> 
+                                </td>
+                                <td width="50" align="right">
+                                    %TARGET_HP%
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="150">
+                                    <font color="LEVEL">Trigger at MP:</font> 
+                                </td>
+                                <td width="50" align="right">
+                                    %MID_VALUE%
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="150">
+                                    <font color="LEVEL">Reuse (sec):</font> 
+                                </td>
+                                <td width="50" align="right">
+                                    %REUSE_SEC%
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <!-- Main table for HP%, MP%, CP%, Reuse -->
+            <table cellpadding="4" cellspacing="0">
+                <tr>
+                    <td width="50" valign="center">
+                        <font color="LEVEL">CP%:</font>
+                    </td>
+                    <td>
+                        <edit var="CPCFG" width="50" length="4">
+                    </td>
+                    <td>
+                        <button value="Apply" action="bypass _bbsautofarm skillcp %SLOT% $CPCFG"
+                                width="60" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td width="50" valign="center">
+                        <font color="LEVEL">HP%:</font>
+                    </td>
+                    <td>
+                        <edit var="TARGHP" width="50" length="4">
+                    </td>
+                    <td>
+                        <button value="Apply" action="bypass _bbsautofarm skillhp %SLOT% $TARGHP target"
+                                width="60" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td width="50" valign="center">
+                        <font color="LEVEL">MP%:</font>
+                    </td>
+                    <td>
+                        <edit var="MIDVAL" width="50" length="4">
+                    </td>
+                    <td>
+                        <button value="Apply" action="bypass _bbsautofarm skillmid %SLOT% $MIDVAL"
+                                width="60" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td width="50" valign="center">
+                        <font color="LEVEL">Reuse (sec):</font>
+                    </td>
+                    <td>
+                        <edit var="RSEC" width="50" length="4">
+                    </td>
+                    <td>
+                        <button value="Apply" action="bypass _bbsautofarm skillreuse %SLOT% $RSEC"
+                                width="60" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                </tr>
+            </table>
+
+            <!-- Party skill check box row -->
+            <table cellpadding="5" cellspacing="0">
+                <tr>
+                    <td>
+                        <button value="" action="bypass _bbsautofarm skillself %SLOT% %SELF_SKILL_TOGGLE%"
+                                back="%SELF_SKILL_CHECK%" fore="%SELF_SKILL_CHECK%"
+                                width="13" height="13">
+                    </td>
+                    <td width="50" valign="top">
+                        <font color="LEVEL">Self</font>
+                    </td>
+                    <td>
+                        <button value="" action="bypass _bbsautofarm skillparty %SLOT% %PARTY_SKILL_TOGGLE%"
+                                back="%PARTY_SKILL_CHECK%" fore="%PARTY_SKILL_CHECK%"
+                                width="13" height="13">
+                    </td>
+                    <td width="50" valign="top">
+                        <font color="LEVEL">Party</font>
+                    </td>
+                    <td>
+                        <button value="" action="bypass _bbsautofarm skillally %SLOT% %ALLY_SKILL_TOGGLE%"
+                                back="%ALLY_SKILL_CHECK%" fore="%ALLY_SKILL_CHECK%"
+                                width="13" height="13">
+                    </td>
+                    <td width="50" valign="top">
+                        <font color="LEVEL">Ally</font>
+                    </td>
+                    <td>
+                        <button value="" action="bypass _bbsautofarm skillauto %SLOT% %AUTO_SKILL_TOGGLE%"
+                                back="%AUTO_SKILL_CHECK%" fore="%AUTO_SKILL_CHECK%"
+                                width="13" height="13">
+                    </td>
+                    <td width="90" valign="top">
+                        <font color="LEVEL">Auto Reuse</font>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <font name="hs12" color="e3e3e3">Available Skills</font>
+            <img src="L2UI_CT1.Gauge_DF_CP_Center" width="750" height="2">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <table cellpadding="4" cellspacing="0">
+                %SKILL_LIST%
+            </table>
+            %PAGE_LIST%
+        </td>
+    </tr>
+    <tr>
+        <!-- Top-right "Back" button -->
+        <td align="center">
+            <button value="Back" action="bypass _bbsautofarm main" width="100" height="25"
+                    back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+        </td>
+    </tr>
+</table>
+
+</center>
+</body>
+</html>

@@ -1,0 +1,311 @@
+<html noscrollbar="1">
+<head>
+    <title>AutoFarm Dashboard (Beta)</title>
+</head>
+<body>
+<br>
+<!-- Unified Header with proper buttons -->
+<table height="39" border="0" cellpadding="0" cellspacing="0" width="750">
+    <tr>
+        <td align="left">
+            <table border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <!-- Icon for AutoFarm -->
+                    <td valign="top">
+                        <img src="icon.skill0391" width="32" height="32">
+                    </td>
+                    <td>
+                        <table width="350">
+                            <tr>
+                                <td><font color="CC6633">AutoFarm Dashboard (Beta)</font></td>
+                            </tr>
+                            <tr>
+                                <td><font color="FFFF99">Manage your automatic farming here.</font></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <!-- Top-right Refresh button for AutoFarm -->
+        <td align="right">
+            <button value="Refresh" action="bypass _bbsautofarm refresh" width="100" height="30"
+                    back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+        </td>
+    </tr>
+</table>
+
+<!-- Row of menu buttons -->
+<table width="750" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table border="0" cellpadding="4" cellspacing="0">
+                <tr>
+                    <td>
+                        <button value="Stackclass" action="bypass _bbsgetfav"
+                                width="120" height="30"
+                                back="L2UI_ct1.button_df_over"
+                                fore="L2UI_ct1.button_df">
+                    </td>
+                    <td>
+                        <button value="Battlegrounds" action="bypass _bbsPVPBattlegrounds"
+                                width="120" height="30"
+                                back="L2UI_ct1.button_df_over"
+                                fore="L2UI_ct1.button_df">
+                    </td>
+                    <td>
+                        <button value="Buffer" action="bypass _bbsbuff"
+                                width="120" height="30"
+                                back="L2UI_ct1.button_df_over"
+                                fore="L2UI_ct1.button_df">
+                    </td>
+                    <td>
+                        <button value="Partymatching" action="bypass _bbsPartymatching"
+                                width="120" height="30"
+                                back="L2UI_ct1.button_df_over"
+                                fore="L2UI_ct1.button_df">
+                    </td>
+                    <td>
+                        <button value="AutoFarm" action="bypass _bbsautofarm main"
+                                width="120" height="30"
+                                back="L2UI_ct1.button_df_over"
+                                fore="L2UI_ct1.button_df">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<img src="L2UI_CT1.Gauge_DF_CP_Center" width="750" height="2">
+
+<center>
+<!-- Status Section -->
+<table background="l2ui_ct1.Windows_DF_TooltipBG" width="750">
+    <tr>
+        <td align="center">
+            <font name="hs12" color="e3e3e3">Status</font>
+            <img src="L2UI_CT1.Gauge_DF_CP_Center" width="750" height="2">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <!-- One row for Start, Stop, status, targeting, z-range, movement -->
+            <table border="0" cellpadding="4" cellspacing="0">
+                <tr>
+                    <td>
+                        <button value="Start" action="bypass _bbsautofarm start" width="80" height="30"
+                                back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td>
+                        <button value="Stop" action="bypass _bbsautofarm stop" width="80" height="30"
+                                back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td width="120">
+                        <font color="LEVEL">Status:</font> %AF_STATUS%
+                    </td>
+                    <td width="110">
+                        <font color="LEVEL">Targeting:</font> %AF_TARGET_TYPE%
+                    </td>
+                    <td width="120">
+                        <font color="LEVEL">Movement:</font> %AF_MOVE_METHOD%
+                    </td>
+                    <td width="100">
+                        <font color="LEVEL">Z Range:</font> %AF_Z_RANGE%
+                    </td>
+                    <td>
+                        <button value="Drop Tracker" action="bypass _bbsautofarmdrops show"
+                                width="100" height="30"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br>
+<!-- Movement Method -->
+<table border="0" background="l2ui_ct1.Windows_DF_TooltipBG" width="750">
+    <tr>
+        <td align="center">
+            <font name="hs12" color="e3e3e3">Movement</font>
+            <img src="L2UI_CT1.Gauge_DF_CP_Center" width="750" height="2">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <table border="0" cellpadding="4" cellspacing="0">
+                <tr>
+                    <td align="left" width="250">
+                        <font color="LEVEL">Select Move Method:</font>
+                    </td>
+                    <td align="center" width="250">
+                        <font color="LEVEL">Set Pathing:</font>
+                    </td>
+                    <td align="right" width="250">
+                        <font color="LEVEL">Auto Follow Target:</font>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <table border="0" cellpadding="4" cellspacing="0">
+                <tr>
+                    <!-- Off / Follow / Path -->
+                    <td align="center" width="60">
+                        <button value="Off" action="bypass _bbsautofarm movetype off" width="50" height="25"
+                                back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td align="center" width="80">
+                        <button value="Follow" action="bypass _bbsautofarm movetype follow" width="70" height="25"
+                                back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td align="center" width="70">
+                        <button value="Path" action="bypass _bbsautofarm movetype path" width="60" height="25"
+                                back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td width="115"></td>
+                    <td>
+                        <button value="Path Editor" action="bypass _bbsautofarmpath open"
+                                width="80" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td width="80"></td>
+                    <td width="80"></td>
+                    <!-- Party target combobox + button -->
+                    <td align="right" width="80">
+                        <combobox var="PARTY_TARGET" list="%PARTY_MEMBER_LIST%" width="90">
+                    </td>
+                    <td align="right" width="80">
+                        <button value="Set" action="bypass _bbsautofarm setparty $PARTY_TARGET" width="60" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br>
+<!-- Targeting Section -->
+<table border="0" background="l2ui_ct1.Windows_DF_TooltipBG" width="750">
+    <tr>
+        <td align="center">
+            <font name="hs12" color="e3e3e3">Targeting</font>
+            <img src="L2UI_CT1.Gauge_DF_CP_Center" width="750" height="2">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <table border="0" cellpadding="4" cellspacing="0">
+                <tr>
+                    <td align="left" width="375">
+                        <font color="LEVEL">Select Targeting Method:</font>
+                    </td>
+                    <td align="right" width="375">
+                        <font color="LEVEL">Set Targeting Options:</font>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <table border="0" cellpadding="4" cellspacing="0">
+                <tr>
+                    <!-- Off / Assist / Close / Near / Far -->
+                    <td>
+                        <button value="Off"    action="bypass _bbsautofarm search Off"    width="70" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td>
+                        <button value="Close"  action="bypass _bbsautofarm search Close"  width="70" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td>
+                        <button value="Assist" action="bypass _bbsautofarm search Assist" width="70" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td width="300"></td>
+                    <td width="70">
+                        <font color="LEVEL">Z-range:</font>
+                    </td>
+                    <td>
+                        <edit var="Z_RANGE" width=40 length=4>
+                    </td>
+                    <td>
+                        <button value="Set" action="bypass _bbsautofarm setz $Z_RANGE" width="60" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                </tr>
+                <tr>
+                    <!-- Near / Far / Spoil checkbox -->
+                    <td>
+                        <button value="Near"   action="bypass _bbsautofarm search Near"   width="70" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                    <td>
+                        <button value="Far"    action="bypass _bbsautofarm search Far"    width="70" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                    <!-- The Spoil? check -->
+                    <td width="60" align="center">
+                        <font color="LEVEL">Spoil?</font>
+                        <button value="" action="bypass _bbsautofarm spoil TOGGLE"
+                                back="%SPOIL_CHECK%" fore="%SPOIL_CHECK%"
+                                width="13" height="13">
+                    </td>
+                    <td></td>
+                    <!-- Filter button -->
+                    <td width="70">
+                        <font color="LEVEL">Targeting Filter:</font>
+                    </td>
+                    <td></td>
+                    <td>
+                        <button value="Set" action="bypass _bbsautofarmfilter show" width="60" height="25"
+                                back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br>
+<!-- Auto Skills Section -->
+<table background="l2ui_ct1.Windows_DF_TooltipBG" cellspacing="2" cellpadding="4" width="750">
+    <tr>
+        <td align="center">
+            <font name="hs12" color="e3e3e3">Auto Skills</font>
+            <img src="L2UI_CT1.Gauge_DF_CP_Center" width="750" height="2">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <font color="LEVEL">Skill Priority Grid (72 skills):</font>
+            <br>
+            <!-- We now display 4 rows × 18 columns = 72 slots -->
+            <table border="0" cellpadding="4" cellspacing="0">
+            <!-- First row of 18 -->
+            <tr>
+                %SKILL_BUTTONS_ROW0%
+            </tr>
+            <!-- Second row of 18 -->
+            <tr>
+                %SKILL_BUTTONS_ROW1%
+            </tr>
+            <!-- Third row of 18 -->
+            <tr>
+                %SKILL_BUTTONS_ROW2%
+            </tr>
+            <!-- Fourth row of 18 -->
+            <tr>
+                %SKILL_BUTTONS_ROW3%
+            </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br>
+</center>
+</body>
+</html>

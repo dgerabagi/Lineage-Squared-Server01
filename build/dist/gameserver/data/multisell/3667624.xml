@@ -1,0 +1,552 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Consumable -->
+
+<list maintainEnchantment="true">
+	<!--Ancient Tome of the Demon-->
+	<item>
+		<ingredient id="57" count="10000"/>
+		<production id="9599" count="1"/>
+	</item>
+	<!-- Soulshot: S-grade -->
+	<item>
+		<ingredient id="57" count="100"/>
+		<production id="1467" count="1"/>
+	</item>
+	<!-- Soulshot: A-grade -->
+  <item>
+    <ingredient id="57" count="80"/>
+    <production id="1466" count="1"/>
+  </item>
+
+  <!-- Soulshot: B-grade -->
+  <item>
+    <ingredient id="57" count="50"/>
+    <production id="1465" count="1"/>
+  </item>
+
+  <!-- Soulshot: C-grade -->
+  <item>
+    <ingredient id="57" count="22"/>
+    <production id="1464" count="1"/>
+  </item>
+
+  <!-- Blessed Spiritshot: S Grade -->
+  <item>
+    <ingredient id="57" count="350"/>
+    <production id="3952" count="1"/>
+  </item>
+
+  <!-- Blessed Spiritshot: A-Grade -->
+  <item>
+    <ingredient id="57" count="290"/>
+    <production id="3951" count="1"/>
+  </item>
+
+  <!-- Blessed Spiritshot: B-Grade -->
+  <item>
+    <ingredient id="57" count="245"/>
+    <production id="3950" count="1"/>
+  </item>
+
+  <!-- Blessed Spiritshot: C-Grade -->
+  <item>
+    <ingredient id="57" count="42"/>
+    <production id="3949" count="1"/>
+  </item>
+
+	<!-- Beast Soulshot -->
+	<item>
+		<ingredient id="57" count="20"/>
+		<production id="6645" count="1"/>
+	</item>
+	
+	<!-- Beast SpiritShot -->
+	<item>
+		<ingredient id="57" count="40"/>
+		<production id="6646" count="1"/>
+	</item>
+	
+	<!-- Blessed Beast SpiritShot -->
+	<item>
+		<ingredient id="57" count="100"/>
+		<production id="6647" count="1"/>
+	</item>
+	     <!-- Ancient Adena -->
+  <item id="1">
+    <ingredient id="57" count="2000000"/>
+    <production id="5575" count="100000"/>
+  </item>
+  <!-- Dualsword Craft Stamp -->
+  <item id="2">
+    <ingredient id="57" count="10000000"/>
+    <production id="5126" count="1"/>
+  </item>
+  <!-- Battle Symbol -->
+  <item>
+    <ingredient id="57" count="20000"/>
+    <production id="8875" count="1"/>
+  </item>
+
+  <!-- Magic Symbol -->
+  <item>
+    <ingredient id="57" count="20000"/>
+    <production id="8876" count="1"/>
+  </item>
+
+  <!-- Phoenix Blood -->
+  <item>
+    <ingredient id="57" count="20000"/>
+    <production id="8873" count="1"/>
+  </item>
+
+  <!-- Einhasad's Holy Water -->
+  <item>
+    <ingredient id="57" count="20000"/>
+    <production id="8874" count="1"/>
+  </item>
+  
+  <!-- Cursed Bone -->
+  <item>
+    <ingredient id="57" count="240"/>
+    <production id="2508" count="1"/>
+  </item>
+  <!-- Scroll: Recovery (Grade D) -->
+  <item id="13">
+    <ingredient id="57" count="5280"/>
+    <production id="8595" count="1"/>
+  </item>
+  
+  <!-- Scroll: Recovery (Grade C) -->
+  <item id="13">
+    <ingredient id="57" count="15400"/>
+    <production id="8596" count="1"/>
+  </item>
+  
+ <!-- Scroll: Recovery (Grade B) -->
+  <item id="13">
+    <ingredient id="57" count="30800"/>
+    <production id="8597" count="1"/>
+  </item>
+  
+  <!-- Scroll: Recovery (Grade A) -->
+  <item id="13">
+    <ingredient id="57" count="52800"/>
+    <production id="8598" count="1"/>
+  </item>
+
+  <!-- Scroll: Recovery (Grade S) -->
+  <item id="14">
+    <ingredient id="57" count="96000"/>
+    <production id="8599" count="1"/>
+  </item>
+  <!-- Gemstones D -->
+  <item id="15">
+    <ingredient id="57" count="2500000"/>
+    <production id="2130" count="1000"/>
+  </item>
+
+   <!-- Gemstones c -->
+  <item id="16">
+    <ingredient id="57" count="5000000"/>
+    <production id="2131" count="1000"/>
+  </item>
+  <!-- Gemstones B -->
+  <item>
+    <ingredient id="57" count="80000"/>
+    <production id="2132" count="1"/>
+  </item>
+  <!-- Gemstones A -->
+  <item id="17">
+    <ingredient id="57" count="100000"/>
+    <production id="2133" count="1"/>
+  </item>
+  
+  <!-- Gemstones S -->
+  <item id="17">
+    <ingredient id="57" count="200000"/>
+    <production id="2134" count="1"/>
+  </item>
+  <!-- Soul Ore-->
+  <item>
+    <ingredient id="57" count="250000"/>
+    <production id="1785" count="1000"/>
+  </item>
+  
+  <!-- Spirit Ore -->
+  <item>
+    <ingredient id="57" count="400000"/>
+    <production id="3031" count="1000"/>
+  </item>
+  
+  <!-- Energy Stone -->
+  <item>
+    <ingredient id="57" count="100"/>
+    <production id="5589" count="1"/>
+  </item>
+  
+   <!-- Summoning Crystal -->
+  <item>
+    <ingredient id="57" count="35000"/>
+    <production id="8615" count="1"/>
+  </item>
+  
+  <!--  Steel Arrow  -->
+  <item>
+    <ingredient id="57" count="5"/>
+    <production id="22068" count="1"/>
+  </item>
+
+    <!-- Silver Arrow  -->
+  <item>
+    <ingredient id="57" count="7"/>
+    <production id="1343" count="1"/>
+  </item>
+
+  <!-- Mithril Arrow -->
+  <item>
+    <ingredient id="57" count="8"/>
+    <production id="1344" count="1"/>
+  </item>
+	
+	<!-- Shining Arrow -->
+	<item>
+		<ingredient id="57" count="10"/>
+		<production id="1345" count="1"/>
+	</item>
+  
+    <!-- Scroll of Escape -->
+	<item>
+		<ingredient id="57" count="440"/>
+		<production id="736" count="1"/>
+	</item>
+    
+    <!-- Scroll of Escape: Clan Hall -->
+	<item>
+		<ingredient id="57" count="550"/>
+		<production id="1829" count="1"/>
+	</item>
+    
+	<!-- Scroll of Escape: Castle -->
+	<item>
+		<ingredient id="57" count="550"/>
+		<production id="1830" count="1"/>
+	</item>
+	 
+	<!-- Scroll of Resurrection -->
+	<item>
+		<ingredient id="57" count="2200"/>
+		<production id="737" count="1"/>
+	</item>
+	
+	<!-- Birthday cake -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="20314" count="1"/>
+	</item>
+	<!-- 50% XP/SP Rune -->
+	<item>
+		<ingredient id="57" count="80000000"/>
+		<production id="20553" count="1"/>
+	</item>
+	<!-- 50% XP Rune	-->
+	<item>
+		<ingredient id="57" count="60000000"/>
+		<production id="20549" count="1"/>
+	</item>
+	<!-- 50% SP Rune -->
+	<item>
+		<ingredient id="57" count="40000000"/>
+		<production id="20559" count="1"/>
+	</item>
+	<!-- Fire Stone -->
+	<item>
+		<ingredient id="57" count="4000000"/>
+		<production id="9546" count="1"/>
+	</item>
+	<!-- Water Stone -->
+	<item>
+		<ingredient id="57" count="4000000"/>
+		<production id="9547" count="1"/>
+	</item>
+	<!-- Earth Stone -->
+	<item>
+		<ingredient id="57" count="4000000"/>
+		<production id="9548" count="1"/>
+	</item>
+	<!-- Wind Stone -->
+	<item>
+		<ingredient id="57" count="4000000"/>
+		<production id="9549" count="1"/>
+	</item>
+	<!-- Dark Stone -->
+	<item>
+		<ingredient id="57" count="4000000"/>
+		<production id="9550" count="1"/>
+	</item>
+	<!-- Divine Stone -->
+	<item>
+		<ingredient id="57" count="4000000"/>
+		<production id="9551" count="1"/>
+	</item>
+	<!-- Red Soul Crystal - Stage 17 -->
+	<item>
+		<ingredient id="57" count="40000000"/>
+		<production id="15541" count="1"/>
+	</item>
+	<!-- Red Soul Crystal - Stage 18 -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="15826" count="1"/>
+	</item>
+	<!-- Blue Soul Crystal - Stage 17 -->
+	<item>
+		<ingredient id="57" count="40000000"/>
+		<production id="15542" count="1"/>
+	</item>
+	<!-- Blue Soul Crystal - Stage 18 -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="15827" count="1"/>
+	</item>
+	<!-- Green Soul Crystal - Stage 17 -->
+	<item>
+		<ingredient id="57" count="40000000"/>
+		<production id="15543" count="1"/>
+	</item>
+	<!-- Green Soul Crystal - Stage 18 -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="15828" count="1"/>
+	</item>
+	<!-- Collection Agathion Summon Bracelet -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="14027" count="1"/>
+	</item><!-- Fire Energy Compression Stone -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="14015" count="1"/>
+	</item>
+	<!-- Water Energy Compression Stone -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="14016" count="1"/>
+	</item>
+	<!-- Earth Energy Compression Stone -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="14017" count="1"/>
+	</item>
+	<!-- Wind Energy Compression Stone -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="14018" count="1"/>
+	</item>
+	<!-- Dark Energy Compression Stone -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="14019" count="1"/>
+	</item>
+	<!-- Divine Energy Compression Stone -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="14020" count="1"/>
+	</item>
+	<!-- Design: Fire Crystal -->
+  <item>
+    <ingredient id="57" count="50000000"/>
+    <production id="13993" count="1"/>
+  </item>
+    
+  <!-- Design: Water Crystal -->
+  <item>
+    <ingredient id="57" count="50000000"/>
+    <production id="13994" count="1"/>
+  </item>
+    
+  <!-- Design: Wind Crystal -->
+  <item>
+    <ingredient id="57" count="50000000"/>
+    <production id="13995" count="1"/>
+  </item>
+    
+  <!-- Design: Earth Crystal -->
+  <item>
+    <ingredient id="57" count="50000000"/>
+    <production id="13996" count="1"/>
+  </item>
+    
+  <!-- Design: Dark Crystal -->
+  <item>
+    <ingredient id="57" count="50000000"/>
+    <production id="13997" count="1"/>
+  </item>
+    
+  <!-- Design: Holy Crystal -->
+  <item>
+    <ingredient id="57" count="50000000"/>
+    <production id="13998" count="1"/>
+  </item>
+	
+	<!-- Clan Level 3 -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="1419" count="1"/>
+	</item>
+	<!-- Clan Level 4 -->
+	<item>
+		<ingredient id="57" count="100000000"/>
+		<production id="3874" count="1"/>
+	</item>
+	
+	<!-- Clan Level 5 -->
+	<item>
+		<ingredient id="57" count="200000000"/>
+		<production id="3870" count="1"/>
+	</item>
+	
+	<item>
+		<ingredient id="57" count="3000000"/>
+		<production id="9910" count="1"/>
+	</item>
+  <!-- Earth Egg -->
+  <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="9816" count="10"/>
+  </item>
+
+  <!-- Nonliving Nucleus -->
+  <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="9817" count="10"/>
+  </item>
+
+  <!-- Angelic Essence -->
+  <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="9818" count="10"/>
+  </item>
+
+  <!-- Dragon Heart -->
+  <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="9815" count="10"/>
+  </item>
+
+  <!-- Memento Mori -->
+  <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="9814" count="10"/>
+  </item>
+
+  <!-- Destruction Tombstone -->
+  <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="8176" count="10"/>
+  </item>
+
+  <!-- Cradle of Creation -->
+  <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="8175" count="10"/>
+  </item>
+   <item>
+    <ingredient id="57" count="400000000"/>
+    <production id="9911" count="1"/>
+  </item>
+	<!-- Giants Codex -->
+	<item>
+		<ingredient id="57" count="5000000"/>
+		<production id="6622" count="1"/>
+	</item>
+	
+	<!-- Giants Codex - Oblivion -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="9625" count="1"/>
+	</item>
+	
+	<!-- Giants Codex - Discipline -->
+	<item>
+		<ingredient id="57" count="20000000"/>
+		<production id="9626" count="1"/>
+	</item>
+	
+	<!-- Giants Codex - Mastery -->
+	<item>
+		<ingredient id="57" count="80000000"/>
+		<production id="9627" count="1"/>
+	</item>
+	
+	<!-- Noble Enhancement Stone -->
+	<item>
+		<ingredient id="57" count="100000"/>
+		<production id="14052" count="1"/>
+	</item>
+	 <!-- Noblesse Item -->
+  <item id="1">
+    <ingredient id="57" count="200000000"/>
+    <production id="7678" count="1"/>
+  </item>	
+  
+  <!-- Mimir's Elixir -->
+  <item id="1">
+    <ingredient id="57" count="100000000"/>
+    <production id="6319" count="1"/>
+  </item>
+  
+  <!-- Hellfire Oil
+   -->
+  <item id="2">
+    <ingredient id="57" count="100000000"/>
+    <production id="6033" count="1"/>
+  </item>
+  
+  <!-- Lunargent -->
+  <item id="3">
+    <ingredient id="57" count="100000000"/>
+    <production id="6029" count="1"/>
+  </item>
+  
+   <!-- Penitent's Manacles -->
+  <item id="6">
+    <ingredient id="57" count="100000000"/>
+    <production id="4425" count="1"/>
+  </item>
+  
+   <!-- Baium-->
+  <item>
+    <ingredient id="57" count="100000000"/>
+    <production id="4295" count="1"/>
+  </item>
+
+   <!-- Antharas -->
+  <item>
+    <ingredient id="57" count="100000000"/>
+    <production id="3865" count="1"/>
+  </item>
+  
+  <!-- Valakas -->
+  <item>
+    <ingredient id="57" count="100000000"/>
+    <production id="7267" count="1"/>
+  </item>
+  
+  <!-- Frintezza -->
+  <item>
+    <ingredient id="57" count="1000000000"/>
+    <production id="7256" count="1"/>
+	<production id="7257" count="1"/>
+	<production id="7258" count="1"/>
+	<production id="7259" count="1"/>
+	<production id="7262" count="1"/>
+	<production id="8073" count="1"/>
+  </item>
+    
+  <!-- Coin of Luck -->
+  <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="4037" count="1"/>
+  </item>
+</list>

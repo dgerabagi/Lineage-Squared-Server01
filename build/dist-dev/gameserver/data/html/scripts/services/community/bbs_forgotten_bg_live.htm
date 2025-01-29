@@ -1,0 +1,116 @@
+<html>
+<head>
+    <title>Forgotten Battlegrounds - Live Status</title>
+</head>
+<body>
+<br>
+<!-- Unified Header with proper buttons -->
+<table border=0 cellpadding=0 cellspacing=0 width=750>
+    <tr>
+        <td align=left>
+            <table border=0 cellpadding=0 cellspacing=0>
+                <tr>
+                    <td valign=top><img src="icon.skill0912" width=32 height=32></td>
+                    <td>
+                        <table width=350>
+                            <tr><td><font color=CC6633>Forgotten Battlegrounds Live Status</font></td></tr>
+                            <tr><td><font color=FFFF99>View the ongoing match details here.</font></td></tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align=center><button value="Back" action="bypass _bbsPVPBattlegrounds" width=100 height=28 back="L2UI_CT1.Button_DF_Down" fore="L2UI_ct1.button_df">
+        </td>
+        <td align=right><button value="Refresh" action="bypass _bbsFBLive" width=120 height=30 back="L2UI_ct1.button_df_over" fore="L2UI_ct1.button_df">
+        </td>
+    </tr>
+</table>
+
+<!-- The 5 big nav buttons row -->
+<table width="750" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+      <td align="center">
+          <table border="0" cellpadding="5" cellspacing="0">
+              <tr>
+                  <td>
+                    <button value="Stackclass" action="bypass _bbsgetfav" 
+                            width="120" height="30" 
+                            back="L2UI_ct1.button_df_over" 
+                            fore="L2UI_ct1.button_df">
+                  </td>
+                  <td>
+                    <button value="Battlegrounds" action="bypass _bbsPVPBattlegrounds"
+                            width="120" height="30"
+                            back="L2UI_ct1.button_df_over"
+                            fore="L2UI_ct1.button_df">
+                  </td>
+                  <td>
+                    <button value="Buffer" action="bypass _bbsbuff"
+                            width="120" height="30"
+                            back="L2UI_ct1.button_df_over"
+                            fore="L2UI_ct1.button_df">
+                  </td>
+                  <td>
+                    <button value="Partymatching" action="bypass _bbsPartymatching"
+                            width="120" height="30"
+                            back="L2UI_ct1.button_df_over"
+                            fore="L2UI_ct1.button_df">
+                  </td>
+                  <td>
+                    <button value="AutoFarm" action="bypass _bbsautofarm main"
+                            width="120" height="30"
+                            back="L2UI_ct1.button_df_over"
+                            fore="L2UI_ct1.button_df">
+                  </td>
+              </tr>
+          </table>
+      </td>
+  </tr>
+</table>
+<img src="L2UI_CT1.Gauge_DF_CP_Center" width=750 height=2>
+
+<!-- We'll mimic the stackclass style but rename columns to scoreboard style -->
+<!-- We'll do two large sections: one for Blue Team and one for Red Team, side by side -->
+<!-- Just like stackclass had Race/Class etc., we now have Player/Stackclass/ELO/Kills/Deaths/Flags -->
+
+<table>
+  <tr>
+    <td>
+      <!-- Blue Team Header row -->
+      <table bgcolor=444444 height=25>
+        <tr>
+          <td valign=top align=left width=120><font color=FFBB00>Player</font></td>
+          <td valign=top align=left width=100><font color=FFBB00>Combo</font></td>
+          <td valign=top align=left width=60><font color=FFBB00>ELO</font></td>
+          <td valign=top align=left width=60><font color=FFBB00>Kills</font></td>
+          <td valign=top align=left width=80><font color=FFBB00>Deaths</font></td>
+          <td valign=top align=left width=80><font color=FFBB00>Flag Kills</font></td>
+        </tr>
+      </table>
+
+      %BLUE_TEAM_ROWS%
+    </td>
+    
+    <td>
+      <!-- Red Team Header row -->
+      <table bgcolor=444444 height=25>
+        <tr>
+          <td valign=top align=left width=120><font color=FFBB00>Player</font></td>
+          <td valign=top align=left width=100><font color=FFBB00>Combo</font></td>
+          <td valign=top align=left width=60><font color=FFBB00>ELO</font></td>
+          <td valign=top align=left width=60><font color=FFBB00>Kills</font></td>
+          <td valign=top align=left width=80><font color=FFBB00>Deaths</font></td>
+          <td valign=top align=left width=80><font color=FFBB00>Flag Kills</font></td>
+        </tr>
+      </table>
+
+      %RED_TEAM_ROWS%
+    </td>
+  </tr>
+</table>
+
+<img src="L2UI_CT1.Gauge_DF_CP_Center" width=750 height=2>
+<br><br><br>
+</body>
+</html>

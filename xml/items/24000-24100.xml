@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<etcitem id="24001" name="Support Power">
+		<set name="icon" value="Branchsys2.icon2.g_alegra_box"/>
+		<set name="class" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>	
+	<weapon id="24002" name="Eminence Bow" add_name="Acuumen">
+		<set name="atk_reuse" value="1500"/>
+		<set name="crystal_count" value="1885"/>
+		<set name="crystal_type" value="C"/>
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="icon.weapon_eminence_bow_i01"/>
+		<set name="kamael_convert" value="9301"/>
+		<set name="mp_consume" value="3"/>
+		<set name="price" value="4713500"/>
+		<set name="rnd_dam" value="5"/>
+		<set name="soulshots" value="10"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="BOW"/>
+		<set name="weight" value="1720"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="3047" level="3"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="323"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="120"/>
+			<set stat="atkBaseSpeed" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-4.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>	
+	<weapon id="24003" name="Eminence Bow" add_name="Guidance">
+		<set name="atk_reuse" value="1500"/>
+		<set name="crystal_count" value="1885"/>
+		<set name="crystal_type" value="C"/>
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="icon.weapon_eminence_bow_i01"/>
+		<set name="kamael_convert" value="9301"/>
+		<set name="mp_consume" value="3"/>
+		<set name="price" value="4713500"/>
+		<set name="rnd_dam" value="5"/>
+		<set name="soulshots" value="10"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="BOW"/>
+		<set name="weight" value="1720"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="3602" level="10"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="323"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="120"/>
+			<set stat="atkBaseSpeed" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-4.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+</list>

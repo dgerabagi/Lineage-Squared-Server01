@@ -1,0 +1,144 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<!-- Vote Rewards List -->
+<list>
+    <config showall="true" notax="true" keepenchanted="true" />
+    
+    <!-- 1. Buff Consumables -->
+
+    <!-- A. Comprehensive Buffs -->
+
+    <!-- Fighter Buffs -->
+    <item>
+        <production id="10178" count="1"/>    <!-- Sweet Fruit Cocktail -->
+        <ingredient id="7569" count="3"/>     <!-- Four-Leaf Clover -->
+        <!-- Effects: Wind Walk, Haste, Vampiric Rage, Might, Shield, Death Whisper, Guidance, Bless the Body (1 hour) -->
+    </item>
+
+    <!-- Mage Buffs -->
+    <item>
+        <production id="10179" count="1"/>    <!-- Fresh Fruit Cocktail -->
+        <ingredient id="7569" count="3"/>     <!-- Four-Leaf Clover -->
+        <!-- Effects: Berserker Spirit, Magic Barrier, Bless the Soul, Empower, Greater Acumen, Clarity, Bless the Body, Wild Magic (1 hour) -->
+    </item>
+
+    <!-- Universal Buffs -->
+    <item>
+        <production id="14739" count="1"/>    <!-- Fresh Milk -->
+        <ingredient id="7569" count="5"/>     <!-- Four-Leaf Clover -->
+        <!-- Effects: Combination of fighter and mage buffs (1 hour) -->
+    </item>
+
+    <!-- B. Individual Buffs -->
+
+    <!-- Fighter Buffs -->
+    <item>
+        <production id="10260" count="1"/>    <!-- Haste Juice -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Haste (1 hour) -->
+    </item>
+    <item>
+        <production id="10267" count="1"/>    <!-- Power Juice -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Might (1 hour) -->
+    </item>
+    <item>
+        <production id="10269" count="1"/>    <!-- Defense Juice -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Shield (1 hour) -->
+    </item>
+    <item>
+        <production id="10263" count="1"/>    <!-- Critical Attack Juice -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Focus (1 hour) -->
+    </item>
+    <item>
+        <production id="10262" count="1"/>    <!-- Critical Power Juice -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Death Whisper (1 hour) -->
+    </item>
+    <item>
+        <production id="10261" count="1"/>    <!-- Accuracy Juice -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Guidance (1 hour) -->
+    </item>
+    <item>
+        <production id="10265" count="1"/>    <!-- Evasion Juice -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Evasion (1 hour) -->
+    </item>
+
+    <!-- Mage Buffs -->
+    <item>
+        <production id="10266" count="1"/>    <!-- Magic Power Juice -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Empower (1 hour) -->
+    </item>
+    <item>
+        <production id="10264" count="1"/>    <!-- Casting Spd. Juice -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Acumen (1 hour) -->
+    </item>
+    <item>
+        <production id="22051" count="1"/>    <!-- Bless the Soul Scroll -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Bless the Soul (1 hour) -->
+    </item>
+    <item>
+        <production id="22053" count="1"/>    <!-- Wild Magic Scroll -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Wild Magic (1 hour) -->
+    </item>
+    <item>
+        <production id="10270" count="1"/>    <!-- MP Consumption Juice -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Clarity (1 hour) -->
+    </item>
+
+    <!-- General Buffs -->
+    <item>
+        <production id="10268" count="1"/>    <!-- Speed Juice -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Wind Walk (1 hour) -->
+    </item>
+    <item>
+        <production id="10271" count="1"/>    <!-- Marvelous Fruit Juice #12 -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: TBD -->
+    </item>
+
+    <!-- 2. Vitality Items -->
+
+    <item>
+        <production id="20391" count="1"/>    <!-- Vitality Maintaining Potion -->
+        <ingredient id="7569" count="3"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Maintains current vitality state (30 minutes) -->
+    </item>
+    <item>
+        <production id="13420" count="1"/>    <!-- Multi-colored Honey Rice Cake -->
+        <ingredient id="7569" count="5"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Fully replenishes vitality (60-minute reuse) -->
+    </item>
+
+    <!-- 3. Health and Mana Consumables -->
+
+    <item>
+        <production id="21239" count="1"/>    <!-- Super Healthy Juice (HP) -->
+        <ingredient id="7569" count="3"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Fully restores HP (10-second reuse) -->
+    </item>
+    <item>
+        <production id="21243" count="1"/>    <!-- Super Healthy Juice (CP) -->
+        <ingredient id="7569" count="2"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Fully restores CP (10-second reuse) -->
+    </item>
+    <item>
+        <production id="21210" count="1"/>    <!-- MP Recovery Potion -->
+        <ingredient id="7569" count="3"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Recovers 50% MP (10-second reuse) -->
+    </item>
+    <item>
+        <production id="22024" count="1"/>    <!-- Quick Healing Potion -->
+        <ingredient id="7569" count="1"/>     <!-- Four-Leaf Clover -->
+        <!-- Effect: Instantly recovers 435 HP (1-second reuse) -->
+    </item>
+</list>

@@ -1,0 +1,63 @@
+[01.12.24 10:43:19] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[01.12.24 10:43:19] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[01.12.24 10:43:19] bosses BaylorManager : Init BaylorManager.
+[01.12.24 10:48:20] debug_bypass Can't decode bypass (bypass not exists): [bbs] 17 / Player: BaykoZ / Npc: Vote/Donation Shop
+[01.12.24 10:48:23] debug_bypass Can't decode bypass (bypass not exists): [bbs] 10 / Player: BaykoZ / Npc: Vote/Donation Shop
+[01.12.24 10:48:44] debug_bypass Can't decode bypass (bypass not exists): [bbs] 15 / Player: BaykoZ / Npc: Vote/Donation Shop
+[01.12.24 11:41:21] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[01.12.24 11:41:21] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[01.12.24 11:41:21] bosses BaylorManager : Init BaylorManager.
+[01.12.24 11:44:07] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[01.12.24 11:44:07] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[01.12.24 11:44:07] bosses BaylorManager : Init BaylorManager.
+[01.12.24 13:08:50] enchant_skills Hero|Successfully enchanted|1355|to+101|97
+[01.12.24 13:08:53] enchant_skills Hero|Successfully enchanted|1355|to+102|95
+[01.12.24 13:08:54] enchant_skills Hero|Successfully enchanted|1355|to+103|93
+[01.12.24 13:08:56] enchant_skills Hero|Successfully enchanted|1355|to+104|91
+[01.12.24 13:09:01] enchant_skills Hero|Failed to enchant|1355|to+105|89
+[01.12.24 13:09:13] enchant_skills Hero|Successfully enchanted|1355|to+101|97
+[01.12.24 13:09:14] enchant_skills Hero|Successfully enchanted|1355|to+102|95
+[01.12.24 13:09:15] enchant_skills Hero|Successfully enchanted|1355|to+103|93
+[01.12.24 13:09:15] enchant_skills Hero|Successfully enchanted|1355|to+104|91
+[01.12.24 13:09:16] enchant_skills Hero|Successfully enchanted|1355|to+105|89
+[01.12.24 13:09:17] enchant_skills Hero|Successfully enchanted|1355|to+106|87
+[01.12.24 13:09:18] enchant_skills Hero|Successfully enchanted|1355|to+107|85
+[01.12.24 13:09:23] enchant_skills Hero|Successfully enchanted|1355|to+108|83
+[01.12.24 13:09:25] enchant_skills Hero|Successfully enchanted|1355|to+109|81
+[01.12.24 13:09:27] enchant_skills Hero|Failed to enchant|1355|to+110|74
+[01.12.24 13:09:32] enchant_skills Hero|Successfully enchanted|1355|to+101|97
+[01.12.24 13:09:33] enchant_skills Hero|Successfully enchanted|1355|to+102|95
+[01.12.24 13:09:34] enchant_skills Hero|Successfully enchanted|1355|to+103|93
+[01.12.24 13:09:35] enchant_skills Hero|Successfully enchanted|1355|to+104|91
+[01.12.24 13:09:36] enchant_skills Hero|Successfully enchanted|1355|to+105|89
+[01.12.24 13:09:44] enchant_skills Hero|Failed to enchant|1355|to+106|87
+[01.12.24 14:10:28] enchant_skills Muddy|Successfully enchanted|336|to+101|97
+[01.12.24 14:10:30] enchant_skills Muddy|Successfully enchanted|336|to+102|95
+[01.12.24 14:10:32] enchant_skills Muddy|Successfully enchanted|336|to+103|93
+[01.12.24 14:10:34] enchant_skills Muddy|Successfully enchanted|336|to+104|91
+[01.12.24 14:10:40] enchant_skills Muddy|Successfully enchanted|1013|to+101|97
+[01.12.24 14:10:42] enchant_skills Muddy|Successfully enchanted|1013|to+102|95
+[01.12.24 14:10:44] enchant_skills Muddy|Successfully enchanted|1013|to+103|93
+[01.12.24 14:10:44] enchant_skills Muddy|Successfully enchanted|1013|to+104|91
+[01.12.24 14:10:44] enchant_skills Muddy|Successfully enchanted|1013|to+105|89
+[01.12.24 14:10:45] enchant_skills Muddy|Successfully enchanted|1013|to+106|87
+[01.12.24 14:10:45] enchant_skills Muddy|Successfully enchanted|1013|to+107|85
+[01.12.24 14:34:34] enchant_skills Hero|Successfully enchanted|1355|to+101|97
+[01.12.24 14:34:35] enchant_skills Hero|Successfully enchanted|1355|to+102|95
+[01.12.24 14:34:36] enchant_skills Hero|Successfully enchanted|1355|to+103|93
+[01.12.24 14:34:36] enchant_skills Hero|Successfully enchanted|1355|to+104|91
+[01.12.24 14:34:38] enchant_skills Hero|Successfully enchanted|1355|to+105|89
+[01.12.24 14:34:39] enchant_skills Hero|Successfully enchanted|1355|to+106|87
+[01.12.24 14:34:41] enchant_skills Hero|Successfully enchanted|1355|to+107|85
+[01.12.24 14:34:43] enchant_skills Hero|Failed to enchant|1355|to+108|83
+[01.12.24 17:27:05] enchant_skills Jarvan|Successfully enchanted|1357|to+301|97
+[01.12.24 17:27:07] enchant_skills Jarvan|Successfully enchanted|1357|to+302|95
+[01.12.24 17:27:08] enchant_skills Jarvan|Successfully enchanted|1357|to+303|93
+[01.12.24 17:27:12] enchant_skills Jarvan|Successfully enchanted|1357|to+304|91
+[01.12.24 17:27:14] enchant_skills Jarvan|Successfully enchanted|1357|to+305|89
+[01.12.24 17:27:16] enchant_skills Jarvan|Failed to enchant|1357|to+306|87
+[01.12.24 18:25:03] enchant_skills Jarvan|Successfully enchanted|1357|to+301|97
+[01.12.24 18:25:04] enchant_skills Jarvan|Successfully enchanted|1357|to+302|95
+[01.12.24 18:25:05] enchant_skills Jarvan|Successfully enchanted|1357|to+303|93
+[01.12.24 18:25:06] enchant_skills Jarvan|Successfully enchanted|1357|to+304|91
+[01.12.24 18:25:09] enchant_skills Jarvan|Failed to enchant|1357|to+305|89

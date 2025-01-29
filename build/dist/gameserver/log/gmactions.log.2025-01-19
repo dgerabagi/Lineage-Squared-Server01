@@ -1,0 +1,39 @@
+[19.01.25 07:44:03] SUCCESS PacMan[268481203] admin_admin
+[19.01.25 07:44:04] SUCCESS PacMan[268481203] admin_char_manage
+[19.01.25 07:44:05] SUCCESS PacMan[268481203] admin_show_characters 0
+[19.01.25 07:44:06] SUCCESS PacMan[268481203] admin_admin
+[19.01.25 07:44:07] SUCCESS PacMan[268481203] admin_show_moves
+[19.01.25 07:44:07] SUCCESS PacMan[268481203] admin_show_html teleports/town.htm
+[19.01.25 07:44:08] SUCCESS PacMan[268481203] admin_show_html teleports/town/giran.htm
+[19.01.25 07:44:09] SUCCESS PacMan[268481203] admin_move_to 82698 148638 -3473
+[19.01.25 07:45:16] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[19.01.25 07:45:19] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[19.01.25 07:45:20] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[19.01.25 07:45:21] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[19.01.25 07:57:19] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[19.01.25 07:57:20] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_char_manage
+[19.01.25 07:57:20] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_characters 0
+[19.01.25 10:07:36] SUCCESS PacMan[268481203] admin_invis
+[19.01.25 10:07:39] SUCCESS PacMan[268481203] admin_admin
+[19.01.25 10:07:40] SUCCESS PacMan[268481203] admin_char_manage
+[19.01.25 10:07:41] SUCCESS PacMan[268481203] admin_show_characters 0
+[19.01.25 10:07:42] SUCCESS PacMan[268481203] admin_teleportto Jessy
+[19.01.25 10:09:03] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_admin
+[19.01.25 10:09:04] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_char_manage
+[19.01.25 10:09:06] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_show_characters 0
+[19.01.25 10:09:09] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_character_list PacMan
+[19.01.25 10:09:11] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_add_exp_sp_to_character
+[19.01.25 10:09:14] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_setlevel 85
+[19.01.25 10:10:49] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_admin
+[19.01.25 10:10:51] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_gmshop
+[19.01.25 10:10:53] SUCCESS PacMan[268481203] -> xThorosx[268778379] admin_show_html gmstore/gear/jewels.htm
+[19.01.25 10:10:58] SUCCESS PacMan[268481203] -> xThorosx[268778379] admin_buy 9965
+[19.01.25 10:11:14] SUCCESS PacMan[268481203] -> xThorosx[268778379] admin_admin
+[19.01.25 10:11:16] SUCCESS PacMan[268481203] -> xThorosx[268778379] admin_gmshop
+[19.01.25 10:11:19] SUCCESS PacMan[268481203] -> xThorosx[268778379] admin_admin
+[19.01.25 10:11:20] SUCCESS PacMan[268481203] -> xThorosx[268778379] admin_gmshop
+[19.01.25 10:11:22] SUCCESS PacMan[268481203] -> xThorosx[268778379] admin_admin
+[19.01.25 10:11:23] SUCCESS PacMan[268481203] -> xThorosx[268778379] admin_enchant
+[19.01.25 10:11:25] SUCCESS PacMan[268481203] -> xThorosx[268778379] admin_seten 55555
+[19.01.25 10:11:28] SUCCESS PacMan[268481203] -> xThorosx[268778379] admin_seten 0
+[19.01.25 10:11:36] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_seten 55555

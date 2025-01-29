@@ -1,0 +1,940 @@
+[08.01.25 01:13:48] fame Jessy|180|180|mobFromFameZone
+[08.01.25 01:14:36] fame Jessy|180|360|mobFromFameZone
+[08.01.25 01:15:26] fame Jessy|180|540|mobFromFameZone
+[08.01.25 01:16:01] fame Jessy|180|720|mobFromFameZone
+[08.01.25 01:16:31] fame Jessy|180|900|mobFromFameZone
+[08.01.25 01:16:45] fame Jessy|180|1080|mobFromFameZone
+[08.01.25 01:16:58] fame Jessy|180|1260|mobFromFameZone
+[08.01.25 01:18:28] fame Jessy|180|1440|mobFromFameZone
+[08.01.25 01:18:59] fame Jessy|180|1620|mobFromFameZone
+[08.01.25 01:19:19] fame Jessy|180|1800|mobFromFameZone
+[08.01.25 01:19:46] fame Jessy|180|1980|mobFromFameZone
+[08.01.25 01:20:07] fame Jessy|180|2160|mobFromFameZone
+[08.01.25 01:22:48] fame Jessy|180|2340|mobFromFameZone
+[08.01.25 01:52:23] enchant_skills Mochin|Successfully enchanted|281|to+101|97
+[08.01.25 01:52:24] enchant_skills Mochin|Successfully enchanted|281|to+102|95
+[08.01.25 01:52:24] enchant_skills Mochin|Successfully enchanted|281|to+103|93
+[08.01.25 01:52:25] enchant_skills Mochin|Successfully enchanted|281|to+104|91
+[08.01.25 01:52:25] enchant_skills Mochin|Failed to enchant|281|to+105|89
+[08.01.25 01:52:26] enchant_skills Mochin|Successfully enchanted|281|to+101|97
+[08.01.25 01:52:26] enchant_skills Mochin|Successfully enchanted|281|to+102|95
+[08.01.25 01:52:27] enchant_skills Mochin|Successfully enchanted|281|to+103|93
+[08.01.25 01:52:27] enchant_skills Mochin|Successfully enchanted|281|to+104|91
+[08.01.25 01:52:28] enchant_skills Mochin|Successfully enchanted|281|to+105|89
+[08.01.25 01:52:28] enchant_skills Mochin|Successfully enchanted|281|to+106|87
+[08.01.25 01:52:29] enchant_skills Mochin|Successfully enchanted|281|to+107|85
+[08.01.25 01:52:29] enchant_skills Mochin|Successfully enchanted|281|to+108|83
+[08.01.25 01:52:30] enchant_skills Mochin|Successfully enchanted|281|to+109|81
+[08.01.25 01:52:30] enchant_skills Mochin|Successfully enchanted|281|to+110|79
+[08.01.25 01:52:31] enchant_skills Mochin|Successfully enchanted|281|to+111|77
+[08.01.25 01:52:31] enchant_skills Mochin|Successfully enchanted|281|to+112|75
+[08.01.25 01:52:31] enchant_skills Mochin|Successfully enchanted|281|to+113|73
+[08.01.25 01:52:32] enchant_skills Mochin|Successfully enchanted|281|to+114|71
+[08.01.25 01:52:32] enchant_skills Mochin|Successfully enchanted|281|to+115|69
+[08.01.25 01:53:20] enchant_skills Mochin|Successfully enchanted|1366|to+101|97
+[08.01.25 01:53:20] enchant_skills Mochin|Successfully enchanted|1366|to+102|95
+[08.01.25 01:53:21] enchant_skills Mochin|Successfully enchanted|1366|to+103|93
+[08.01.25 01:53:21] enchant_skills Mochin|Failed to enchant|1366|to+104|91
+[08.01.25 01:53:22] enchant_skills Mochin|Successfully enchanted|1366|to+101|97
+[08.01.25 01:53:22] enchant_skills Mochin|Successfully enchanted|1366|to+102|95
+[08.01.25 01:53:23] enchant_skills Mochin|Successfully enchanted|1366|to+103|93
+[08.01.25 01:53:23] enchant_skills Mochin|Successfully enchanted|1366|to+104|91
+[08.01.25 01:53:24] enchant_skills Mochin|Successfully enchanted|1366|to+105|89
+[08.01.25 01:53:24] enchant_skills Mochin|Successfully enchanted|1366|to+106|87
+[08.01.25 01:53:25] enchant_skills Mochin|Successfully enchanted|1366|to+107|85
+[08.01.25 01:53:25] enchant_skills Mochin|Successfully enchanted|1366|to+108|83
+[08.01.25 01:53:25] enchant_skills Mochin|Successfully enchanted|1366|to+109|81
+[08.01.25 01:53:26] enchant_skills Mochin|Successfully enchanted|1366|to+110|74
+[08.01.25 02:09:47] fame Jessy|180|2520|mobFromFameZone
+[08.01.25 02:10:21] fame Jessy|180|2700|mobFromFameZone
+[08.01.25 02:10:48] fame Jessy|180|2880|mobFromFameZone
+[08.01.25 02:11:31] fame Jessy|180|3060|mobFromFameZone
+[08.01.25 02:11:46] fame Jessy|180|3240|mobFromFameZone
+[08.01.25 02:12:08] fame Jessy|180|3420|mobFromFameZone
+[08.01.25 02:12:39] fame Jessy|180|3600|mobFromFameZone
+[08.01.25 02:12:57] fame Jessy|180|3780|mobFromFameZone
+[08.01.25 02:13:35] fame Jessy|180|3960|mobFromFameZone
+[08.01.25 02:14:17] fame Jessy|180|4140|mobFromFameZone
+[08.01.25 02:14:38] fame Jessy|180|4320|mobFromFameZone
+[08.01.25 02:15:43] fame Jessy|180|4500|mobFromFameZone
+[08.01.25 02:15:49] fame Jessy|180|4680|mobFromFameZone
+[08.01.25 02:16:04] fame Jessy|180|4860|mobFromFameZone
+[08.01.25 02:17:10] fame Jessy|180|5040|mobFromFameZone
+[08.01.25 02:18:26] fame Jessy|180|5220|mobFromFameZone
+[08.01.25 02:18:42] fame Jessy|180|5400|mobFromFameZone
+[08.01.25 02:18:47] fame Jessy|180|5580|mobFromFameZone
+[08.01.25 02:19:34] fame Jessy|180|5760|mobFromFameZone
+[08.01.25 02:19:54] fame Jessy|180|5940|mobFromFameZone
+[08.01.25 02:20:30] fame Jessy|180|6120|mobFromFameZone
+[08.01.25 02:21:03] fame Jessy|180|6300|mobFromFameZone
+[08.01.25 02:21:51] fame Jessy|180|6480|mobFromFameZone
+[08.01.25 02:22:29] fame Jessy|180|6660|mobFromFameZone
+[08.01.25 02:22:53] fame Jessy|180|6840|mobFromFameZone
+[08.01.25 02:23:06] fame Jessy|180|7020|mobFromFameZone
+[08.01.25 02:23:53] fame Jessy|180|7200|mobFromFameZone
+[08.01.25 02:24:29] fame Jessy|180|7380|mobFromFameZone
+[08.01.25 02:24:58] fame Jessy|180|7560|mobFromFameZone
+[08.01.25 02:25:59] fame Jessy|180|7740|mobFromFameZone
+[08.01.25 02:26:37] fame Jessy|180|7920|mobFromFameZone
+[08.01.25 02:26:56] fame Jessy|180|8100|mobFromFameZone
+[08.01.25 02:27:49] fame Jessy|180|8280|mobFromFameZone
+[08.01.25 02:28:07] fame Jessy|180|8460|mobFromFameZone
+[08.01.25 02:29:14] fame Jessy|180|8640|mobFromFameZone
+[08.01.25 02:29:29] fame Jessy|180|8820|mobFromFameZone
+[08.01.25 02:30:39] fame Jessy|180|9000|mobFromFameZone
+[08.01.25 02:30:59] fame Jessy|180|9180|mobFromFameZone
+[08.01.25 02:31:28] fame Jessy|180|9360|mobFromFameZone
+[08.01.25 02:32:02] fame Jessy|180|9540|mobFromFameZone
+[08.01.25 02:32:25] fame Jessy|180|9720|mobFromFameZone
+[08.01.25 02:32:33] fame Jessy|180|9900|mobFromFameZone
+[08.01.25 02:32:51] fame Jessy|180|10080|mobFromFameZone
+[08.01.25 02:33:28] fame Jessy|180|10260|mobFromFameZone
+[08.01.25 02:33:51] fame Jessy|20|10280|Inside Fame Zone
+[08.01.25 02:34:24] fame Jessy|180|10460|mobFromFameZone
+[08.01.25 02:35:08] fame Jessy|180|10640|mobFromFameZone
+[08.01.25 02:35:19] fame Jessy|180|10820|mobFromFameZone
+[08.01.25 02:35:38] fame Jessy|180|11000|mobFromFameZone
+[08.01.25 02:35:40] fame Jessy|180|11180|mobFromFameZone
+[08.01.25 02:36:27] fame Jessy|180|11360|mobFromFameZone
+[08.01.25 02:36:39] fame Jessy|180|11540|mobFromFameZone
+[08.01.25 02:37:05] fame Jessy|180|11720|mobFromFameZone
+[08.01.25 02:37:41] fame Jessy|180|11900|mobFromFameZone
+[08.01.25 02:38:07] fame Jessy|180|12080|mobFromFameZone
+[08.01.25 02:38:17] fame Jessy|180|12260|mobFromFameZone
+[08.01.25 02:38:38] fame Jessy|180|12440|mobFromFameZone
+[08.01.25 02:38:51] fame Jessy|20|12460|Inside Fame Zone
+[08.01.25 02:39:02] fame Jessy|180|12640|mobFromFameZone
+[08.01.25 02:39:24] fame Jessy|180|12820|mobFromFameZone
+[08.01.25 02:39:58] fame Jessy|180|13000|mobFromFameZone
+[08.01.25 02:41:00] fame Jessy|180|13180|mobFromFameZone
+[08.01.25 02:41:11] fame Jessy|180|13360|mobFromFameZone
+[08.01.25 02:41:39] fame Jessy|180|13540|mobFromFameZone
+[08.01.25 02:42:38] fame Jessy|180|13720|mobFromFameZone
+[08.01.25 02:42:50] fame Jessy|180|13900|mobFromFameZone
+[08.01.25 02:44:09] fame Jessy|180|14080|mobFromFameZone
+[08.01.25 02:44:40] fame Jessy|180|14260|mobFromFameZone
+[08.01.25 02:49:25] fame Jessy|180|14440|mobFromFameZone
+[08.01.25 02:50:35] fame Jessy|180|14620|mobFromFameZone
+[08.01.25 02:51:16] fame Jessy|180|14800|mobFromFameZone
+[08.01.25 02:51:30] fame Jessy|180|14980|mobFromFameZone
+[08.01.25 02:52:07] fame Jessy|180|15160|mobFromFameZone
+[08.01.25 02:52:38] fame Jessy|180|15340|mobFromFameZone
+[08.01.25 02:53:30] fame Jessy|180|15520|mobFromFameZone
+[08.01.25 02:54:20] fame Jessy|180|15700|mobFromFameZone
+[08.01.25 02:55:08] fame Jessy|180|15880|mobFromFameZone
+[08.01.25 02:55:40] fame Jessy|180|16060|mobFromFameZone
+[08.01.25 02:56:14] fame Jessy|180|16240|mobFromFameZone
+[08.01.25 02:56:45] fame Jessy|180|16420|mobFromFameZone
+[08.01.25 02:57:52] fame Jessy|180|16600|mobFromFameZone
+[08.01.25 02:58:41] fame Jessy|180|16780|mobFromFameZone
+[08.01.25 02:58:56] fame Jessy|180|16960|mobFromFameZone
+[08.01.25 02:59:07] fame Jessy|180|17140|mobFromFameZone
+[08.01.25 02:59:53] fame Jessy|180|17320|mobFromFameZone
+[08.01.25 03:00:26] fame Jessy|180|17500|mobFromFameZone
+[08.01.25 03:00:57] fame Jessy|180|17680|mobFromFameZone
+[08.01.25 03:01:15] fame Jessy|180|17860|mobFromFameZone
+[08.01.25 03:01:43] fame Jessy|180|18040|mobFromFameZone
+[08.01.25 03:02:13] fame Jessy|180|18220|mobFromFameZone
+[08.01.25 03:02:42] fame Jessy|180|18400|mobFromFameZone
+[08.01.25 03:03:22] fame Jessy|180|18580|mobFromFameZone
+[08.01.25 03:03:36] fame Jessy|180|18760|mobFromFameZone
+[08.01.25 03:04:19] fame Jessy|180|18940|mobFromFameZone
+[08.01.25 03:04:55] fame Jessy|180|19120|mobFromFameZone
+[08.01.25 03:05:58] fame Jessy|180|19300|mobFromFameZone
+[08.01.25 03:06:36] fame Jessy|180|19480|mobFromFameZone
+[08.01.25 03:06:44] fame Jessy|180|19660|mobFromFameZone
+[08.01.25 03:07:06] fame Jessy|180|19840|mobFromFameZone
+[08.01.25 03:07:51] fame Jessy|180|20020|mobFromFameZone
+[08.01.25 03:08:38] fame Jessy|180|20200|mobFromFameZone
+[08.01.25 03:08:59] fame Jessy|180|20380|mobFromFameZone
+[08.01.25 03:09:39] fame Jessy|180|20560|mobFromFameZone
+[08.01.25 03:10:09] fame Jessy|180|20740|mobFromFameZone
+[08.01.25 03:10:30] fame Jessy|180|20920|mobFromFameZone
+[08.01.25 03:11:02] fame Jessy|180|21100|mobFromFameZone
+[08.01.25 03:11:18] fame Jessy|180|21280|mobFromFameZone
+[08.01.25 03:11:47] fame Jessy|180|21460|mobFromFameZone
+[08.01.25 03:12:29] fame Jessy|180|21640|mobFromFameZone
+[08.01.25 03:12:54] fame Jessy|180|21820|mobFromFameZone
+[08.01.25 03:13:29] fame Jessy|180|22000|mobFromFameZone
+[08.01.25 03:14:30] fame Jessy|180|22180|mobFromFameZone
+[08.01.25 03:15:00] fame Jessy|180|22360|mobFromFameZone
+[08.01.25 03:15:14] fame Jessy|180|22540|mobFromFameZone
+[08.01.25 03:15:46] fame Jessy|180|22720|mobFromFameZone
+[08.01.25 03:16:59] fame Jessy|180|22900|mobFromFameZone
+[08.01.25 03:17:22] fame Jessy|180|23080|mobFromFameZone
+[08.01.25 03:17:36] fame Jessy|180|23260|mobFromFameZone
+[08.01.25 03:18:12] fame Jessy|180|23440|mobFromFameZone
+[08.01.25 03:19:12] fame Jessy|180|23620|mobFromFameZone
+[08.01.25 03:19:17] fame Jessy|180|23800|mobFromFameZone
+[08.01.25 03:19:38] fame Jessy|180|23980|mobFromFameZone
+[08.01.25 03:20:13] fame Jessy|180|24160|mobFromFameZone
+[08.01.25 03:21:08] fame Jessy|180|24340|mobFromFameZone
+[08.01.25 03:21:33] fame Jessy|180|24520|mobFromFameZone
+[08.01.25 03:22:05] fame Jessy|180|24700|mobFromFameZone
+[08.01.25 03:22:17] fame Jessy|180|24880|mobFromFameZone
+[08.01.25 03:22:47] fame Jessy|180|25060|mobFromFameZone
+[08.01.25 03:23:51] fame Jessy|180|25240|mobFromFameZone
+[08.01.25 03:24:29] fame Jessy|180|25420|mobFromFameZone
+[08.01.25 03:24:40] fame Jessy|180|25600|mobFromFameZone
+[08.01.25 03:25:09] fame Jessy|180|25780|mobFromFameZone
+[08.01.25 03:25:26] fame Jessy|180|25960|mobFromFameZone
+[08.01.25 03:25:54] fame Jessy|180|26140|mobFromFameZone
+[08.01.25 03:26:45] fame Jessy|180|26320|mobFromFameZone
+[08.01.25 03:27:18] fame Jessy|180|26500|mobFromFameZone
+[08.01.25 03:27:37] fame Jessy|180|26680|mobFromFameZone
+[08.01.25 03:28:01] fame Jessy|180|26860|mobFromFameZone
+[08.01.25 03:28:51] fame Jessy|180|27040|mobFromFameZone
+[08.01.25 03:28:58] fame Jessy|180|27220|mobFromFameZone
+[08.01.25 03:29:27] fame Jessy|180|27400|mobFromFameZone
+[08.01.25 03:30:38] fame Jessy|180|27580|mobFromFameZone
+[08.01.25 03:30:55] fame Jessy|180|27760|mobFromFameZone
+[08.01.25 03:31:43] fame Jessy|180|27940|mobFromFameZone
+[08.01.25 03:32:11] fame Jessy|180|28120|mobFromFameZone
+[08.01.25 03:32:39] fame Jessy|180|28300|mobFromFameZone
+[08.01.25 03:33:01] fame Jessy|180|28480|mobFromFameZone
+[08.01.25 03:33:39] fame Jessy|180|28660|mobFromFameZone
+[08.01.25 03:34:17] fame Jessy|180|28840|mobFromFameZone
+[08.01.25 03:34:47] fame Jessy|180|29020|mobFromFameZone
+[08.01.25 03:35:04] fame Jessy|180|29200|mobFromFameZone
+[08.01.25 03:35:41] fame Jessy|180|29380|mobFromFameZone
+[08.01.25 03:35:56] fame Jessy|180|29560|mobFromFameZone
+[08.01.25 03:37:10] fame Jessy|180|29740|mobFromFameZone
+[08.01.25 03:37:28] enchants Mochin|Trying to put enchant|15606|+0|268512127
+[08.01.25 03:37:32] enchants Mochin|Trying to put enchant|15606|+1|268512127
+[08.01.25 03:37:38] fame Jessy|180|29920|mobFromFameZone
+[08.01.25 03:37:45] fame Jessy|180|30100|mobFromFameZone
+[08.01.25 03:37:49] enchants Mochin|Trying to put enchant|15606|+2|268512127
+[08.01.25 03:37:53] enchants Mochin|Trying to put enchant|15609|+0|268512125
+[08.01.25 03:37:58] enchants Mochin|Trying to put enchant|15609|+1|268512125
+[08.01.25 03:38:03] enchants Mochin|Trying to put enchant|15609|+2|268512125
+[08.01.25 03:38:07] enchants Mochin|Trying to put enchant|15615|+0|268512121
+[08.01.25 03:38:12] enchants Mochin|Trying to put enchant|15615|+1|268512121
+[08.01.25 03:38:16] enchants Mochin|Trying to put enchant|15615|+2|268512121
+[08.01.25 03:38:21] enchants Mochin|Trying to put enchant|15618|+0|268512614
+[08.01.25 03:38:26] fame Jessy|180|30280|mobFromFameZone
+[08.01.25 03:38:30] enchants Mochin|Trying to put enchant|15618|+1|268512614
+[08.01.25 03:38:35] enchants Mochin|Trying to put enchant|15618|+2|268512614
+[08.01.25 03:38:40] enchants Mochin|Trying to put enchant|15612|+0|268512120
+[08.01.25 03:38:44] enchants Mochin|Trying to put enchant|15612|+1|268512120
+[08.01.25 03:38:46] fame Jessy|180|30460|mobFromFameZone
+[08.01.25 03:38:51] enchants Mochin|Trying to put enchant|15612|+2|268512120
+[08.01.25 03:39:28] fame Mochin|180|32660|mobFromFameZone
+[08.01.25 03:39:55] fame Jessy|180|30640|mobFromFameZone
+[08.01.25 03:40:16] fame Jessy|180|30820|mobFromFameZone
+[08.01.25 03:41:01] fame Jessy|180|31000|mobFromFameZone
+[08.01.25 03:41:33] fame Jessy|180|31180|mobFromFameZone
+[08.01.25 03:41:47] fame Mochin|-2590|30070|MultiSell
+[08.01.25 03:42:17] fame Jessy|180|31360|mobFromFameZone
+[08.01.25 03:42:39] fame Jessy|180|31540|mobFromFameZone
+[08.01.25 03:42:56] fame Jessy|180|31720|mobFromFameZone
+[08.01.25 03:43:17] fame Jessy|180|31900|mobFromFameZone
+[08.01.25 03:43:49] fame Jessy|180|32080|mobFromFameZone
+[08.01.25 03:44:54] fame Jessy|180|32260|mobFromFameZone
+[08.01.25 03:45:03] fame Jessy|180|32440|mobFromFameZone
+[08.01.25 03:45:15] fame Jessy|180|32620|mobFromFameZone
+[08.01.25 03:46:28] fame Jessy|180|32800|mobFromFameZone
+[08.01.25 03:46:40] fame Jessy|180|32980|mobFromFameZone
+[08.01.25 03:47:21] fame Jessy|180|33160|mobFromFameZone
+[08.01.25 03:47:42] fame Jessy|180|33340|mobFromFameZone
+[08.01.25 03:48:15] fame Jessy|180|33520|mobFromFameZone
+[08.01.25 03:48:36] fame Mochin|180|30250|mobFromFameZone
+[08.01.25 03:48:50] fame Jessy|180|33700|mobFromFameZone
+[08.01.25 03:49:19] fame Jessy|180|33880|mobFromFameZone
+[08.01.25 03:49:55] fame Jessy|180|34060|mobFromFameZone
+[08.01.25 03:50:34] fame Mochin|180|30430|mobFromFameZone
+[08.01.25 03:50:47] fame Jessy|180|34240|mobFromFameZone
+[08.01.25 03:50:51] fame Jessy|180|34420|mobFromFameZone
+[08.01.25 03:51:36] fame Jessy|180|34600|mobFromFameZone
+[08.01.25 03:52:01] fame Jessy|180|34780|mobFromFameZone
+[08.01.25 03:52:41] fame Mochin|180|30610|mobFromFameZone
+[08.01.25 03:52:46] fame Jessy|180|34960|mobFromFameZone
+[08.01.25 03:53:25] fame Jessy|180|35140|mobFromFameZone
+[08.01.25 03:53:38] fame Jessy|180|35320|mobFromFameZone
+[08.01.25 03:54:05] fame Jessy|180|35500|mobFromFameZone
+[08.01.25 03:54:27] fame Jessy|180|35680|mobFromFameZone
+[08.01.25 03:54:36] fame Mochin|180|30790|mobFromFameZone
+[08.01.25 03:55:13] fame Jessy|180|35860|mobFromFameZone
+[08.01.25 03:55:15] fame Jessy|180|36040|mobFromFameZone
+[08.01.25 03:55:49] fame Jessy|180|36220|mobFromFameZone
+[08.01.25 03:56:29] fame Jessy|180|36400|mobFromFameZone
+[08.01.25 03:56:36] fame Mochin|180|30970|mobFromFameZone
+[08.01.25 03:56:55] fame Jessy|180|36580|mobFromFameZone
+[08.01.25 03:57:47] fame Jessy|180|36760|mobFromFameZone
+[08.01.25 03:58:34] fame Jessy|180|36940|mobFromFameZone
+[08.01.25 03:58:55] fame Mochin|180|31150|mobFromFameZone
+[08.01.25 03:59:11] fame Jessy|180|37120|mobFromFameZone
+[08.01.25 03:59:24] fame Jessy|180|37300|mobFromFameZone
+[08.01.25 03:59:49] fame Jessy|180|37480|mobFromFameZone
+[08.01.25 04:00:21] fame Jessy|180|37660|mobFromFameZone
+[08.01.25 04:00:52] fame Jessy|180|37840|mobFromFameZone
+[08.01.25 04:01:01] fame Jessy|180|38020|mobFromFameZone
+[08.01.25 04:01:38] fame Mochin|180|31330|mobFromFameZone
+[08.01.25 04:01:53] fame Jessy|180|38200|mobFromFameZone
+[08.01.25 04:02:28] fame Jessy|180|38380|mobFromFameZone
+[08.01.25 04:02:57] fame Jessy|180|38560|mobFromFameZone
+[08.01.25 04:03:22] fame Mochin|180|31510|mobFromFameZone
+[08.01.25 04:03:40] fame Jessy|180|38740|mobFromFameZone
+[08.01.25 04:04:04] fame Jessy|180|38920|mobFromFameZone
+[08.01.25 04:04:55] fame Jessy|180|39100|mobFromFameZone
+[08.01.25 04:05:14] fame Mochin|180|31690|mobFromFameZone
+[08.01.25 04:05:32] fame Jessy|180|39280|mobFromFameZone
+[08.01.25 04:07:07] fame Mochin|180|31870|mobFromFameZone
+[08.01.25 04:09:14] fame Mochin|180|32050|mobFromFameZone
+[08.01.25 04:11:12] fame Mochin|180|32230|mobFromFameZone
+[08.01.25 04:13:23] fame Mochin|180|32410|mobFromFameZone
+[08.01.25 04:15:03] fame Mochin|180|32590|mobFromFameZone
+[08.01.25 04:16:56] fame Mochin|180|32770|mobFromFameZone
+[08.01.25 04:18:41] fame Mochin|180|32950|mobFromFameZone
+[08.01.25 04:20:32] fame Mochin|180|33130|mobFromFameZone
+[08.01.25 04:22:40] fame Mochin|180|33310|mobFromFameZone
+[08.01.25 04:24:26] fame Omoi|180|36540|mobFromFameZone
+[08.01.25 04:24:26] fame Mochin|180|33490|mobFromFameZone
+[08.01.25 04:26:31] fame Mochin|180|33670|mobFromFameZone
+[08.01.25 04:28:43] fame Mochin|180|33850|mobFromFameZone
+[08.01.25 04:28:57] fame Omoi|180|36720|mobFromFameZone
+[08.01.25 04:29:26] fame Omoi|180|36900|mobFromFameZone
+[08.01.25 04:31:09] fame Mochin|180|34030|mobFromFameZone
+[08.01.25 04:31:25] fame Jessy|180|39460|mobFromFameZone
+[08.01.25 04:31:44] fame Jessy|180|39640|mobFromFameZone
+[08.01.25 04:32:08] fame Jessy|180|39820|mobFromFameZone
+[08.01.25 04:32:44] fame Jessy|180|40000|mobFromFameZone
+[08.01.25 04:33:09] fame Omoi|180|37080|mobFromFameZone
+[08.01.25 04:33:27] fame Mochin|180|34210|mobFromFameZone
+[08.01.25 04:33:34] fame Jessy|180|40180|mobFromFameZone
+[08.01.25 04:33:39] fame Omoi|180|37260|mobFromFameZone
+[08.01.25 04:34:07] fame Jessy|180|40360|mobFromFameZone
+[08.01.25 04:34:29] fame Jessy|180|40540|mobFromFameZone
+[08.01.25 04:34:58] fame Jessy|180|40720|mobFromFameZone
+[08.01.25 04:35:26] fame Mochin|180|34390|mobFromFameZone
+[08.01.25 04:35:31] fame Jessy|180|40900|mobFromFameZone
+[08.01.25 04:36:08] fame Jessy|180|41080|mobFromFameZone
+[08.01.25 04:36:09] fame Omoi|180|37440|mobFromFameZone
+[08.01.25 04:36:49] fame Jessy|180|41260|mobFromFameZone
+[08.01.25 04:37:04] fame Jessy|180|41440|mobFromFameZone
+[08.01.25 04:37:31] fame Jessy|180|41620|mobFromFameZone
+[08.01.25 04:37:37] fame Mochin|180|34570|mobFromFameZone
+[08.01.25 04:38:24] fame Jessy|180|41800|mobFromFameZone
+[08.01.25 04:38:59] fame Jessy|180|41980|mobFromFameZone
+[08.01.25 04:39:16] fame Jessy|180|42160|mobFromFameZone
+[08.01.25 04:39:32] fame Mochin|180|34750|mobFromFameZone
+[08.01.25 04:39:36] fame Jessy|180|42340|mobFromFameZone
+[08.01.25 04:40:00] fame Jessy|180|42520|mobFromFameZone
+[08.01.25 04:40:37] fame Jessy|180|42700|mobFromFameZone
+[08.01.25 04:41:11] fame Jessy|180|42880|mobFromFameZone
+[08.01.25 04:41:24] fame Jessy|180|43060|mobFromFameZone
+[08.01.25 04:41:41] fame Jessy|180|43240|mobFromFameZone
+[08.01.25 04:42:37] fame Jessy|180|43420|mobFromFameZone
+[08.01.25 04:43:49] fame Jessy|180|43600|mobFromFameZone
+[08.01.25 04:44:02] fame Jessy|180|43780|mobFromFameZone
+[08.01.25 04:44:18] fame Jessy|180|43960|mobFromFameZone
+[08.01.25 04:44:58] fame Jessy|180|44140|mobFromFameZone
+[08.01.25 04:45:43] fame Jessy|180|44320|mobFromFameZone
+[08.01.25 04:46:07] fame Jessy|180|44500|mobFromFameZone
+[08.01.25 04:46:47] fame Jessy|180|44680|mobFromFameZone
+[08.01.25 04:47:03] fame Jessy|180|44860|mobFromFameZone
+[08.01.25 04:47:30] fame Jessy|180|45040|mobFromFameZone
+[08.01.25 04:47:58] fame Jessy|180|45220|mobFromFameZone
+[08.01.25 04:48:34] fame Jessy|180|45400|mobFromFameZone
+[08.01.25 04:49:01] fame Jessy|180|45580|mobFromFameZone
+[08.01.25 04:49:18] fame Jessy|180|45760|mobFromFameZone
+[08.01.25 04:49:38] fame Jessy|180|45940|mobFromFameZone
+[08.01.25 04:50:16] fame Jessy|180|46120|mobFromFameZone
+[08.01.25 04:50:47] fame Jessy|180|46300|mobFromFameZone
+[08.01.25 04:51:17] fame Jessy|180|46480|mobFromFameZone
+[08.01.25 04:51:36] fame Jessy|180|46660|mobFromFameZone
+[08.01.25 04:52:30] fame Jessy|180|46840|mobFromFameZone
+[08.01.25 04:53:38] fame Jessy|180|47020|mobFromFameZone
+[08.01.25 04:54:08] fame Jessy|180|47200|mobFromFameZone
+[08.01.25 04:54:42] fame Jessy|180|47380|mobFromFameZone
+[08.01.25 04:55:19] fame Jessy|180|47560|mobFromFameZone
+[08.01.25 04:55:31] fame Jessy|180|47740|mobFromFameZone
+[08.01.25 04:56:01] fame Jessy|180|47920|mobFromFameZone
+[08.01.25 04:56:16] fame Jessy|180|48100|mobFromFameZone
+[08.01.25 04:56:48] fame Jessy|180|48280|mobFromFameZone
+[08.01.25 04:57:02] fame Jessy|180|48460|mobFromFameZone
+[08.01.25 04:57:36] fame Jessy|180|48640|mobFromFameZone
+[08.01.25 04:58:11] fame Jessy|180|48820|mobFromFameZone
+[08.01.25 04:58:48] fame Jessy|180|49000|mobFromFameZone
+[08.01.25 04:59:37] fame Jessy|180|49180|mobFromFameZone
+[08.01.25 04:59:46] fame Jessy|180|49360|mobFromFameZone
+[08.01.25 05:00:27] fame Jessy|180|49540|mobFromFameZone
+[08.01.25 05:01:02] fame Jessy|180|49720|mobFromFameZone
+[08.01.25 05:01:22] fame Jessy|180|49900|mobFromFameZone
+[08.01.25 05:01:56] fame Jessy|180|50080|mobFromFameZone
+[08.01.25 05:02:13] fame Jessy|180|50260|mobFromFameZone
+[08.01.25 05:02:37] fame Jessy|180|50440|mobFromFameZone
+[08.01.25 05:09:24] enchant_skills Tromb|Successfully enchanted|1408|to+101|97
+[08.01.25 05:09:26] enchant_skills Tromb|Successfully enchanted|1408|to+102|95
+[08.01.25 05:09:26] enchant_skills Tromb|Successfully enchanted|1408|to+103|93
+[08.01.25 05:09:27] enchant_skills Tromb|Successfully enchanted|1408|to+104|91
+[08.01.25 05:09:28] enchant_skills Tromb|Successfully enchanted|1408|to+105|89
+[08.01.25 05:09:28] enchant_skills Tromb|Successfully enchanted|1408|to+106|87
+[08.01.25 05:09:29] enchant_skills Tromb|Successfully enchanted|1408|to+107|85
+[08.01.25 05:09:29] enchant_skills Tromb|Successfully enchanted|1408|to+108|83
+[08.01.25 05:09:30] enchant_skills Tromb|Successfully enchanted|1408|to+109|81
+[08.01.25 05:09:30] enchant_skills Tromb|Successfully enchanted|1408|to+110|74
+[08.01.25 05:09:32] enchant_skills Tromb|Failed to enchant|1408|to+111|72
+[08.01.25 05:09:33] enchant_skills Tromb|Successfully enchanted|1408|to+101|97
+[08.01.25 05:09:34] enchant_skills Tromb|Successfully enchanted|1408|to+102|95
+[08.01.25 05:09:34] enchant_skills Tromb|Successfully enchanted|1408|to+103|93
+[08.01.25 05:09:35] enchant_skills Tromb|Successfully enchanted|1408|to+104|91
+[08.01.25 05:09:36] enchant_skills Tromb|Successfully enchanted|1408|to+105|89
+[08.01.25 05:09:36] enchant_skills Tromb|Successfully enchanted|1408|to+106|87
+[08.01.25 05:09:37] enchant_skills Tromb|Successfully enchanted|1408|to+107|85
+[08.01.25 05:09:37] enchant_skills Tromb|Successfully enchanted|1408|to+108|83
+[08.01.25 05:09:38] enchant_skills Tromb|Failed to enchant|1408|to+109|81
+[08.01.25 05:09:39] enchant_skills Tromb|Successfully enchanted|1408|to+101|97
+[08.01.25 05:09:39] enchant_skills Tromb|Successfully enchanted|1408|to+102|95
+[08.01.25 05:09:40] enchant_skills Tromb|Successfully enchanted|1408|to+103|93
+[08.01.25 05:09:41] enchant_skills Tromb|Successfully enchanted|1408|to+104|91
+[08.01.25 05:09:41] enchant_skills Tromb|Successfully enchanted|1408|to+105|89
+[08.01.25 05:09:42] enchant_skills Tromb|Successfully enchanted|1408|to+106|87
+[08.01.25 05:09:42] enchant_skills Tromb|Successfully enchanted|1408|to+107|85
+[08.01.25 05:09:44] enchant_skills Tromb|Successfully enchanted|1408|to+108|83
+[08.01.25 05:09:44] enchant_skills Tromb|Failed to enchant|1408|to+109|81
+[08.01.25 05:09:46] enchant_skills Tromb|Successfully enchanted|1408|to+101|97
+[08.01.25 05:09:46] enchant_skills Tromb|Successfully enchanted|1408|to+102|95
+[08.01.25 05:09:47] enchant_skills Tromb|Successfully enchanted|1408|to+103|93
+[08.01.25 05:09:48] enchant_skills Tromb|Successfully enchanted|1408|to+104|91
+[08.01.25 05:09:48] enchant_skills Tromb|Successfully enchanted|1408|to+105|89
+[08.01.25 05:09:49] enchant_skills Tromb|Successfully enchanted|1408|to+106|87
+[08.01.25 05:09:50] enchant_skills Tromb|Successfully enchanted|1408|to+107|85
+[08.01.25 05:09:50] enchant_skills Tromb|Successfully enchanted|1408|to+108|83
+[08.01.25 05:09:51] enchant_skills Tromb|Successfully enchanted|1408|to+109|81
+[08.01.25 05:09:52] enchant_skills Tromb|Successfully enchanted|1408|to+110|74
+[08.01.25 05:32:07] fame Mochin|180|34930|mobFromFameZone
+[08.01.25 05:34:06] fame Mochin|180|35110|mobFromFameZone
+[08.01.25 05:35:56] fame Mochin|180|35290|mobFromFameZone
+[08.01.25 05:38:04] fame Mochin|180|35470|mobFromFameZone
+[08.01.25 05:40:28] fame Mochin|180|35650|mobFromFameZone
+[08.01.25 05:42:39] fame Mochin|180|35830|mobFromFameZone
+[08.01.25 05:44:24] fame Mochin|180|36010|mobFromFameZone
+[08.01.25 05:46:32] fame Mochin|180|36190|mobFromFameZone
+[08.01.25 05:48:34] fame Mochin|180|36370|mobFromFameZone
+[08.01.25 05:50:56] fame Mochin|180|36550|mobFromFameZone
+[08.01.25 05:52:37] fame Mochin|180|36730|mobFromFameZone
+[08.01.25 05:54:42] fame Mochin|180|36910|mobFromFameZone
+[08.01.25 05:56:30] fame Mochin|180|37090|mobFromFameZone
+[08.01.25 05:56:40] fame Jessy|180|50620|mobFromFameZone
+[08.01.25 05:57:09] fame Jessy|180|50800|mobFromFameZone
+[08.01.25 05:57:17] fame Jessy|180|50980|mobFromFameZone
+[08.01.25 05:58:10] fame Jessy|180|51160|mobFromFameZone
+[08.01.25 05:58:14] fame Jessy|180|51340|mobFromFameZone
+[08.01.25 05:58:41] fame Mochin|180|37270|mobFromFameZone
+[08.01.25 05:58:55] fame Jessy|180|51520|mobFromFameZone
+[08.01.25 05:59:25] fame Jessy|180|51700|mobFromFameZone
+[08.01.25 06:00:06] fame Jessy|180|51880|mobFromFameZone
+[08.01.25 06:00:25] fame Mochin|180|37450|mobFromFameZone
+[08.01.25 06:00:27] fame Jessy|180|52060|mobFromFameZone
+[08.01.25 06:00:56] fame Jessy|180|52240|mobFromFameZone
+[08.01.25 06:02:03] fame Jessy|180|52420|mobFromFameZone
+[08.01.25 06:02:23] fame Jessy|180|52600|mobFromFameZone
+[08.01.25 06:03:18] fame Mochin|180|37630|mobFromFameZone
+[08.01.25 06:04:17] fame Jessy|180|52780|mobFromFameZone
+[08.01.25 06:04:25] fame Jessy|180|52960|mobFromFameZone
+[08.01.25 06:04:50] fame Jessy|180|53140|mobFromFameZone
+[08.01.25 06:05:13] fame Jessy|180|53320|mobFromFameZone
+[08.01.25 06:05:53] fame Jessy|180|53500|mobFromFameZone
+[08.01.25 06:06:01] fame Mochin|180|37810|mobFromFameZone
+[08.01.25 06:06:03] fame Jessy|180|53680|mobFromFameZone
+[08.01.25 06:06:32] fame Jessy|180|53860|mobFromFameZone
+[08.01.25 06:07:24] fame Jessy|180|54040|mobFromFameZone
+[08.01.25 06:07:58] fame Mochin|180|37990|mobFromFameZone
+[08.01.25 06:08:15] fame Jessy|180|54220|mobFromFameZone
+[08.01.25 06:08:42] fame Jessy|180|54400|mobFromFameZone
+[08.01.25 06:08:54] fame Jessy|180|54580|mobFromFameZone
+[08.01.25 06:10:05] fame Mochin|180|38170|mobFromFameZone
+[08.01.25 06:10:05] fame Jessy|180|54760|mobFromFameZone
+[08.01.25 06:10:31] fame Jessy|180|54940|mobFromFameZone
+[08.01.25 06:10:52] fame Jessy|180|55120|mobFromFameZone
+[08.01.25 06:11:31] fame Jessy|180|55300|mobFromFameZone
+[08.01.25 06:11:40] fame Jessy|180|55480|mobFromFameZone
+[08.01.25 06:12:03] fame Mochin|180|38350|mobFromFameZone
+[08.01.25 06:12:13] fame Jessy|180|55660|mobFromFameZone
+[08.01.25 06:12:43] fame Jessy|180|55840|mobFromFameZone
+[08.01.25 06:13:12] fame Jessy|180|56020|mobFromFameZone
+[08.01.25 06:13:33] fame Jessy|180|56200|mobFromFameZone
+[08.01.25 06:13:57] fame Jessy|180|56380|mobFromFameZone
+[08.01.25 06:14:38] fame Jessy|180|56560|mobFromFameZone
+[08.01.25 06:14:41] fame Mochin|180|38530|mobFromFameZone
+[08.01.25 06:15:13] fame Jessy|180|56740|mobFromFameZone
+[08.01.25 06:15:18] fame Jessy|180|56920|mobFromFameZone
+[08.01.25 06:16:04] fame Jessy|180|57100|mobFromFameZone
+[08.01.25 06:16:30] fame Jessy|180|57280|mobFromFameZone
+[08.01.25 06:16:37] fame Mochin|180|38710|mobFromFameZone
+[08.01.25 06:17:01] fame Jessy|180|57460|mobFromFameZone
+[08.01.25 06:17:30] fame Jessy|180|57640|mobFromFameZone
+[08.01.25 06:17:46] fame Jessy|180|57820|mobFromFameZone
+[08.01.25 06:18:25] fame Jessy|180|58000|mobFromFameZone
+[08.01.25 06:18:44] fame Mochin|180|38890|mobFromFameZone
+[08.01.25 06:19:00] fame Jessy|180|58180|mobFromFameZone
+[08.01.25 06:19:17] fame Jessy|180|58360|mobFromFameZone
+[08.01.25 06:19:56] fame Jessy|180|58540|mobFromFameZone
+[08.01.25 06:20:20] fame Jessy|180|58720|mobFromFameZone
+[08.01.25 06:20:47] fame Jessy|180|58900|mobFromFameZone
+[08.01.25 06:21:07] fame Jessy|180|59080|mobFromFameZone
+[08.01.25 06:21:58] fame Jessy|180|59260|mobFromFameZone
+[08.01.25 06:22:20] fame Jessy|180|59440|mobFromFameZone
+[08.01.25 06:22:45] fame Jessy|180|59620|mobFromFameZone
+[08.01.25 06:23:17] fame Jessy|180|59800|mobFromFameZone
+[08.01.25 06:23:39] fame Jessy|180|59980|mobFromFameZone
+[08.01.25 06:23:46] fame Jessy|180|60160|mobFromFameZone
+[08.01.25 06:24:30] fame Jessy|180|60340|mobFromFameZone
+[08.01.25 06:24:55] fame Jessy|180|60520|mobFromFameZone
+[08.01.25 06:25:22] fame Jessy|180|60700|mobFromFameZone
+[08.01.25 06:25:52] fame Jessy|180|60880|mobFromFameZone
+[08.01.25 06:26:07] fame Jessy|180|61060|mobFromFameZone
+[08.01.25 06:26:38] fame Jessy|180|61240|mobFromFameZone
+[08.01.25 06:27:22] fame Jessy|180|61420|mobFromFameZone
+[08.01.25 06:28:09] fame Jessy|180|61600|mobFromFameZone
+[08.01.25 06:28:12] fame Jessy|180|61780|mobFromFameZone
+[08.01.25 06:28:26] fame Jessy|180|61960|mobFromFameZone
+[08.01.25 06:28:52] fame Omoi|180|37620|mobFromFameZone
+[08.01.25 06:31:13] fame Omoi|180|37800|mobFromFameZone
+[08.01.25 06:32:20] fame Omoi|180|37980|mobFromFameZone
+[08.01.25 06:35:38] fame Omoi|180|38160|mobFromFameZone
+[08.01.25 06:53:00] fame Jessy|-2000|59960|MultiSell
+[08.01.25 06:53:03] fame Jessy|-2000|57960|MultiSell
+[08.01.25 06:53:05] fame Jessy|-2000|55960|MultiSell
+[08.01.25 06:53:10] fame Jessy|-2000|53960|MultiSell
+[08.01.25 06:53:12] fame Jessy|-2000|51960|MultiSell
+[08.01.25 06:53:14] fame Jessy|-2000|49960|MultiSell
+[08.01.25 06:53:17] fame Jessy|-2000|47960|MultiSell
+[08.01.25 06:53:19] fame Jessy|-2000|45960|MultiSell
+[08.01.25 06:53:21] fame Jessy|-2000|43960|MultiSell
+[08.01.25 06:53:23] fame Jessy|-2000|41960|MultiSell
+[08.01.25 06:53:25] fame Jessy|-2000|39960|MultiSell
+[08.01.25 06:53:26] fame Jessy|-2000|37960|MultiSell
+[08.01.25 06:53:29] fame Jessy|-2000|35960|MultiSell
+[08.01.25 06:53:31] fame Jessy|-2000|33960|MultiSell
+[08.01.25 06:53:32] fame Jessy|-2000|31960|MultiSell
+[08.01.25 06:55:40] clan_reputation DevotedSouls|300|11200|raid
+[08.01.25 07:07:09] clan_reputation DevotedSouls|300|11500|raid
+[08.01.25 07:34:26] fame Jessy|180|32140|mobFromFameZone
+[08.01.25 07:35:06] fame Jessy|180|32320|mobFromFameZone
+[08.01.25 07:37:16] fame Jessy|180|32500|mobFromFameZone
+[08.01.25 07:37:34] fame Jessy|180|32680|mobFromFameZone
+[08.01.25 07:38:31] fame Jessy|180|32860|mobFromFameZone
+[08.01.25 07:38:49] fame Jessy|180|33040|mobFromFameZone
+[08.01.25 07:38:59] fame Jessy|180|33220|mobFromFameZone
+[08.01.25 07:40:15] fame Jessy|180|33400|mobFromFameZone
+[08.01.25 07:40:40] fame Jessy|180|33580|mobFromFameZone
+[08.01.25 07:41:14] fame Jessy|180|33760|mobFromFameZone
+[08.01.25 07:41:45] fame Jessy|180|33940|mobFromFameZone
+[08.01.25 07:42:06] fame Jessy|180|34120|mobFromFameZone
+[08.01.25 07:42:40] fame Jessy|180|34300|mobFromFameZone
+[08.01.25 07:43:01] fame Jessy|180|34480|mobFromFameZone
+[08.01.25 07:43:26] fame Jessy|180|34660|mobFromFameZone
+[08.01.25 07:43:55] fame Jessy|180|34840|mobFromFameZone
+[08.01.25 07:44:21] fame Jessy|180|35020|mobFromFameZone
+[08.01.25 07:44:49] fame Jessy|180|35200|mobFromFameZone
+[08.01.25 07:45:06] fame Jessy|180|35380|mobFromFameZone
+[08.01.25 07:45:41] fame Jessy|180|35560|mobFromFameZone
+[08.01.25 07:46:10] fame Jessy|180|35740|mobFromFameZone
+[08.01.25 07:46:19] fame Jessy|180|35920|mobFromFameZone
+[08.01.25 07:47:53] fame Jessy|180|36100|mobFromFameZone
+[08.01.25 07:48:00] fame Jessy|180|36280|mobFromFameZone
+[08.01.25 07:48:15] fame Jessy|180|36460|mobFromFameZone
+[08.01.25 07:49:01] fame Jessy|180|36640|mobFromFameZone
+[08.01.25 07:49:20] fame Jessy|180|36820|mobFromFameZone
+[08.01.25 07:50:31] fame Jessy|180|37000|mobFromFameZone
+[08.01.25 07:50:55] fame Jessy|180|37180|mobFromFameZone
+[08.01.25 07:51:14] fame Jessy|180|37360|mobFromFameZone
+[08.01.25 07:51:37] fame Jessy|180|37540|mobFromFameZone
+[08.01.25 07:52:32] fame Jessy|180|37720|mobFromFameZone
+[08.01.25 07:53:18] fame Jessy|180|37900|mobFromFameZone
+[08.01.25 07:53:34] fame Jessy|180|38080|mobFromFameZone
+[08.01.25 07:54:12] fame Jessy|180|38260|mobFromFameZone
+[08.01.25 07:54:32] clan_reputation DevotedSouls|300|11800|raid
+[08.01.25 08:30:50] fame Jessy|180|38440|mobFromFameZone
+[08.01.25 08:36:44] fame Jessy|180|38620|mobFromFameZone
+[08.01.25 08:36:57] fame Jessy|180|38800|mobFromFameZone
+[08.01.25 08:37:59] fame Jessy|180|38980|mobFromFameZone
+[08.01.25 08:38:17] fame Jessy|180|39160|mobFromFameZone
+[08.01.25 08:38:38] fame Jessy|180|39340|mobFromFameZone
+[08.01.25 08:39:03] fame Jessy|180|39520|mobFromFameZone
+[08.01.25 08:39:24] fame Jessy|180|39700|mobFromFameZone
+[08.01.25 08:39:45] fame Jessy|180|39880|mobFromFameZone
+[08.01.25 08:40:16] fame Jessy|180|40060|mobFromFameZone
+[08.01.25 08:41:23] fame Jessy|180|40240|mobFromFameZone
+[08.01.25 08:41:42] fame Jessy|180|40420|mobFromFameZone
+[08.01.25 08:41:57] fame Jessy|180|40600|mobFromFameZone
+[08.01.25 08:43:05] fame Jessy|180|40780|mobFromFameZone
+[08.01.25 08:43:17] fame Jessy|180|40960|mobFromFameZone
+[08.01.25 08:43:58] fame Jessy|180|41140|mobFromFameZone
+[08.01.25 08:45:23] fame Jessy|180|41320|mobFromFameZone
+[08.01.25 08:45:37] fame Jessy|180|41500|mobFromFameZone
+[08.01.25 08:46:06] fame Jessy|180|41680|mobFromFameZone
+[08.01.25 08:46:43] fame Jessy|180|41860|mobFromFameZone
+[08.01.25 08:47:17] fame Jessy|180|42040|mobFromFameZone
+[08.01.25 08:47:33] fame Jessy|180|42220|mobFromFameZone
+[08.01.25 08:47:58] fame Jessy|180|42400|mobFromFameZone
+[08.01.25 08:48:33] fame Jessy|180|42580|mobFromFameZone
+[08.01.25 08:49:09] fame Jessy|180|42760|mobFromFameZone
+[08.01.25 08:49:26] fame Jessy|180|42940|mobFromFameZone
+[08.01.25 08:50:24] fame Jessy|180|43120|mobFromFameZone
+[08.01.25 08:50:43] fame Jessy|180|43300|mobFromFameZone
+[08.01.25 08:51:14] fame Jessy|180|43480|mobFromFameZone
+[08.01.25 08:51:49] fame Jessy|180|43660|mobFromFameZone
+[08.01.25 08:52:00] fame Jessy|180|43840|mobFromFameZone
+[08.01.25 08:52:38] fame Jessy|180|44020|mobFromFameZone
+[08.01.25 08:53:04] fame Jessy|180|44200|mobFromFameZone
+[08.01.25 08:53:42] fame Jessy|180|44380|mobFromFameZone
+[08.01.25 08:54:21] fame Jessy|180|44560|mobFromFameZone
+[08.01.25 08:54:48] fame Jessy|180|44740|mobFromFameZone
+[08.01.25 08:55:17] fame Jessy|180|44920|mobFromFameZone
+[08.01.25 08:55:46] fame Jessy|180|45100|mobFromFameZone
+[08.01.25 08:56:22] fame Jessy|180|45280|mobFromFameZone
+[08.01.25 08:56:39] fame Jessy|180|45460|mobFromFameZone
+[08.01.25 08:57:01] fame Jessy|180|45640|mobFromFameZone
+[08.01.25 08:58:09] fame Jessy|180|45820|mobFromFameZone
+[08.01.25 08:58:28] fame Jessy|180|46000|mobFromFameZone
+[08.01.25 08:58:53] fame Jessy|180|46180|mobFromFameZone
+[08.01.25 08:59:05] fame Jessy|180|46360|mobFromFameZone
+[08.01.25 08:59:43] fame Jessy|180|46540|mobFromFameZone
+[08.01.25 09:00:25] fame Jessy|180|46720|mobFromFameZone
+[08.01.25 09:01:04] fame Jessy|180|46900|mobFromFameZone
+[08.01.25 09:01:23] fame Jessy|180|47080|mobFromFameZone
+[08.01.25 09:01:31] fame Jessy|180|47260|mobFromFameZone
+[08.01.25 09:02:04] fame Jessy|180|47440|mobFromFameZone
+[08.01.25 09:02:38] fame Jessy|180|47620|mobFromFameZone
+[08.01.25 09:03:13] fame Jessy|180|47800|mobFromFameZone
+[08.01.25 09:03:31] fame Jessy|180|47980|mobFromFameZone
+[08.01.25 09:05:59] fame Jessy|-2000|45980|MultiSell
+[08.01.25 09:06:00] fame Jessy|-2000|43980|MultiSell
+[08.01.25 09:06:02] fame Jessy|-2000|41980|MultiSell
+[08.01.25 09:06:05] fame Jessy|-2000|39980|MultiSell
+[08.01.25 09:06:06] fame Jessy|-2000|37980|MultiSell
+[08.01.25 09:06:07] fame Jessy|-2000|35980|MultiSell
+[08.01.25 09:06:10] fame Jessy|-2000|33980|MultiSell
+[08.01.25 09:06:12] fame Jessy|-2000|31980|MultiSell
+[08.01.25 09:06:14] fame Jessy|-2000|29980|MultiSell
+[08.01.25 09:06:22] fame Jessy|-2000|27980|MultiSell
+[08.01.25 09:07:08] fame Jessy|-2000|25980|MultiSell
+[08.01.25 09:07:10] fame Jessy|-2000|23980|MultiSell
+[08.01.25 09:07:11] fame Jessy|-2000|21980|MultiSell
+[08.01.25 09:07:13] fame Jessy|-2000|19980|MultiSell
+[08.01.25 09:07:14] fame Jessy|-2000|17980|MultiSell
+[08.01.25 09:35:44] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[08.01.25 09:35:44] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[08.01.25 09:35:44] bosses BaylorManager : Init BaylorManager.
+[08.01.25 09:52:05] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[08.01.25 09:52:05] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[08.01.25 09:52:05] bosses BaylorManager : Init BaylorManager.
+[08.01.25 10:15:28] fame Mochin|180|39070|mobFromFameZone
+[08.01.25 10:17:44] fame Mochin|180|39250|mobFromFameZone
+[08.01.25 10:18:18] fame Mochin|180|39430|mobFromFameZone
+[08.01.25 10:19:46] fame Mochin|180|39610|mobFromFameZone
+[08.01.25 10:20:28] fame Mochin|180|39790|mobFromFameZone
+[08.01.25 10:21:13] fame Mochin|180|39970|mobFromFameZone
+[08.01.25 10:23:08] fame Mochin|180|40150|mobFromFameZone
+[08.01.25 10:23:56] fame Mochin|180|40330|mobFromFameZone
+[08.01.25 10:26:22] fame Mochin|180|40510|mobFromFameZone
+[08.01.25 10:26:50] fame Mochin|180|40690|mobFromFameZone
+[08.01.25 10:28:49] fame Mochin|180|40870|mobFromFameZone
+[08.01.25 10:29:20] fame Mochin|180|41050|mobFromFameZone
+[08.01.25 10:31:51] fame Mochin|180|41230|mobFromFameZone
+[08.01.25 10:33:14] fame Mochin|180|41410|mobFromFameZone
+[08.01.25 10:34:17] fame Mochin|180|41590|mobFromFameZone
+[08.01.25 10:36:18] fame Mochin|180|41770|mobFromFameZone
+[08.01.25 10:37:24] enchants Jessy|Trying to put enchant|9443|+0|268484418
+[08.01.25 10:37:29] enchants Jessy|Trying to put enchant|9443|+1|268484418
+[08.01.25 10:37:33] enchants Jessy|Trying to put enchant|9443|+2|268484418
+[08.01.25 10:37:37] enchants Jessy|Trying to put enchant|9443|+3|268484418
+[08.01.25 10:37:49] enchants Jessy|Trying to put enchant|9443|+0|268484418
+[08.01.25 10:37:53] fame Mochin|180|41950|mobFromFameZone
+[08.01.25 10:37:59] enchants Jessy|Trying to put enchant|9443|+1|268484418
+[08.01.25 10:38:03] enchants Jessy|Trying to put enchant|9443|+2|268484418
+[08.01.25 10:38:08] enchants Jessy|Trying to put enchant|9443|+3|268484418
+[08.01.25 10:38:13] enchants Jessy|Trying to put enchant|9443|+4|268484418
+[08.01.25 10:38:17] enchants Jessy|Trying to put enchant|9443|+5|268484418
+[08.01.25 10:38:21] enchants Jessy|Trying to put enchant|9443|+6|268484418
+[08.01.25 10:38:25] enchants Jessy|Trying to put enchant|9443|+7|268484418
+[08.01.25 10:38:31] enchants Jessy|Trying to put enchant|9443|+0|268484418
+[08.01.25 10:38:35] enchants Jessy|Trying to put enchant|9443|+1|268484418
+[08.01.25 10:38:39] enchants Jessy|Trying to put enchant|9443|+2|268484418
+[08.01.25 10:38:43] enchants Jessy|Trying to put enchant|9443|+3|268484418
+[08.01.25 10:38:48] enchants Jessy|Trying to put enchant|9443|+0|268484418
+[08.01.25 10:38:52] enchants Jessy|Trying to put enchant|9443|+1|268484418
+[08.01.25 10:38:56] enchants Jessy|Trying to put enchant|9443|+2|268484418
+[08.01.25 10:39:00] enchants Jessy|Trying to put enchant|9443|+3|268484418
+[08.01.25 10:39:04] enchants Jessy|Trying to put enchant|9443|+4|268484418
+[08.01.25 10:39:05] fame Mochin|180|42130|mobFromFameZone
+[08.01.25 10:39:08] enchants Jessy|Trying to put enchant|9443|+5|268484418
+[08.01.25 10:39:13] enchants Jessy|Trying to put enchant|9443|+6|268484418
+[08.01.25 10:39:17] enchants Jessy|Trying to put enchant|9443|+7|268484418
+[08.01.25 10:39:22] enchants Jessy|Trying to put enchant|9443|+8|268484418
+[08.01.25 10:39:37] fame Mochin|180|42310|mobFromFameZone
+[08.01.25 10:41:14] fame Mochin|180|42490|mobFromFameZone
+[08.01.25 10:41:53] fame Mochin|180|42670|mobFromFameZone
+[08.01.25 10:43:18] fame Mochin|180|42850|mobFromFameZone
+[08.01.25 10:44:10] fame Mochin|180|43030|mobFromFameZone
+[08.01.25 10:45:06] fame Mochin|180|43210|mobFromFameZone
+[08.01.25 10:45:48] fame Mochin|180|43390|mobFromFameZone
+[08.01.25 10:46:34] fame Mochin|180|43570|mobFromFameZone
+[08.01.25 10:47:48] fame Mochin|180|43750|mobFromFameZone
+[08.01.25 10:48:15] fame Mochin|180|43930|mobFromFameZone
+[08.01.25 10:49:01] fame Mochin|180|44110|mobFromFameZone
+[08.01.25 10:49:58] fame Mochin|180|44290|mobFromFameZone
+[08.01.25 10:51:21] fame Mochin|180|44470|mobFromFameZone
+[08.01.25 10:51:42] fame Mochin|180|44650|mobFromFameZone
+[08.01.25 10:52:32] fame Mochin|180|44830|mobFromFameZone
+[08.01.25 10:53:47] fame Mochin|180|45010|mobFromFameZone
+[08.01.25 10:55:24] fame Mochin|180|45190|mobFromFameZone
+[08.01.25 10:55:58] fame Mochin|180|45370|mobFromFameZone
+[08.01.25 10:56:18] fame Mochin|180|45550|mobFromFameZone
+[08.01.25 10:57:32] fame Mochin|180|45730|mobFromFameZone
+[08.01.25 10:58:46] fame Mochin|180|45910|mobFromFameZone
+[08.01.25 10:59:09] fame Mochin|180|46090|mobFromFameZone
+[08.01.25 10:59:42] fame Mochin|180|46270|mobFromFameZone
+[08.01.25 11:00:49] fame Mochin|180|46450|mobFromFameZone
+[08.01.25 11:01:42] fame Mochin|180|46630|mobFromFameZone
+[08.01.25 11:04:24] fame Mochin|180|46810|mobFromFameZone
+[08.01.25 11:06:39] fame Mochin|180|46990|mobFromFameZone
+[08.01.25 11:06:58] fame Mochin|180|47170|mobFromFameZone
+[08.01.25 11:07:53] fame Mochin|180|47350|mobFromFameZone
+[08.01.25 11:08:55] fame Mochin|180|47530|mobFromFameZone
+[08.01.25 11:10:06] fame Mochin|180|47710|mobFromFameZone
+[08.01.25 11:10:47] fame Mochin|180|47890|mobFromFameZone
+[08.01.25 11:11:48] fame Mochin|180|48070|mobFromFameZone
+[08.01.25 11:12:37] fame Mochin|180|48250|mobFromFameZone
+[08.01.25 11:13:10] fame Mochin|180|48430|mobFromFameZone
+[08.01.25 11:14:37] fame Mochin|180|48610|mobFromFameZone
+[08.01.25 11:15:28] fame Mochin|180|48790|mobFromFameZone
+[08.01.25 11:16:08] fame Mochin|180|48970|mobFromFameZone
+[08.01.25 11:17:24] fame Mochin|180|49150|mobFromFameZone
+[08.01.25 11:17:40] fame Mochin|180|49330|mobFromFameZone
+[08.01.25 11:18:51] fame Mochin|180|49510|mobFromFameZone
+[08.01.25 11:19:51] fame Mochin|180|49690|mobFromFameZone
+[08.01.25 11:20:54] fame Mochin|180|49870|mobFromFameZone
+[08.01.25 11:21:52] fame Mochin|180|50050|mobFromFameZone
+[08.01.25 11:23:03] fame Mochin|180|50230|mobFromFameZone
+[08.01.25 11:23:55] fame Mochin|180|50410|mobFromFameZone
+[08.01.25 11:25:05] fame Mochin|180|50590|mobFromFameZone
+[08.01.25 11:25:25] fame Mochin|180|50770|mobFromFameZone
+[08.01.25 11:26:13] fame Mochin|180|50950|mobFromFameZone
+[08.01.25 11:27:23] fame Mochin|180|51130|mobFromFameZone
+[08.01.25 11:27:58] fame Mochin|180|51310|mobFromFameZone
+[08.01.25 11:28:50] fame Mochin|180|51490|mobFromFameZone
+[08.01.25 11:29:15] fame Mochin|180|51670|mobFromFameZone
+[08.01.25 11:30:28] fame Mochin|180|51850|mobFromFameZone
+[08.01.25 11:31:12] fame Mochin|180|52030|mobFromFameZone
+[08.01.25 12:02:29] fame Mochin|180|52210|mobFromFameZone
+[08.01.25 12:03:34] fame Mochin|180|52390|mobFromFameZone
+[08.01.25 12:04:55] fame Mochin|180|52570|mobFromFameZone
+[08.01.25 12:05:52] fame Mochin|180|52750|mobFromFameZone
+[08.01.25 12:07:59] fame Mochin|180|52930|mobFromFameZone
+[08.01.25 12:09:53] fame Mochin|180|53110|mobFromFameZone
+[08.01.25 12:12:21] fame Mochin|180|53290|mobFromFameZone
+[08.01.25 12:14:21] fame Mochin|180|53470|mobFromFameZone
+[08.01.25 12:16:49] fame Mochin|180|53650|mobFromFameZone
+[08.01.25 12:17:45] fame Mochin|180|53830|mobFromFameZone
+[08.01.25 12:19:05] fame Mochin|180|54010|mobFromFameZone
+[08.01.25 12:21:32] fame Mochin|180|54190|mobFromFameZone
+[08.01.25 12:23:01] enchant_skills Jessy|Successfully enchanted|233|to+101|97
+[08.01.25 12:23:01] enchant_skills Jessy|Successfully enchanted|233|to+102|95
+[08.01.25 12:23:02] enchant_skills Jessy|Successfully enchanted|233|to+103|93
+[08.01.25 12:23:02] enchant_skills Jessy|Successfully enchanted|233|to+104|91
+[08.01.25 12:23:02] enchant_skills Jessy|Successfully enchanted|233|to+105|89
+[08.01.25 12:23:03] enchant_skills Jessy|Successfully enchanted|233|to+106|87
+[08.01.25 12:23:04] enchant_skills Jessy|Successfully enchanted|233|to+107|85
+[08.01.25 12:23:05] enchant_skills Jessy|Successfully enchanted|233|to+108|83
+[08.01.25 12:23:05] enchant_skills Jessy|Successfully enchanted|233|to+109|81
+[08.01.25 12:23:06] enchant_skills Jessy|Successfully enchanted|233|to+110|79
+[08.01.25 12:23:38] fame Mochin|180|54370|mobFromFameZone
+[08.01.25 12:25:00] enchants Jessy|Trying to put enchant|9445|+0|268484552
+[08.01.25 12:25:03] enchants Jessy|Trying to put enchant|9445|+1|268484552
+[08.01.25 12:25:07] enchants Jessy|Trying to put enchant|9445|+2|268484552
+[08.01.25 12:25:11] enchants Jessy|Trying to put enchant|9445|+3|268484552
+[08.01.25 12:25:15] enchants Jessy|Trying to put enchant|9445|+4|268484552
+[08.01.25 12:25:24] fame Mochin|180|54550|mobFromFameZone
+[08.01.25 12:26:27] fame Mochin|180|54730|mobFromFameZone
+[08.01.25 12:27:08] fame Mochin|180|54910|mobFromFameZone
+[08.01.25 12:28:11] fame Mochin|180|55090|mobFromFameZone
+[08.01.25 12:28:42] fame Mochin|180|55270|mobFromFameZone
+[08.01.25 12:29:54] fame Mochin|180|55450|mobFromFameZone
+[08.01.25 12:31:08] fame Mochin|180|55630|mobFromFameZone
+[08.01.25 12:32:36] fame Mochin|180|55810|mobFromFameZone
+[08.01.25 12:33:27] fame Mochin|180|55990|mobFromFameZone
+[08.01.25 12:34:31] fame Mochin|180|56170|mobFromFameZone
+[08.01.25 12:35:37] fame Mochin|180|56350|mobFromFameZone
+[08.01.25 12:35:51] fame Mochin|180|56530|mobFromFameZone
+[08.01.25 12:36:36] fame Mochin|180|56710|mobFromFameZone
+[08.01.25 12:37:45] fame Mochin|180|56890|mobFromFameZone
+[08.01.25 12:38:40] fame Mochin|180|57070|mobFromFameZone
+[08.01.25 12:39:20] fame Mochin|180|57250|mobFromFameZone
+[08.01.25 12:40:08] fame Mochin|180|57430|mobFromFameZone
+[08.01.25 12:41:28] fame Mochin|180|57610|mobFromFameZone
+[08.01.25 12:42:00] fame Mochin|180|57790|mobFromFameZone
+[08.01.25 12:42:23] fame Mochin|180|57970|mobFromFameZone
+[08.01.25 12:43:34] fame Mochin|180|58150|mobFromFameZone
+[08.01.25 12:44:39] fame Mochin|180|58330|mobFromFameZone
+[08.01.25 12:45:06] fame Mochin|180|58510|mobFromFameZone
+[08.01.25 12:46:08] fame Mochin|180|58690|mobFromFameZone
+[08.01.25 12:46:38] fame Mochin|180|58870|mobFromFameZone
+[08.01.25 12:47:17] fame Mochin|180|59050|mobFromFameZone
+[08.01.25 12:48:21] fame Mochin|180|59230|mobFromFameZone
+[08.01.25 12:49:34] fame Mochin|180|59410|mobFromFameZone
+[08.01.25 12:50:11] fame Mochin|180|59590|mobFromFameZone
+[08.01.25 12:51:20] fame Mochin|180|59770|mobFromFameZone
+[08.01.25 12:52:30] fame Mochin|180|59950|mobFromFameZone
+[08.01.25 12:52:52] fame Mochin|180|60130|mobFromFameZone
+[08.01.25 12:53:40] fame Mochin|180|60310|mobFromFameZone
+[08.01.25 12:54:31] fame Mochin|180|60490|mobFromFameZone
+[08.01.25 12:55:53] fame Mochin|180|60670|mobFromFameZone
+[08.01.25 12:56:20] fame Mochin|180|60850|mobFromFameZone
+[08.01.25 12:58:05] enchant_skills Tromb|Successfully enchanted|1400|to+301|97
+[08.01.25 12:58:06] enchant_skills Tromb|Successfully enchanted|1400|to+302|95
+[08.01.25 12:58:07] enchant_skills Tromb|Successfully enchanted|1400|to+303|93
+[08.01.25 12:58:07] enchant_skills Tromb|Successfully enchanted|1400|to+304|91
+[08.01.25 12:58:08] enchant_skills Tromb|Successfully enchanted|1400|to+305|89
+[08.01.25 12:58:12] enchant_skills Tromb|Failed to enchant|1400|to+306|87
+[08.01.25 12:58:13] enchant_skills Tromb|Successfully enchanted|1400|to+301|97
+[08.01.25 12:58:14] enchant_skills Tromb|Successfully enchanted|1400|to+302|95
+[08.01.25 12:58:14] enchant_skills Tromb|Successfully enchanted|1400|to+303|93
+[08.01.25 12:58:15] enchant_skills Tromb|Failed to enchant|1400|to+304|91
+[08.01.25 12:58:15] enchant_skills Tromb|Failed to enchant|1400|to+301|97
+[08.01.25 12:58:15] enchant_skills Tromb|Successfully enchanted|1400|to+301|97
+[08.01.25 12:58:15] enchant_skills Tromb|Successfully enchanted|1400|to+302|95
+[08.01.25 12:58:16] enchant_skills Tromb|Successfully enchanted|1400|to+303|93
+[08.01.25 12:58:16] enchant_skills Tromb|Successfully enchanted|1400|to+304|91
+[08.01.25 12:58:17] enchant_skills Tromb|Successfully enchanted|1400|to+305|89
+[08.01.25 12:58:17] enchant_skills Tromb|Failed to enchant|1400|to+306|87
+[08.01.25 12:58:17] enchant_skills Tromb|Successfully enchanted|1400|to+301|97
+[08.01.25 12:58:18] enchant_skills Tromb|Successfully enchanted|1400|to+302|95
+[08.01.25 12:58:18] enchant_skills Tromb|Successfully enchanted|1400|to+303|93
+[08.01.25 12:58:19] enchant_skills Tromb|Successfully enchanted|1400|to+304|91
+[08.01.25 12:58:19] enchant_skills Tromb|Successfully enchanted|1400|to+305|89
+[08.01.25 12:58:19] enchant_skills Tromb|Successfully enchanted|1400|to+306|87
+[08.01.25 12:58:20] enchant_skills Tromb|Failed to enchant|1400|to+307|85
+[08.01.25 12:58:20] enchant_skills Tromb|Successfully enchanted|1400|to+301|97
+[08.01.25 12:58:21] enchant_skills Tromb|Successfully enchanted|1400|to+302|95
+[08.01.25 12:58:21] enchant_skills Tromb|Successfully enchanted|1400|to+303|93
+[08.01.25 12:58:21] enchant_skills Tromb|Successfully enchanted|1400|to+304|91
+[08.01.25 12:58:22] enchant_skills Tromb|Successfully enchanted|1400|to+305|89
+[08.01.25 12:58:22] enchant_skills Tromb|Failed to enchant|1400|to+306|87
+[08.01.25 12:58:23] enchant_skills Tromb|Successfully enchanted|1400|to+301|97
+[08.01.25 12:58:23] enchant_skills Tromb|Successfully enchanted|1400|to+302|95
+[08.01.25 12:58:24] enchant_skills Tromb|Successfully enchanted|1400|to+303|93
+[08.01.25 12:58:24] enchant_skills Tromb|Successfully enchanted|1400|to+304|91
+[08.01.25 12:58:25] enchant_skills Tromb|Successfully enchanted|1400|to+305|89
+[08.01.25 12:58:26] enchant_skills Tromb|Successfully enchanted|1400|to+306|87
+[08.01.25 12:58:27] enchant_skills Tromb|Successfully enchanted|1400|to+307|85
+[08.01.25 12:58:28] enchant_skills Tromb|Successfully enchanted|1400|to+308|83
+[08.01.25 12:58:29] enchant_skills Tromb|Successfully enchanted|1400|to+309|81
+[08.01.25 12:58:30] enchant_skills Tromb|Successfully enchanted|1400|to+310|74
+[08.01.25 12:58:31] fame Mochin|180|61030|mobFromFameZone
+[08.01.25 12:59:19] fame Mochin|180|61210|mobFromFameZone
+[08.01.25 13:00:37] fame Mochin|180|61390|mobFromFameZone
+[08.01.25 13:02:10] fame Mochin|180|61570|mobFromFameZone
+[08.01.25 13:05:44] fame Mochin|180|61750|mobFromFameZone
+[08.01.25 13:06:45] fame Mochin|180|61930|mobFromFameZone
+[08.01.25 13:07:16] fame Mochin|180|62110|mobFromFameZone
+[08.01.25 13:07:33] fame Mochin|180|62290|mobFromFameZone
+[08.01.25 13:08:40] fame Mochin|180|62470|mobFromFameZone
+[08.01.25 13:09:03] fame Mochin|180|62650|mobFromFameZone
+[08.01.25 13:09:37] fame Mochin|180|62830|mobFromFameZone
+[08.01.25 13:10:57] fame Mochin|180|63010|mobFromFameZone
+[08.01.25 13:11:07] fame Mochin|180|63190|mobFromFameZone
+[08.01.25 13:12:02] fame Mochin|180|63370|mobFromFameZone
+[08.01.25 13:13:55] fame Mochin|180|63550|mobFromFameZone
+[08.01.25 13:14:40] fame Mochin|180|63730|mobFromFameZone
+[08.01.25 13:15:40] fame Mochin|180|63910|mobFromFameZone
+[08.01.25 13:16:35] fame Mochin|180|64090|mobFromFameZone
+[08.01.25 13:16:52] fame Mochin|180|64270|mobFromFameZone
+[08.01.25 13:18:14] fame Mochin|180|64450|mobFromFameZone
+[08.01.25 13:18:32] fame Mochin|180|64630|mobFromFameZone
+[08.01.25 13:19:09] fame Mochin|180|64810|mobFromFameZone
+[08.01.25 13:20:50] fame Mochin|180|64990|mobFromFameZone
+[08.01.25 13:21:42] fame Mochin|180|65170|mobFromFameZone
+[08.01.25 13:22:26] fame Mochin|180|65350|mobFromFameZone
+[08.01.25 13:23:12] fame Mochin|180|65530|mobFromFameZone
+[08.01.25 13:24:13] fame Mochin|180|65710|mobFromFameZone
+[08.01.25 13:24:32] fame Mochin|180|65890|mobFromFameZone
+[08.01.25 13:25:37] fame Mochin|180|66070|mobFromFameZone
+[08.01.25 13:27:12] fame Mochin|180|66250|mobFromFameZone
+[08.01.25 13:27:29] fame Mochin|180|66430|mobFromFameZone
+[08.01.25 13:28:40] fame Mochin|180|66610|mobFromFameZone
+[08.01.25 13:29:15] fame Mochin|180|66790|mobFromFameZone
+[08.01.25 13:31:46] fame Mochin|180|66970|mobFromFameZone
+[08.01.25 13:33:46] fame Mochin|180|67150|mobFromFameZone
+[08.01.25 13:34:34] fame Mochin|180|67330|mobFromFameZone
+[08.01.25 13:35:31] fame Mochin|180|67510|mobFromFameZone
+[08.01.25 13:36:18] fame Mochin|180|67690|mobFromFameZone
+[08.01.25 13:36:58] fame Mochin|180|67870|mobFromFameZone
+[08.01.25 13:38:23] fame Mochin|180|68050|mobFromFameZone
+[08.01.25 13:40:17] fame Mochin|180|68230|mobFromFameZone
+[08.01.25 13:42:10] fame Mochin|180|68410|mobFromFameZone
+[08.01.25 13:44:09] fame Mochin|180|68590|mobFromFameZone
+[08.01.25 13:46:13] fame Mochin|180|68770|mobFromFameZone
+[08.01.25 13:48:24] fame Mochin|180|68950|mobFromFameZone
+[08.01.25 13:50:38] fame Mochin|180|69130|mobFromFameZone
+[08.01.25 14:01:40] fame Nanja|180|13740|mobFromFameZone
+[08.01.25 14:13:24] fame Mochin|180|69310|mobFromFameZone
+[08.01.25 14:13:33] fame Mochin|180|69490|mobFromFameZone
+[08.01.25 14:31:38] fame Omoi|60|38220|mobFromFameZone
+[08.01.25 14:31:38] fame Nanja|60|13800|mobFromFameZone
+[08.01.25 14:31:38] fame Mochin|60|69550|mobFromFameZone
+[08.01.25 14:32:46] fame Mochin|180|69730|mobFromFameZone
+[08.01.25 14:33:21] fame Mochin|180|69910|mobFromFameZone
+[08.01.25 14:33:56] fame Mochin|180|70090|mobFromFameZone
+[08.01.25 14:35:09] fame Mochin|180|70270|mobFromFameZone
+[08.01.25 14:35:50] fame Mochin|180|70450|mobFromFameZone
+[08.01.25 14:38:39] fame Mochin|180|70630|mobFromFameZone
+[08.01.25 14:44:40] enchant_skills Mochin|Successfully enchanted|424|to+101|97
+[08.01.25 14:44:41] enchant_skills Mochin|Successfully enchanted|424|to+102|95
+[08.01.25 14:44:41] enchant_skills Mochin|Successfully enchanted|424|to+103|93
+[08.01.25 14:44:41] enchant_skills Mochin|Successfully enchanted|424|to+104|91
+[08.01.25 14:44:42] enchant_skills Mochin|Successfully enchanted|424|to+105|89
+[08.01.25 14:44:42] enchant_skills Mochin|Failed to enchant|424|to+106|87
+[08.01.25 14:44:43] enchant_skills Mochin|Successfully enchanted|424|to+101|97
+[08.01.25 14:44:43] enchant_skills Mochin|Successfully enchanted|424|to+102|95
+[08.01.25 14:44:44] enchant_skills Mochin|Successfully enchanted|424|to+103|93
+[08.01.25 14:44:44] enchant_skills Mochin|Successfully enchanted|424|to+104|91
+[08.01.25 14:44:45] enchant_skills Mochin|Failed to enchant|424|to+105|89
+[08.01.25 14:44:45] enchant_skills Mochin|Successfully enchanted|424|to+101|97
+[08.01.25 14:44:45] enchant_skills Mochin|Successfully enchanted|424|to+102|95
+[08.01.25 14:44:46] enchant_skills Mochin|Successfully enchanted|424|to+103|93
+[08.01.25 14:44:46] enchant_skills Mochin|Successfully enchanted|424|to+104|91
+[08.01.25 14:44:46] enchant_skills Mochin|Successfully enchanted|424|to+105|89
+[08.01.25 14:44:47] enchant_skills Mochin|Successfully enchanted|424|to+106|87
+[08.01.25 14:44:47] enchant_skills Mochin|Successfully enchanted|424|to+107|85
+[08.01.25 14:44:48] enchant_skills Mochin|Successfully enchanted|424|to+108|83
+[08.01.25 14:44:48] enchant_skills Mochin|Successfully enchanted|424|to+109|81
+[08.01.25 14:44:49] enchant_skills Mochin|Successfully enchanted|424|to+110|79
+[08.01.25 14:44:49] enchant_skills Mochin|Failed to enchant|424|to+111|77
+[08.01.25 14:44:50] enchant_skills Mochin|Successfully enchanted|424|to+101|97
+[08.01.25 14:44:50] enchant_skills Mochin|Successfully enchanted|424|to+102|95
+[08.01.25 14:44:50] enchant_skills Mochin|Failed to enchant|424|to+103|93
+[08.01.25 14:44:51] enchant_skills Mochin|Successfully enchanted|424|to+101|97
+[08.01.25 14:44:51] enchant_skills Mochin|Successfully enchanted|424|to+102|95
+[08.01.25 14:44:52] enchant_skills Mochin|Successfully enchanted|424|to+103|93
+[08.01.25 14:44:52] enchant_skills Mochin|Successfully enchanted|424|to+104|91
+[08.01.25 14:44:53] enchant_skills Mochin|Successfully enchanted|424|to+105|89
+[08.01.25 14:44:53] enchant_skills Mochin|Successfully enchanted|424|to+106|87
+[08.01.25 14:44:54] enchant_skills Mochin|Successfully enchanted|424|to+107|85
+[08.01.25 14:44:54] enchant_skills Mochin|Successfully enchanted|424|to+108|83
+[08.01.25 14:44:54] enchant_skills Mochin|Successfully enchanted|424|to+109|81
+[08.01.25 14:44:55] enchant_skills Mochin|Successfully enchanted|424|to+110|79
+[08.01.25 14:44:55] enchant_skills Mochin|Successfully enchanted|424|to+111|77
+[08.01.25 14:44:56] enchant_skills Mochin|Successfully enchanted|424|to+112|75
+[08.01.25 14:44:56] enchant_skills Mochin|Successfully enchanted|424|to+113|73
+[08.01.25 14:44:57] enchant_skills Mochin|Successfully enchanted|424|to+114|71
+[08.01.25 14:44:57] enchant_skills Mochin|Successfully enchanted|424|to+115|69
+[08.01.25 14:45:15] fame Mochin|180|70810|mobFromFameZone
+[08.01.25 14:45:28] fame Mochin|180|70990|mobFromFameZone
+[08.01.25 14:46:33] fame Mochin|180|71170|mobFromFameZone
+[08.01.25 14:47:16] fame Mochin|180|71350|mobFromFameZone
+[08.01.25 14:50:00] fame Mochin|180|71530|mobFromFameZone
+[08.01.25 14:52:06] fame Mochin|180|71710|mobFromFameZone
+[08.01.25 14:52:48] fame Mochin|180|71890|mobFromFameZone
+[08.01.25 14:53:12] fame Mochin|180|72070|mobFromFameZone
+[08.01.25 20:28:43] bosses BaylorManager : State of Baylor is NOTSPAWN.
+[08.01.25 20:28:43] bosses BaylorManager : Next spawn date of Baylor is Wed Dec 31 18:00:00 CST 1969.
+[08.01.25 20:28:43] bosses BaylorManager : Init BaylorManager.
+[08.01.25 21:39:10] clan_reputation 1nTeaM|300|300|raid
+[08.01.25 21:42:37] clan_reputation 1nTeaM|300|600|raid
+[08.01.25 21:51:12] clan_reputation 1nTeaM|300|900|raid
+[08.01.25 21:54:19] clan_reputation 1nTeaM|300|1200|raid
+[08.01.25 21:57:17] clan_reputation 1nTeaM|300|1500|raid
+[08.01.25 22:05:40] clan_reputation 1nTeaM|300|1800|raid

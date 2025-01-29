@@ -1,0 +1,126 @@
+[21.12.24 08:29:01] SUCCESS PacMan[268481203] admin_gmspeed 3
+[21.12.24 08:30:14] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 08:30:15] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 08:30:15] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 08:30:21] SUCCESS PacMan[268481203] admin_teleportto Darkling
+[21.12.24 14:00:36] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 14:00:37] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 14:00:37] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 14:35:58] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 14:35:59] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 14:35:59] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 15:25:57] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 15:25:58] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 15:25:59] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 16:11:14] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_admin
+[21.12.24 16:11:16] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_server admserver.htm
+[21.12.24 16:11:18] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_show_html reload.htm
+[21.12.24 16:11:19] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_reload_config
+[21.12.24 16:11:22] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_server admserver.htm
+[21.12.24 16:11:25] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_admin
+[21.12.24 16:11:33] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_server admserver.htm
+[21.12.24 16:11:34] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_show_html scripts.htm
+[21.12.24 16:11:36] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_server admserver.htm
+[21.12.24 16:11:38] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_show_html reload.htm
+[21.12.24 16:12:09] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_server admserver.htm
+[21.12.24 16:59:36] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_admin
+[21.12.24 16:59:40] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_char_manage
+[21.12.24 16:59:40] SUCCESS PacMan[268481203] -> 32327 Adventurers' Guide admin_show_characters 0
+[21.12.24 16:59:47] SUCCESS PacMan[268481203] admin_teleportto Invulnerable
+[21.12.24 17:13:18] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 17:13:19] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 17:13:19] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 17:13:22] SUCCESS PacMan[268481203] admin_teleportto SexYPoutanak1
+[21.12.24 17:13:33] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 17:13:33] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 17:13:34] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 17:13:37] SUCCESS PacMan[268481203] admin_teleportto Jarvan
+[21.12.24 17:14:03] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 17:14:03] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 17:14:04] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 17:14:06] SUCCESS PacMan[268481203] admin_teleportto Nalu
+[21.12.24 17:14:13] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 17:14:14] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 17:14:15] SUCCESS PacMan[268481203] admin_find_dualbox
+[21.12.24 17:14:18] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 17:15:12] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 17:15:49] SUCCESS PacMan[268481203] admin_gmspeed 3
+[21.12.24 17:25:36] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 17:25:36] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 17:25:37] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 18:07:00] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 18:07:06] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 18:07:07] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 18:07:10] SUCCESS PacMan[268481203] admin_teleportto Jarvan
+[21.12.24 18:07:17] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 18:07:18] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 18:07:18] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 18:07:19] SUCCESS PacMan[268481203] admin_teleportto Jarvan
+[21.12.24 18:07:44] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 18:07:45] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 18:07:45] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 18:07:47] SUCCESS PacMan[268481203] admin_teleportto SexYPoutanak1
+[21.12.24 18:35:40] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 18:35:41] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 18:35:41] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 18:35:46] SUCCESS PacMan[268481203] admin_teleportto Jarvan
+[21.12.24 18:39:15] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 18:39:16] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 18:39:17] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 18:39:19] SUCCESS PacMan[268481203] admin_teleportto Jarvan
+[21.12.24 19:12:29] SUCCESS PacMan[268481203] admin_gmspeed 3
+[21.12.24 19:13:34] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 19:13:35] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 19:13:36] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 19:13:38] SUCCESS PacMan[268481203] admin_teleportto Jarvan
+[21.12.24 20:11:59] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 20:12:00] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 20:12:00] SUCCESS PacMan[268481203] admin_show_characters 0
+[21.12.24 20:12:03] SUCCESS PacMan[268481203] admin_teleportto Jarvan
+[21.12.24 20:20:10] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 20:20:24] SUCCESS PacMan[268481203] admin_char_manage
+[21.12.24 20:20:29] SUCCESS PacMan[268481203] admin_server admserver.htm
+[21.12.24 20:20:30] SUCCESS PacMan[268481203] admin_show_html reload.htm
+[21.12.24 20:20:33] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:22:55] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:22:56] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:23:08] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:23:58] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:23:59] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:24:14] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:25:00] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 20:25:05] SUCCESS PacMan[268481203] admin_server admserver.htm
+[21.12.24 20:25:05] SUCCESS PacMan[268481203] admin_show_html reload.htm
+[21.12.24 20:25:07] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:25:36] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:25:36] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:30:06] SUCCESS PacMan[268481203] admin_reload_gmaccess
+[21.12.24 20:30:07] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:30:32] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:30:33] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:32:48] SUCCESS PacMan[268481203] admin_reload_htm
+[21.12.24 20:32:49] SUCCESS PacMan[268481203] admin_reload_config
+[21.12.24 20:32:51] SUCCESS PacMan[268481203] admin_admin
+[21.12.24 20:32:52] SUCCESS PacMan[268481203] admin_show_moves
+[21.12.24 20:32:53] SUCCESS PacMan[268481203] admin_show_html teleports/town.htm
+[21.12.24 20:32:55] SUCCESS PacMan[268481203] admin_show_html teleports/town/giran.htm
+[21.12.24 20:32:55] SUCCESS PacMan[268481203] admin_move_to 82698 148638 -3473
+[21.12.24 20:33:12] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[21.12.24 20:33:13] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_char_manage
+[21.12.24 20:33:15] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[21.12.24 20:33:15] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[21.12.24 20:33:17] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[21.12.24 21:07:13] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[21.12.24 21:07:16] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[21.12.24 21:07:17] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[21.12.24 21:07:18] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_htm
+[21.12.24 21:07:39] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_htm
+[21.12.24 21:07:40] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_htm
+[21.12.24 21:08:03] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_htm
+[21.12.24 21:08:03] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_htm
+[21.12.24 21:08:18] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_htm
+[21.12.24 21:08:18] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_htm
+[21.12.24 21:08:47] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_htm
+[21.12.24 21:08:48] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_htm
+[21.12.24 21:09:32] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_htm
+[21.12.24 21:09:32] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_htm

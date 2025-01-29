@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Shadai - удаление наплечников для S80 брони -->
+
+<list>
+  <config showall="false" notax="true" ignoreprice="true" keepenchanted="true" />
+<item>
+		<!-- Dynasty Breast Plate - Shield Master -->
+		<ingredient count="1" id="9417" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Breast Plate -->
+		<production count="1" id="9416" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Breast Plate - Weapon Master -->
+		<ingredient count="1" id="9418" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Breast Plate -->
+		<production count="1" id="9416" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Breast Plate - Force Master -->
+		<ingredient count="1" id="9419" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Breast Plate -->
+		<production count="1" id="9416" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Breast Plate - Bard -->
+		<ingredient count="1" id="9420" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Breast Plate -->
+		<production count="1" id="9416" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Platinum Plate - Shield Master -->
+		<ingredient count="1" id="10228" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Breast Plate -->
+		<production count="1" id="9416" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Platinum Plate - Weapon Master -->
+		<ingredient count="1" id="10229" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Breast Plate -->
+		<production count="1" id="9416" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Platinum Plate - Force Master -->
+		<ingredient count="1" id="10230" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Breast Plate -->
+		<production count="1" id="9416" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Platinum Plate - Bard -->
+		<ingredient count="1" id="10231" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Breast Plate -->
+		<production count="1" id="9416" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Leather Armor - Dagger Master -->
+		<ingredient count="1" id="9426" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Leather Armor -->
+		<production count="1" id="9425" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Leather Armor - Bow Master -->
+		<ingredient count="1" id="9427" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Leather Armor -->
+		<production count="1" id="9425" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Leather Armor - Force Master -->
+		<ingredient count="1" id="10126" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Leather Armor -->
+		<production count="1" id="9425" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Leather Armor - Weapon Master -->
+		<ingredient count="1" id="10127" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Leather Armor -->
+		<production count="1" id="9425" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Leather Armor - Enchanter -->
+		<ingredient count="1" id="10168" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Leather Armor -->
+		<production count="1" id="9425" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Leather Armor - Summoner -->
+		<ingredient count="1" id="10214" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Leather Armor -->
+		<production count="1" id="9425" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Jewel Leather Mail - Dagger Master -->
+		<ingredient count="1" id="10233" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Leather Armor -->
+		<production count="1" id="9425" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Jewel Leather Mail - Bow Master -->
+		<ingredient count="1" id="10234" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Leather Armor -->
+		<production count="1" id="9425" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Jeweled Leather Armor - Force Master -->
+		<ingredient count="1" id="10487" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Leather Armor -->
+		<production count="1" id="9425" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Jeweled Leather Armor - Weapon Master -->
+		<ingredient count="1" id="10488" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Leather Armor -->
+		<production count="1" id="9425" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Jeweled Leather Armor - Enchanter -->
+		<ingredient count="1" id="10489" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Leather Armor -->
+		<production count="1" id="9425" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Jeweled Leather Armor - Summoner -->
+		<ingredient count="1" id="10490" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Leather Armor -->
+		<production count="1" id="9425" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Tunic - Healer -->
+		<ingredient count="1" id="9433" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Tunic -->
+		<production count="1" id="9432" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Tunic - Enchanter -->
+		<ingredient count="1" id="9434" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Tunic -->
+		<production count="1" id="9432" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Tunic - Summoner -->
+		<ingredient count="1" id="9435" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Tunic -->
+		<production count="1" id="9432" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Tunic - Wizard -->
+		<ingredient count="1" id="9436" />
+		<!-- Adena -->
+		<ingredient count="244890" id="57" />
+		<!-- Dynasty Tunic -->
+		<production count="1" id="9432" />
+		<!-- Dynastic Essence -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Dynasty Silver Satin Tunic - Healer -->
+		<ingredient count="1" id="10236" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Tunic -->
+		<production count="1" id="9432" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Silver Satin Tunic - Enchanter -->
+		<ingredient count="1" id="10237" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Tunic -->
+		<production count="1" id="9432" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Silver Satin Tunic - Summoner -->
+		<ingredient count="1" id="10238" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Tunic -->
+		<production count="1" id="9432" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+	<item>
+		<!-- Dynasty Silver Satin Tunic - Wizard -->
+		<ingredient count="1" id="10239" />
+		<!-- Adena -->
+		<ingredient count="444890" id="57" />
+		<!-- Dynasty Tunic -->
+		<production count="1" id="9432" />
+		<!-- Dynastic Essence -->
+		<production count="2" id="9451" />
+		<!-- Dynastic Essence II -->
+		<production count="2" id="10413" />
+	</item>
+</list>

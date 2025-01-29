@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Donations List -->
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<production id="3470" count="1"/>	<!-- Gold Bar -->
+		<ingredient id="4037" count="3"/>	<!-- Coin of Luck -->
+	</item>
+	<item>
+		<production id="4037" count="3"/>	<!-- Coin of Luck -->
+		<ingredient id="3470" count="1"/>	<!-- Gold Bar -->
+	</item>
+	<item>
+		<production id="15632" count="2"/>	<!-- Subclass Reward -->
+		<ingredient id="4037" count="1"/>	<!-- Coin of Luck -->
+	</item>
+	<item>
+		<production id="5126" count="1"/>	<!-- Dual Craftstamp -->
+		<ingredient id="4037" count="1"/>	<!-- Coin of Luck -->
+	</item>
+	<item>
+		<production id="20314" count="2"/>	<!-- Birthday Cake -->
+		<ingredient id="4037" count="1"/>	<!-- Coin of Luck -->
+	</item>
+	<item>
+		<production id="21618" count="1"/>	<!-- Rune of Crystal -->
+		<ingredient id="4037" count="2"/>	<!-- Coin of Luck -->
+	</item>
+</list>

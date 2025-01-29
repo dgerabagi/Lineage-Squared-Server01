@@ -1,0 +1,59 @@
+<html>
+<head><title>Path: %PATH_NAME%</title></head>
+<body>
+<br>
+<center>
+  <table width="600" background="L2UI_ct1.Windows_DF_TooltipBG">
+    <tr>
+       <td align="center">
+        <font name="hs12" color="e3e3e3">Design Mode for %PATH_NAME%</font>
+        <img src="L2UI_CT1.Gauge_DF_CP_Center" width="600" height="2">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table width="600">
+          <tr>
+            <td width="200" align="right">
+              <font color="LEVEL">Design Mode:</font>
+            </td>
+            <td width="20" align="center">
+              %DESIGN_MODE_STATUS%
+            </td>
+            <td width="200" align="left">
+              <button value="Toggle" action="bypass _bbsautofarmpath toggleMode %PATH_NAME%" width="60" height="25"
+              back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table width=600>
+          %POINTS_LIST%
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table width=600>
+          <tr>
+            <td width="300" align="right">
+              <button value="Sim" action="bypass _bbsautofarmpath sim %PATH_NAME%" width="80" height="25"
+              back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+            </td>
+            <td width="300">
+              <!-- "Back" triggers _bbsautofarmpath back %PATH_NAME% which disables design mode if needed -->
+              <button value="Back" action="bypass _bbsautofarmpath back %PATH_NAME%" width="80" height="25"
+              back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <br>
+</center>
+</body>
+</html>

@@ -1,0 +1,23 @@
+0	Welcome to LineageSquared!
+0	Like us on Facebook!
+0	www.facebook.com/lineagesquared
+0	Enjoy the Beta! Remember to Vote!
+0	Current Beta Rates are:
+0	(200x XP/SP, 200x Adena, 5x Drop, etc.)
+0	All Chars can Craft/Crystallize
+0	!Shout is Global (English).
+0	+Trade is International.
+0	Adventurers' Guide for Buffs
+0	Type: .cfg to see chat commands
+0	Type: .autoPotion automates Potions!
+0	Type: .offline to setup offline shop
+0	Alt + B -> Favorite to Unlock Classes!
+0	Alt + B -> Homepage 4 PartyMatching!
+0	----------------------------------
+0	LAGGING? DLOAD WWW.LEATRIX.COM
+0	----------------------------------
+0	KAMAELS AVAILABLE THRU SUBCLASS Q
+0	----------------------------------
+0	FIGHT IN TOURNEY! GET ITEMS 4 LIVE!
+0	----------------------------------
+0	STOP & READ THESE ANNOUNCEMENTS!

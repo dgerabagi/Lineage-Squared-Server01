@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list maintainEnchantment="true" xmlns:ns0="http://www.w3.org/2001/XMLSchema-instance" ns0:noNamespaceSchemaLocation="multisell.xsd">
+	<item>
+		<ingredient count="100" id="6013" />
+		<ingredient count="10" id="6018" />
+		<ingredient count="1" id="6019" />
+		<production count="1" id="6029" />
+	</item>
+	<item>	
+		<!-- Demon's Blood -->
+		<ingredient count="100" id="6015" />
+		<!-- Lava Stone -->
+		<ingredient count="100" id="6012" />
+		<!-- Volcanic Ash -->
+		<ingredient count="10" id="6018" />
+		<!-- Blood Root -->
+		<ingredient count="10" id="6017" />
+		<!-- Sulfur -->
+		<ingredient count="2" id="6020" />
+		<!-- aaa -->
+		<production count="1" id="6033" />
+	</item>
+</list>

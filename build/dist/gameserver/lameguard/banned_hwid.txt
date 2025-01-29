@@ -1,0 +1,1 @@
+# You can copy HWIDs from lameguard.log, one ban must be on one line

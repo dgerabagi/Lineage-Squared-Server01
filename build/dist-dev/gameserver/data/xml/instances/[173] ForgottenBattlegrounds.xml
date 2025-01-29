@@ -1,0 +1,12 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+    <!-- Forgotten Battlegrounds Instance -->
+    <instance id="173" name="ForgottenBattlegrounds" maxChannels="50" collapseIfEmpty="10" timelimit="120" dispelBuffs="false" respawn="60">
+        <return loc="83400 148600 -3400"/> 
+        <teleport loc="-53976 190136 -4512"/> <!-- Starting point for Team A -->
+        <!-- Add more teleports if needed, or spawns/doors/zones -->
+        <spawns/>
+        <doors/>
+        <zones/>
+    </instance>
+</list>

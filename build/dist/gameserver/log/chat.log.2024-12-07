@@ -1,0 +1,418 @@
+[07.12.24 00:38:54] SHOUT [MecanOtGorata] PacMan here?
+[07.12.24 00:38:57] SHOUT [MecanOtGorata] Hello
+[07.12.24 00:39:12] SHOUT [MecanOtGorata] i have an issue
+[07.12.24 00:39:39] SHOUT [MecanOtGorata] When im trying to talk to Blacksmith of Mammon in giran its not giving me to. What i mean is the NPC is.
+[07.12.24 00:40:03] SHOUT [MecanOtGorata] Is not opening the window for me 
+[07.12.24 00:41:15] SHOUT [PacMan] yo
+[07.12.24 00:42:16] ALL [MecanOtGorata] hey
+[07.12.24 00:42:25] ALL [PacMan] hey, whats the name of the item
+[07.12.24 00:42:42] ALL [MecanOtGorata] no that was not an issue
+[07.12.24 00:42:45] ALL [MecanOtGorata] it was my problem
+[07.12.24 00:42:51] ALL [MecanOtGorata] because it was quest item
+[07.12.24 00:43:17] ALL [MecanOtGorata] Im having trouble 
+[07.12.24 00:43:20] ALL [MecanOtGorata] with this NPC
+[07.12.24 00:43:33] ALL [MecanOtGorata] when i try to talk to him, he is not opening his window
+[07.12.24 00:43:40] ALL [PacMan] its in the validation period
+[07.12.24 00:43:50] ALL [PacMan] i can do smth if u need
+[07.12.24 00:44:04] ALL [MecanOtGorata] but thats the thing
+[07.12.24 00:44:11] ALL [MecanOtGorata] i can open with all other chars
+[07.12.24 00:44:23] ALL [MecanOtGorata] ow
+[07.12.24 00:44:24] ALL [MecanOtGorata] NVM
+[07.12.24 00:44:24] ALL [PacMan] did u sign up for 7s on those?
+[07.12.24 00:44:33] ALL [MecanOtGorata] yeah
+[07.12.24 00:44:36] ALL [PacMan] ye
+[07.12.24 00:44:40] ALL [MecanOtGorata] its my mistake then
+[07.12.24 00:44:42] ALL [PacMan] i checked the code
+[07.12.24 00:44:48] ALL [MecanOtGorata] i was able to talk to him
+[07.12.24 00:44:51] ALL [MecanOtGorata] open window
+[07.12.24 00:44:52] ALL [PacMan] the reason i can see it is cause it says also if ur admin
+[07.12.24 00:45:08] ALL [MecanOtGorata] but its on my other chart which is registered
+[07.12.24 00:45:25] ALL [PacMan] ye, i forget all the little intricacies of this game lol
+[07.12.24 00:45:29] ALL [MecanOtGorata] how much is safe enchant here? im not able to find any info
+[07.12.24 00:45:31] ALL [PacMan] i just had to fix the subclass quest
+[07.12.24 00:45:45] ALL [PacMan] ill add that to the features list, its retail-like
+[07.12.24 00:45:54] ALL [MecanOtGorata] yeah that was my idea
+[07.12.24 00:46:08] ALL [MecanOtGorata] to add like list of the server Features
+[07.12.24 00:46:16] ALL [MecanOtGorata] it would be useful
+[07.12.24 00:46:25] ALL [MecanOtGorata] getting info checked out
+[07.12.24 00:46:26] ALL [PacMan] ye adding now :)
+[07.12.24 00:46:43] ALL [MecanOtGorata] so sub class should work now?
+[07.12.24 00:47:05] ALL [Andromache] what about the skill certifications ?
+[07.12.24 00:47:10] ALL [Andromache] how do we obtain those
+[07.12.24 00:47:31] ALL [PacMan] here, its the fates whisper quest
+[07.12.24 00:47:39] ALL [PacMan] then u can choose which ones
+[07.12.24 00:47:48] ALL [MecanOtGorata] Yeah, i completed the Fate Quest
+[07.12.24 00:47:53] ALL [PacMan] beta shop has fates whisper quest items
+[07.12.24 00:47:55] ALL [MecanOtGorata] but now it requires another quest xD
+[07.12.24 00:48:15] ALL [PacMan] just the item at that point
+[07.12.24 00:48:15] ALL [MecanOtGorata] Mimir's Elixir quest 
+[07.12.24 00:48:29] ALL [PacMan] no im pretty sure u dont need mimirs elixir
+[07.12.24 00:48:37] ALL [PacMan] for skill certs 
+[07.12.24 00:48:41] ALL [MecanOtGorata] no certs
+[07.12.24 00:48:46] ALL [MecanOtGorata] im talking about sub class
+[07.12.24 00:48:47] ALL [PacMan] i only completed mimirs today to test noble
+[07.12.24 00:48:49] ALL [PacMan] ah yes
+[07.12.24 00:48:54] ALL [PacMan] i did this today to fix it
+[07.12.24 00:48:54] ALL [MecanOtGorata] I have completed the sub class quest 
+[07.12.24 00:49:07] ALL [PacMan] u can take kamael sub class now
+[07.12.24 00:49:10] ALL [MecanOtGorata] but now it wants me to complete the Mimir's Elixir Quest also
+[07.12.24 00:49:30] ALL [PacMan] yes thats part of subclass
+[07.12.24 00:50:02] ALL [MecanOtGorata] will do it later at some point im guessing
+[07.12.24 00:50:02] ALL [PacMan] i added some items from the q 
+[07.12.24 00:50:09] ALL [PacMan] let me refresh multi sell
+[07.12.24 00:50:18] ALL [MecanOtGorata] sure
+[07.12.24 00:51:09] ALL [PacMan] oh actually thats right, i couldnt just spawn the items for mimirs, it wouldnt progress the quest proper
+[07.12.24 00:51:16] ALL [PacMan] properly, i had to just go to the locations
+[07.12.24 00:51:31] ALL [MecanOtGorata] im guessing yeah
+[07.12.24 00:52:03] ALL [Andromache] im like the server
+[07.12.24 00:52:04] ALL [Andromache] very much
+[07.12.24 00:52:08] ALL [Andromache] seems promessing
+[07.12.24 00:52:20] ALL [PacMan] thanks
+[07.12.24 00:52:33] ALL [PacMan] im sending 1200 emails tonight :D
+[07.12.24 00:52:46] ALL [Andromache] XD
+[07.12.24 00:52:49] ALL [PacMan] found an old l2 clan forum with 1200 accounts
+[07.12.24 00:52:50] ALL [Andromache] to who lol
+[07.12.24 00:52:56] ALL [Andromache] jesus xD
+[07.12.24 00:53:03] ALL [Andromache] hopzone account xD?
+[07.12.24 00:53:03] ALL [PacMan] i got a macro to send em 1 at a time
+[07.12.24 00:53:13] ALL [PacMan] haha no, im scouring those as well
+[07.12.24 00:53:21] ALL [PacMan] for old l2 forums with accounts that no one posts
+[07.12.24 00:53:23] ALL [Andromache] dude i found you account from 2012 
+[07.12.24 00:53:24] ALL [PacMan] those are still emails
+[07.12.24 00:53:28] ALL [PacMan] yea haha
+[07.12.24 00:53:29] ALL [Andromache] 12 years ago holy 
+[07.12.24 00:53:34] ALL [PacMan] i saved my code
+[07.12.24 00:53:37] ALL [Andromache] about the post for the server
+[07.12.24 00:53:41] ALL [PacMan] can u imagine i had this made 12 yrs ago?
+[07.12.24 00:53:44] ALL [PacMan] ahead of its time
+[07.12.24 00:54:20] ALL [Andromache] literraly
+[07.12.24 00:54:27] ALL [Andromache] can u add true gold for mimir quest
+[07.12.24 00:54:53] ALL [PacMan] i can, but it might not progress the Q properly unless u go to some of the locations, i can add 1 min
+[07.12.24 00:55:17] ALL [Andromache] i think it progress properly
+[07.12.24 00:55:19] ALL [PacMan] ok its there
+[07.12.24 00:55:24] ALL [Andromache] only u dont need to pre buy items
+[07.12.24 00:57:24] ALL [Andromache] blood fire too
+[07.12.24 00:57:30] ALL [Andromache] would be required for that quest
+[07.12.24 00:58:17] ALL [Andromache] i ment 
+[07.12.24 00:58:22] ALL [Andromache] Sage's Stone
+[07.12.24 00:58:25] ALL [Andromache] thats the name of the item
+[07.12.24 00:58:42] ALL [PacMan] its there too
+[07.12.24 00:58:47] ALL [PacMan] blood fire ill add that one
+[07.12.24 00:59:17] ALL [Andromache] im doing it as we are talking
+[07.12.24 00:59:40] ALL [PacMan] added blood fire
+[07.12.24 01:01:50] ALL [Andromache] stone of wisdom?
+[07.12.24 01:01:55] ALL [Andromache] is there and item
+[07.12.24 01:01:57] ALL [Andromache] with that name
+[07.12.24 01:02:27] ALL [Andromache] because it says that i still need the stone, even tho i have it
+[07.12.24 01:02:50] ALL [PacMan] there is
+[07.12.24 01:03:32] ALL [PacMan] yeah i had to go kill the chimeras
+[07.12.24 01:03:49] ALL [PacMan] i added the divine stone of wisdom
+[07.12.24 01:03:50] ALL [Andromache] hellbound chimeras?
+[07.12.24 01:03:59] ALL [PacMan] no, under giants cage
+[07.12.24 01:04:01] ALL [PacMan] cave
+[07.12.24 01:04:03] ALL [PacMan] silent valley
+[07.12.24 01:04:38] ALL [Andromache] damn
+[07.12.24 01:04:51] ALL [PacMan] i might respond slow, cause my macro is runnin xD
+[07.12.24 01:05:09] ALL [Andromache] dont worry
+[07.12.24 01:05:16] ALL [Andromache] is there a chance to teleport my char
+[07.12.24 01:05:21] ALL [Andromache] to this chimeras
+[07.12.24 01:05:26] ALL [Andromache] MecanOtGorata char
+[07.12.24 01:05:41] ALL [PacMan] yea u ready?
+[07.12.24 01:05:45] ALL [Andromache] y
+[07.12.24 01:07:35] SHOUT [MecanOtGorata] it worked 
+[07.12.24 01:07:36] SHOUT [MecanOtGorata] lol
+[07.12.24 01:35:23] TELL [Muddy -> pacman] s
+[07.12.24 01:35:24] TELL [Muddy -> jarvan] s
+[07.12.24 01:35:26] TELL [Muddy -> hero] s
+[07.12.24 01:35:28] TELL [Muddy -> musashi] :D
+[07.12.24 02:15:43] TELL [Muddy -> hero] :D
+[07.12.24 02:15:45] TELL [Muddy -> jarvan] yo
+[07.12.24 02:15:50] TRADE [Muddy] jarvan on?
+[07.12.24 02:16:28] TELL [Muddy -> musashi] :D
+[07.12.24 02:17:19] TELL [Muddy -> mecanotgorata] yo
+[07.12.24 02:17:26] TELL [MecanOtGorata -> Muddy] heyy
+[07.12.24 02:17:27] TELL [Muddy -> andromache] :D
+[07.12.24 02:17:29] TELL [Muddy -> mecanotgorata] bro
+[07.12.24 02:17:31] TELL [Muddy -> mecanotgorata] what u doin
+[07.12.24 02:17:34] TELL [Muddy -> mecanotgorata] 	Type=1 	ID=268580779 	Color=0 	Underline=0 	Title=Icarus Hall - HailXD
+[07.12.24 02:17:40] TELL [Muddy -> mecanotgorata] 	Type=1 	ID=268580770 	Color=0 	Underline=0 	Title=Dynasty Circlet	Type=1 	ID=268580769 	Color=0 	Underline=0 	Title=Dynasty Silver Satin Tunic	Type=1 	ID=268580773 	Color=0 	Underline=0 	Title=Dynasty Stockings
+[07.12.24 02:17:42] TELL [Muddy -> mecanotgorata] 	Type=1 	ID=268580771 	Color=0 	Underline=0 	Title=Dynasty Gloves	Type=1 	ID=268580772 	Color=0 	Underline=0 	Title=Dynasty Shoes
+[07.12.24 02:17:47] TELL [MecanOtGorata -> Muddy] icarus
+[07.12.24 02:17:50] TELL [MecanOtGorata -> Muddy] craft?
+[07.12.24 02:17:58] TELL [Muddy -> mecanotgorata] ?y
+[07.12.24 02:18:15] TELL [MecanOtGorata -> Muddy] gzzz
+[07.12.24 02:18:23] TELL [Muddy -> mecanotgorata] i crafted vesper weapon 10min ago
+[07.12.24 02:18:29] TELL [MecanOtGorata -> Muddy] LOL
+[07.12.24 02:18:34] TELL [Muddy -> mecanotgorata] what u farm
+[07.12.24 02:18:38] TELL [MecanOtGorata -> Muddy] what wpn
+[07.12.24 02:18:47] TELL [Seeker -> mecanotgorata] :D
+[07.12.24 02:18:49] TELL [Seeker -> mecanotgorata] 	Type=1 	ID=268623273 	Color=0 	Underline=0 	Title=Vesper Fighter
+[07.12.24 02:19:13] TELL [MecanOtGorata -> Seeker] tyrant good?
+[07.12.24 02:19:17] TELL [MecanOtGorata -> Seeker] with spoil?
+[07.12.24 02:19:32] TELL [Seeker -> mecanotgorata] y
+[07.12.24 02:19:35] TELL [Seeker -> mecanotgorata] i play spoiler
+[07.12.24 02:19:37] TELL [Seeker -> mecanotgorata] 	Type=1 	ID=268547855 	Color=0 	Underline=0 	Title=Dynasty Dual Daggers
+[07.12.24 02:20:04] PARTY [Muddy] what u farm
+[07.12.24 02:20:17] PARTY [MecanOtGorata] tower
+[07.12.24 02:20:18] PARTY [MecanOtGorata] mobs
+[07.12.24 02:20:22] PARTY [MecanOtGorata] 	Type=1 	ID=268623328 	Color=0 	Underline=0 	Title=Dynasty Cudgel	Type=1 	ID=268623472 	Color=0 	Underline=0 	Title=Dynasty Crusher
+[07.12.24 02:20:26] PARTY [Muddy] need any weapon?
+[07.12.24 02:20:34] PARTY [MecanOtGorata] u farm in anihi
+[07.12.24 02:20:36] PARTY [Muddy] y
+[07.12.24 02:20:50] PARTY [MecanOtGorata] good drops?
+[07.12.24 02:20:57] PARTY [Muddy] no
+[07.12.24 02:21:01] PARTY [MecanOtGorata] maybe
+[07.12.24 02:21:01] PARTY [MecanOtGorata] go
+[07.12.24 02:21:02] PARTY [MecanOtGorata] other
+[07.12.24 02:21:03] PARTY [MecanOtGorata] blue
+[07.12.24 02:21:06] PARTY [Muddy] no mobs
+[07.12.24 02:21:06] PARTY [MecanOtGorata] or red side?
+[07.12.24 02:21:14] PARTY [Muddy] only here mobs
+[07.12.24 02:21:14] PARTY [MecanOtGorata] really?
+[07.12.24 02:21:19] PARTY [Muddy] y come
+[07.12.24 02:21:28] PARTY [Muddy] 	Type=1 	ID=268553907 	Color=0 	Underline=0 	Title=Dim Life Forcexd
+[07.12.24 02:21:37] PARTY [MecanOtGorata] lmao
+[07.12.24 02:21:41] PARTY [MecanOtGorata] 1
+[07.12.24 02:21:46] TELL [Seeker -> mecanotgorata] 	Type=1 	ID=268546767 	Color=0 	Underline=0 	Title=Dynasty Staff
+[07.12.24 02:21:47] PARTY [MecanOtGorata] u are crazy
+[07.12.24 02:21:50] TELL [Seeker -> mecanotgorata] 	Type=1 	ID=268551391 	Color=0 	Underline=0 	Title=Dynasty Crusher	Type=1 	ID=268546760 	Color=0 	Underline=0 	Title=Dynasty Halberd
+[07.12.24 02:21:57] PARTY [Muddy] sec
+[07.12.24 02:22:35] PARTY [Muddy] u do good dmg?
+[07.12.24 02:22:37] PARTY [Muddy] with spoil?
+[07.12.24 02:22:40] PARTY [MecanOtGorata] bad drops
+[07.12.24 02:22:42] PARTY [MecanOtGorata] no
+[07.12.24 02:22:49] PARTY [MecanOtGorata] but with titan/wc
+[07.12.24 02:22:51] PARTY [Muddy] u must do spoil
+[07.12.24 02:22:52] PARTY [MecanOtGorata] very good
+[07.12.24 02:23:36] PARTY [Muddy] spoil not working?
+[07.12.24 02:23:40] PARTY [MecanOtGorata] im not spoiler
+[07.12.24 02:23:43] PARTY [MecanOtGorata] im with wc
+[07.12.24 02:23:45] PARTY [Muddy] aaa lol
+[07.12.24 02:23:55] PARTY [MecanOtGorata] i was thinking
+[07.12.24 02:23:59] PARTY [MecanOtGorata] backstabing 
+[07.12.24 02:24:02] PARTY [Muddy] xd
+[07.12.24 02:24:04] PARTY [MecanOtGorata] knokriks
+[07.12.24 02:24:08] PARTY [Muddy] no knoriks
+[07.12.24 02:24:10] PARTY [Muddy] here i thinhk
+[07.12.24 02:24:10] PARTY [MecanOtGorata] for freya1
+[07.12.24 02:24:15] PARTY [MecanOtGorata] why?
+[07.12.24 02:24:19] PARTY [Muddy] i went in loa
+[07.12.24 02:24:21] PARTY [Muddy] no knoriks
+[07.12.24 02:24:21] PARTY [MecanOtGorata] u checked?
+[07.12.24 02:24:24] PARTY [Muddy] y
+[07.12.24 02:24:26] PARTY [MecanOtGorata] kariks?
+[07.12.24 02:24:31] PARTY [Muddy] cant go kariks
+[07.12.24 02:24:34] PARTY [Muddy] many mobs
+[07.12.24 02:24:41] PARTY [Muddy] in loa u cant do dmg with mage
+[07.12.24 02:25:24] PARTY [Muddy] mage seems strong
+[07.12.24 02:25:26] PARTY [Muddy] with some items
+[07.12.24 02:25:34] PARTY [MecanOtGorata] yeah
+[07.12.24 02:25:38] PARTY [MecanOtGorata] with this set
+[07.12.24 02:26:32] PARTY [Muddy] what u trying to farm
+[07.12.24 02:26:44] PARTY [Muddy] dyna sword nice
+[07.12.24 02:26:48] PARTY [MecanOtGorata] dagger
+[07.12.24 02:26:55] PARTY [Muddy] u can craft easy
+[07.12.24 02:27:18] PARTY [MecanOtGorata] no point to waste
+[07.12.24 02:27:19] PARTY [MecanOtGorata] for dyna
+[07.12.24 02:27:55] PARTY [Muddy] why
+[07.12.24 02:27:59] PARTY [Muddy] u can craft vesper
+[07.12.24 02:28:01] PARTY [Muddy] if u hve mats
+[07.12.24 02:28:06] PARTY [Muddy] i have rec/parts
+[07.12.24 02:28:20] PARTY [MecanOtGorata] well i dont
+[07.12.24 02:28:20] PARTY [MecanOtGorata] xD
+[07.12.24 02:28:43] PARTY [Muddy] why
+[07.12.24 02:28:50] PARTY [MecanOtGorata] cuz im poor
+[07.12.24 02:28:53] PARTY [MecanOtGorata] i dont have enough mats
+[07.12.24 02:28:57] PARTY [Muddy] rlly?
+[07.12.24 02:29:02] PARTY [MecanOtGorata] yeah
+[07.12.24 02:29:07] PARTY [Muddy] they are easy in hb
+[07.12.24 02:29:19] PARTY [Muddy] btw
+[07.12.24 02:29:21] PARTY [Muddy] u have key?
+[07.12.24 02:29:23] PARTY [Muddy] darkness key?
+[07.12.24 02:29:24] PARTY [MecanOtGorata] yy
+[07.12.24 02:29:27] PARTY [Muddy] open the doort
+[07.12.24 02:29:30] PARTY [Muddy] and farm in solo mobs
+[07.12.24 02:29:36] PARTY [MecanOtGorata] too low %
+[07.12.24 02:29:42] PARTY [Muddy] but drop alot
+[07.12.24 02:30:41] PARTY [MecanOtGorata] do u have spare dynasty full items
+[07.12.24 02:30:54] PARTY [Muddy] which
+[07.12.24 02:31:01] PARTY [MecanOtGorata] any
+[07.12.24 02:31:03] PARTY [MecanOtGorata] no top
+[07.12.24 02:31:19] PARTY [Muddy] i dropped only helmet etc
+[07.12.24 02:31:28] PARTY [Muddy] i crafted almost whole set
+[07.12.24 02:31:30] PARTY [Muddy] but i have helmets
+[07.12.24 02:31:31] PARTY [Muddy] alot
+[07.12.24 02:31:44] PARTY [Muddy] in hb i dropped so many helmets jewels and sigils
+[07.12.24 02:31:49] PARTY [MecanOtGorata] if u farm chimeras
+[07.12.24 02:31:50] PARTY [Muddy] in chimeras
+[07.12.24 02:31:51] PARTY [Muddy] y
+[07.12.24 02:31:54] PARTY [Muddy] i farmed chimeras
+[07.12.24 02:31:58] PARTY [MecanOtGorata] u get 3/5 dynasty
+[07.12.24 02:31:59] PARTY [MecanOtGorata] any set
+[07.12.24 02:32:09] PARTY [Muddy] 3/5?
+[07.12.24 02:32:10] PARTY [MecanOtGorata] and u need to craft only boots and gloves
+[07.12.24 02:32:35] PARTY [Muddy] its 0.05 to drop main part
+[07.12.24 02:32:39] PARTY [MecanOtGorata] yy
+[07.12.24 02:32:42] PARTY [MecanOtGorata] 0.5%
+[07.12.24 02:32:44] PARTY [Muddy] i have a wh
+[07.12.24 02:32:47] PARTY [Muddy] full of helmets
+[07.12.24 02:32:51] PARTY [Muddy] and some sh1ts
+[07.12.24 02:32:53] PARTY [Muddy] aa
+[07.12.24 02:32:55] PARTY [Muddy] u dropped knife 
+[07.12.24 02:32:55] PARTY [Muddy] XD
+[07.12.24 02:33:01] PARTY [MecanOtGorata] i want pole now
+[07.12.24 02:33:03] PARTY [MecanOtGorata] yy
+[07.12.24 02:33:38] PARTY [Muddy] let me check
+[07.12.24 02:33:39] PARTY [Muddy] what i have
+[07.12.24 02:33:53] PARTY [MecanOtGorata] can u wear dual daggers
+[07.12.24 02:33:56] PARTY [MecanOtGorata] with spoiler
+[07.12.24 02:33:59] PARTY [Muddy] y
+[07.12.24 02:34:00] PARTY [MecanOtGorata] or u need book
+[07.12.24 02:34:03] PARTY [Muddy] need book
+[07.12.24 02:34:10] PARTY [MecanOtGorata] hb sell?
+[07.12.24 02:34:12] PARTY [Muddy] y
+[07.12.24 02:34:25] PARTY [MecanOtGorata] nice
+[07.12.24 02:34:59] PARTY [Muddy] again knife lol
+[07.12.24 02:35:15] PARTY [MecanOtGorata] yy
+[07.12.24 02:35:21] PARTY [Muddy] only dynasty helmets i have
+[07.12.24 02:35:24] PARTY [Muddy] and sigil/shield
+[07.12.24 02:35:28] PARTY [MecanOtGorata] its cool
+[07.12.24 02:35:32] PARTY [MecanOtGorata] if u have spare ring
+[07.12.24 02:35:33] PARTY [MecanOtGorata] send
+[07.12.24 02:35:55] PARTY [MecanOtGorata] x1
+[07.12.24 02:35:58] PARTY [MecanOtGorata] ty
+[07.12.24 02:36:01] PARTY [Muddy] sended u all
+[07.12.24 02:36:56] PARTY [MecanOtGorata] i gtg to work brother
+[07.12.24 02:36:59] PARTY [MecanOtGorata] take care
+[07.12.24 02:37:00] PARTY [Muddy] ok
+[07.12.24 02:37:01] PARTY [Muddy] :D
+[07.12.24 02:37:03] PARTY [MecanOtGorata] cya around
+[07.12.24 02:37:05] PARTY [Muddy] cu bro
+[07.12.24 02:37:11] PARTY [Muddy] what u will farm?
+[07.12.24 02:37:12] PARTY [Muddy] XD
+[07.12.24 02:37:13] PARTY [MecanOtGorata] i hate 16 hour shifts..
+[07.12.24 02:37:28] PARTY [MecanOtGorata] i will put adrenaline to farm chimeras xD
+[07.12.24 02:37:36] PARTY [Muddy] if u make a healer
+[07.12.24 02:37:39] PARTY [Muddy] and put behind
+[07.12.24 02:37:41] PARTY [Muddy] u can farm easy
+[07.12.24 02:37:48] PARTY [MecanOtGorata] what do u mean?
+[07.12.24 02:37:55] PARTY [Muddy] box healer
+[07.12.24 02:37:59] PARTY [Muddy] for stigma
+[07.12.24 02:38:00] PARTY [MecanOtGorata] for?
+[07.12.24 02:38:02] PARTY [MecanOtGorata] ooo
+[07.12.24 02:38:03] PARTY [Muddy] ah
+[07.12.24 02:38:04] PARTY [Muddy] u gonna farm
+[07.12.24 02:38:04] PARTY [MecanOtGorata] yeah
+[07.12.24 02:38:05] PARTY [MecanOtGorata] xD
+[07.12.24 02:38:08] PARTY [Muddy] with titan?
+[07.12.24 02:38:09] PARTY [Muddy] or spoiler
+[07.12.24 02:38:17] PARTY [MecanOtGorata] titan/wc 
+[07.12.24 02:38:41] PARTY [MecanOtGorata] alry
+[07.12.24 02:38:47] PARTY [MecanOtGorata] let me load adrena and i go
+[07.12.24 02:39:40] TELL [MecanOtGorata -> muddy] adrena is onn
+[07.12.24 02:39:45] TELL [Muddy -> mecanotgorata] :D
+[07.12.24 03:49:42] SHOUT [Musashi] hi all
+[07.12.24 05:46:00] TELL [Musashi -> seeker] vesper fist? :)
+[07.12.24 05:46:22] TELL [Musashi -> muddy] vesper fist?:)
+[07.12.24 10:11:14] TELL [Muddy -> jarvan] s
+[07.12.24 10:11:19] TELL [Muddy -> mecanotgotata] :D
+[07.12.24 10:11:22] TELL [Muddy -> mecanotgatota] :D
+[07.12.24 10:11:30] TELL [Muddy -> mecanotgotota] s
+[07.12.24 10:13:34] TELL [Muddy -> mecanotgorata] :D
+[07.12.24 10:59:42] ALL [Muddy] yo
+[07.12.24 10:59:48] ALL [Muddy] xd
+[07.12.24 12:53:36] TELL [MecanOtGorata -> Muddy] hey
+[07.12.24 13:15:50] TELL [Muddy -> mecanotgorata] yo
+[07.12.24 13:15:59] ALL [Muddy] alo brother
+[07.12.24 13:34:16] TELL [Muddy -> jarvan] s
+[07.12.24 13:58:27] TELL [Muddy -> jarvan] allo
+[07.12.24 14:00:46] TELL [Jarvan -> Muddy] hey
+[07.12.24 14:05:24] ALL [Muddy] xaxa
+[07.12.24 14:05:28] ALL [Muddy] its sh1t class
+[07.12.24 14:05:30] ALL [MecanOtGorata] so stupid
+[07.12.24 14:05:34] ALL [MecanOtGorata] yy
+[07.12.24 14:05:38] ALL [MecanOtGorata] cant take 
+[07.12.24 14:05:41] ALL [MecanOtGorata] certifications
+[07.12.24 14:05:44] ALL [Muddy] y
+[07.12.24 14:05:45] ALL [Muddy] but still
+[07.12.24 14:05:47] ALL [MecanOtGorata]  ..
+[07.12.24 14:05:58] ALL [MecanOtGorata] wasted my time
+[07.12.24 14:06:22] ALL [MecanOtGorata] waste of time
+[07.12.24 14:06:33] ALL [Muddy] why
+[07.12.24 14:06:42] ALL [MecanOtGorata] class sucki 
+[07.12.24 14:06:42] ALL [MecanOtGorata] xD
+[07.12.24 14:06:48] ALL [Muddy] y
+[07.12.24 14:06:50] ALL [Muddy] atleast we know now
+[07.12.24 14:06:52] ALL [Muddy] x1 passives
+[07.12.24 14:06:54] ALL [Muddy] its sh1t
+[07.12.24 14:06:58] ALL [MecanOtGorata] yy
+[07.12.24 14:07:15] TELL [Muddy -> MecanOtGorata] wanna go farm soa?
+[07.12.24 14:07:27] TELL [Muddy -> MecanOtGorata] :D
+[07.12.24 14:07:35] TELL [MecanOtGorata -> Muddy] i need dyna light armor
+[07.12.24 14:09:06] TELL [Muddy -> MecanOtGorata] craft
+[07.12.24 14:09:20] TELL [MecanOtGorata -> Muddy] bro im poor
+[07.12.24 14:09:23] TELL [Muddy -> MecanOtGorata] sec
+[07.12.24 14:09:38] TELL [Muddy -> MecanOtGorata] come :D
+[07.12.24 14:10:19] TELL [MecanOtGorata -> Muddy] yeah i can almost craft it
+[07.12.24 14:10:25] TELL [MecanOtGorata -> Muddy] but i need to farm for parts
+[07.12.24 14:10:36] TELL [MecanOtGorata -> Muddy] i need light top and pants
+[07.12.24 14:10:40] TELL [MecanOtGorata -> Muddy] i have helmet
+[07.12.24 14:10:53] TELL [Muddy -> MecanOtGorata] :D
+[07.12.24 14:29:33] TELL [Muddy -> MecanOtGorata] where u farm
+[07.12.24 14:29:36] TELL [MecanOtGorata -> Muddy] bg
+[07.12.24 14:29:44] TELL [Muddy -> MecanOtGorata] bg? :D
+[07.12.24 14:29:50] TELL [MecanOtGorata -> Muddy] bulgaria
+[07.12.24 14:29:53] TELL [MecanOtGorata -> Muddy] u greece
+[07.12.24 14:30:12] TELL [Muddy -> MecanOtGorata] where u farm bro :D
+[07.12.24 14:30:14] TELL [Muddy -> MecanOtGorata] not from :D
+[07.12.24 14:30:20] TELL [Muddy -> MecanOtGorata] xaxaxa
+[07.12.24 14:30:21] TELL [Muddy -> MecanOtGorata] :D
+[07.12.24 14:30:22] TELL [MecanOtGorata -> Muddy] ow
+[07.12.24 14:30:23] TELL [MecanOtGorata -> Muddy] xD
+[07.12.24 14:30:50] TELL [MecanOtGorata -> Muddy] 	Type=1 	ID=268689283 	Color=0 	Underline=0 	Title=Sealed Dynasty Leather Armor2/3
+[07.12.24 14:30:55] TELL [MecanOtGorata -> Muddy] need pants
+[07.12.24 14:31:05] TELL [Muddy -> MecanOtGorata] good
+[07.12.24 14:31:09] TELL [Muddy -> MecanOtGorata] drop?
+[07.12.24 14:31:15] TELL [MecanOtGorata -> Muddy] yy
+[07.12.24 14:31:19] TELL [Muddy -> MecanOtGorata] which chimera? lol
+[07.12.24 14:31:22] TELL [Muddy -> MecanOtGorata] i know why
+[07.12.24 14:31:26] TELL [MecanOtGorata -> Muddy] earth
+[07.12.24 14:31:28] TELL [Muddy -> MecanOtGorata] io dropped so many helmets
+[07.12.24 14:31:35] TELL [Muddy -> MecanOtGorata] bcs i had my char on 3 chimeras
+[07.12.24 14:32:28] TELL [MecanOtGorata -> Muddy] next time put on earth chimera xD
+[07.12.24 14:32:59] TELL [MecanOtGorata -> Muddy] 	Type=1 	ID=268690349 	Color=0 	Underline=0 	Title=Sealed Dynasty Leather Leggings
+[07.12.24 14:33:00] TELL [MecanOtGorata -> Muddy] 3/5
+[07.12.24 14:35:47] TELL [Muddy -> MecanOtGorata] lol
+[07.12.24 14:35:50] TELL [Muddy -> MecanOtGorata] u have set alrdy?
+[07.12.24 14:35:56] TELL [MecanOtGorata -> Muddy] no
+[07.12.24 14:36:00] TELL [Muddy -> MecanOtGorata] waht u need
+[07.12.24 14:36:00] TELL [MecanOtGorata -> Muddy] have 3 parts out of 5
+[07.12.24 14:36:03] TELL [Muddy -> MecanOtGorata] i ahve helmet
+[07.12.24 14:36:06] TELL [MecanOtGorata -> Muddy] boots, gloves
+[07.12.24 14:36:08] TELL [MecanOtGorata -> Muddy] i craft now
+[07.12.24 14:36:10] TELL [MecanOtGorata -> Muddy] from y
+[07.12.24 14:36:13] TELL [Muddy -> MecanOtGorata] a ok
+[07.12.24 14:36:14] TELL [Muddy -> MecanOtGorata] gl :"D
+[07.12.24 14:36:22] TELL [Muddy -> MecanOtGorata] sec
+[07.12.24 14:36:31] TELL [Muddy -> MecanOtGorata] take mold
+[07.12.24 14:38:17] TELL [Jarvan -> Muddy] 5/5
+[07.12.24 14:39:03] TELL [Muddy -> Jarvan] good
+[07.12.24 14:39:04] TELL [Muddy -> Jarvan] gz
+[07.12.24 14:39:20] ALL [Jarvan] got AA?
+[07.12.24 14:39:32] ALL [Muddy] fopr what?
+[07.12.24 14:39:33] ALL [Muddy] for what
+[07.12.24 14:39:44] TELL [Muddy -> Jarvan] for what
+[07.12.24 14:39:46] TELL [Muddy -> Jarvan] uj need aa
+[07.12.24 14:40:01] TELL [Jarvan -> Muddy] mistake
+[07.12.24 14:40:03] TELL [Muddy -> Jarvan] go ishuma unseal with adena
+[07.12.24 14:40:04] TELL [Muddy -> Jarvan] :D
+[07.12.24 14:40:07] TELL [Jarvan -> Muddy] yy xD
+[07.12.24 14:40:14] TELL [Jarvan -> Muddy] 	Type=1 	ID=268690487 	Color=0 	Underline=0 	Title=Dynasty Leather Armor	Type=1 	ID=268690490 	Color=0 	Underline=0 	Title=Dynasty Leather Leggings	Type=1 	ID=268690495 	Color=0 	Underline=0 	Title=Dynasty Leather Boots
+[07.12.24 14:40:17] TELL [Jarvan -> Muddy] 	Type=1 	ID=268690491 	Color=0 	Underline=0 	Title=Dynasty Leather Helmet	Type=1 	ID=268690492 	Color=0 	Underline=0 	Title=Dynasty Leather Gloves
+[07.12.24 14:40:27] TELL [Jarvan -> Muddy] now need tome
+[07.12.24 14:41:44] TELL [Muddy -> Jarvan] for what
+[07.12.24 14:41:53] TELL [Jarvan -> Muddy] make SA
+[07.12.24 14:41:56] TELL [Muddy -> Jarvan] found?
+[07.12.24 14:42:00] TELL [Jarvan -> Muddy] and found
+[07.12.24 15:19:05] TELL [Jarvan -> Muddy] matk?
+[07.12.24 15:27:23] TELL [Jarvan -> Muddy] i feel like major set found has so much more matk

@@ -1,0 +1,21 @@
+[01.12.24 13:22:06] SUCCESS PacMan[268481203] admin_admin
+[01.12.24 13:22:08] SUCCESS PacMan[268481203] admin_server admserver.htm
+[01.12.24 13:22:09] SUCCESS PacMan[268481203] admin_char_manage
+[01.12.24 13:22:09] SUCCESS PacMan[268481203] admin_show_characters 0
+[01.12.24 13:22:14] SUCCESS PacMan[268481203] admin_teleportto Hero
+[01.12.24 13:22:25] SUCCESS PacMan[268481203] admin_admin
+[01.12.24 13:22:27] SUCCESS PacMan[268481203] admin_char_manage
+[01.12.24 13:22:28] SUCCESS PacMan[268481203] admin_show_characters 0
+[01.12.24 13:22:29] SUCCESS PacMan[268481203] admin_teleportto Muddy
+[01.12.24 13:26:14] SUCCESS PacMan[268481203] -> Muddy[268481325] admin_gmspeed 3
+[01.12.24 13:27:02] SUCCESS PacMan[268481203] -> Muddy[268481325] admin_admin
+[01.12.24 13:27:03] SUCCESS PacMan[268481203] -> Muddy[268481325] admin_show_moves
+[01.12.24 13:27:04] SUCCESS PacMan[268481203] -> Muddy[268481325] admin_show_html teleports/town.htm
+[01.12.24 13:27:04] SUCCESS PacMan[268481203] -> Muddy[268481325] admin_show_html teleports/town/giran.htm
+[01.12.24 13:27:05] SUCCESS PacMan[268481203] admin_move_to 82698 148638 -3473
+[01.12.24 13:35:31] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[01.12.24 13:35:32] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_char_manage
+[01.12.24 13:35:33] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_characters 0
+[01.12.24 18:50:38] SUCCESS PacMan[268481203] admin_admin
+[01.12.24 18:50:39] SUCCESS PacMan[268481203] admin_char_manage
+[01.12.24 18:50:40] SUCCESS PacMan[268481203] admin_show_characters 0

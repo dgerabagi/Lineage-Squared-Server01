@@ -1,0 +1,150 @@
+[07.12.24 00:41:18] SUCCESS PacMan[268481203] -> 31745 Lady of the Lake admin_admin
+[07.12.24 00:41:18] SUCCESS PacMan[268481203] -> 31745 Lady of the Lake admin_char_manage
+[07.12.24 00:41:19] SUCCESS PacMan[268481203] -> 31745 Lady of the Lake admin_show_characters 0
+[07.12.24 00:41:21] SUCCESS PacMan[268481203] admin_teleportto MecanOtGorata
+[07.12.24 00:41:59] SUCCESS PacMan[268481203] admin_invis
+[07.12.24 00:50:11] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_admin
+[07.12.24 00:50:16] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_server admserver.htm
+[07.12.24 00:50:16] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_show_html reload.htm
+[07.12.24 00:50:18] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_reload_multisell
+[07.12.24 00:55:04] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 00:55:08] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[07.12.24 00:55:08] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[07.12.24 00:55:10] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[07.12.24 00:56:26] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 00:56:27] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_char_manage
+[07.12.24 00:56:27] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_characters 0
+[07.12.24 00:56:31] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 00:56:37] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_char_manage
+[07.12.24 00:56:38] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_find_dualbox
+[07.12.24 00:56:42] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_characters 0
+[07.12.24 00:59:29] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 00:59:30] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[07.12.24 00:59:30] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[07.12.24 00:59:32] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[07.12.24 01:03:35] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 01:03:37] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[07.12.24 01:03:38] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[07.12.24 01:03:39] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[07.12.24 01:05:49] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 01:05:50] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_moves
+[07.12.24 01:05:51] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html teleports/townarea.htm
+[07.12.24 01:05:51] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html teleports/townarea/aden.htm
+[07.12.24 01:05:56] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html teleports/townarea.htm
+[07.12.24 01:05:58] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html teleports.htm
+[07.12.24 01:06:00] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html teleports/town.htm
+[07.12.24 01:06:01] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html teleports/town/aden.htm
+[07.12.24 01:06:03] SUCCESS PacMan[268481203] admin_move_to 147450 27064 -2208
+[07.12.24 01:06:26] SUCCESS PacMan[268481203] admin_admin
+[07.12.24 01:06:27] SUCCESS PacMan[268481203] admin_char_manage
+[07.12.24 01:06:27] SUCCESS PacMan[268481203] admin_show_characters 0
+[07.12.24 01:06:36] SUCCESS PacMan[268481203] -> MecanOtGorata[268490753] admin_character_list MecanOtGorata
+[07.12.24 01:06:37] SUCCESS PacMan[268481203] -> MecanOtGorata[268490753] admin_recall_char_menu MecanOtGorata
+[07.12.24 01:06:53] SUCCESS PacMan[268481203] -> MecanOtGorata[268490753] admin_invis
+[07.12.24 10:49:11] SUCCESS PacMan[268481203] admin_admin
+[07.12.24 10:49:12] SUCCESS PacMan[268481203] admin_show_moves
+[07.12.24 10:49:12] SUCCESS PacMan[268481203] admin_show_html teleports/town.htm
+[07.12.24 10:49:13] SUCCESS PacMan[268481203] admin_show_html teleports/town/giran.htm
+[07.12.24 10:49:14] SUCCESS PacMan[268481203] admin_move_to 82698 148638 -3473
+[07.12.24 11:31:24] SUCCESS PacMan[268481203] -> 30839 Holly admin_admin
+[07.12.24 11:31:25] SUCCESS PacMan[268481203] -> 30839 Holly admin_char_manage
+[07.12.24 11:31:26] SUCCESS PacMan[268481203] -> 30839 Holly admin_show_characters 0
+[07.12.24 11:31:34] SUCCESS PacMan[268481203] -> 30839 Holly admin_admin
+[07.12.24 11:31:35] SUCCESS PacMan[268481203] -> 30839 Holly admin_char_manage
+[07.12.24 11:31:36] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_show_characters 0
+[07.12.24 11:31:38] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_character_list PacMan
+[07.12.24 11:31:39] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_add_exp_sp_to_character
+[07.12.24 11:31:50] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_setlevel 80
+[07.12.24 11:32:05] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_admin
+[07.12.24 11:32:07] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_char_manage
+[07.12.24 11:32:08] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_show_characters 0
+[07.12.24 11:32:09] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_character_list PacMan
+[07.12.24 11:32:11] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_add_exp_sp_to_character
+[07.12.24 11:32:13] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_setlevel 80
+[07.12.24 11:32:34] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_admin
+[07.12.24 11:32:35] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_gmshop
+[07.12.24 11:32:37] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_show_html gmstore/gear/armor.htm
+[07.12.24 11:32:43] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_buy 9955
+[07.12.24 11:33:04] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_admin
+[07.12.24 11:33:06] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_char_manage
+[07.12.24 11:33:08] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_char_manage
+[07.12.24 11:33:09] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_admin
+[07.12.24 11:33:10] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_enchant
+[07.12.24 11:33:15] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_seteh 65535
+[07.12.24 11:34:11] SUCCESS PacMan[268481203] -> 36677 Julia admin_admin
+[07.12.24 11:34:12] SUCCESS PacMan[268481203] -> 36677 Julia admin_gmshop
+[07.12.24 11:34:19] SUCCESS PacMan[268481203] -> 36677 Julia admin_show_html gmstore/consumables.htm
+[07.12.24 11:34:21] SUCCESS PacMan[268481203] -> 36677 Julia admin_buy 9938
+[07.12.24 11:35:37] SUCCESS PacMan[268481203] -> 22324 Blind Huntsman admin_gmspeed 3
+[07.12.24 11:38:16] SUCCESS PacMan[268481203] -> 32356 Jude admin_admin
+[07.12.24 11:38:17] SUCCESS PacMan[268481203] -> 32356 Jude admin_gmshop
+[07.12.24 11:38:23] SUCCESS PacMan[268481203] -> 32356 Jude admin_create_item 728 1
+[07.12.24 11:39:17] SUCCESS PacMan[268481203] -> 32356 Jude admin_admin
+[07.12.24 11:39:18] SUCCESS PacMan[268481203] -> 32356 Jude admin_gmshop
+[07.12.24 11:39:21] SUCCESS PacMan[268481203] -> 32356 Jude admin_create_item 726 1
+[07.12.24 11:46:04] SUCCESS PacMan[268481203] -> 32356 Jude admin_admin
+[07.12.24 11:46:05] SUCCESS PacMan[268481203] -> 32356 Jude admin_show_moves
+[07.12.24 11:46:05] SUCCESS PacMan[268481203] -> 32356 Jude admin_show_html teleports/town.htm
+[07.12.24 11:46:06] SUCCESS PacMan[268481203] -> 32356 Jude admin_show_html teleports/town/giran.htm
+[07.12.24 11:46:07] SUCCESS PacMan[268481203] admin_move_to 82698 148638 -3473
+[07.12.24 11:46:15] SUCCESS PacMan[268481203] admin_admin
+[07.12.24 11:46:16] SUCCESS PacMan[268481203] admin_server admserver.htm
+[07.12.24 11:46:16] SUCCESS PacMan[268481203] admin_show_html reload.htm
+[07.12.24 11:46:18] SUCCESS PacMan[268481203] admin_reload_multisell
+[07.12.24 11:47:38] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 11:47:39] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_char_manage
+[07.12.24 11:47:40] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_gmshop
+[07.12.24 11:47:41] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 11:47:42] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[07.12.24 11:47:43] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[07.12.24 11:47:44] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[07.12.24 11:48:32] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 11:48:33] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[07.12.24 11:48:34] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[07.12.24 11:48:35] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[07.12.24 11:50:33] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 11:50:34] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[07.12.24 11:50:36] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[07.12.24 11:50:37] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[07.12.24 12:20:50] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 12:20:54] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_gmshop
+[07.12.24 12:21:01] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_create_item 7903 1
+[07.12.24 12:22:13] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_create_item 8191 1
+[07.12.24 12:23:04] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_create_item 8191 1
+[07.12.24 12:23:29] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 12:23:30] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_gmshop
+[07.12.24 12:23:35] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html gmstore/gear/jewels.htm
+[07.12.24 12:23:37] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_buy 9908
+[07.12.24 12:35:51] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 12:35:52] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_gmshop
+[07.12.24 12:35:57] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_create_item 6657 1
+[07.12.24 12:36:08] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_create_item 6656 1
+[07.12.24 12:36:41] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 12:36:42] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_gmshop
+[07.12.24 12:36:44] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html gmstore/gear/jewels.htm
+[07.12.24 12:36:52] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_buy 9908
+[07.12.24 12:37:03] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 12:37:04] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_gmshop
+[07.12.24 12:37:06] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html gmstore/gear/jewels.htm
+[07.12.24 12:37:07] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_buy 9999
+[07.12.24 12:37:37] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 12:37:39] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_gmshop
+[07.12.24 12:37:41] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html gmstore/gear/jewels.htm
+[07.12.24 12:37:42] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_buy 9917
+[07.12.24 12:59:39] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[07.12.24 12:59:41] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_gmshop
+[07.12.24 12:59:52] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_create_item 16365 1
+[07.12.24 13:01:09] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_create_item 16377 1
+[07.12.24 13:47:33] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_admin
+[07.12.24 13:47:33] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_admin
+[07.12.24 13:47:34] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_char_manage
+[07.12.24 13:47:35] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_show_characters 0
+[07.12.24 17:01:55] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_admin
+[07.12.24 17:01:56] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_char_manage
+[07.12.24 17:01:57] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_show_characters 0
+[07.12.24 17:16:33] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_admin
+[07.12.24 17:16:34] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_char_manage
+[07.12.24 17:16:35] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_show_characters 0
+[07.12.24 19:49:18] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_admin
+[07.12.24 19:49:19] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_char_manage
+[07.12.24 19:49:19] SUCCESS PacMan[268481203] -> 31126 Blacksmith of Mammon admin_show_characters 0

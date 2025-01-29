@@ -1,0 +1,2172 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Life Stones -->
+<!-- © 2010 by mathuza -->
+
+<list maintainEnchantment="true">
+<config showall="true" notax="true" ignoreprice="true" keepenchanted="true" />
+<item>
+	<!-- Foundation Great Sword -->
+	<ingredient count="1" id="78" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Great Sword - Lightning -->
+	<production count="1" id="10870" />
+</item>
+<item>
+	<!-- Foundation Great Axe -->
+	<ingredient count="1" id="300" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Great Axe - Thunder -->
+	<production count="1" id="10874" />
+</item>
+<item>
+	<!-- Foundation Innominate Victory -->
+	<ingredient count="1" id="9308" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Innominate Victory - Lightning -->
+	<production count="1" id="10882" />
+</item>
+<item>
+	<!-- Foundation Dark Elven Long Bow -->
+	<ingredient count="1" id="284" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Dark Elven Long Bow - Concentration -->
+	<production count="1" id="10886" />
+</item>
+<item>
+	<!-- Foundation Sword of Valhalla -->
+	<ingredient count="1" id="148" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Sword of Valhalla - Nature -->
+	<production count="1" id="10893" />
+</item>
+<item>
+	<!-- Foundation Spell Breaker -->
+	<ingredient count="1" id="7892" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Spell Breaker - Hail -->
+	<production count="1" id="10898" />
+</item>
+<item>
+	<!-- Foundation Arthro Nail -->
+	<ingredient count="1" id="267" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Arthro Nail - Destruction -->
+	<production count="1" id="10902" />
+</item>
+<item>
+	<!-- Foundation Ice Storm Hammer -->
+	<ingredient count="1" id="7900" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Ice Storm Hammer - Lightning -->
+	<production count="1" id="10906" />
+</item>
+<item>
+	<!-- Foundation Military Fleuret -->
+	<ingredient count="1" id="9304" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Military Fleuret - Destruction -->
+	<production count="1" id="10912" />
+</item>
+<item>
+	<!-- Foundation Sprite's Staff -->
+	<ingredient count="1" id="92" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Sprite's Staff - Hail -->
+	<production count="1" id="10916" />
+</item>
+<item>
+	<!-- Foundation Kris -->
+	<ingredient count="1" id="229" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Kris - Confusion -->
+	<production count="1" id="10926" />
+</item>
+<item>
+	<!-- Foundation Keshanberk -->
+	<ingredient count="1" id="142" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Keshanberk - Destruction -->
+	<production count="1" id="10930" />
+</item>
+<item>
+	<!-- Foundation Peacemaker -->
+	<ingredient count="1" id="9312" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Peacemaker - Concentration -->
+	<production count="1" id="10934" />
+</item>
+<item>
+	<!-- Foundation Heavy War Axe -->
+	<ingredient count="1" id="91" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Heavy War Axe - Earth -->
+	<production count="1" id="10938" />
+</item>
+<item>
+	<!-- Foundation Hell Knife -->
+	<ingredient count="1" id="243" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Hell Knife - Confusion -->
+	<production count="1" id="10942" />
+</item>
+<item>
+	<!-- Foundation Guardian Sword -->
+	<ingredient count="1" id="7883" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Guardian Sword - Great Gale -->
+	<production count="1" id="10955" />
+</item>
+<item>
+	<!-- Foundation Sword of Damascus -->
+	<ingredient count="1" id="79" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Sword of Damascus - Earth -->
+	<production count="1" id="10959" />
+</item>
+<item>
+	<!-- Foundation Dismantler -->
+	<ingredient count="1" id="9320" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Dismantler - Great Gale -->
+	<production count="1" id="10963" />
+</item>
+<item>
+	<!-- Foundation Lance -->
+	<ingredient count="1" id="97" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Lance - Earth -->
+	<production count="1" id="10967" />
+</item>
+<item>
+	<!-- Foundation Bellion Cestus -->
+	<ingredient count="1" id="268" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Bellion Cestus - Great Gale -->
+	<production count="1" id="10971" />
+</item>
+<item>
+	<!-- Foundation Staff of Evil Spirits -->
+	<ingredient count="1" id="210" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Staff of Evil Spirits - Holy Spirit -->
+	<production count="1" id="10975" />
+</item>
+<item>
+	<!-- Foundation Deadman's Glory -->
+	<ingredient count="1" id="171" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Deadman's Glory - Landslide -->
+	<production count="1" id="10979" />
+</item>
+<item>
+	<!-- Foundation Star Buster -->
+	<ingredient count="1" id="7901" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Star Buster - Great Gale -->
+	<production count="1" id="10983" />
+</item>
+<item>
+	<!-- Foundation Art of Battle Axe -->
+	<ingredient count="1" id="175" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Art of Battle Axe - Landslide -->
+	<production count="1" id="10988" />
+</item>
+<item>
+	<!-- Foundation Demon Dagger -->
+	<ingredient count="1" id="234" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Demon Dagger - Great Gale -->
+	<production count="1" id="10992" />
+</item>
+<item>
+	<!-- Foundation Kaim Vanul's Bones -->
+	<ingredient count="1" id="7893" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Kaim Vanul's Bones - Earth -->
+	<production count="1" id="10997" />
+</item>
+<item>
+	<!-- Foundation Colichemarde -->
+	<ingredient count="1" id="9316" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Colichemarde - Earth -->
+	<production count="1" id="11001" />
+</item>
+<item>
+	<!-- Foundation Wizard's Tear -->
+	<ingredient count="1" id="7889" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Wizard's Tear - Cleverness -->
+	<production count="1" id="11005" />
+</item>
+<item>
+	<!-- Foundation Bow of Peril -->
+	<ingredient count="1" id="287" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Bow of Peril - Earth -->
+	<production count="1" id="11009" />
+</item>
+<item>
+	<!-- Foundation Hell Hound -->
+	<ingredient count="1" id="9324" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1000" id="9599" />
+	<!-- Hell Hound - Earth -->
+	<production count="1" id="11013" />
+</item>
+<item>
+	<!-- Foundation Dasparion's Staff -->
+	<ingredient count="1" id="212" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Dasparion's Staff - Hail -->
+	<production count="1" id="11017" />
+</item>
+<item>
+	<!-- Foundation Doomchanter -->
+	<ingredient count="1" id="9336" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Doomchanter - Concentration -->
+	<production count="1" id="11021" />
+</item>
+<item>
+	<!-- Foundation White Lightning -->
+	<ingredient count="1" id="9328" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- White Lightning - Destruction -->
+	<production count="1" id="11025" />
+</item>
+<item>
+	<!-- Foundation Meteor Shower -->
+	<ingredient count="1" id="2504" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Meteor Shower - Earth -->
+	<production count="1" id="11029" />
+</item>
+<item>
+	<!-- Foundation Blood Tornado -->
+	<ingredient count="1" id="269" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Blood Tornado - Destruction -->
+	<production count="1" id="11033" />
+</item>
+<item>
+	<!-- Foundation Bloody Orchid -->
+	<ingredient count="1" id="235" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Bloody Orchid - Confusion -->
+	<production count="1" id="11037" />
+</item>
+<item>
+	<!-- Foundation Elemental Sword -->
+	<ingredient count="1" id="150" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Elemental Sword - Hail -->
+	<production count="1" id="11041" />
+</item>
+<item>
+	<!-- Foundation Spiritual Eye -->
+	<ingredient count="1" id="7894" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Spiritual Eye - Hail -->
+	<production count="1" id="11045" />
+</item>
+<item>
+	<!-- Foundation Infernal Master -->
+	<ingredient count="1" id="7884" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Infernal Master - Concentration -->
+	<production count="1" id="11049" />
+</item>
+<item>
+	<!-- Foundation Carnage Bow -->
+	<ingredient count="1" id="288" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Carnage Bow - Concentration -->
+	<production count="1" id="11053" />
+</item>
+<item>
+	<!-- Foundation Tallum Blade -->
+	<ingredient count="1" id="80" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Tallum Blade - Destruction -->
+	<production count="1" id="11058" />
+</item>
+<item>
+	<!-- Foundation Destroyer Hammer -->
+	<ingredient count="1" id="7899" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Destroyer Hammer - Lightning -->
+	<production count="1" id="11062" />
+</item>
+<item>
+	<!-- Foundation Divine Pain -->
+	<ingredient count="1" id="9332" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Divine Pain - Concentration -->
+	<production count="1" id="11066" />
+</item>
+<item>
+	<!-- Foundation Halberd -->
+	<ingredient count="1" id="98" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Halberd - Lightning -->
+	<production count="1" id="11070" />
+</item>
+<item>
+	<!-- Foundation Lacerator -->
+	<ingredient count="1" id="9340" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Lacerator - Thunder -->
+	<production count="1" id="11075" />
+</item>
+<item>
+	<!-- Foundation Dark Legion -->
+	<ingredient count="1" id="2500" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Dark Legion - Thunder -->
+	<production count="1" id="11080" />
+</item>
+<item>
+	<!-- Foundation Undertaker -->
+	<ingredient count="1" id="9344" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Undertaker - Evil Spirit -->
+	<production count="1" id="11084" />
+</item>
+<item>
+	<!-- Foundation Doom Crusher -->
+	<ingredient count="1" id="7902" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Doom Crusher - Thunder -->
+	<production count="1" id="11088" />
+</item>
+<item>
+	<!-- Foundation Dragon Grinder -->
+	<ingredient count="1" id="270" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Dragon Grinder - Earth -->
+	<production count="1" id="11092" />
+</item>
+<item>
+	<!-- Foundation Dragon Slayer -->
+	<ingredient count="1" id="81" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Dragon Slayer - Evil Spirit -->
+	<production count="1" id="11096" />
+</item>
+<item>
+	<!-- Foundation Flaming Dragon Skull -->
+	<ingredient count="1" id="7895" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Flaming Dragon Skull - Wisdom -->
+	<production count="1" id="11100" />
+</item>
+<item>
+	<!-- Foundation Branch of the Mother Tree -->
+	<ingredient count="1" id="213" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Branch of the Mother Tree - Nature -->
+	<production count="1" id="11104" />
+</item>
+<item>
+	<!-- Foundation Sword of Miracles -->
+	<ingredient count="1" id="151" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Sword of Miracles - Holy Spirit -->
+	<production count="1" id="11108" />
+</item>
+<item>
+	<!-- Foundation Reaper -->
+	<ingredient count="1" id="9348" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Reaper - Clairvoyance -->
+	<production count="1" id="11112" />
+</item>
+<item>
+	<!-- Foundation Soul Separator -->
+	<ingredient count="1" id="236" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Soul Separator - On Fire -->
+	<production count="1" id="11116" />
+</item>
+<item>
+	<!-- Foundation Elysian -->
+	<ingredient count="1" id="164" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Elysian - Great Gale -->
+	<production count="1" id="11120" />
+</item>
+<item>
+	<!-- Foundation Soul Bow -->
+	<ingredient count="1" id="289" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Soul Bow - Clairvoyance -->
+	<production count="1" id="11124" />
+</item>
+<item>
+	<!-- Foundation Tallum Glaive -->
+	<ingredient count="1" id="305" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Tallum Glaive - On Fire -->
+	<production count="1" id="11128" />
+</item>
+<item>
+	<!-- Foundation Naga Storm -->
+	<ingredient count="1" id="8682" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Naga Storm - Molar -->
+	<production count="1" id="11133" />
+</item>
+<item>
+	<!-- Foundation Daimon Crystal -->
+	<ingredient count="1" id="8688" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Daimon Crystal - Wisdom -->
+	<production count="1" id="11137" />
+</item>
+<item>
+	<!-- Foundation Barakiel's Axe -->
+	<ingredient count="1" id="8680" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Barakiel's Axe - On Fire -->
+	<production count="1" id="11141" />
+</item>
+<item>
+	<!-- Foundation Screaming Vengeance -->
+	<ingredient count="1" id="9360" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Screaming Vengeance - Concentration -->
+	<production count="1" id="11145" />
+</item>
+<item>
+	<!-- Foundation Behemoth's Tuning Fork -->
+	<ingredient count="1" id="8681" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Behemoth's Tuning Fork - Destruction -->
+	<production count="1" id="11149" />
+</item>
+<item>
+	<!-- Foundation Durendal -->
+	<ingredient count="1" id="9356" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Bultgang - Earth -->
+	<production count="1" id="11153" />
+</item>
+<item>
+	<!-- Foundation Shyeed's Bow -->
+	<ingredient count="1" id="8684" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Shyeed's Bow - Concentration -->
+	<production count="1" id="11157" />
+</item>
+<item>
+	<!-- Foundation Sword of Ipos -->
+	<ingredient count="1" id="8679" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Sword of Ipos - Earth -->
+	<production count="1" id="11161" />
+</item>
+<item>
+	<!-- Foundation Sobekk's Hurricane -->
+	<ingredient count="1" id="8685" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Sobekk's Hurricane - Landslide -->
+	<production count="1" id="11165" />
+</item>
+<item>
+	<!-- Foundation Sirra's Blade -->
+	<ingredient count="1" id="8678" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Sirra's Blade - Landslide -->
+	<production count="1" id="11169" />
+</item>
+<item>
+	<!-- Foundation Eclair Bijou -->
+	<ingredient count="1" id="9352" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Eclair Bijou - Landslide -->
+	<production count="1" id="11173" />
+</item>
+<item>
+	<!-- Foundation Tiphon's Spear -->
+	<ingredient count="1" id="8683" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Tiphon's Spear - Landslide -->
+	<production count="1" id="11177" />
+</item>
+<item>
+	<!-- Foundation Themis' Tongue -->
+	<ingredient count="1" id="8686" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Themis' Tongue - Cleverness -->
+	<production count="1" id="11182" />
+</item>
+<item>
+	<!-- Foundation Cabrio's Hand -->
+	<ingredient count="1" id="8687" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2000" id="9599" />
+	<!-- Cabrio's Hand - Cleverness -->
+	<production count="1" id="11186" />
+</item>
+<item>
+	<!-- Foundation Gram -->
+	<ingredient count="1" id="9368" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Gram - Thunder -->
+	<production count="1" id="11190" />
+</item>
+<item>
+	<!-- Foundation Demon Splinter -->
+	<ingredient count="1" id="6371" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Demon Splinter - Thunder -->
+	<production count="1" id="11194" />
+</item>
+<item>
+	<!-- Foundation Draconic Bow -->
+	<ingredient count="1" id="7575" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Draconic Bow - Earth -->
+	<production count="1" id="11198" />
+</item>
+<item>
+	<!-- Foundation Dragon Hunter Axe -->
+	<ingredient count="1" id="6369" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Dragon Hunter Axe - Thunder -->
+	<production count="1" id="11202" />
+</item>
+<item>
+	<!-- Foundation Laevateinn -->
+	<ingredient count="1" id="9364" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Laevateinn - Lightning -->
+	<production count="1" id="11206" />
+</item>
+<item>
+	<!-- Foundation Basalt Battlehammer -->
+	<ingredient count="1" id="6365" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Basalt Battlehammer - Concentration -->
+	<production count="1" id="11210" />
+</item>
+<item>
+	<!-- Foundation Sarnga -->
+	<ingredient count="1" id="9372" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Sarunga - Earth -->
+	<production count="1" id="11214" />
+</item>
+<item>
+	<!-- Foundation Saint Spear -->
+	<ingredient count="1" id="6370" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Saint Spear - Destruction -->
+	<production count="1" id="11218" />
+</item>
+<item>
+	<!-- Foundation Arcana Mace -->
+	<ingredient count="1" id="6579" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Arcana Mace - Nature -->
+	<production count="1" id="11222" />
+</item>
+<item>
+	<!-- Foundation Angel Slayer -->
+	<ingredient count="1" id="6367" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Angel Slayer - Concentration -->
+	<production count="1" id="11226" />
+</item>
+<item>
+	<!-- Foundation Imperial Staff -->
+	<ingredient count="1" id="6366" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Imperial Staff - Nature -->
+	<production count="1" id="11230" />
+</item>
+<item>
+	<!-- Foundation Forgotten Blade -->
+	<ingredient count="1" id="6364" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Forgotten Blade - Lightning -->
+	<production count="1" id="11235" />
+</item>
+<item>
+	<!-- Foundation Heaven's Divider -->
+	<ingredient count="1" id="6372" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="4000" id="9599" />
+	<!-- Heaven's Divider - Thunder -->
+	<production count="1" id="11239" />
+</item>
+<item>
+	<!-- Dynasty Ancient Sword -->
+	<ingredient count="1" id="9380" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Ancient Sword - Great Gale -->
+	<production count="1" id="11243" />
+</item>
+<item>
+	<!-- Dynasty Knife -->
+	<ingredient count="1" id="9446" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Knife - Great Gale -->
+	<production count="1" id="11247" />
+</item>
+<item>
+	<!-- Dynasty Dual Sword -->
+	<ingredient count="1" id="10004" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Dual Sword - Earth -->
+	<production count="1" id="11251" />
+</item>
+<item>
+	<!-- Dynasty Rapier -->
+	<ingredient count="1" id="9376" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Rapier - Earth -->
+	<production count="1" id="11252" />
+</item>
+<item>
+	<!-- Dynasty Mace -->
+	<ingredient count="1" id="9449" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Mace - Earth -->
+	<production count="1" id="11256" />
+</item>
+<item>
+	<!-- Dynasty Bagh-Nakh -->
+	<ingredient count="1" id="9450" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Bagh-Nakh - Great Gale -->
+	<production count="1" id="11260" />
+</item>
+<item>
+	<!-- Dynasty Bow -->
+	<ingredient count="1" id="9445" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Bow - Great Gale -->
+	<production count="1" id="11264" />
+</item>
+<item>
+	<!-- Dynasty Blade -->
+	<ingredient count="1" id="9443" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Blade - Great Gale -->
+	<production count="1" id="11268" />
+</item>
+<item>
+	<!-- Dynasty Crusher -->
+	<ingredient count="1" id="10253" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Crusher - Great Gale -->
+	<production count="1" id="11284" />
+</item>
+<item>
+	<!-- Dynasty Sword -->
+	<ingredient count="1" id="9442" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Sword - Earth -->
+	<production count="1" id="11272" />
+</item>
+<item>
+	<!-- Dynasty Staff -->
+	<ingredient count="1" id="10252" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Staff - Holy Spirit -->
+	<production count="1" id="11276" />
+</item>
+<item>
+	<!-- Dynasty Cudgel -->
+	<ingredient count="1" id="9448" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Cudgel - Landslide -->
+	<production count="1" id="11280" />
+</item>
+<item>
+	<!-- Dynasty Crossbow -->
+	<ingredient count="1" id="9384" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Crossbow - Great Gale -->
+	<production count="1" id="11288" />
+</item>
+<item>
+	<!-- Dynasty Phantom -->
+	<ingredient count="1" id="9444" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Phantom - Nature -->
+	<production count="1" id="11292" />
+</item>
+<item>
+	<!-- Dynasty Halberd -->
+	<ingredient count="1" id="9447" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Halberd - Earth -->
+	<production count="1" id="11296" />
+</item>
+<item>
+	<!-- Dynasty Dual Daggers -->
+	<ingredient count="1" id="13882" />
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="5000" id="9599" />
+	<!-- Dynasty Dual Daggers - Great Gale -->
+	<production count="1" id="14526" />
+</item>
+<item>
+	<ingredient id="10215" count="1" />		<!-- Icarus Sawsword -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="8000" id="9599" />
+	<production id="11305" count="1" />		<!-- Icarus Sawsword Masterwork -->
+</item>
+<item>
+	<ingredient id="10216" count="1" />		<!-- Icarus Disperser -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="8000" id="9599" />
+	<production id="11301" count="1" />		<!-- Icarus Disperser Masterwork -->
+</item>
+<item>
+	<ingredient id="10217" count="1" />		<!-- Icarus Spirit -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="8000" id="9599" />
+	<production id="11317" count="1" />		<!-- Icarus Spirit Masterwork -->
+</item>
+<item>
+	<ingredient id="10218" count="1" />		<!-- Icarus Heavy Arms -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="8000" id="9599" />
+	<production id="11341" count="1" />		<!-- Icarus Heavy Masterwork -->
+</item>
+<item>
+	<ingredient id="10219" count="1" />		<!-- Icarus Trident -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="8000" id="9599" />
+	<production id="11329" count="1" />		<!-- Icarus Trident Masterwork -->
+</item>
+<item>
+	<ingredient id="10220" count="1" />		<!-- Icarus Hammer -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="8000" id="9599" />
+	<production id="11333" count="1" />		<!-- Icarus Hammer Masterwork -->
+</item>
+<item>
+	<ingredient id="10221" count="1" />		<!-- Icarus Hand -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="8000" id="9599" />
+	<production id="11337" count="1" />		<!-- Icarus Hand Masterwork -->
+</item>
+<item>
+	<ingredient id="10222" count="1" />		<!-- Icarus Hall -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="8000" id="9599" />
+	<production id="11345" count="1" />		<!-- Icarus Hall Masterwork -->
+</item>
+<item>
+	<ingredient id="10223" count="1" />		<!-- Icarus Spitter -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="8000" id="9599" />
+	<production id="11321" count="1" />		<!-- Icarus Spitter Masterwork -->
+</item>
+<item>
+	<ingredient id="10226" count="1" />		<!-- Icarus Shooter -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="8000" id="9599" />
+	<production id="11309" count="1" />		<!-- Icarus Shooter Masterwork -->
+</item>
+<item>
+	<ingredient id="10224" count="1" />		<!-- Icarus Stinger -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="8000" id="9599" />
+	<production id="11313" count="1" />		<!-- Icarus Stinger Masterwork -->
+</item>
+<item>
+	<ingredient id="10225" count="1" />		<!-- Icarus Wingblade -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="8000" id="9599" />
+	<production id="11325" count="1" />		<!-- Icarus Wingblade Masterwork -->
+</item>
+<item>
+	<!-- Foundation Sealed Zubei's Gauntlet -->
+	<ingredient count="1" id="5709" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Sealed Zubei's Gauntlet -->
+	<production count="1" id="11349" />
+</item>
+<item>
+	<!-- Foundation Sealed Zubei's Boots -->
+	<ingredient count="1" id="5725" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Sealed Zubei's Boots -->
+	<production count="1" id="11350" />
+</item>
+<item>
+	<!-- Foundation Sealed Avadon Gloves -->
+	<ingredient count="1" id="5713" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Sealed Avadon Gloves -->
+	<production count="1" id="11351" />
+</item>
+<item>
+	<!-- Foundation Sealed Avadon Boots -->
+	<ingredient count="1" id="5729" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Sealed Avadon Boots -->
+	<production count="1" id="11352" />
+</item>
+<item>
+	<!-- Foundation Zubei's Leather Gaiters -->
+	<ingredient count="1" id="2388" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Zubei's Leather Gaiters -->
+	<production count="1" id="11353" />
+</item>
+<item>
+	<!-- Foundation Zubei's Leather Shirt -->
+	<ingredient count="1" id="2384" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Zubei's Leather Shirt -->
+	<production count="1" id="11354" />
+</item>
+<item>
+	<!-- Foundation Zubei's Gaiters -->
+	<ingredient count="1" id="383" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Zubei's Gaiters -->
+	<production count="1" id="11355" />
+</item>
+<item>
+	<!-- Foundation Zubei's Shield -->
+	<ingredient count="1" id="633" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Zubei's Shield -->
+	<production count="1" id="11362" />
+</item>
+<item>
+	<!-- Foundation Zubei's Breastplate -->
+	<ingredient count="1" id="357" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Zubei's Breastplate -->
+	<production count="1" id="11364" />
+</item>
+<item>
+	<!-- Foundation Avadon Leather Armor -->
+	<ingredient count="1" id="2390" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Avadon Leather Armor -->
+	<production count="1" id="11368" />
+</item>
+<item>
+	<!-- Foundation Avadon Robe -->
+	<ingredient count="1" id="2406" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Avadon Robe -->
+	<production count="1" id="11369" />
+</item>
+<item>
+	<!-- Foundation Avadon Shield -->
+	<ingredient count="1" id="673" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Avadon Shield -->
+	<production count="1" id="11374" />
+</item>
+<item>
+	<!-- Foundation Avadon Gaiters -->
+	<ingredient count="1" id="2379" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Avadon Gaiters -->
+	<production count="1" id="11375" />
+</item>
+<item>
+	<!-- Foundation Avadon Breastplate -->
+	<ingredient count="1" id="2376" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Avadon Breastplate -->
+	<production count="1" id="11376" />
+</item>
+<item>
+	<!-- Foundation Tunic of Zubei -->
+	<ingredient count="1" id="2397" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Tunic of Zubei -->
+	<production count="1" id="11377" />
+</item>
+<item>
+	<!-- Foundation Stockings of Zubei -->
+	<ingredient count="1" id="2402" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Stockings of Zubei -->
+	<production count="1" id="11378" />
+</item>
+<item>
+	<!-- Foundation Doom Shield -->
+	<ingredient count="1" id="110" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Doom Shield -->
+	<production count="1" id="11385" />
+</item>
+<item>
+	<!-- Foundation Doom Plate Armor -->
+	<ingredient count="1" id="2381" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Doom Plate Armor -->
+	<production count="1" id="11386" />
+</item>
+<item>
+	<!-- Foundation Leather Armor of Doom -->
+	<ingredient count="1" id="2392" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Leather Armor of Doom -->
+	<production count="1" id="11388" />
+</item>
+<item>
+	<!-- Foundation Sealed Doom Gloves -->
+	<ingredient count="1" id="5721" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Sealed Doom Gloves -->
+	<production count="1" id="11389" />
+</item>
+<item>
+	<!-- Foundation Sealed Boots of Doom -->
+	<ingredient count="1" id="5737" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Sealed Boots of Doom -->
+	<production count="1" id="11390" />
+</item>
+<item>
+	<!-- Foundation Sealed Blue Wolf Boots -->
+	<ingredient count="1" id="5733" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Sealed Blue Wolf Boots -->
+	<production count="1" id="11391" />
+</item>
+<item>
+	<!-- Foundation Sealed Blue Wolf Gloves -->
+	<ingredient count="1" id="5717" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Sealed Blue Wolf Gloves -->
+	<production count="1" id="11392" />
+</item>
+<item>
+	<!-- Foundation Tunic of Doom -->
+	<ingredient count="1" id="2399" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Tunic of Doom -->
+	<production count="1" id="11393" />
+</item>
+<item>
+	<!-- Foundation Blue Wolf Gaiters -->
+	<ingredient count="1" id="2380" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Blue Wolf Gaiters -->
+	<production count="1" id="11394" />
+</item>
+<item>
+	<!-- Foundation Blue Wolf Leather Armor -->
+	<ingredient count="1" id="2391" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Blue Wolf Leather Armor -->
+	<production count="1" id="11395" />
+</item>
+<item>
+	<!-- Foundation Blue Wolf Tunic -->
+	<ingredient count="1" id="2398" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Blue Wolf Tunic -->
+	<production count="1" id="11402" />
+</item>
+<item>
+	<!-- Foundation Blue Wolf Stockings -->
+	<ingredient count="1" id="2403" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Blue Wolf Stockings -->
+	<production count="1" id="11404" />
+</item>
+<item>
+	<!-- Foundation Blue Wolf Breastplate -->
+	<ingredient count="1" id="358" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Blue Wolf Breastplate -->
+	<production count="1" id="11405" />
+</item>
+<item>
+	<!-- Foundation Stockings of Doom -->
+	<ingredient count="1" id="2404" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Stockings of Doom -->
+	<production count="1" id="11406" />
+</item>
+<item>
+	<!-- Foundation Sealed Dark Crystal Gaiters -->
+	<ingredient count="1" id="388" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Dark Crystal Gaiters -->
+	<production count="1" id="11407" />
+</item>
+<item>
+	<!-- Foundation Sealed Dark Crystal Gloves -->
+	<ingredient count="1" id="5290" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Dark Crystal Gloves -->
+	<production count="1" id="11421" />
+</item>
+<item>
+	<!-- Foundation Sealed Dark Crystal Leather Armor -->
+	<ingredient count="1" id="2385" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Dark Crystal Leather Armor -->
+	<production count="1" id="11411" />
+</item>
+<item>
+	<!-- Foundation Dark Crystal Robe -->
+	<ingredient count="1" id="2407" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Dark Crystal Robe -->
+	<production count="1" id="11412" />
+</item>
+<item>
+	<!-- Foundation Sealed Dark Crystal Boots -->
+	<ingredient count="1" id="5291" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Dark Crystal Boots -->
+	<production count="1" id="11424" />
+</item>
+<item>
+	<!-- Foundation Sealed Dark Crystal Shield -->
+	<ingredient count="1" id="641" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Dark Crystal Shield -->
+	<production count="1" id="11416" />
+</item>
+<item>
+	<!-- Foundation Sealed Dark Crystal Breastplate -->
+	<ingredient count="1" id="365" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Dark Crystal breastplate -->
+	<production count="1" id="11418" />
+</item>
+<item>
+	<!-- Foundation Sealed Dark Crystal Leggings -->
+	<ingredient count="1" id="2389" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Dark Crystal Leggings -->
+	<production count="1" id="11419" />
+</item>
+<item>
+	<!-- Foundation Sealed Tallum Gloves -->
+	<ingredient count="1" id="5295" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Tallum Gloves -->
+	<production count="1" id="11429" />
+</item>
+<item>
+	<!-- Foundation Sealed Tallum Leather Armor -->
+	<ingredient count="1" id="2393" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Tallum Leather Armor -->
+	<production count="1" id="11440" />
+</item>
+<item>
+	<!-- Foundation Sealed Tallum Boots -->
+	<ingredient count="1" id="5296" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Tallum Boots -->
+	<production count="1" id="11431" />
+</item>
+<item>
+	<!-- Foundation Sealed Tallum Tunic -->
+	<ingredient count="1" id="2400" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Tallum Tunic -->
+	<production count="1" id="11444" />
+</item>
+<item>
+	<!-- Foundation Sealed Tallum Plate Armor -->
+	<ingredient count="1" id="2382" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Tallum Plate Armor -->
+	<production count="1" id="11445" />
+</item>
+<item>
+	<!-- Foundation Sealed Tallum Stockings -->
+	<ingredient count="1" id="2405" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Tallum Stockings -->
+	<production count="1" id="11447" />
+</item>
+<item>
+	<!-- Foundation Sealed Majestic Gauntlet -->
+	<ingredient count="1" id="5318" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Majestic Gauntlet -->
+	<production count="1" id="11458" />
+</item>
+<item>
+	<!-- Foundation Sealed Majestic Leather Armor -->
+	<ingredient count="1" id="2395" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Majestic Leather Armor -->
+	<production count="1" id="11451" />
+</item>
+<item>
+	<!-- Foundation Sealed Majestic Robe -->
+	<ingredient count="1" id="2409" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Majestic Robe -->
+	<production count="1" id="11452" />
+</item>
+<item>
+	<!-- Foundation Sealed Majestic Boots -->
+	<ingredient count="1" id="5319" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Majestic Boots -->
+	<production count="1" id="11461" />
+</item>
+<item>
+	<!-- Foundation Sealed Majestic Plate Armor -->
+	<ingredient count="1" id="2383" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Majestic Plate Armor -->
+	<production count="1" id="11457" />
+</item>
+<item>
+	<!-- Foundation Sealed Armor of Nightmare -->
+	<ingredient count="1" id="374" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Armor of Nightmare -->
+	<production count="1" id="11471" />
+</item>
+<item>
+	<!-- Foundation Sealed Gauntlet of Nightmare -->
+	<ingredient count="1" id="5313" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Gauntlet of Nightmare -->
+	<production count="1" id="11465" />
+</item>
+<item>
+	<!-- Foundation Sealed Leather Armor of Nightmare -->
+	<ingredient count="1" id="2394" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Leather Armor of Nightmare -->
+	<production count="1" id="11475" />
+</item>
+<item>
+	<!-- Foundation Sealed Nightmare Robe -->
+	<ingredient count="1" id="2408" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Nightmare Robe -->
+	<production count="1" id="11476" />
+</item>
+<item>
+	<!-- Foundation Sealed Boots of Nightmare -->
+	<ingredient count="1" id="5314" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Boots of Nightmare -->
+	<production count="1" id="11468" />
+</item>
+<item>
+	<!-- Foundation Sealed Shield of Nightmare -->
+	<ingredient count="1" id="2498" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Shield of Nightmare -->
+	<production count="1" id="11480" />
+</item>
+<item>
+	<!-- Foundation Sealed Draconic Leather Gloves -->
+	<ingredient count="1" id="6380" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Draconic Leather Gloves -->
+	<production count="1" id="11483" />
+</item>
+<item>
+	<!-- Foundation Sealed Draconic Leather Boots -->
+	<ingredient count="1" id="6381" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Draconic Leather Boots -->
+	<production count="1" id="11484" />
+</item>
+<item>
+	<!-- Foundation Sealed Draconic Leather Armor -->
+	<ingredient count="1" id="6379" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Draconic Leather Armor -->
+	<production count="1" id="11485" />
+</item>
+<item>
+	<!-- Foundation Sealed Draconic Leather Helmet -->
+	<ingredient count="1" id="6382" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Draconic Leather Helmet -->
+	<production count="1" id="11486" />
+</item>
+<item>
+	<!-- Foundation Sealed Major Arcana Gloves -->
+	<ingredient count="1" id="6384" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Major Arcana Gloves -->
+	<production count="1" id="11487" />
+</item>
+<item>
+	<!-- Foundation Sealed Major Arcana Robe -->
+	<ingredient count="1" id="6383" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Major Arcana Robe -->
+	<production count="1" id="11488" />
+</item>
+<item>
+	<!-- Foundation Sealed Major Arcana Boots -->
+	<ingredient count="1" id="6385" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Major Arcana Boots -->
+	<production count="1" id="11489" />
+</item>
+<item>
+	<!-- Foundation Sealed Major Arcana Circlet -->
+	<ingredient count="1" id="6386" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Major Arcana Circlet -->
+	<production count="1" id="11490" />
+</item>
+<item>
+	<!-- Foundation Sealed Imperial Crusader Gaiters -->
+	<ingredient count="1" id="6374" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Imperial Crusader Gaiters -->
+	<production count="1" id="11505" />
+</item>
+<item>
+	<!-- Foundation Sealed Imperial Crusader Gauntlet -->
+	<ingredient count="1" id="6375" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Imperial Crusader Gauntlet -->
+	<production count="1" id="11506" />
+</item>
+<item>
+	<!-- Foundation Sealed Imperial Crusader Boots -->
+	<ingredient count="1" id="6376" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Imperial Crusader Boots -->
+	<production count="1" id="11507" />
+</item>
+<item>
+	<!-- Foundation Sealed Imperial Crusader Shield -->
+	<ingredient count="1" id="6377" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Imperial Crusader Shield -->
+	<production count="1" id="11508" />
+</item>
+<item>
+	<!-- Foundation Sealed Imperial Crusader Helmet -->
+	<ingredient count="1" id="6378" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Imperial Crusader Helmet -->
+	<production count="1" id="11509" />
+</item>
+<item>
+	<!-- Foundation Sealed Imperial Crusader Breastplate -->
+	<ingredient count="1" id="6373" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Imperial Crusader Breastplate -->
+	<production count="1" id="11510" />
+</item>
+<item>
+	<!-- Sealed Arcana Sigil -->
+	<ingredient count="1" id="12811" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="500" id="9599" />
+	<!-- Sealed Arcana Sigil -->
+	<production count="1" id="13078" />
+</item>
+<item>
+	<ingredient id="15606" count="1" />		<!-- Moirai Helmet -->
+	<!-- Dynastic Essence -->
+	<ingredient count="2" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="2" id="10413" />
+	<production id="16289" count="1" />		<!-- Moirai Helmet Masterwork -->
+</item>
+<item>
+	<ingredient id="15609" count="1" />		<!-- Moirai Breastplate -->
+	<!-- Dynastic Essence -->
+	<ingredient count="3" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="3" id="10413" />
+	<production id="16292" count="1" />		<!-- Moirai Breastplate Masterwork -->
+</item>
+<item>
+	<ingredient id="15612" count="1" />		<!-- Moirai Gaiter -->
+	<!-- Dynastic Essence -->
+	<ingredient count="3" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="3" id="10413" />
+	<production id="16295" count="1" />		<!-- Moirai Gaiter Masterwork -->
+</item>
+<item>
+	<ingredient id="15615" count="1" />		<!-- Moirai Gauntlet -->
+	<!-- Dynastic Essence -->
+	<ingredient count="2" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="2" id="10413" />
+	<production id="16298" count="1" />		<!-- Moirai Gauntlet Masterwork -->
+</item>
+<item>
+	<ingredient id="15618" count="1" />		<!-- Moirai Boots -->
+	<!-- Dynastic Essence -->
+	<ingredient count="2" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="2" id="10413" />
+	<production id="16301" count="1" />		<!-- Moirai Boots Masterwork -->
+</item>
+<item>
+	<ingredient id="15607" count="1" />		<!-- Moirai Leather Helmet -->
+	<!-- Dynastic Essence -->
+	<ingredient count="2" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="2" id="10413" />
+	<production id="16290" count="1" />		<!-- Moirai Leather Masterwork -->
+</item>
+<item>
+	<ingredient id="15610" count="1" />		<!-- Moirai Leather Breastplate -->
+	<!-- Dynastic Essence -->
+	<ingredient count="3" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="3" id="10413" />
+	<production id="16293" count="1" />		<!-- Moirai Leather Masterwork -->
+</item>
+<item>
+	<ingredient id="15613" count="1" />		<!-- Moirai Leather Legging -->
+	<!-- Dynastic Essence -->
+	<ingredient count="3" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="3" id="10413" />
+	<production id="16296" count="1" />		<!-- Moirai Leather Masterwork -->
+</item>
+<item>
+	<ingredient id="15616" count="1" />		<!-- Moirai Leather Gloves -->
+	<!-- Dynastic Essence -->
+	<ingredient count="2" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="2" id="10413" />
+	<production id="16299" count="1" />		<!-- Moirai Leather Masterwork -->
+</item>
+<item>
+	<ingredient id="15619" count="1" />		<!-- Moirai Leather Boots -->
+	<!-- Dynastic Essence -->
+	<ingredient count="2" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="2" id="10413" />
+	<production id="16302" count="1" />		<!-- Moirai Leather Masterwork -->
+</item>
+<item>
+	<ingredient id="15608" count="1" />		<!-- Moirai Circlet -->
+	<!-- Dynastic Essence -->
+	<ingredient count="2" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="2" id="10413" />
+	<production id="16291" count="1" />		<!-- Moirai Circlet Masterwork -->
+</item>
+<item>
+	<ingredient id="15611" count="1" />		<!-- Moirai Tunic -->
+	<!-- Dynastic Essence -->
+	<ingredient count="3" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="3" id="10413" />
+	<production id="16294" count="1" />		<!-- Moirai Tunic Masterwork -->
+</item>
+<item>
+	<ingredient id="15614" count="1" />		<!-- Moirai Stockings -->
+	<!-- Dynastic Essence -->
+	<ingredient count="3" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="3" id="10413" />
+	<production id="16297" count="1" />		<!-- Moirai Stockings Masterwork -->
+</item>
+<item>
+	<ingredient id="15617" count="1" />		<!-- Moirai Gloves -->
+	<!-- Dynastic Essence -->
+	<ingredient count="2" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="2" id="10413" />
+	<production id="16300" count="1" />		<!-- Moirai Gloves Masterwork -->
+</item>
+<item>
+	<ingredient id="15620" count="1" />		<!-- Moirai Shoes -->
+	<!-- Dynastic Essence -->
+	<ingredient count="2" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="2" id="10413" />
+	<production id="16303" count="1" />		<!-- Moirai Shoes Masterwork -->
+</item>
+<item>
+	<ingredient id="15621" count="1" />		<!-- Moirai Shield -->
+	<!-- Dynastic Essence -->
+	<ingredient count="2" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="2" id="10413" />
+	<production id="16304" count="1" />		<!-- Moirai Shield Masterwork -->
+</item>
+<item>
+	<ingredient id="15622" count="1" />		<!-- Moirai Sigil -->
+	<!-- Dynastic Essence -->
+	<ingredient count="2" id="9451" />
+	<!-- Dynastic Essence II -->
+	<ingredient count="2" id="10413" />
+	<production id="16305" count="1" />		<!-- Moirai Sigil Masterwork -->
+</item>
+<item>
+	<!-- Foundation Zubei's Helmet -->
+	<ingredient count="1" id="503" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Zubei's Helmet - Heavy Armor Use -->
+	<production count="1" id="11363" />
+</item>
+<item>
+	<!-- Foundation Zubei's Helmet -->
+	<ingredient count="1" id="503" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Zubei's Helmet - Light Armor Use -->
+	<production count="1" id="12978" />
+</item>
+<item>
+	<!-- Foundation Zubei's Helmet -->
+	<ingredient count="1" id="503" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Zubei's Helmet - Robe Use -->
+	<production count="1" id="12979" />
+</item>
+<item>
+	<!-- Foundation Avadon Circlet -->
+	<ingredient count="1" id="2415" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Avadon Circlet - Heavy Armor Use -->
+	<production count="1" id="11373" />
+</item>
+<item>
+	<!-- Foundation Avadon Circlet -->
+	<ingredient count="1" id="2415" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Avadon Circlet - Light Armor Use -->
+	<production count="1" id="12980" />
+</item>
+<item>
+	<!-- Foundation Avadon Circlet -->
+	<ingredient count="1" id="2415" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Avadon Circlet - Robe Use -->
+	<production count="1" id="12981" />
+</item>
+<item>
+	<!-- Foundation Doom Helmet -->
+	<ingredient count="1" id="2417" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Doom Helmet - Heavy Armor Use -->
+	<production count="1" id="11387" />
+</item>
+<item>
+	<!-- Foundation Doom Helmet -->
+	<ingredient count="1" id="2417" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Doom Helmet - Light Armor Use -->
+	<production count="1" id="12982" />
+</item>
+<item>
+	<!-- Foundation Doom Helmet -->
+	<ingredient count="1" id="2417" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Doom Helmet - Robe Use -->
+	<production count="1" id="12983" />
+</item>
+<item>
+	<!-- Foundation Blue Wolf Helmet -->
+	<ingredient count="1" id="2416" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Blue Wolf Helmet - Heavy Armor Use -->
+	<production count="1" id="11403" />
+</item>
+<item>
+	<!-- Foundation Blue Wolf Helmet -->
+	<ingredient count="1" id="2416" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Blue Wolf Helmet - Light Armor Use -->
+	<production count="1" id="12984" />
+</item>
+<item>
+	<!-- Foundation Blue Wolf Helmet -->
+	<ingredient count="1" id="2416" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Blue Wolf Helmet - Robe Use -->
+	<production count="1" id="12985" />
+</item>
+<item>
+	<!-- Foundation Sealed Dark Crystal Helmet -->
+	<ingredient count="1" id="512" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Dark Crystal Helmet - Heavy Armor Use -->
+	<production count="1" id="11417" />
+</item>
+<item>
+	<!-- Foundation Sealed Dark Crystal Helmet -->
+	<ingredient count="1" id="512" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Dark Crystal Helmet - Light Armor Use -->
+	<production count="1" id="12986" />
+</item>
+<item>
+	<!-- Foundation Sealed Dark Crystal Helmet -->
+	<ingredient count="1" id="512" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Dark Crystal Helmet - Robe Use -->
+	<production count="1" id="12987" />
+</item>
+<item>
+	<!-- Foundation Sealed Tallum Helmet -->
+	<ingredient count="1" id="547" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Tallum Helmet - Heavy Armor Use -->
+	<production count="1" id="11446" />
+</item>
+<item>
+	<!-- Foundation Sealed Tallum Helmet -->
+	<ingredient count="1" id="547" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Tallum Helmet - Light Armor Use -->
+	<production count="1" id="12988" />
+</item>
+<item>
+	<!-- Foundation Sealed Tallum Helmet -->
+	<ingredient count="1" id="547" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Tallum Helmet - Robe Use -->
+	<production count="1" id="12989" />
+</item>
+<item>
+	<!-- Foundation Sealed Majestic Circlet -->
+	<ingredient count="1" id="2419" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Majestic Circlet - Heavy Armor Use -->
+	<production count="1" id="11456" />
+</item>
+<item>
+	<!-- Foundation Sealed Majestic Circlet -->
+	<ingredient count="1" id="2419" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Majestic Circlet - Light Armor Use -->
+	<production count="1" id="12990" />
+</item>
+<item>
+	<!-- Foundation Sealed Majestic Circlet -->
+	<ingredient count="1" id="2419" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Majestic Circlet - Robe Use -->
+	<production count="1" id="12991" />
+</item>
+<item>
+	<!-- Foundation Sealed Helm of Nightmare -->
+	<ingredient count="1" id="2418" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Helm of Nightmare - Heavy Armor Use -->
+	<production count="1" id="11481" />
+</item>
+<item>
+	<!-- Foundation Sealed Helm of Nightmare -->
+	<ingredient count="1" id="2418" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Helm of Nightmare - Light Armor Use -->
+	<production count="1" id="12992" />
+</item>
+<item>
+	<!-- Foundation Sealed Helm of Nightmare -->
+	<ingredient count="1" id="2418" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Helm of Nightmare - Robe Use -->
+	<production count="1" id="12993" />
+</item>
+<item>
+	<!-- Foundation Earring of Black Ore -->
+	<ingredient count="1" id="864" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Earring of Black Ore -->
+	<production count="1" id="11578" />
+</item>
+<item>
+	<!-- Foundation Necklace of Black Ore -->
+	<ingredient count="1" id="926" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Necklace of Black Ore -->
+	<production count="1" id="11579" />
+</item>
+<item>
+	<!-- Foundation Ring of Black Ore -->
+	<ingredient count="1" id="895" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="100" id="9599" />
+	<!-- Ring of Black Ore -->
+	<production count="1" id="11580" />
+</item>
+<item>
+	<!-- Foundation Sealed Majestic Necklace -->
+	<ingredient count="1" id="924" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Majestic Necklace -->
+	<production count="1" id="11587" />
+</item>
+<item>
+	<!-- Foundation Sealed Majestic Ring -->
+	<ingredient count="1" id="893" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Majestic Ring -->
+	<production count="1" id="11588" />
+</item>
+<item>
+	<!-- Foundation Sealed Majestic Earring -->
+	<ingredient count="1" id="862" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="300" id="9599" />
+	<!-- Sealed Majestic Earring -->
+	<production count="1" id="11589" />
+</item>
+<item>
+	<!-- Foundation Sealed Tateossian Necklace -->
+	<ingredient count="1" id="920" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="600" id="9599" />
+	<!-- Sealed Tateossian Necklace -->
+	<production count="1" id="11596" />
+</item>
+<item>
+	<!-- Foundation Sealed Tateossian Ring -->
+	<ingredient count="1" id="889" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="600" id="9599" />
+	<!-- Sealed Tateossian Ring -->
+	<production count="1" id="11597" />
+</item>
+<item>
+	<!-- Foundation Sealed Tateossian Earring -->
+	<ingredient count="1" id="858" />
+	<!-- Mammon's Varnish Enhancer -->
+	<ingredient count="600" id="9599" />
+	<!-- Sealed Tateossian Earring -->
+	<production count="1" id="11598" />
+</item>
+<item>
+	<ingredient id="9456" count="1"/>		<!-- Dynasty Necklace -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1200" id="9599" />
+	<production id="11599" count="1" />		<!-- Dynasty Necklace Masterwork -->
+</item>
+<item>
+	<ingredient id="9455" count="1"/>		<!-- Dynasty Earrings -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1200" id="9599" />
+	<production id="11601" count="1" />		<!-- Dynasty Earrings Masterwork -->
+</item>
+<item>
+	<ingredient id="9457" count="1"/>		<!-- Dynasty Ring -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="1200" id="9599" />
+	<production id="11600" count="1" />		<!-- Dynasty Ring Masterwork -->
+</item>
+<item>
+	<ingredient id="15725" count="1" />		<!-- Moirai Necklace -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2400" id="9599" />
+	<production id="16380" count="1" />		<!-- Moirai Necklace Masterwork -->
+</item>
+<item>
+	<ingredient id="15724" count="1" />		<!-- Moirai Earring -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2400" id="9599" />
+	<production id="16379" count="1" />		<!-- Moirai Earring Masterwork -->
+</item>
+<item>
+	<ingredient id="15723" count="1" />		<!-- Moirai Ring -->
+	<!-- Ancient Tome of the Demon -->
+	<ingredient count="2400" id="9599" />
+	<production id="16378" count="1" />		<!-- Moirai Ring Masterwork -->
+</item>
+<item>
+	<!-- Zubei's Helmet - Light Armor Use -->
+	<ingredient count="1" id="12978" />
+	<!-- Zubei's Helmet - Heavy Armor Use -->
+	<production count="1" id="11363" />
+</item>
+<item>
+	<!-- Zubei's Helmet - Robe Use -->
+	<ingredient count="1" id="12979" />
+	<!-- Zubei's Helmet - Heavy Armor Use -->
+	<production count="1" id="11363" />
+</item>
+<item>
+	<!-- Zubei's Helmet - Heavy Armor Use -->
+	<ingredient count="1" id="11363" />
+	<!-- Zubei's Helmet - Light Armor Use -->
+	<production count="1" id="12978" />
+</item>
+<item>
+	<!-- Zubei's Helmet - Robe Use -->
+	<ingredient count="1" id="12979" />
+	<!-- Zubei's Helmet - Light Armor Use -->
+	<production count="1" id="12978" />
+</item>
+<item>
+	<!-- Zubei's Helmet - Heavy Armor Use -->
+	<ingredient count="1" id="11363" />
+	<!-- Zubei's Helmet - Robe Use -->
+	<production count="1" id="12979" />
+</item>
+<item>
+	<!-- Zubei's Helmet - Light Armor Use -->
+	<ingredient count="1" id="12978" />
+	<!-- Zubei's Helmet - Robe Use -->
+	<production count="1" id="12979" />
+</item>
+<item>
+	<!-- Avadon Circlet - Light Armor Use -->
+	<ingredient count="1" id="12980" />
+	<!-- Avadon Circlet - Heavy Armor Use -->
+	<production count="1" id="11373" />
+</item>
+<item>
+	<!-- Avadon Circlet - Robe Use -->
+	<ingredient count="1" id="12981" />
+	<!-- Avadon Circlet - Heavy Armor Use -->
+	<production count="1" id="11373" />
+</item>
+<item>
+	<!-- Avadon Circlet - Heavy Armor Use -->
+	<ingredient count="1" id="11373" />
+	<!-- Avadon Circlet - Light Armor Use -->
+	<production count="1" id="12980" />
+</item>
+<item>
+	<!-- Avadon Circlet - Robe Use -->
+	<ingredient count="1" id="12981" />
+	<!-- Avadon Circlet - Light Armor Use -->
+	<production count="1" id="12980" />
+</item>
+<item>
+	<!-- Avadon Circlet - Heavy Armor Use -->
+	<ingredient count="1" id="11373" />
+	<!-- Avadon Circlet - Robe Use -->
+	<production count="1" id="12981" />
+</item>
+<item>
+	<!-- Avadon Circlet - Light Armor Use -->
+	<ingredient count="1" id="12980" />
+	<!-- Avadon Circlet - Robe Use -->
+	<production count="1" id="12981" />
+</item>
+<item>
+	<!-- Doom Helmet - Light Armor Use -->
+	<ingredient count="1" id="12982" />
+	<!-- Doom Helmet - Heavy Armor Use -->
+	<production count="1" id="11387" />
+</item>
+<item>
+	<!-- Doom Helmet - Robe Use -->
+	<ingredient count="1" id="12983" />
+	<!-- Doom Helmet - Heavy Armor Use -->
+	<production count="1" id="11387" />
+</item>
+<item>
+	<!-- Doom Helmet - Heavy Armor Use -->
+	<ingredient count="1" id="11387" />
+	<!-- Doom Helmet - Light Armor Use -->
+	<production count="1" id="12982" />
+</item>
+<item>
+	<!-- Doom Helmet - Robe Use -->
+	<ingredient count="1" id="12983" />
+	<!-- Doom Helmet - Light Armor Use -->
+	<production count="1" id="12982" />
+</item>
+<item>
+	<!-- Doom Helmet - Heavy Armor Use -->
+	<ingredient count="1" id="11387" />
+	<!-- Doom Helmet - Robe Use -->
+	<production count="1" id="12983" />
+</item>
+<item>
+	<!-- Doom Helmet - Light Armor Use -->
+	<ingredient count="1" id="12982" />
+	<!-- Doom Helmet - Robe Use -->
+	<production count="1" id="12983" />
+</item>
+<item>
+	<!-- Blue Wolf Helmet - Light Armor Use -->
+	<ingredient count="1" id="12984" />
+	<!-- Blue Wolf Helmet - Heavy Armor Use -->
+	<production count="1" id="11403" />
+</item>
+<item>
+	<!-- Blue Wolf Helmet - Robe Use -->
+	<ingredient count="1" id="12985" />
+	<!-- Blue Wolf Helmet - Heavy Armor Use -->
+	<production count="1" id="11403" />
+</item>
+<item>
+	<!-- Blue Wolf Helmet - Heavy Armor Use -->
+	<ingredient count="1" id="11403" />
+	<!-- Blue Wolf Helmet - Light Armor Use -->
+	<production count="1" id="12984" />
+</item>
+<item>
+	<!-- Blue Wolf Helmet - Robe Use -->
+	<ingredient count="1" id="12985" />
+	<!-- Blue Wolf Helmet - Light Armor Use -->
+	<production count="1" id="12984" />
+</item>
+<item>
+	<!-- Blue Wolf Helmet - Heavy Armor Use -->
+	<ingredient count="1" id="11403" />
+	<!-- Blue Wolf Helmet - Robe Use -->
+	<production count="1" id="12985" />
+</item>
+<item>
+	<!-- Blue Wolf Helmet - Light Armor Use -->
+	<ingredient count="1" id="12984" />
+	<!-- Blue Wolf Helmet - Robe Use -->
+	<production count="1" id="12985" />
+</item>
+<item>
+	<!-- Sealed Dark Crystal Helmet - Light Armor Use -->
+	<ingredient count="1" id="12994" />
+	<!-- Sealed Dark Crystal Helmet - Heavy Armor Use -->
+	<production count="1" id="11426" />
+</item>
+<item>
+	<!-- Sealed Dark Crystal Helmet - Robe Use -->
+	<ingredient count="1" id="12995" />
+	<!-- Sealed Dark Crystal Helmet - Heavy Armor Use -->
+	<production count="1" id="11426" />
+</item>
+<item>
+	<!-- Sealed Dark Crystal Helmet - Heavy Armor Use -->
+	<ingredient count="1" id="11426" />
+	<!-- Sealed Dark Crystal Helmet - Light Armor Use -->
+	<production count="1" id="12994" />
+</item>
+<item>
+	<!-- Sealed Dark Crystal Helmet - Robe Use -->
+	<ingredient count="1" id="12995" />
+	<!-- Sealed Dark Crystal Helmet - Light Armor Use -->
+	<production count="1" id="12994" />
+</item>
+<item>
+	<!-- Sealed Dark Crystal Helmet - Heavy Armor Use -->
+	<ingredient count="1" id="11426" />
+	<!-- Sealed Dark Crystal Helmet - Robe Use -->
+	<production count="1" id="12995" />
+</item>
+<item>
+	<!-- Sealed Dark Crystal Helmet - Light Armor Use -->
+	<ingredient count="1" id="12994" />
+	<!-- Sealed Dark Crystal Helmet - Robe Use -->
+	<production count="1" id="12995" />
+</item>
+<item>
+	<!-- Sealed Tallum Helmet - Light Armor Use -->
+	<ingredient count="1" id="12996" />
+	<!-- Sealed Tallum Helmet - Heavy Armor Use -->
+	<production count="1" id="11434" />
+</item>
+<item>
+	<!-- Sealed Tallum Helmet - Robe Use -->
+	<ingredient count="1" id="12997" />
+	<!-- Sealed Tallum Helmet - Heavy Armor Use -->
+	<production count="1" id="11434" />
+</item>
+<item>
+	<!-- Sealed Tallum Helmet - Heavy Armor Use -->
+	<ingredient count="1" id="11434" />
+	<!-- Sealed Tallum Helmet - Light Armor Use -->
+	<production count="1" id="12996" />
+</item>
+<item>
+	<!-- Sealed Tallum Helmet - Robe Use -->
+	<ingredient count="1" id="12997" />
+	<!-- Sealed Tallum Helmet - Light Armor Use -->
+	<production count="1" id="12996" />
+</item>
+<item>
+	<!-- Sealed Tallum Helmet - Heavy Armor Use -->
+	<ingredient count="1" id="11434" />
+	<!-- Sealed Tallum Helmet - Robe Use -->
+	<production count="1" id="12997" />
+</item>
+<item>
+	<!-- Sealed Tallum Helmet - Light Armor Use -->
+	<ingredient count="1" id="12996" />
+	<!-- Sealed Tallum Helmet - Robe Use -->
+	<production count="1" id="12997" />
+</item>
+<item>
+	<!-- Sealed Majestic Circlet - Light Armor Use -->
+	<ingredient count="1" id="12998" />
+	<!-- Sealed Majestic Circlet - Heavy Armor Use -->
+	<production count="1" id="11462" />
+</item>
+<item>
+	<!-- Sealed Majestic Circlet - Robe Use -->
+	<ingredient count="1" id="12999" />
+	<!-- Sealed Majestic Circlet - Heavy Armor Use -->
+	<production count="1" id="11462" />
+</item>
+<item>
+	<!-- Sealed Majestic Circlet - Heavy Armor Use -->
+	<ingredient count="1" id="11462" />
+	<!-- Sealed Majestic Circlet - Light Armor Use -->
+	<production count="1" id="12998" />
+</item>
+<item>
+	<!-- Sealed Majestic Circlet - Robe Use -->
+	<ingredient count="1" id="12999" />
+	<!-- Sealed Majestic Circlet - Light Armor Use -->
+	<production count="1" id="12998" />
+</item>
+<item>
+	<!-- Sealed Majestic Circlet - Heavy Armor Use -->
+	<ingredient count="1" id="11462" />
+	<!-- Sealed Majestic Circlet - Robe Use -->
+	<production count="1" id="12999" />
+</item>
+<item>
+	<!-- Sealed Majestic Circlet - Light Armor Use -->
+	<ingredient count="1" id="12998" />
+	<!-- Sealed Majestic Circlet - Robe Use -->
+	<production count="1" id="12999" />
+</item>
+<item>
+	<!-- Sealed Helm of Nightmare - Light Armor Use -->
+	<ingredient count="1" id="13000" />
+	<!-- Sealed Helm of Nightmare - Heavy Armor Use -->
+	<production count="1" id="11470" />
+</item>
+<item>
+	<!-- Sealed Helm of Nightmare - Robe Use -->
+	<ingredient count="1" id="13001" />
+	<!-- Sealed Helm of Nightmare - Heavy Armor Use -->
+	<production count="1" id="11470" />
+</item>
+<item>
+	<!-- Sealed Helm of Nightmare - Heavy Armor Use -->
+	<ingredient count="1" id="11470" />
+	<!-- Sealed Helm of Nightmare - Light Armor Use -->
+	<production count="1" id="13000" />
+</item>
+<item>
+	<!-- Sealed Helm of Nightmare - Robe Use -->
+	<ingredient count="1" id="13001" />
+	<!-- Sealed Helm of Nightmare - Light Armor Use -->
+	<production count="1" id="13000" />
+</item>
+<item>
+	<!-- Sealed Helm of Nightmare - Heavy Armor Use -->
+	<ingredient count="1" id="11470" />
+	<!-- Sealed Helm of Nightmare - Robe Use -->
+	<production count="1" id="13001" />
+</item>
+<item>
+	<!-- Sealed Helm of Nightmare - Light Armor Use -->
+	<ingredient count="1" id="13000" />
+	<!-- Sealed Helm of Nightmare - Robe Use -->
+	<production count="1" id="13001" />
+</item>
+</list>

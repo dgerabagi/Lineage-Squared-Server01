@@ -1,0 +1,51 @@
+<html>
+<head>
+  <title>AutoFarm Path Editor</title>
+</head>
+<body>
+<br>
+<center>
+  <table width="600" background="L2UI_ct1.Windows_DF_TooltipBG">
+    <tr>
+      <td align="center">
+        <font name="hs12" color="e3e3e3">Path Editor</font>
+        <img src="L2UI_CT1.Gauge_DF_CP_Center" width="600" height="2">
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <!-- "Create Path" input + button -->
+      <table width="600">
+        <tr>
+          <td align="right" width="200">
+            <font color="LEVEL">Create Path:</font>
+          </td>
+          <td align="center" width="200">
+            <edit var="PNAME" width="140" length="20">
+          </td>
+          <td align="left" width="200">
+            <button value="Create" action="bypass _bbsautofarmpath:create:open: $PNAME" width="80" height="25"
+                    back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+          </td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table width="600">
+          %PATH_LIST%
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <button value="Back" action="bypass _bbsautofarm main" width="80" height="25"
+        back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+      </td>
+  </table>
+  <br>
+
+</center>
+</body>
+</html>

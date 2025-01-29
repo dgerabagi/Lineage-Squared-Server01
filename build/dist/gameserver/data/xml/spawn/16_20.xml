@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105414" y="61653" z="-2960" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104893" y="62389" z="-2912" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104644" y="63136" z="-2904" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106310" y="63016" z="-2856" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105208" y="63288" z="-2896" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103973" y="62837" z="-2888" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106478" y="59178" z="-2696" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107877" y="60037" z="-2528" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108256" y="59979" z="-2600" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104859" y="64833" z="-2904" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109435" y="59878" z="-2512" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109458" y="60910" z="-2664" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109380" y="60704" z="-2656" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110313" y="61653" z="-2720" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108773" y="61988" z="-2608" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112314" y="63436" z="-2656" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114176" y="63400" z="-2584" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112790" y="63819" z="-2656" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111233" y="71094" z="-2872" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110906" y="71253" z="-2840" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115510" y="71520" z="-3136" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114854" y="71719" z="-3112" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114690" y="72515" z="-3144" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115182" y="72515" z="-3104" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113050" y="73510" z="-3224" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114362" y="73311" z="-3152" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113706" y="72515" z="-3208" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112432" y="72048" z="-3080" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114690" y="74107" z="-3136" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113283" y="75462" z="-3200" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109202" y="74570" z="-2984" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112901" y="76855" z="-3200" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114062" y="77026" z="-3176" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111946" y="76656" z="-3152" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109757" y="75949" z="-3184" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108869" y="77328" z="-2960" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114581" y="77724" z="-3128" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112534" y="79484" z="-3392" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112760" y="79791" z="-3384" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109387" y="79426" z="-3280" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109764" y="79390" z="-3264" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108763" y="78856" z="-3248" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112917" y="80584" z="-3320" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113412" y="80566" z="-3384" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110594" y="80949" z="-3520" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109685" y="79723" z="-3280" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110598" y="79944" z="-3344" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113677" y="82918" z="-3312" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113587" y="83523" z="-3328" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109175" y="83419" z="-3608" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109275" y="84200" z="-3592" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108856" y="83531" z="-3600" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109892" y="83782" z="-3608" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110167" y="84214" z="-3608" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109992" y="84856" z="-3616" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113507" y="84878" z="-3344" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114444" y="84651" z="-3200" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114603" y="85284" z="-3424" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110910" y="85512" z="-3672" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108338" y="83893" z="-3560" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109900" y="84247" z="-3608" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114267" y="86280" z="-3544" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113770" y="88009" z="-3616" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109726" y="87874" z="-3416" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115379" y="87791" z="-3488" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115779" y="82548" z="-3208" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115855" y="83833" z="-3192" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115772" y="83297" z="-3208" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116001" y="83106" z="-3208" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115727" y="84299" z="-3032" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114507" y="89153" z="-3272" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111871" y="89965" z="-3328" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111618" y="89612" z="-3320" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112041" y="89817" z="-3320" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111523" y="89567" z="-3304" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111965" y="89269" z="-3320" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109612" y="88171" z="-3424" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108538" y="88491" z="-3224" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109148" y="88451" z="-3272" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109258" y="87853" z="-3264" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111131" y="90548" z="-3248" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113116" y="91082" z="-3288" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111985" y="90413" z="-3320" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113993" y="91176" z="-3328" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119483" y="92740" z="-3751" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118932" y="92718" z="-3717" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115314" y="89212" z="-3680" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114817" y="88555" z="-3696" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115623" y="89154" z="-3704" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115164" y="88699" z="-3704" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116268" y="88433" z="-3488" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117637" y="88689" z="-3680" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119854" y="91444" z="-3624" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119923" y="91684" z="-3640" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120401" y="91864" z="-3720" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120967" y="91625" z="-3712" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119388" y="87863" z="-3392" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119573" y="86028" z="-3496" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116594" y="86133" z="-3552" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117173" y="86965" z="-3544" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116778" y="86954" z="-3552" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120936" y="86560" z="-3520" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121714" y="91381" z="-3672" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121692" y="88886" z="-3712" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122009" y="89452" z="-3696" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121973" y="90169" z="-3592" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122163" y="90947" z="-3584" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122066" y="90747" z="-3576" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122320" y="85509" z="-3584" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122164" y="85519" z="-3576" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118722" y="84199" z="-3384" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121602" y="83011" z="-3368" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122620" y="82791" z="-3496" h="0" />
+		<npc id="22236" /><!--Muertos Archer-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111887" y="70299" z="-2928" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112868" y="71253" z="-3104" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111778" y="70935" z="-3024" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112323" y="71094" z="-3088" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115182" y="73510" z="-3144" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115018" y="72913" z="-3144" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115018" y="72714" z="-3136" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114854" y="72316" z="-3136" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114854" y="72515" z="-3128" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113378" y="73709" z="-3104" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113706" y="73112" z="-3096" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114362" y="73709" z="-3144" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111233" y="72048" z="-2968" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113665" y="75263" z="-3184" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109424" y="75555" z="-3168" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109424" y="74373" z="-3032" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108869" y="75555" z="-2920" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112519" y="76258" z="-3200" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114047" y="75860" z="-3168" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113412" y="76262" z="-3200" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113474" y="75860" z="-3200" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114429" y="76656" z="-3136" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109868" y="77525" z="-2992" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112920" y="79140" z="-3336" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108915" y="79282" z="-3280" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109750" y="79092" z="-3288" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108622" y="78626" z="-3224" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113809" y="80247" z="-3296" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108586" y="80516" z="-3232" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108828" y="80145" z="-3280" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112633" y="80478" z="-3328" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113176" y="80806" z="-3360" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110237" y="81320" z="-3512" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109156" y="81141" z="-3328" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110334" y="81266" z="-3520" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110453" y="82905" z="-3608" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110606" y="82884" z="-3568" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109358" y="84290" z="-3568" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110374" y="84258" z="-3600" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109970" y="84161" z="-3608" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110909" y="85658" z="-3672" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111681" y="85029" z="-3520" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109640" y="84680" z="-3616" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105869" y="59452" z="-2704" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105545" y="60332" z="-2816" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106567" y="59243" z="-2680" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106918" y="60095" z="-2536" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106933" y="60414" z="-2544" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107706" y="60708" z="-2560" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107813" y="60772" z="-2568" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107813" y="62092" z="-2920" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106651" y="64771" z="-2728" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107806" y="64008" z="-2808" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110314" y="61298" z="-2680" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108956" y="59912" z="-2592" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109757" y="61872" z="-2688" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110366" y="61534" z="-2712" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109291" y="64117" z="-2904" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108708" y="64247" z="-2896" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112355" y="63459" z="-2656" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111761" y="63375" z="-2592" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113314" y="62654" z="-2616" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114527" y="64279" z="-2568" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114292" y="63816" z="-2584" h="0" />
+		<npc id="22237" /><!--Mountain Fungus-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-99574" y="59788" z="-3496" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-100936" y="59887" z="-3448" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-100839" y="60804" z="-3456" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-101062" y="60105" z="-3456" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-101388" y="60287" z="-3392" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-101068" y="60669" z="-3464" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105387" y="59785" z="-2728" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105599" y="61653" z="-2968" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104674" y="62289" z="-2896" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105153" y="62675" z="-2904" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-101571" y="62323" z="-3328" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-101682" y="62536" z="-3320" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-102317" y="61919" z="-3344" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106747" y="59144" z="-2672" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108448" y="60568" z="-2576" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107914" y="60312" z="-2496" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106517" y="60992" z="-2848" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106377" y="60852" z="-2816" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108136" y="63899" z="-2856" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107971" y="63572" z="-2904" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108466" y="63899" z="-2928" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104489" y="63985" z="-2856" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-102856" y="63812" z="-3296" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104304" y="63561" z="-2912" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108943" y="60411" z="-2640" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108530" y="60973" z="-2544" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108642" y="60977" z="-2544" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109276" y="60807" z="-2624" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109114" y="60911" z="-2592" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110050" y="61863" z="-2760" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110094" y="62419" z="-2808" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109170" y="64125" z="-2904" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111752" y="63467" z="-2592" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112837" y="63365" z="-2640" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114583" y="64431" z="-2536" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112713" y="64119" z="-2648" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113368" y="65040" z="-2616" h="0" />
+		<npc id="22238" /><!--Mountain Werewolf Chief-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-99955" y="60354" z="-3456" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-100616" y="60882" z="-3456" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-100829" y="59964" z="-3448" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-100445" y="59859" z="-3440" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-100925" y="59819" z="-3440" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-100300" y="60002" z="-3456" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105599" y="62289" z="-2928" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-102856" y="61964" z="-3280" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104727" y="63136" z="-2904" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104810" y="63136" z="-2904" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104561" y="63468" z="-2912" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104433" y="63427" z="-2912" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103934" y="62925" z="-2856" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103396" y="62651" z="-2856" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-101856" y="61765" z="-3384" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107641" y="64008" z="-2784" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106651" y="64117" z="-2816" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107971" y="64117" z="-2824" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103260" y="64120" z="-3208" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-102957" y="63812" z="-3272" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104119" y="64197" z="-2968" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109030" y="64322" z="-2848" h="0" />
+		<npc id="22239" /><!--Muertos Guard-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-79659" y="51510" z="-3320" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-83315" y="53215" z="-3152" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-79659" y="52874" z="-3352" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-78662" y="53086" z="-3352" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-78745" y="53215" z="-3344" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-85143" y="54920" z="-2592" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-84686" y="54579" z="-2552" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-81944" y="53897" z="-3272" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-81030" y="54579" z="-3456" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-81487" y="53556" z="-3392" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-81487" y="53897" z="-3368" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-88006" y="53710" z="-2384" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-87538" y="53711" z="-2384" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-87969" y="53866" z="-2384" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-88123" y="56085" z="-2512" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-85921" y="55794" z="-2544" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-85921" y="55456" z="-2416" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-84686" y="56284" z="-2560" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-83772" y="56966" z="-2744" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-87166" y="57484" z="-2816" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-89656" y="55456" z="-2656" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-91649" y="55623" z="-2688" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-91228" y="56344" z="-2592" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-90888" y="55308" z="-2696" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-91565" y="54551" z="-2680" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-92001" y="55083" z="-2680" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-90964" y="53957" z="-2408" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-88328" y="54108" z="-2384" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-88278" y="54392" z="-2384" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-88803" y="53701" z="-2448" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-88809" y="54401" z="-2360" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-88579" y="53931" z="-2400" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-92232" y="54823" z="-2672" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-93542" y="54710" z="-2520" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-92978" y="54936" z="-2592" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111062" y="46262" z="-1032" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111043" y="47029" z="-1040" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111011" y="47213" z="-1032" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111639" y="47593" z="-960" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111241" y="47670" z="-960" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110884" y="47483" z="-992" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112138" y="47628" z="-912" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110911" y="48803" z="-1064" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111925" y="47785" z="-944" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111638" y="47278" z="-968" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110046" y="50248" z="-960" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109850" y="50816" z="-1008" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109066" y="50532" z="-1072" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109303" y="51617" z="-1000" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109027" y="52027" z="-984" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109654" y="51384" z="-1016" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109654" y="51526" z="-1016" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108870" y="51810" z="-1008" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109458" y="51668" z="-1000" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108071" y="48014" z="-1464" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108750" y="47150" z="-1400" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108426" y="45870" z="-1440" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106337" y="46077" z="-1528" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108531" y="47186" z="-1440" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108529" y="46835" z="-1392" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107091" y="46505" z="-1400" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107607" y="47611" z="-1448" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108318" y="47449" z="-1464" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108159" y="47717" z="-1456" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106499" y="47662" z="-1408" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106769" y="47276" z="-1472" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107845" y="43340" z="-1448" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107048" y="43582" z="-1448" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106837" y="43458" z="-1568" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106674" y="42985" z="-1552" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107907" y="42610" z="-1440" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-107782" y="42305" z="-1440" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106447" y="41087" z="-1680" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106944" y="41698" z="-1528" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106675" y="42171" z="-1408" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106622" y="41141" z="-1624" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106590" y="41435" z="-1608" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106449" y="43121" z="-1752" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104418" y="41045" z="-1888" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105456" y="43768" z="-1680" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105108" y="44184" z="-1608" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105496" y="43505" z="-1720" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105869" y="45071" z="-1448" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-106130" y="45074" z="-1456" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105719" y="45260" z="-1440" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104820" y="45119" z="-1496" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105101" y="45565" z="-1520" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103129" y="44010" z="-1432" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103828" y="43781" z="-1432" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103570" y="44963" z="-1344" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103414" y="44270" z="-1448" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103569" y="44095" z="-1448" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103119" y="46454" z="-1136" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103126" y="46016" z="-1152" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104443" y="46141" z="-1328" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-102909" y="46196" z="-1144" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-102760" y="46234" z="-1144" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103525" y="46130" z="-1120" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105351" y="40391" z="-1824" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104536" y="40826" z="-1792" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104591" y="39962" z="-1840" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-105175" y="39787" z="-1776" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-104727" y="40561" z="-1800" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103993" y="40033" z="-1816" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-103930" y="39637" z="-1800" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-102773" y="40075" z="-2032" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-102512" y="39951" z="-2112" h="0" />
+		<npc id="22240" /><!--Muertos Scout-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-124138" y="68464" zmin="-3054" zmax="-2954" />
+			<add x="-123637" y="68428" zmin="-3006" zmax="-2906" />
+			<add x="-123262" y="69219" zmin="-3063" zmax="-2963" />
+			<add x="-122987" y="70161" zmin="-3099" zmax="-2999" />
+			<add x="-122541" y="70906" zmin="-3029" zmax="-2929" />
+			<add x="-122497" y="71256" zmin="-3042" zmax="-2942" />
+			<add x="-121657" y="72067" zmin="-2954" zmax="-2854" />
+			<add x="-123201" y="72603" zmin="-2987" zmax="-2887" />
+			<add x="-123098" y="71706" zmin="-3036" zmax="-2936" />
+			<add x="-123198" y="71421" zmin="-3096" zmax="-2996" />
+			<add x="-123783" y="71012" zmin="-3153" zmax="-3053" />
+		</territory>
+		<npc id="32335" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-127420" y="74293" zmin="-3389" zmax="-3279" />
+			<add x="-128801" y="75833" zmin="-3310" zmax="-3200" />
+			<add x="-126047" y="78453" zmin="-3501" zmax="-3391" />
+			<add x="-125000" y="77827" zmin="-3368" zmax="-3258" />
+			<add x="-125221" y="75355" zmin="-3305" zmax="-3195" />
+		</territory>
+		<npc id="32335" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-114551" y="91704" zmin="-3265" zmax="-3155" />
+			<add x="-114555" y="92281" zmin="-3299" zmax="-3189" />
+			<add x="-112600" y="92533" zmin="-3234" zmax="-3124" />
+			<add x="-111856" y="91922" zmin="-3229" zmax="-3119" />
+			<add x="-110478" y="90129" zmin="-3316" zmax="-3206" />
+			<add x="-111388" y="89784" zmin="-3258" zmax="-3148" />
+			<add x="-112461" y="91350" zmin="-3264" zmax="-3154" />
+			<add x="-113239" y="91364" zmin="-3206" zmax="-3096" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-116482" y="90159" zmin="-3430" zmax="-3320" />
+			<add x="-116589" y="89732" zmin="-3421" zmax="-3311" />
+			<add x="-116081" y="89733" zmin="-3401" zmax="-3291" />
+			<add x="-115438" y="90171" zmin="-3393" zmax="-3283" />
+			<add x="-114933" y="89960" zmin="-3373" zmax="-3263" />
+			<add x="-114345" y="88797" zmin="-3348" zmax="-3238" />
+			<add x="-113157" y="88602" zmin="-3322" zmax="-3212" />
+			<add x="-113074" y="87405" zmin="-3381" zmax="-3271" />
+			<add x="-112713" y="87279" zmin="-3380" zmax="-3270" />
+			<add x="-112565" y="88492" zmin="-3400" zmax="-3290" />
+			<add x="-113232" y="89386" zmin="-3353" zmax="-3243" />
+			<add x="-114733" y="90633" zmin="-3363" zmax="-3253" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-113941" y="87776" zmin="-3696" zmax="-3586" />
+			<add x="-116535" y="84870" zmin="-3531" zmax="-3421" />
+			<add x="-112708" y="83403" zmin="-3479" zmax="-3369" />
+			<add x="-112518" y="86730" zmin="-3485" zmax="-3375" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-110141" y="87830" zmin="-3467" zmax="-3357" />
+			<add x="-109806" y="86259" zmin="-3435" zmax="-3325" />
+			<add x="-108886" y="86240" zmin="-3307" zmax="-3197" />
+			<add x="-107286" y="85127" zmin="-3308" zmax="-3198" />
+			<add x="-106397" y="87311" zmin="-3007" zmax="-2897" />
+			<add x="-107692" y="87895" zmin="-3269" zmax="-3159" />
+			<add x="-108723" y="89064" zmin="-3295" zmax="-3185" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-108608" y="77563" zmin="-2991" zmax="-2881" />
+			<add x="-109673" y="78261" zmin="-3053" zmax="-2943" />
+			<add x="-110074" y="74541" zmin="-3150" zmax="-3040" />
+			<add x="-108768" y="74470" zmin="-2920" zmax="-2810" />
+			<add x="-108019" y="75177" zmin="-2839" zmax="-2729" />
+			<add x="-108198" y="76238" zmin="-2866" zmax="-2756" />
+			<add x="-108580" y="76646" zmin="-2927" zmax="-2817" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+</list>

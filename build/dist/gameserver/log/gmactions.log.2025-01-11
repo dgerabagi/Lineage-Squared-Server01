@@ -1,0 +1,40 @@
+[11.01.25 11:02:10] SUCCESS PacMan[268481203] admin_admin
+[11.01.25 11:02:11] SUCCESS PacMan[268481203] admin_server admserver.htm
+[11.01.25 11:02:12] SUCCESS PacMan[268481203] admin_admin
+[11.01.25 11:02:13] SUCCESS PacMan[268481203] admin_show_moves
+[11.01.25 11:02:14] SUCCESS PacMan[268481203] admin_show_html teleports/town.htm
+[11.01.25 11:02:14] SUCCESS PacMan[268481203] admin_show_html teleports/town/giran.htm
+[11.01.25 11:02:16] SUCCESS PacMan[268481203] admin_move_to 82698 148638 -3473
+[11.01.25 11:02:17] SUCCESS PacMan[268481203] admin_gmspeed 3
+[11.01.25 11:08:00] SUCCESS PacMan[268481203] -> 20973 Forgotten Ancient People admin_admin
+[11.01.25 11:52:21] SUCCESS PacMan[268481203] admin_admin
+[11.01.25 11:52:23] SUCCESS PacMan[268481203] admin_char_manage
+[11.01.25 11:52:24] SUCCESS PacMan[268481203] admin_show_characters 0
+[11.01.25 11:52:25] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_character_list Darkling
+[11.01.25 11:52:27] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_add_exp_sp_to_character
+[11.01.25 11:52:30] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_setlevel 85
+[11.01.25 11:53:02] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_admin
+[11.01.25 11:53:04] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_char_manage
+[11.01.25 11:53:04] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_show_characters 0
+[11.01.25 11:53:06] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_character_list Darkling
+[11.01.25 11:53:08] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_add_exp_sp_to_character
+[11.01.25 11:53:13] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_add_exp_sp & 99999999999 &
+[11.01.25 11:57:46] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_admin
+[11.01.25 11:57:47] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_show_moves
+[11.01.25 11:57:48] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_admin
+[11.01.25 11:57:49] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_char_manage
+[11.01.25 11:57:51] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_show_characters 0
+[11.01.25 11:57:53] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_character_list Darkling
+[11.01.25 11:57:56] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_recall_char_menu Darkling
+[11.01.25 11:57:57] SUCCESS PacMan[268481203] -> Darkling[268480674] admin_show_characters 0
+[11.01.25 11:57:58] SUCCESS PacMan[268481203] -> Donald[268480611] admin_character_list Donald
+[11.01.25 11:58:00] SUCCESS PacMan[268481203] -> Donald[268480611] admin_recall_char_menu Donald
+[11.01.25 12:02:18] SUCCESS PacMan[268481203] admin_invis
+[11.01.25 16:41:31] SUCCESS PacMan[268481203] admin_admin
+[11.01.25 16:41:32] SUCCESS PacMan[268481203] admin_char_manage
+[11.01.25 16:41:33] SUCCESS PacMan[268481203] admin_show_characters 0
+[11.01.25 16:41:34] SUCCESS PacMan[268481203] admin_admin
+[11.01.25 16:41:35] SUCCESS PacMan[268481203] admin_show_moves
+[11.01.25 16:41:35] SUCCESS PacMan[268481203] admin_show_html teleports/town.htm
+[11.01.25 16:41:36] SUCCESS PacMan[268481203] admin_show_html teleports/town/giran.htm
+[11.01.25 16:41:37] SUCCESS PacMan[268481203] admin_move_to 82698 148638 -3473

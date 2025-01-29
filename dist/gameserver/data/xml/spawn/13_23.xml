@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-212248" y="183016" z="-10976" h="44315" />
+		<npc id="32615" /><!--Ishuma-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="-212328" y="183048" z="-10968" h="44315" />
+		<npc id="32734" /><!--Klemis-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-206904" y="178984" z="-12664" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-206760" y="178024" z="-12656" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-205880" y="178952" z="-12648" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-211368" y="178072" z="-12352" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-212376" y="178040" z="-12352" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-207336" y="181000" z="-12656" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-213480" y="177464" z="-12352" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-213704" y="179128" z="-12712" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-218952" y="179944" z="-12584" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-219864" y="180776" z="-12584" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-218840" y="178120" z="-12584" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-220008" y="177288" z="-12600" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-220088" y="175880" z="-12608" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-220088" y="175880" z="-12608" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-219080" y="175848" z="-12592" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-219368" y="174744" z="-12592" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-219768" y="174408" z="-11328" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-218984" y="175560" z="-11336" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-219496" y="175080" z="-11336" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-219928" y="177496" z="-11328" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-218856" y="177480" z="-11320" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-218776" y="179688" z="-11328" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-219976" y="178584" z="-11352" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-219848" y="179768" z="-11336" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-218776" y="180760" z="-11328" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-218888" y="182520" z="-11328" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-219656" y="182904" z="-11336" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-219992" y="183688" z="-11344" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-218440" y="185128" z="-11352" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-217992" y="186072" z="-11344" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-217608" y="185032" z="-11336" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-207512" y="184216" z="-11336" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-208216" y="183240" z="-11328" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-211000" y="180696" z="-11696" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-206168" y="181320" z="-11336" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-207336" y="180824" z="-11344" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-207400" y="179128" z="-11360" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-206200" y="180440" z="-11336" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-206264" y="178984" z="-11360" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-207304" y="177992" z="-11336" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-206200" y="174808" z="-11328" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-207176" y="175848" z="-11344" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-205944" y="175384" z="-12664" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-206904" y="176296" z="-12664" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-206552" y="177992" z="-12656" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-214456" y="182392" z="-10992" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+<!--famefarmzone1mobs-->
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-205928" y="181688" z="-12656" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-205976" y="181032" z="-12664" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-205976" y="180552" z="-12640" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-207000" y="180440" z="-12656" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-207128" y="181752" z="-12656" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-206408" y="181592" z="-12656" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+<!--famefarmzone1seeds-->
+	<spawn count="2" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="-207368" y="182040" zmin="-12664" zmax="-12648" />
+			<add x="-205720" y="181832" zmin="-12656" zmax="-12640" />
+			<add x="-205736" y="180328" zmin="-12656" zmax="-12640" />
+			<add x="-207400" y="180392" zmin="-12664" zmax="-12648" />
+		</territory>
+		<npc id="18679" /><!--Energy Seed - Fire-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="-207368" y="182040" zmin="-12664" zmax="-12648" />
+			<add x="-205720" y="181832" zmin="-12656" zmax="-12640" />
+			<add x="-205736" y="180328" zmin="-12656" zmax="-12640" />
+			<add x="-207400" y="180392" zmin="-12664" zmax="-12648" />
+		</territory>
+		<npc id="18680" /><!--Energy Seed - Wind-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="-207368" y="182040" zmin="-12664" zmax="-12648" />
+			<add x="-205720" y="181832" zmin="-12656" zmax="-12640" />
+			<add x="-205736" y="180328" zmin="-12656" zmax="-12640" />
+			<add x="-207400" y="180392" zmin="-12664" zmax="-12648" />
+		</territory>
+		<npc id="18678" /><!--Energy Seed - Water-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="-207368" y="182040" zmin="-12664" zmax="-12648" />
+			<add x="-205720" y="181832" zmin="-12656" zmax="-12640" />
+			<add x="-205736" y="180328" zmin="-12656" zmax="-12640" />
+			<add x="-207400" y="180392" zmin="-12664" zmax="-12648" />
+		</territory>
+		<npc id="18683" /><!--Energy Seed - Darkness-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="-207368" y="182040" zmin="-12664" zmax="-12648" />
+			<add x="-205720" y="181832" zmin="-12656" zmax="-12640" />
+			<add x="-205736" y="180328" zmin="-12656" zmax="-12640" />
+			<add x="-207400" y="180392" zmin="-12664" zmax="-12648" />
+		</territory>
+		<npc id="18682" /><!--Energy Seed - Divinity-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="-207368" y="182040" zmin="-12664" zmax="-12648" />
+			<add x="-205720" y="181832" zmin="-12656" zmax="-12640" />
+			<add x="-205736" y="180328" zmin="-12656" zmax="-12640" />
+			<add x="-207400" y="180392" zmin="-12664" zmax="-12648" />
+		</territory>
+		<npc id="18681" /><!--Energy Seed - Earth-->
+	</spawn>
+	<!--famefarmzone2mobs-->
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-220104" y="183560" z="-12592" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-219512" y="183336" z="-12584" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-218856" y="183608" z="-12592" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-218808" y="182696" z="-12592" h="0" />
+		<npc id="22763" /><!--Elite Kanibi-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-219416" y="182760" z="-12584" h="0" />
+		<npc id="22764" /><!--Elite Kiriona-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="30" period_of_day="none">
+		<point x="-220024" y="182504" z="-12584" h="0" />
+		<npc id="22765" /><!--Elite Kaiona-->
+	</spawn>
+<!--famefarmzone2seeds-->
+	<spawn count="2" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="-220280" y="182072" zmin="-12600" zmax="-12584" />
+			<add x="-220296" y="183640" zmin="-12592" zmax="-12576" />
+			<add x="-218712" y="183864" zmin="-12600" zmax="-12584" />
+			<add x="-218632" y="182408" zmin="-12600" zmax="-12584" />
+		</territory>
+		<npc id="18679" /><!--Energy Seed - Fire-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="-220280" y="182072" zmin="-12600" zmax="-12584" />
+			<add x="-220296" y="183640" zmin="-12592" zmax="-12576" />
+			<add x="-218712" y="183864" zmin="-12600" zmax="-12584" />
+			<add x="-218632" y="182408" zmin="-12600" zmax="-12584" />
+		</territory>
+		<npc id="18680" /><!--Energy Seed - Wind-->
+	</spawn>
+	<spawn count="2" respawn="240" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="-220280" y="182072" zmin="-12600" zmax="-12584" />
+			<add x="-220296" y="183640" zmin="-12592" zmax="-12576" />
+			<add x="-218712" y="183864" zmin="-12600" zmax="-12584" />
+			<add x="-218632" y="182408" zmin="-12600" zmax="-12584" />
+		</territory>
+		<npc id="18678" /><!--Energy Seed - Water-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="-220280" y="182072" zmin="-12600" zmax="-12584" />
+			<add x="-220296" y="183640" zmin="-12592" zmax="-12576" />
+			<add x="-218712" y="183864" zmin="-12600" zmax="-12584" />
+			<add x="-218632" y="182408" zmin="-12600" zmax="-12584" />
+		</territory>
+		<npc id="18683" /><!--Energy Seed - Darkness-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="-220280" y="182072" zmin="-12600" zmax="-12584" />
+			<add x="-220296" y="183640" zmin="-12592" zmax="-12576" />
+			<add x="-218712" y="183864" zmin="-12600" zmax="-12584" />
+			<add x="-218632" y="182408" zmin="-12600" zmax="-12584" />
+		</territory>
+		<npc id="18682" /><!--Energy Seed - Divinity-->
+	</spawn>
+	<spawn count="2" respawn="180" respawn_random="60" period_of_day="none">
+		<territory>
+			<add x="-220280" y="182072" zmin="-12600" zmax="-12584" />
+			<add x="-220296" y="183640" zmin="-12592" zmax="-12576" />
+			<add x="-218712" y="183864" zmin="-12600" zmax="-12584" />
+			<add x="-218632" y="182408" zmin="-12600" zmax="-12584" />
+		</territory>
+		<npc id="18681" /><!--Energy Seed - Earth-->
+	</spawn>
+</list>

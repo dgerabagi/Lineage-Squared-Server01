@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="40" respawn="15" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-124217" y="37330" zmin="1142" zmax="1252" />
+			<add x="-125680" y="37325" zmin="1142" zmax="1252" />
+			<add x="-125682" y="38935" zmin="1142" zmax="1252" />
+			<add x="-124217" y="38935" zmin="1142" zmax="1252" />
+		</territory>
+		<npc id="18342" /><!--Gremlin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122952" y="38216" z="1432" h="40959" />
+		<npc id="36677" /><!--Julia-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121558" y="37934" z="1416" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120836" y="40009" z="1368" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120822" y="39995" z="1360" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120008" y="37813" z="1400" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120242" y="38834" z="1416" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120197" y="38566" z="1416" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119799" y="38111" z="1384" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119793" y="38138" z="1384" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120469" y="39799" z="1360" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120460" y="39320" z="1408" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118191" y="37783" z="1296" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116587" y="38543" z="1296" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117497" y="37749" z="1280" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118624" y="37751" z="1304" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117573" y="38437" z="1352" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118113" y="38059" z="1320" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118520" y="37335" z="1320" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116350" y="38366" z="1296" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122528" y="41350" z="1080" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122437" y="41471" z="1096" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124675" y="45009" z="888" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124014" y="44010" z="888" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124757" y="43964" z="936" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123068" y="44601" z="968" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125194" y="46159" z="984" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125110" y="46046" z="960" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125016" y="46068" z="944" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123735" y="45091" z="912" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124000" y="45660" z="904" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124842" y="46238" z="944" h="0" />
+		<npc id="22228" /><!--Grey Elpy-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123748" y="64119" z="-2656" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122734" y="63416" z="-2584" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123549" y="62733" z="-2592" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126713" y="63388" z="-2648" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123978" y="63421" z="-2696" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123217" y="62451" z="-2544" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122089" y="61932" z="-2464" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124254" y="59675" z="-2592" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123584" y="59184" z="-2480" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124148" y="58629" z="-2376" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123985" y="59600" z="-2568" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123609" y="55942" z="-1880" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122613" y="55781" z="-1712" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123643" y="54719" z="-1728" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122981" y="54888" z="-1664" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122230" y="54543" z="-1512" h="0" />
+		<npc id="22231" /><!--Dominant Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122840" y="72088" z="-2976" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122592" y="71941" z="-2992" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122849" y="71379" z="-3064" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123395" y="70821" z="-3128" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123603" y="69389" z="-3096" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123767" y="68916" z="-3056" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122648" y="63742" z="-2584" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126171" y="63365" z="-2632" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122688" y="63374" z="-2584" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124192" y="63378" z="-2736" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126999" y="62564" z="-2680" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122645" y="61298" z="-2512" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122100" y="61653" z="-2448" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124041" y="59418" z="-2536" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122134" y="59619" z="-2376" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123754" y="59165" z="-2456" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123733" y="59072" z="-2424" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124719" y="58133" z="-2368" h="0" />
+		<npc id="22232" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124396" y="57280" z="-2274" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124297" y="57436" z="-2274" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123867" y="57630" z="-2269" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123725" y="57662" z="-2226" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123687" y="57401" z="-2235" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124213" y="57818" z="-2273" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124127" y="57758" z="-2282" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123791" y="58010" z="-2278" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124347" y="57589" z="-2286" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124558" y="58162" z="-2393" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124457" y="58240" z="-2370" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124165" y="58228" z="-2337" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123893" y="58367" z="-2318" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125074" y="59904" z="-2627" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125010" y="60041" z="-2642" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124828" y="60057" z="-2639" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124903" y="60459" z="-2643" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125027" y="60299" z="-2642" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125262" y="59950" z="-2658" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125778" y="60277" z="-2712" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126086" y="60457" z="-2702" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125998" y="60395" z="-2679" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126296" y="60589" z="-2687" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126038" y="60651" z="-2647" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125782" y="60703" z="-2638" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125414" y="61094" z="-2643" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125713" y="60976" z="-2631" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125958" y="60966" z="-2633" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126153" y="60794" z="-2643" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126366" y="60695" z="-2659" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126582" y="60808" z="-2667" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126513" y="60944" z="-2653" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126428" y="61043" z="-2644" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126236" y="61308" z="-2651" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126785" y="61472" z="-2724" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126978" y="61638" z="-2708" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127218" y="61670" z="-2730" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127520" y="61661" z="-2740" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127574" y="61535" z="-2755" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127610" y="61403" z="-2760" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127781" y="61646" z="-2777" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127464" y="61891" z="-2734" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127348" y="62095" z="-2716" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127523" y="62333" z="-2681" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127691" y="62217" z="-2697" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127935" y="62466" z="-2674" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127838" y="62543" z="-2668" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127717" y="62610" z="-2683" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127858" y="62891" z="-2653" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-128055" y="62881" z="-2695" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127971" y="63018" z="-2659" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127834" y="63076" z="-2650" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127582" y="62907" z="-2645" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127411" y="62868" z="-2651" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127408" y="63115" z="-2662" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127644" y="63279" z="-2657" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127519" y="63518" z="-2675" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127349" y="63553" z="-2723" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127103" y="63391" z="-2706" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126907" y="62838" z="-2695" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126714" y="62172" z="-2706" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120428" y="60337" z="-2063" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120873" y="60186" z="-2166" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120738" y="60429" z="-2133" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121272" y="60338" z="-2250" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121430" y="60385" z="-2278" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121417" y="60608" z="-2287" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121452" y="60719" z="-2296" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121688" y="60586" z="-2355" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121566" y="60619" z="-2310" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122046" y="60558" z="-2410" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121876" y="60458" z="-2356" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122169" y="60403" z="-2394" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122325" y="60519" z="-2421" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122153" y="60667" z="-2403" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122107" y="60922" z="-2406" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121885" y="61033" z="-2409" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122109" y="61247" z="-2433" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122412" y="61444" z="-2496" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122751" y="61881" z="-2544" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122673" y="62494" z="-2563" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122511" y="62691" z="-2572" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121977" y="62982" z="-2522" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122227" y="62871" z="-2526" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122076" y="63113" z="-2543" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121788" y="63455" z="-2517" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121804" y="63667" z="-2489" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122015" y="63715" z="-2514" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122188" y="63767" z="-2564" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122030" y="64030" z="-2535" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122163" y="64151" z="-2525" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122287" y="64011" z="-2549" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122479" y="63670" z="-2549" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122406" y="63417" z="-2569" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122397" y="63277" z="-2563" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122958" y="62953" z="-2581" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122972" y="63348" z="-2611" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122792" y="63544" z="-2599" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122694" y="64040" z="-2601" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122808" y="64335" z="-2618" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122853" y="63963" z="-2641" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123208" y="63372" z="-2615" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123586" y="63228" z="-2643" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123371" y="63638" z="-2653" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123278" y="63498" z="-2639" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123829" y="63403" z="-2661" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123598" y="63674" z="-2668" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123282" y="64192" z="-2637" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123389" y="64244" z="-2642" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123629" y="64008" z="-2656" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123748" y="63722" z="-2666" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126872" y="62638" z="-2724" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127166" y="62534" z="-2707" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126313" y="61901" z="-2733" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125686" y="61570" z="-2685" h="0" />
+		<npc id="20317" /><!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123109" y="71678" z="-3016" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122958" y="72148" z="-2968" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122237" y="71474" z="-2944" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123236" y="69741" z="-3056" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123790" y="68770" z="-3048" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123401" y="69432" z="-3088" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123366" y="69388" z="-3056" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123311" y="64537" z="-2624" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123118" y="63535" z="-2616" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123440" y="64321" z="-2640" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122707" y="62959" z="-2560" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126769" y="62649" z="-2688" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122698" y="63174" z="-2576" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126573" y="63042" z="-2656" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122480" y="62500" z="-2528" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122903" y="62784" z="-2552" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123104" y="63168" z="-2600" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122481" y="62857" z="-2536" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124192" y="63320" z="-2736" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126984" y="63034" z="-2680" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123463" y="61758" z="-2656" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122241" y="62001" z="-2496" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121528" y="61687" z="-2336" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122607" y="63612" z="-2576" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126422" y="61504" z="-2672" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124194" y="59700" z="-2592" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123561" y="58756" z="-2336" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123844" y="59284" z="-2496" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123600" y="58546" z="-2280" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123595" y="58966" z="-2408" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124456" y="58987" z="-2464" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124021" y="57591" z="-2232" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124370" y="57592" z="-2272" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124244" y="57623" z="-2272" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124605" y="57820" z="-2320" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127022" y="61477" z="-2709" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127295" y="61496" z="-2737" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127683" y="62383" z="-2674" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-127885" y="62724" z="-2659" h="0" />
+		<npc id="22233" /><!--Dominant Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121668" y="38442" z="1432" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121420" y="40354" z="1320" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120320" y="38690" z="1416" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120589" y="38312" z="1408" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120542" y="37880" z="1408" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119675" y="37725" z="1424" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119147" y="38043" z="1344" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119999" y="37852" z="1400" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120437" y="40075" z="1376" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120493" y="40127" z="1376" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120030" y="39255" z="1384" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116806" y="37271" z="1288" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117564" y="37742" z="1288" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117177" y="37316" z="1296" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117921" y="37971" z="1296" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116416" y="38799" z="1328" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116110" y="38418" z="1312" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116035" y="38549" z="1312" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122591" y="41499" z="1064" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122753" y="41476" z="1056" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123215" y="44188" z="920" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122911" y="44298" z="960" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125464" y="45457" z="944" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123872" y="45580" z="912" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124802" y="46014" z="928" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124661" y="45259" z="888" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123913" y="46065" z="928" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123321" y="45287" z="960" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123424" y="45351" z="952" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123290" y="45315" z="968" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116154" y="50661" z="-696" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116557" y="49472" z="-856" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116616" y="50154" z="-784" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124042" y="55415" z="-1808" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119636" y="55384" z="-1536" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119900" y="58558" z="-1896" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120658" y="59401" z="-2072" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120587" y="59011" z="-2040" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119870" y="58361" z="-1888" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123369" y="54508" z="-1680" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123243" y="54843" z="-1704" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122164" y="54527" z="-1496" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119802" y="55258" z="-1528" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121069" y="53587" z="-1344" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120973" y="53695" z="-1360" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121044" y="53887" z="-1376" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121979" y="54601" z="-1496" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120470" y="53759" z="-1272" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119613" y="52363" z="-960" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120360" y="53191" z="-1176" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121338" y="52504" z="-1176" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119844" y="52701" z="-1048" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119167" y="52418" z="-1088" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120496" y="52850" z="-1200" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121054" y="52748" z="-1232" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120405" y="51954" z="-1016" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121059" y="50711" z="-1104" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121090" y="50210" z="-1048" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120891" y="50243" z="-1096" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120706" y="50079" z="-1088" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120554" y="51229" z="-1088" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120698" y="50102" z="-1064" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117150" y="49233" z="-840" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117473" y="49442" z="-912" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117375" y="49851" z="-896" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118028" y="50197" z="-984" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118059" y="50263" z="-984" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118353" y="51024" z="-1080" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118313" y="50686" z="-1056" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124922" y="43923" z="960" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124084" y="44004" z="888" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123443" y="44634" z="928" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123246" y="44540" z="944" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124621" y="44308" z="896" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122896" y="43836" z="912" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124094" y="44969" z="888" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124334" y="45475" z="888" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124349" y="45019" z="880" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125473" y="45431" z="936" h="0" />
+		<npc id="22229" /><!--Young Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121025" y="58978" z="-2072" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120803" y="59372" z="-2080" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119233" y="55593" z="-1528" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119751" y="57191" z="-1816" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119987" y="57313" z="-1840" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119797" y="56546" z="-1696" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119078" y="57216" z="-1792" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120529" y="56135" z="-1640" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120992" y="57452" z="-1952" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120660" y="56378" z="-1688" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120270" y="57154" z="-1808" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118993" y="56079" z="-1600" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119654" y="59052" z="-1888" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120457" y="58461" z="-1960" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119580" y="58695" z="-1856" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119688" y="59180" z="-1928" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120078" y="57683" z="-1880" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120026" y="58450" z="-1904" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121814" y="54675" z="-1504" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122179" y="54639" z="-1512" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122455" y="54308" z="-1496" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123655" y="54639" z="-1728" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123778" y="54538" z="-1728" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119877" y="53482" z="-1192" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120617" y="53222" z="-1256" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119949" y="53348" z="-1176" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120802" y="53176" z="-1264" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120421" y="52444" z="-1160" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119767" y="52370" z="-968" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120661" y="52278" z="-1176" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119945" y="52363" z="-968" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121031" y="52635" z="-1224" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120691" y="52114" z="-1144" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121123" y="51898" z="-1120" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121431" y="51625" z="-1048" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121136" y="52088" z="-1128" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121304" y="51215" z="-1080" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121364" y="51381" z="-1056" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120930" y="50334" z="-1096" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121097" y="50553" z="-1072" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120466" y="50402" z="-1040" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118054" y="49695" z="-920" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117658" y="51025" z="-784" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117156" y="49512" z="-904" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117731" y="49735" z="-928" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117076" y="50651" z="-744" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118154" y="49951" z="-960" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118065" y="50144" z="-968" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-117962" y="50116" z="-960" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116285" y="49727" z="-800" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116734" y="50875" z="-696" h="0" />
+		<npc id="22230" /><!--Grey Keltir-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112948" y="83052" z="-3304" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113041" y="82990" z="-3304" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113508" y="82945" z="-3296" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114213" y="84309" z="-3176" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115545" y="83473" z="-3208" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115090" y="83039" z="-3208" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116713" y="83098" z="-3128" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114943" y="82249" z="-3136" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115796" y="84527" z="-3184" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115874" y="86104" z="-3552" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119211" y="88323" z="-3360" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118755" y="89024" z="-3688" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116794" y="87058" z="-3552" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116732" y="86070" z="-3552" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121292" y="86866" z="-3480" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120603" y="84898" z="-3504" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118706" y="84380" z="-3416" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118752" y="84453" z="-3416" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125004" y="83394" z="-3384" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126044" y="83033" z="-3400" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125958" y="83348" z="-3408" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125784" y="82414" z="-3416" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121606" y="81600" z="-3088" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125045" y="81892" z="-3440" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125822" y="80228" z="-3488" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125393" y="81477" z="-3432" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123536" y="80454" z="-3424" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123745" y="79689" z="-3432" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121156" y="80886" z="-3112" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121841" y="80400" z="-3120" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121430" y="80768" z="-3096" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122034" y="80635" z="-3120" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121594" y="80859" z="-3096" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121032" y="79644" z="-3048" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126167" y="77772" z="-3424" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123455" y="78578" z="-3384" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123707" y="78688" z="-3400" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121895" y="78282" z="-3168" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121720" y="79984" z="-3120" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121982" y="77721" z="-3144" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125646" y="77792" z="-3352" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125869" y="77369" z="-3360" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126363" y="76414" z="-3280" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126515" y="76329" z="-3280" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126029" y="75245" z="-3304" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125528" y="75677" z="-3312" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126746" y="74967" z="-3320" h="0" />
+		<npc id="22234" /><!--Green Goblin-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112210" y="91690" z="-3184" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112619" y="91908" z="-3176" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115094" y="89492" z="-3568" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115679" y="89438" z="-3672" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115126" y="88989" z="-3680" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116340" y="89857" z="-3344" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112835" y="92432" z="-3168" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118425" y="88325" z="-3576" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118743" y="88568" z="-3616" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118909" y="90826" z="-3640" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119611" y="92186" z="-3664" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120258" y="91241" z="-3632" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120257" y="90280" z="-3632" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119079" y="91307" z="-3624" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119262" y="91348" z="-3616" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119986" y="90811" z="-3600" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118780" y="87619" z="-3400" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118677" y="87590" z="-3400" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118015" y="87766" z="-3440" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120033" y="87105" z="-3520" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119755" y="86657" z="-3520" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120042" y="86639" z="-3520" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-119796" y="88078" z="-3392" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116498" y="86327" z="-3552" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-118761" y="86305" z="-3400" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121168" y="90647" z="-3656" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121560" y="90436" z="-3656" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122071" y="89457" z="-3696" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122399" y="85406" z="-3592" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120338" y="84075" z="-3424" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-126059" y="83069" z="-3400" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125208" y="82592" z="-3408" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125275" y="82442" z="-3392" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-124964" y="81152" z="-3480" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125028" y="81170" z="-3472" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125793" y="80455" z="-3496" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125117" y="80602" z="-3536" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123628" y="80053" z="-3440" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122090" y="80548" z="-3120" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120803" y="81526" z="-3120" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122267" y="80170" z="-3088" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121818" y="79801" z="-3136" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121224" y="80665" z="-3096" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123503" y="79555" z="-3432" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122494" y="79071" z="-3200" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123084" y="79586" z="-3416" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125522" y="77786" z="-3344" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-123610" y="77975" z="-3352" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-122591" y="78434" z="-3208" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121723" y="78056" z="-3144" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-121809" y="78257" z="-3176" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-120590" y="79774" z="-3048" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125437" y="77081" z="-3312" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-125996" y="75033" z="-3296" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115346" y="72913" z="-3128" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115674" y="72913" z="-3128" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115674" y="72714" z="-3120" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112886" y="73709" z="-3224" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113870" y="72913" z="-3152" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114690" y="74306" z="-3128" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114854" y="74505" z="-3120" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114690" y="74505" z="-3128" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113856" y="75661" z="-3176" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112328" y="75661" z="-3184" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109646" y="75752" z="-3184" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108980" y="74767" z="-2928" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109202" y="74570" z="-2984" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109646" y="76737" z="-3056" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112563" y="76268" z="-3200" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113283" y="77452" z="-3200" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111946" y="77054" z="-3128" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112435" y="79348" z="-3392" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109219" y="79665" z="-3280" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108500" y="78700" z="-3248" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110466" y="78832" z="-3336" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109767" y="80335" z="-3192" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108950" y="80780" z="-3280" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113474" y="80348" z="-3368" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112858" y="81639" z="-3408" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113050" y="79717" z="-3352" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-114453" y="83382" z="-3128" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113201" y="82400" z="-3336" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113457" y="83247" z="-3304" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111517" y="83829" z="-3368" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111428" y="83301" z="-3328" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109010" y="82224" z="-3472" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110503" y="82278" z="-3608" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108816" y="82150" z="-3408" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109875" y="83089" z="-3600" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112798" y="85030" z="-3432" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113441" y="83927" z="-3392" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113790" y="85769" z="-3352" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-110723" y="84410" z="-3560" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112923" y="86606" z="-3464" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113623" y="87384" z="-3608" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109424" y="86655" z="-3328" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109272" y="87656" z="-3248" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-108980" y="87964" z="-3248" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109826" y="86765" z="-3368" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109298" y="88184" z="-3272" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-109564" y="87696" z="-3376" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115564" y="83580" z="-3208" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115466" y="83793" z="-3208" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115053" y="83653" z="-3208" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115918" y="83967" z="-3168" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-116015" y="84909" z="-3120" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-115923" y="86505" z="-3552" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113036" y="88473" z="-3296" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111317" y="88908" z="-3272" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113130" y="88173" z="-3344" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112007" y="89855" z="-3320" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-111528" y="90685" z="-3288" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-113596" y="91029" z="-3320" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112614" y="92123" z="-3176" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<point x="-112588" y="91163" z="-3280" h="0" />
+		<npc id="22235" /><!--Mountain Werewolf-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-119074" y="38230" zmin="1319" zmax="1429" />
+			<add x="-119371" y="37826" zmin="1366" zmax="1476" />
+			<add x="-118557" y="37053" zmin="1332" zmax="1442" />
+			<add x="-117782" y="37169" zmin="1291" zmax="1401" />
+			<add x="-116998" y="37162" zmin="1278" zmax="1388" />
+			<add x="-117487" y="38642" zmin="1332" zmax="1442" />
+			<add x="-118279" y="37944" zmin="1270" zmax="1380" />
+			<add x="-118723" y="37969" zmin="1282" zmax="1392" />
+		</territory>
+		<npc id="32335" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-122851" y="60430" zmin="-2517" zmax="-2407" />
+			<add x="-121630" y="60893" zmin="-2372" zmax="-2262" />
+			<add x="-121891" y="62792" zmin="-2516" zmax="-2406" />
+			<add x="-123534" y="62295" zmin="-2611" zmax="-2501" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-125105" y="56915" zmin="-2395" zmax="-2285" />
+			<add x="-123163" y="57834" zmin="-2212" zmax="-2102" />
+			<add x="-123921" y="59167" zmin="-2510" zmax="-2400" />
+			<add x="-124580" y="58619" zmin="-2474" zmax="-2364" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-111047" y="65636" zmin="-2843" zmax="-2733" />
+			<add x="-109816" y="64081" zmin="-2943" zmax="-2833" />
+			<add x="-106280" y="62877" zmin="-2876" zmax="-2766" />
+			<add x="-104829" y="65527" zmin="-2898" zmax="-2788" />
+			<add x="-108391" y="65593" zmin="-2535" zmax="-2425" />
+			<add x="-110043" y="66735" zmin="-2650" zmax="-2540" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-110356" y="63837" zmin="-2936" zmax="-2826" />
+			<add x="-109409" y="61289" zmin="-2591" zmax="-2481" />
+			<add x="-107262" y="59497" zmin="-2580" zmax="-2470" />
+			<add x="-105294" y="59649" zmin="-2802" zmax="-2692" />
+			<add x="-105688" y="60499" zmin="-2857" zmax="-2747" />
+			<add x="-108403" y="62774" zmin="-2865" zmax="-2755" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-102567" y="65460" zmin="-3374" zmax="-3264" />
+			<add x="-103392" y="64162" zmin="-3201" zmax="-3091" />
+			<add x="-102772" y="62639" zmin="-3304" zmax="-3194" />
+			<add x="-103089" y="61280" zmin="-3313" zmax="-3203" />
+			<add x="-102017" y="60657" zmin="-3317" zmax="-3207" />
+			<add x="-100920" y="61765" zmin="-3388" zmax="-3278" />
+			<add x="-101783" y="63008" zmin="-3397" zmax="-3287" />
+			<add x="-102365" y="64170" zmin="-3290" zmax="-3180" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-111061" y="51839" zmin="-978" zmax="-868" />
+			<add x="-111176" y="50692" zmin="-996" zmax="-886" />
+			<add x="-110300" y="50082" zmin="-997" zmax="-887" />
+			<add x="-107574" y="51092" zmin="-1009" zmax="-899" />
+			<add x="-107376" y="52653" zmin="-1006" zmax="-896" />
+			<add x="-109060" y="52410" zmin="-972" zmax="-862" />
+			<add x="-109901" y="51962" zmin="-982" zmax="-872" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-112172" y="48499" zmin="-872" zmax="-762" />
+			<add x="-112159" y="46159" zmin="-951" zmax="-841" />
+			<add x="-110283" y="45907" zmin="-1217" zmax="-1107" />
+			<add x="-108788" y="48983" zmin="-1310" zmax="-1200" />
+			<add x="-110453" y="48111" zmin="-1046" zmax="-936" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-108369" y="44644" zmin="-1556" zmax="-1446" />
+			<add x="-108757" y="42971" zmin="-1449" zmax="-1339" />
+			<add x="-108275" y="42118" zmin="-1445" zmax="-1335" />
+			<add x="-107267" y="41784" zmin="-1468" zmax="-1358" />
+			<add x="-106155" y="40314" zmin="-1816" zmax="-1706" />
+			<add x="-104435" y="39443" zmin="-1825" zmax="-1715" />
+			<add x="-102786" y="40011" zmin="-2062" zmax="-1952" />
+			<add x="-104999" y="40908" zmin="-1841" zmax="-1731" />
+			<add x="-106643" y="42327" zmin="-1456" zmax="-1346" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-105827" y="43930" zmin="-1620" zmax="-1510" />
+			<add x="-104592" y="45976" zmin="-1521" zmax="-1411" />
+			<add x="-106877" y="46346" zmin="-1449" zmax="-1339" />
+			<add x="-107046" y="45049" zmin="-1683" zmax="-1573" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+	<spawn count="1" respawn="20" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="-106695" y="46563" zmin="-1505" zmax="-1395" />
+			<add x="-105455" y="48908" zmin="-1729" zmax="-1619" />
+			<add x="-102683" y="48917" zmin="-1460" zmax="-1350" />
+			<add x="-101404" y="47334" zmin="-1139" zmax="-1029" />
+			<add x="-103523" y="48106" zmin="-1473" zmax="-1363" />
+			<add x="-105135" y="46550" zmin="-1537" zmax="-1427" />
+		</territory>
+		<npc id="32336" /><!--Marksman-->
+	</spawn>
+</list>

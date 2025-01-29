@@ -1,0 +1,194 @@
+[04.12.24 01:27:11] ALL [Jarvan] hey hey hey
+[04.12.24 07:27:25] TELL [Muddy -> jarvan] yo
+[04.12.24 08:22:57] TELL [Muddy -> jarvan] :D
+[04.12.24 08:22:59] TELL [Muddy -> hero] :D
+[04.12.24 08:23:20] TELL [Muddy -> pacman] :D
+[04.12.24 08:26:56] TELL [PacMan -> Muddy] hey, gonna restart, the login portion of the vote system is incorrect
+[04.12.24 08:27:06] TELL [Muddy -> pacman] ok
+[04.12.24 09:06:58] TELL [PacMan -> jarvan] fix didnt work quite as intended, its updating the rec score each time we move lol
+[04.12.24 09:07:08] TELL [Jarvan -> PacMan] rec score?
+[04.12.24 09:13:34] TELL [Muddy -> jarvan] s
+[04.12.24 09:13:36] TELL [Muddy -> jarvan] yoo
+[04.12.24 09:13:40] TELL [Jarvan -> Muddy] hey
+[04.12.24 09:13:44] TELL [Muddy -> jarvan] what u doin
+[04.12.24 09:13:58] TELL [Jarvan -> Muddy] im searcing the best mob to spoil for spiritshot S-grade
+[04.12.24 09:14:05] TELL [Jarvan -> Muddy] but recepie is 0.3%
+[04.12.24 09:14:14] TELL [Muddy -> jarvan] where? lol
+[04.12.24 09:14:22] TELL [Jarvan -> Muddy] giants' cave
+[04.12.24 09:14:46] TELL [Muddy -> jarvan] varka silenos recruit
+[04.12.24 09:14:57] TELL [Jarvan -> Muddy] how much %
+[04.12.24 09:15:04] TELL [Muddy -> jarvan] idk check :D
+[04.12.24 09:15:19] TELL [Jarvan -> Muddy] mobs in giants cave are unkillable
+[04.12.24 09:15:23] TELL [Jarvan -> Muddy] 	Type=1 	ID=268515296 	Color=0 	Underline=0 	Title=Major Arcana Robe
+[04.12.24 09:15:23] TELL [Muddy -> jarvan] yy
+[04.12.24 09:15:24] TELL [Muddy -> jarvan] ofc
+[04.12.24 09:15:26] TELL [Jarvan -> Muddy] too stong
+[04.12.24 09:15:27] TELL [Muddy -> jarvan] i have too
+[04.12.24 09:15:34] TELL [Muddy -> jarvan] how u made set? :D
+[04.12.24 09:15:49] TELL [Jarvan -> Muddy] gets droped 
+[04.12.24 09:16:03] TELL [Jarvan -> Muddy] easy from hellbound blind watcher and junior watchman
+[04.12.24 09:16:06] TELL [Muddy -> jarvan] y
+[04.12.24 09:16:07] TELL [Muddy -> jarvan] aa
+[04.12.24 09:16:08] TELL [Muddy -> jarvan] good
+[04.12.24 09:16:13] TELL [Jarvan -> Muddy] 	Type=1 	ID=268515084 	Color=0 	Underline=0 	Title=Tateossian Necklacealso got this set
+[04.12.24 09:16:19] TELL [Muddy -> jarvan] y i have set too
+[04.12.24 09:16:22] TELL [Muddy -> jarvan] 	Type=1 	ID=268482686 	Color=0 	Underline=0 	Title=Heaven's Divider
+[04.12.24 09:16:27] TELL [Jarvan -> Muddy] hehe
+[04.12.24 09:16:27] TELL [Muddy -> jarvan] 	Type=1 	ID=268529639 	Color=0 	Underline=0 	Title=Imperial Staff
+[04.12.24 09:16:41] TELL [Jarvan -> Muddy] nicee
+[04.12.24 09:16:58] TELL [Muddy -> jarvan] chjeck recruit in varka
+[04.12.24 09:17:08] TELL [Jarvan -> Muddy] im gping
+[04.12.24 09:17:17] TELL [Jarvan -> Muddy] 0.26
+[04.12.24 09:17:28] TELL [Jarvan -> Muddy] and they give soulshot recepie aswell omg
+[04.12.24 09:17:30] TELL [Jarvan -> Muddy] thats good
+[04.12.24 09:18:04] TELL [Muddy -> jarvan] :D
+[04.12.24 09:18:08] TELL [Muddy -> jarvan] better?
+[04.12.24 09:18:22] TELL [Jarvan -> Muddy] yeaa
+[04.12.24 09:18:35] TELL [Jarvan -> Muddy] also i got lucky at field of silence 
+[04.12.24 09:18:44] TELL [Jarvan -> Muddy] manage to get magician's will forgotten
+[04.12.24 09:18:51] TELL [Jarvan -> Muddy] but it dropped only 1 :(
+[04.12.24 09:19:00] TELL [Muddy -> jarvan] :D
+[04.12.24 09:19:04] TELL [Jarvan -> Muddy] 0.5% per corcodile
+[04.12.24 09:19:14] TELL [Muddy -> jarvan] good
+[04.12.24 09:19:19] TELL [Muddy -> jarvan] i tyhink
+[04.12.24 09:19:21] TELL [Muddy -> jarvan] at start
+[04.12.24 09:19:24] TELL [Muddy -> jarvan] we should start mage
+[04.12.24 09:19:28] TELL [Muddy -> jarvan] and make items for fighters
+[04.12.24 09:20:01] TELL [Jarvan -> Muddy] but if the server got a couple of players
+[04.12.24 09:20:07] TELL [Jarvan -> Muddy] fighters with buffs will dominate
+[04.12.24 09:21:13] TELL [PacMan -> jarvan] yes, i have a cleaner implementation now, i found EnterWorld.java
+[04.12.24 09:21:20] TELL [PacMan -> jarvan] to set when u log in 
+[04.12.24 09:21:25] TELL [Muddy -> jarvan] we can make box
+[04.12.24 09:21:32] TELL [Jarvan -> Muddy] that too
+[04.12.24 09:21:46] TELL [PacMan -> jarvan] because the set every 5 minutes works nice, but set on login was bad
+[04.12.24 09:21:56] TELL [Muddy -> jarvan] spoiler/tyrant can be good
+[04.12.24 09:21:59] TELL [Muddy -> jarvan] for farm
+[04.12.24 09:22:05] TELL [Muddy -> jarvan] totem work on all wepaons
+[04.12.24 09:23:40] TELL [Muddy -> jarvan] but
+[04.12.24 09:23:43] TELL [Muddy -> jarvan] db/slh can be good
+[04.12.24 09:23:48] TELL [Muddy -> jarvan] doombringer/soulhound
+[04.12.24 09:24:02] TELL [Jarvan -> Muddy] we need to do a quest for sub class i tried
+[04.12.24 09:24:06] TELL [Muddy -> jarvan] y
+[04.12.24 09:24:11] TELL [Jarvan -> Muddy] but it reqires b-grade weapon
+[04.12.24 09:24:21] TELL [Jarvan -> Muddy] like top grade weapon b-grade
+[04.12.24 09:24:31] TELL [Jarvan -> Muddy] that is not sold in the shop
+[04.12.24 09:25:24] TELL [Muddy -> jarvan] duals bro
+[04.12.24 09:25:27] TELL [Muddy -> jarvan] we can farm 300 sop easy
+[04.12.24 09:25:33] TELL [Muddy -> jarvan] 	Type=1 	ID=268529683 	Color=0 	Underline=0 	Title=Stone of Purity
+[04.12.24 09:25:38] TELL [Muddy -> jarvan] and i have like 2k in wh
+[04.12.24 09:25:45] TELL [Muddy -> jarvan] 2 c duals
+[04.12.24 09:25:47] TELL [Muddy -> jarvan] ui can make in aden
+[04.12.24 09:25:48] TELL [Muddy -> jarvan] top b
+[04.12.24 09:25:48] TELL [Muddy -> jarvan] sls
+[04.12.24 09:25:55] TELL [Jarvan -> Muddy] really xD
+[04.12.24 09:26:19] TELL [Muddy -> jarvan] :D
+[04.12.24 09:26:23] TELL [Jarvan -> Muddy] lol xDDD
+[04.12.24 09:26:26] TELL [Jarvan -> Muddy] didnt know that
+[04.12.24 09:26:41] TELL [Muddy -> jarvan] y
+[04.12.24 09:27:34] TELL [Jarvan -> Muddy] need to check if the quest accepts duals first xD
+[04.12.24 09:28:50] TELL [Muddy -> jarvan] y its top b
+[04.12.24 09:28:52] TELL [Muddy -> jarvan] i made on all srv
+[04.12.24 09:29:04] TELL [Jarvan -> Muddy] u are crazy
+[04.12.24 09:29:08] TELL [Muddy -> jarvan] why?
+[04.12.24 09:29:12] TELL [Jarvan -> Muddy] crazy good xD
+[04.12.24 09:29:16] TELL [Muddy -> jarvan] ah xD
+[04.12.24 09:30:27] TELL [Jarvan -> Muddy] i kinda need this spiritshot recepie
+[04.12.24 09:30:39] TELL [Jarvan -> Muddy] its the only way now to upgrade m-atk so much
+[04.12.24 09:30:50] TELL [Muddy -> jarvan] y
+[04.12.24 09:31:02] TELL [Jarvan -> Muddy] i have now 8.736 now with major set 
+[04.12.24 09:31:05] TELL [Jarvan -> Muddy] and 1045 cast
+[04.12.24 09:31:31] TELL [Jarvan -> Muddy] if i make it acumen
+[04.12.24 09:31:34] TELL [Jarvan -> Muddy] it would be insane
+[04.12.24 09:32:45] TELL [Muddy -> jarvan] y
+[04.12.24 09:32:47] TELL [Muddy -> jarvan] :D
+[04.12.24 09:32:49] TELL [Muddy -> jarvan] dynasty?
+[04.12.24 09:33:44] TELL [Jarvan -> Muddy] y
+[04.12.24 09:34:45] TELL [Jarvan -> Muddy] we can make a-grade special ability easy
+[04.12.24 09:34:53] TELL [Jarvan -> Muddy] but the problem is we need gemstone a-grade
+[04.12.24 09:34:54] TELL [Muddy -> jarvan] y lvl11
+[04.12.24 09:34:55] TELL [Muddy -> jarvan] We need
+[04.12.24 09:34:56] TELL [Muddy -> jarvan] yy
+[04.12.24 09:35:13] TELL [Jarvan -> Muddy] in the sunday i think i registered a dusk 
+[04.12.24 09:35:26] TELL [Jarvan -> Muddy] and i won the 7sign cycle
+[04.12.24 09:35:33] TELL [Jarvan -> Muddy] now u can exchange seals for AA
+[04.12.24 09:35:40] TELL [Jarvan -> Muddy] all we need is to find Mammon xD
+[04.12.24 09:35:44] TELL [Jarvan -> Muddy] 	Type=1 	ID=268512539 	Color=0 	Underline=0 	Title=Ancient Adena
+[04.12.24 09:36:21] TELL [Muddy -> jarvan] mammon in girafn
+[04.12.24 09:36:47] TELL [Jarvan -> Muddy] not this one
+[04.12.24 09:36:50] TELL [Muddy -> jarvan] ah
+[04.12.24 09:36:54] TELL [Muddy -> jarvan] y
+[04.12.24 09:36:54] TELL [Jarvan -> Muddy] the other one with the dyes
+[04.12.24 09:36:56] TELL [Muddy -> jarvan] u mean next one
+[04.12.24 09:36:57] TELL [Muddy -> jarvan] yy
+[04.12.24 09:41:19] SHOUT [Jarvan] nice
+[04.12.24 09:45:57] TELL [Muddy -> jarvan] s
+[04.12.24 09:45:58] TELL [Muddy -> jarvan] yo
+[04.12.24 09:46:54] TELL [Jarvan -> Muddy] hey
+[04.12.24 09:47:30] TELL [Muddy -> jarvan] dropped?
+[04.12.24 09:47:58] TELL [Jarvan -> Muddy] hell no xD
+[04.12.24 09:50:05] SHOUT [Jarvan] so if i vote my name turns blue?
+[04.12.24 09:53:09] SHOUT [PacMan] correct, you do not have to log out
+[04.12.24 09:53:33] SHOUT [Jarvan] maybe its bugged for me
+[04.12.24 09:53:41] SHOUT [Jarvan] i voted every site 
+[04.12.24 09:53:42] SHOUT [PacMan] any char on ur account
+[04.12.24 09:53:45] SHOUT [PacMan] when?
+[04.12.24 09:53:49] SHOUT [Jarvan] right now
+[04.12.24 09:53:56] SHOUT [Muddy] u msu
+[04.12.24 09:53:59] SHOUT [Muddy] u must vote from acp
+[04.12.24 09:54:03] SHOUT [Muddy] u must vote from acp
+[04.12.24 09:54:10] SHOUT [Jarvan] really xD?
+[04.12.24 09:54:27] SHOUT [PacMan] yeah, just a sec
+[04.12.24 09:54:29] TELL [Muddy -> Jarvan] gem s we can buy in hb
+[04.12.24 09:54:34] SHOUT [PacMan] some of u made accounts without emails
+[04.12.24 09:54:41] SHOUT [PacMan] ill clean ur account and itll work
+[04.12.24 09:56:09] SHOUT [PacMan] it has one of ur votes counted, jarvan... for l2 topgameserver
+[04.12.24 09:56:28] SHOUT [PacMan] it does not have ur other votes, u gotta vote thru acp to get the api to register back to me
+[04.12.24 09:56:42] SHOUT [Jarvan] yeah i will try after 12 hours xD
+[04.12.24 09:57:32] TELL [Jarvan -> muddy] yeah i tried to craft dynasty circlet but failed xD
+[04.12.24 09:57:40] TELL [Muddy -> jarvan] oh rlly
+[04.12.24 09:57:41] TELL [Muddy -> jarvan] nice
+[04.12.24 09:57:48] TELL [Jarvan -> muddy] had crafted leather only for 1 attempt tho
+[04.12.24 09:58:08] SHOUT [PacMan] i simulated ur votes, it effects all chars on that account
+[04.12.24 09:58:13] TELL [Muddy -> jarvan] :D
+[04.12.24 09:58:13] SHOUT [PacMan] should update shortly
+[04.12.24 09:58:14] TELL [Muddy -> jarvan] which
+[04.12.24 09:58:27] SHOUT [PacMan] or if u relog
+[04.12.24 10:00:04] TELL [Jarvan -> Muddy] 	Type=1 	ID=268479230 	Color=0 	Underline=0 	Title=Crafted Leather
+[04.12.24 10:00:10] TELL [Muddy -> jarvan] :D
+[04.12.24 10:00:36] TELL [Jarvan -> muddy] have other items for couple attempts 
+[04.12.24 10:00:43] TELL [Jarvan -> muddy] but everything wants crafted leather....
+[04.12.24 10:00:52] TELL [Muddy -> jarvan] y
+[04.12.24 10:07:54] TELL [Muddy -> jarvan] i found mob
+[04.12.24 10:07:59] TELL [Muddy -> jarvan] with 0.1499%
+[04.12.24 10:09:42] TELL [Jarvan -> Muddy] for recepie
+[04.12.24 10:09:46] TELL [Muddy -> jarvan] y
+[04.12.24 10:10:12] TELL [Jarvan -> Muddy] varka is 0.27%
+[04.12.24 10:10:13] TELL [Muddy -> jarvan] 0.26 for
+[04.12.24 10:10:14] TELL [Muddy -> jarvan] ss
+[04.12.24 10:10:22] TELL [Muddy -> jarvan] 0.228% for bss
+[04.12.24 10:10:28] TELL [Muddy -> jarvan] come giant cave
+[04.12.24 10:10:37] TELL [Jarvan -> Muddy] barif pet?
+[04.12.24 10:10:40] TELL [Muddy -> jarvan] no
+[04.12.24 10:10:41] TELL [Jarvan -> Muddy] hamlet
+[04.12.24 10:11:02] TELL [Jarvan -> Muddy] these mobs dont regen mana
+[04.12.24 10:11:08] TELL [Jarvan -> Muddy] its not efficent to kill them
+[04.12.24 10:11:34] TELL [Muddy -> jarvan] :D
+[04.12.24 10:11:52] TELL [Muddy -> jarvan] its hard to get rec
+[04.12.24 10:12:14] TELL [Jarvan -> Muddy] the problem with varka is 
+[04.12.24 10:12:20] TELL [Jarvan -> Muddy] if the recepie drops
+[04.12.24 10:12:25] TELL [Jarvan -> Muddy] its 50% fighter 50% mage xD
+[04.12.24 10:12:30] TELL [Muddy -> jarvan] y
+[04.12.24 10:18:24] TELL [Muddy -> jarvan] hm
+[04.12.24 10:22:22] TELL [Jarvan -> Muddy] 1 hr farm no luck :/
+[04.12.24 10:22:25] TELL [Muddy -> jarvan] yea
+[04.12.24 11:44:53] TELL [Muddy -> jarvan] :D
+[04.12.24 11:44:56] TELL [Muddy -> hero] s
+[04.12.24 11:44:57] TELL [Muddy -> hero] |
+[04.12.24 11:44:59] SHOUT [Muddy] jarvan on?
+[04.12.24 12:23:23] TELL [Muddy -> jarvan] s
+[04.12.24 12:23:24] TELL [Muddy -> hero] s
+[04.12.24 13:13:08] TELL [Muddy -> hero] s
+[04.12.24 13:13:10] TELL [Muddy -> jarvan] s
+[04.12.24 14:10:06] TELL [Muddy -> jarvan] s
+[04.12.24 14:10:07] TELL [Muddy -> hero] s
+[04.12.24 14:22:27] SHOUT [Musashi] verify

@@ -1,0 +1,32 @@
+# Ignore SVN metadata
+.svn/
+
+# Ignore build and binary files
+bin/
+# build/
+# dist/
+lib/
+build/*.zip
+
+# Ignore IDE and environment settings
+.metadata/
+.settings/
+
+# Ignore compiled Java files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore logs, caches, and temp files
+*.log
+*.tmp
+*.cache
+*.DS_Store
+
+# Ignore XML and HTML build artifacts
+# html/
+# xml/
+
+# Ignore Git metadata files
+.git/

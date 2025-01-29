@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Gludio Territory Manager Multisell -->
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<ingredient id="10327" count="800" />	<!--Evil Weapon-->
+		<ingredient id="57" count="40000000" />	<!--Adena-->
+		<production id="10373" count="1" />		<!--Recipe: Icarus Sawsword (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="800" />	<!--Evil Weapon-->
+		<ingredient id="57" count="40000000" />	<!--Adena-->
+		<production id="10374" count="1" />		<!--Recipe: Icarus Disperser (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="800" />	<!--Evil Weapon-->
+		<ingredient id="57" count="40000000" />	<!--Adena-->
+		<production id="10375" count="1" />		<!--Recipe: Icarus Spirit (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="800" />	<!--Evil Weapon-->
+		<ingredient id="57" count="40000000" />	<!--Adena-->
+		<production id="10376" count="1" />		<!--Recipe: Icarus Heavy Arms (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="800" />	<!--Evil Weapon-->
+		<ingredient id="57" count="40000000" />	<!--Adena-->
+		<production id="10377" count="1" />		<!--Recipe: Icarus Trident (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="800" />	<!--Evil Weapon-->
+		<ingredient id="57" count="40000000" />	<!--Adena-->
+		<production id="10378" count="1" />		<!--Recipe: Icarus Hammer (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="800" />	<!--Evil Weapon-->
+		<ingredient id="57" count="40000000" />	<!--Adena-->
+		<production id="10379" count="1" />		<!--Recipe: Icarus Hand (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="800" />	<!--Evil Weapon-->
+		<ingredient id="57" count="40000000" />	<!--Adena-->
+		<production id="10380" count="1" />		<!--Recipe: Icarus Hall (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="800" />	<!--Evil Weapon-->
+		<ingredient id="57" count="40000000" />	<!--Adena-->
+		<production id="10381" count="1" />		<!--Recipe: Icarus Spitter (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="80" />	<!--Evil Weapon-->
+		<ingredient id="57" count="4000000" />	<!--Adena-->
+		<production id="10397" count="3" />		<!--Icarus Sawsword Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="80" />	<!--Evil Weapon-->
+		<ingredient id="57" count="4000000" />	<!--Adena-->
+		<production id="10398" count="3" />		<!--Icarus Disperser Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="80" />	<!--Evil Weapon-->
+		<ingredient id="57" count="4000000" />	<!--Adena-->
+		<production id="10399" count="3" />		<!--Icarus Spirit Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="80" />	<!--Evil Weapon-->
+		<ingredient id="57" count="4000000" />	<!--Adena-->
+		<production id="10400" count="3" />		<!--Icarus Heavy Arms Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="80" />	<!--Evil Weapon-->
+		<ingredient id="57" count="4000000" />	<!--Adena-->
+		<production id="10401" count="3" />		<!--Icarus Trident Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="80" />	<!--Evil Weapon-->
+		<ingredient id="57" count="4000000" />	<!--Adena-->
+		<production id="10402" count="3" />		<!--Icarus Hammer Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="80" />	<!--Evil Weapon-->
+		<ingredient id="57" count="4000000" />	<!--Adena-->
+		<production id="10403" count="3" />		<!--Icarus Hand Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="80" />	<!--Evil Weapon-->
+		<ingredient id="57" count="4000000" />	<!--Adena-->
+		<production id="10404" count="3" />		<!--Icarus Hall Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="80" />	<!--Evil Weapon-->
+		<ingredient id="57" count="4000000" />	<!--Adena-->
+		<production id="10405" count="3" />		<!--Icarus Spitter Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="200" />	<!--Evil Weapon-->
+		<ingredient id="57" count="10000000" />	<!--Adena-->
+		<production id="15775" count="1" />		<!--Recipe: Sealed Moirai Helmet (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="200" />	<!--Evil Weapon-->
+		<ingredient id="57" count="10000000" />	<!--Adena-->
+		<production id="15776" count="1" />		<!--Recipe: Sealed Moirai Leather Helmet (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="200" />	<!--Evil Weapon-->
+		<ingredient id="57" count="10000000" />	<!--Adena-->
+		<production id="15777" count="1" />		<!--Recipe: Sealed Moirai Circlet (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="400" />	<!--Evil Weapon-->
+		<ingredient id="57" count="20000000" />	<!--Adena-->
+		<production id="15778" count="1" />		<!--Recipe: Sealed Moirai Breastplate (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="400" />	<!--Evil Weapon-->
+		<ingredient id="57" count="20000000" />	<!--Adena-->
+		<production id="15779" count="1" />		<!--Recipe: Sealed Moirai Leather Breastplate (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="400" />	<!--Evil Weapon-->
+		<ingredient id="57" count="20000000" />	<!--Adena-->
+		<production id="15780" count="1" />		<!--Recipe: Sealed Moirai Tunic (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="300" />	<!--Evil Weapon-->
+		<ingredient id="57" count="15000000" />	<!--Adena-->
+		<production id="15781" count="1" />		<!--Recipe: Sealed Moirai Gaiter (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="300" />	<!--Evil Weapon-->
+		<ingredient id="57" count="15000000" />	<!--Adena-->
+		<production id="15782" count="1" />		<!--Recipe: Sealed Moirai Leather Legging (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="300" />	<!--Evil Weapon-->
+		<ingredient id="57" count="15000000" />	<!--Adena-->
+		<production id="15783" count="1" />		<!--Recipe: Sealed Moirai Stockings (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="150" />	<!--Evil Weapon-->
+		<ingredient id="57" count="7500000" />	<!--Adena-->
+		<production id="15784" count="1" />		<!--Recipe: Sealed Moirai Gauntlet (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="150" />	<!--Evil Weapon-->
+		<ingredient id="57" count="7500000" />	<!--Adena-->
+		<production id="15785" count="1" />		<!--Recipe: Sealed Moirai Leather Gloves (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="150" />	<!--Evil Weapon-->
+		<ingredient id="57" count="7500000" />	<!--Adena-->
+		<production id="15786" count="1" />		<!--Recipe: Sealed Moirai Gloves (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="150" />	<!--Evil Weapon-->
+		<ingredient id="57" count="7500000" />	<!--Adena-->
+		<production id="15787" count="1" />		<!--Recipe: Sealed Moirai Boots (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="150" />	<!--Evil Weapon-->
+		<ingredient id="57" count="7500000" />	<!--Adena-->
+		<production id="15788" count="1" />		<!--Recipe: Sealed Moirai Leather Boots (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="150" />	<!--Evil Weapon-->
+		<ingredient id="57" count="7500000" />	<!--Adena-->
+		<production id="15789" count="1" />		<!--Recipe: Sealed Moirai Shoes (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="250" />	<!--Evil Weapon-->
+		<ingredient id="57" count="12500000" />	<!--Adena-->
+		<production id="15790" count="1" />		<!--Recipe: Sealed Moirai Sigil (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="250" />	<!--Evil Weapon-->
+		<ingredient id="57" count="12500000" />	<!--Adena-->
+		<production id="15791" count="1" />		<!--Recipe: Sealed Moirai Shield (60%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="100" />	<!--Evil Weapon-->
+		<ingredient id="57" count="5000000" />	<!--Adena-->
+		<production id="15812" count="1" />		<!--Recipe: Sealed Moirai Ring (70%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="200" />	<!--Evil Weapon-->
+		<ingredient id="57" count="10000000" />	<!--Adena-->
+		<production id="15813" count="1" />		<!--Recipe: Sealed Moirai Earring (70%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="300" />	<!--Evil Weapon-->
+		<ingredient id="57" count="15000000" />	<!--Adena-->
+		<production id="15814" count="1" />		<!--Recipe: Sealed Moirai Necklace (70%)-->
+	</item>
+	<item>
+		<ingredient id="10327" count="20" />	<!--Evil Weapon-->
+		<ingredient id="57" count="1000000" />	<!--Adena-->
+		<production id="15645" count="3" />		<!--Sealed Moirai Helmet Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="20" />	<!--Evil Weapon-->
+		<ingredient id="57" count="1000000" />	<!--Adena-->
+		<production id="15646" count="3" />		<!--Sealed Moirai Leather Helmet Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="20" />	<!--Evil Weapon-->
+		<ingredient id="57" count="1000000" />	<!--Adena-->
+		<production id="15647" count="3" />		<!--Sealed Moirai Circlet Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="40" />	<!--Evil Weapon-->
+		<ingredient id="57" count="2000000" />	<!--Adena-->
+		<production id="15648" count="3" />		<!--Sealed Moirai Breastplate Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="40" />	<!--Evil Weapon-->
+		<ingredient id="57" count="2000000" />	<!--Adena-->
+		<production id="15649" count="3" />		<!--Sealed Moirai Leather Breastplate Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="40" />	<!--Evil Weapon-->
+		<ingredient id="57" count="2000000" />	<!--Adena-->
+		<production id="15650" count="3" />		<!--Sealed Moirai Tunic Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="30" />	<!--Evil Weapon-->
+		<ingredient id="57" count="1500000" />	<!--Adena-->
+		<production id="15651" count="3" />		<!--Sealed Moirai Gaiter Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="30" />	<!--Evil Weapon-->
+		<ingredient id="57" count="1500000" />	<!--Adena-->
+		<production id="15652" count="3" />		<!--Sealed Moirai Leather Legging Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="30" />	<!--Evil Weapon-->
+		<ingredient id="57" count="1500000" />	<!--Adena-->
+		<production id="15653" count="3" />		<!--Sealed Moirai Stockings Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="15" />	<!--Evil Weapon-->
+		<ingredient id="57" count="750000" />	<!--Adena-->
+		<production id="15654" count="3" />		<!--Sealed Moirai Gauntlet Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="15" />	<!--Evil Weapon-->
+		<ingredient id="57" count="750000" />	<!--Adena-->
+		<production id="15655" count="3" />		<!--Sealed Moirai Leather Gloves Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="15" />	<!--Evil Weapon-->
+		<ingredient id="57" count="750000" />	<!--Adena-->
+		<production id="15656" count="3" />		<!--Sealed Moirai Gloves Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="15" />	<!--Evil Weapon-->
+		<ingredient id="57" count="750000" />	<!--Adena-->
+		<production id="15657" count="3" />		<!--Sealed Moirai Boots Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="15" />	<!--Evil Weapon-->
+		<ingredient id="57" count="750000" />	<!--Adena-->
+		<production id="15658" count="3" />		<!--Sealed Moirai Leather Boots Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="15" />	<!--Evil Weapon-->
+		<ingredient id="57" count="750000" />	<!--Adena-->
+		<production id="15659" count="3" />		<!--Sealed Moirai Shoes Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="25" />	<!--Evil Weapon-->
+		<ingredient id="57" count="1250000" />	<!--Adena-->
+		<production id="15692" count="3" />		<!--Sealed Moirai Sigil Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="25" />	<!--Evil Weapon-->
+		<ingredient id="57" count="1250000" />	<!--Adena-->
+		<production id="15693" count="3" />		<!--Sealed Moirai Shield Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="10" />	<!--Evil Weapon-->
+		<ingredient id="57" count="500000" />	<!--Adena-->
+		<production id="15772" count="3" />		<!--Sealed Moirai Ring Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="20" />	<!--Evil Weapon-->
+		<ingredient id="57" count="1000000" />	<!--Adena-->
+		<production id="15773" count="3" />		<!--Sealed Moirai Earring Piece-->
+	</item>
+	<item>
+		<ingredient id="10327" count="30" />	<!--Evil Weapon-->
+		<ingredient id="57" count="1500000" />	<!--Adena-->
+		<production id="15774" count="3" />		<!--Sealed Moirai Necklace Piece-->
+	</item>
+</list>

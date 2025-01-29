@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Dynasty/Moirai/Icarus Donations -->
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<ingredient id="4037" count="15" />		<!-- Coin of Luck -->
+		<production id="10215" count="1" />		<!-- Icarus Sawsword -->
+	</item>
+	<item>
+		<ingredient id="4037" count="15" />		<!-- Coin of Luck -->
+		<production id="10216" count="1" />		<!-- Icarus Disperser -->
+	</item>
+	<item>
+		<ingredient id="4037" count="15" />		<!-- Coin of Luck -->
+		<production id="10217" count="1" />		<!-- Icarus Spirit -->
+	</item>
+	<item>
+		<ingredient id="4037" count="15" />		<!-- Coin of Luck -->
+		<production id="10218" count="1" />		<!-- Icarus Heavy Arms -->
+	</item>
+	<item>
+		<ingredient id="4037" count="15" />		<!-- Coin of Luck -->
+		<production id="10219" count="1" />		<!-- Icarus Trident -->
+	</item>
+	<item>
+		<ingredient id="4037" count="15" />		<!-- Coin of Luck -->
+		<production id="10220" count="1" />		<!-- Icarus Hammer -->
+	</item>
+	<item>
+		<ingredient id="4037" count="15" />		<!-- Coin of Luck -->
+		<production id="10221" count="1" />		<!-- Icarus Hand -->
+	</item>
+	<item>
+		<ingredient id="4037" count="15" />		<!-- Coin of Luck -->
+		<production id="10222" count="1" />		<!-- Icarus Hall -->
+	</item>
+	<item>
+		<ingredient id="4037" count="15" />		<!-- Coin of Luck -->
+		<production id="10223" count="1" />		<!-- Icarus Spitter -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="9380" count="1"/>		<!-- Dynasty Ancient Sword -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="9446" count="1"/>		<!-- Dynasty Knife -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="10004" count="1"/>		<!-- Dynasty Dual Sword -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="9376" count="1"/>		<!-- Dynasty Rapier -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="9449" count="1"/>		<!-- Dynasty Mace -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="9450" count="1"/>		<!-- Dynasty Bagh-Nakh -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="9445" count="1"/>		<!-- Dynasty Bow -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="9443" count="1"/>		<!-- Dynasty Blade -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="10253" count="1"/>		<!-- Dynasty Crusher -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="9442" count="1"/>		<!-- Dynasty Sword -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="10252" count="1"/>		<!-- Dynasty Staff -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="9448" count="1"/>		<!-- Dynasty Cudgel -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="9384" count="1"/>		<!-- Dynasty Crossbow -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="9444" count="1"/>		<!-- Dynasty Phantom -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="9447" count="1"/>		<!-- Dynasty Halberd -->
+	</item>
+	<item>
+		<ingredient id="4037" count="10"/>		<!-- Coin of Luck -->
+		<production id="13882" count="1"/>		<!-- Dynasty Dual Daggers -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5" />		<!-- Coin of Luck -->
+		<production id="15606" count="1" />		<!-- Moirai Helmet -->
+	</item>
+	<item>
+		<ingredient id="4037" count="8" />		<!-- Coin of Luck -->
+		<production id="15609" count="1" />		<!-- Moirai Breastplate -->
+	</item>
+	<item>
+		<ingredient id="4037" count="7" />		<!-- Coin of Luck -->
+		<production id="15612" count="1" />		<!-- Moirai Gaiter -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5" />		<!-- Coin of Luck -->
+		<production id="15615" count="1" />		<!-- Moirai Gauntlet -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5" />		<!-- Coin of Luck -->
+		<production id="15618" count="1" />		<!-- Moirai Boots -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5" />		<!-- Coin of Luck -->
+		<production id="15607" count="1" />		<!-- Moirai Leather Helmet -->
+	</item>
+	<item>
+		<ingredient id="4037" count="8" />		<!-- Coin of Luck -->
+		<production id="15610" count="1" />		<!-- Moirai Leather Breastplate -->
+	</item>
+	<item>
+		<ingredient id="4037" count="7" />		<!-- Coin of Luck -->
+		<production id="15613" count="1" />		<!-- Moirai Leather Legging -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5" />		<!-- Coin of Luck -->
+		<production id="15616" count="1" />		<!-- Moirai Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5" />		<!-- Coin of Luck -->
+		<production id="15619" count="1" />		<!-- Moirai Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5" />		<!-- Coin of Luck -->
+		<production id="15608" count="1" />		<!-- Moirai Circlet -->
+	</item>
+	<item>
+		<ingredient id="4037" count="8" />		<!-- Coin of Luck -->
+		<production id="15611" count="1" />		<!-- Moirai Tunic -->
+	</item>
+	<item>
+		<ingredient id="4037" count="7" />		<!-- Coin of Luck -->
+		<production id="15614" count="1" />		<!-- Moirai Stockings -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5" />		<!-- Coin of Luck -->
+		<production id="15617" count="1" />		<!-- Moirai Gloves -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5" />		<!-- Coin of Luck -->
+		<production id="15620" count="1" />		<!-- Moirai Shoes -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5" />		<!-- Coin of Luck -->
+		<production id="15621" count="1" />		<!-- Moirai Shield -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5" />		<!-- Coin of Luck -->
+		<production id="15622" count="1" />		<!-- Moirai Sigil -->
+	</item>
+	<item>
+		<ingredient id="4037" count="6" />		<!-- Coin of Luck -->
+		<production id="15725" count="1" />		<!-- Moirai Necklace -->
+	</item>
+	<item>
+		<ingredient id="4037" count="4" />		<!-- Coin of Luck -->
+		<production id="15724" count="1" />		<!-- Moirai Earring -->
+	</item>
+	<item>
+		<ingredient id="4037" count="3" />		<!-- Coin of Luck -->
+		<production id="15723" count="1" />		<!-- Moirai Ring -->
+	</item>
+	<item>
+		<ingredient id="4037" count="3"/>		<!-- Coin of Luck -->
+		<production id="9422" count="1"/>		<!-- Dynasty Helmet -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="6"/>		<!-- Coin of Luck -->
+		<production id="9416" count="1"/>		<!-- Dynasty Breast Plate -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5"/>		<!-- Coin of Luck -->
+		<production id="9421" count="1"/>		<!-- Dynasty Gaiter -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="3"/>		<!-- Coin of Luck -->
+		<production id="9423" count="1"/>		<!-- Dynasty Gauntlet -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="3"/>		<!-- Coin of Luck -->
+		<production id="9424" count="1"/>		<!-- Dynasty Boots -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="3"/>		<!-- Coin of Luck -->
+		<production id="9438" count="1"/>		<!-- Dynasty Circlet -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="6"/>		<!-- Coin of Luck -->
+		<production id="9432" count="1"/>		<!-- Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5"/>		<!-- Coin of Luck -->
+		<production id="9437" count="1"/>		<!-- Dynasty Stockings -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="3"/>		<!-- Coin of Luck -->
+		<production id="9439" count="1"/>		<!-- Dynasty Gloves -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="3"/>		<!-- Coin of Luck -->
+		<production id="9440" count="1"/>		<!-- Dynasty Shoes -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="3"/>		<!-- Coin of Luck -->
+		<production id="9429" count="1"/>		<!-- Dynasty Leather Helmet -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="6"/>		<!-- Coin of Luck -->
+		<production id="9425" count="1"/>		<!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="4037" count="5"/>		<!-- Coin of Luck -->
+		<production id="9428" count="1"/>		<!-- Dynasty Leather Leggings -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="3"/>		<!-- Coin of Luck -->
+		<production id="9430" count="1"/>		<!-- Dynasty Leather Gloves -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="3"/>		<!-- Coin of Luck -->
+		<production id="9431" count="1"/>		<!-- Dynasty Leather Boots -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="3"/>		<!-- Coin of Luck -->
+		<production id="9441" count="1"/>		<!-- Dynasty Shield -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="3"/>		<!-- Coin of Luck -->
+		<production id="12812" count="1"/>		<!-- Dynasty Sigil -->		
+	</item>
+	<item>
+		<ingredient id="4037" count="4" />		<!-- Coin of Luck -->
+		<production id="9456" count="1"/>		<!-- Dynasty Necklace -->
+	</item>
+	<item>
+		<ingredient id="4037" count="3" />		<!-- Coin of Luck -->
+		<production id="9455" count="1"/>		<!-- Dynasty Earrings -->
+	</item>
+	<item>
+		<ingredient id="4037" count="2" />		<!-- Coin of Luck -->
+		<production id="9457" count="1"/>		<!-- Dynasty Ring -->
+	</item>
+</list>

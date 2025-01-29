@@ -1,0 +1,273 @@
+[08.12.24 02:38:52] TELL [Muddy -> Jarvan] :D
+[08.12.24 02:38:54] TELL [Muddy -> MecanOtGorata] :"D
+[08.12.24 04:13:12] TELL [Muddy -> MecanOtGorata] :D
+[08.12.24 04:13:13] TELL [Muddy -> Jarvan] s
+[08.12.24 05:32:20] TELL [Muddy -> Jarvan] qwe
+[08.12.24 05:32:20] TELL [Muddy -> MecanOtGorata] qwe
+[08.12.24 13:15:00] SHOUT [Jarvan] muddy here?
+[08.12.24 17:55:54] TRADE [GuckFosu] .cfg
+[08.12.24 21:16:09] SHOUT [Jarvan] GM here?
+[08.12.24 21:16:30] TELL [Jarvan -> PacMan] hey hey there is a bug with Ant Queen raid boss
+[08.12.24 21:23:46] TELL [PacMan -> Jarvan] whats up
+[08.12.24 21:23:49] TELL [PacMan -> Jarvan] should be working
+[08.12.24 21:25:19] TELL [Jarvan -> PacMan] hey
+[08.12.24 21:25:27] TELL [Jarvan -> PacMan] these little ants they do respawn too quickley
+[08.12.24 21:25:39] TELL [Jarvan -> PacMan] and i mean instantly
+[08.12.24 21:26:35] TELL [Jarvan -> PacMan] is it possible to increase their respawn time because i really wanna kill ant queen
+[08.12.24 21:27:43] TELL [Jarvan -> PacMan] also my votes dont work for some reason
+[08.12.24 21:27:52] TELL [Jarvan -> PacMan] and my recommendation is stuck at 204
+[08.12.24 21:42:17] TELL [PacMan -> Jarvan] ill experiment with QA, what account are you attempting 
+[08.12.24 21:42:27] TELL [Jarvan -> PacMan] tawwibg2
+[08.12.24 21:42:45] TELL [PacMan -> Jarvan] everything seems fine... moment
+[08.12.24 21:43:14] TELL [Jarvan -> PacMan] can i go kill AQ Now please xD x
+[08.12.24 21:43:24] TELL [Jarvan -> PacMan] i really want that jewel
+[08.12.24 21:43:39] TELL [PacMan -> Jarvan] can you send me a screenshot of what u see on the vote page? yea lets go mess with QA
+[08.12.24 21:44:05] TELL [Jarvan -> PacMan] So about that vote here is the issue
+[08.12.24 21:44:44] TELL [Jarvan -> PacMan] I log into ACP, select my char. Then i go vote ofc and when i have voted on all sites i only....
+[08.12.24 21:45:33] TELL [Jarvan -> PacMan] ...only vote on the 5 sites from ACP. Then when i exchange reward...
+[08.12.24 21:45:55] TELL [Jarvan -> PacMan] my char was offline because it requires to be offline, so i exchanged and got nothing in return
+[08.12.24 21:46:06] TELL [Jarvan -> PacMan] no leafs and no recs
+[08.12.24 21:46:13] TELL [PacMan -> Jarvan] ah ok
+[08.12.24 21:46:25] TELL [Jarvan -> PacMan] that was like yestarday
+[08.12.24 21:46:36] TELL [Jarvan -> PacMan] now i can try to vote and do the same
+[08.12.24 21:46:40] TELL [PacMan -> Jarvan] nah its ok
+[08.12.24 21:46:47] TELL [PacMan -> Jarvan] the exchange votes needs to be upgraded
+[08.12.24 21:46:53] TELL [PacMan -> Jarvan] in the same way that i upgraded the vote itself
+[08.12.24 21:47:01] TELL [PacMan -> Jarvan]  i dont want you to have to log out
+[08.12.24 21:47:31] TELL [PacMan -> Jarvan] i havent revisited the exchange votes since i created it, so i have probably broken it in workin 
+[08.12.24 21:47:38] TELL [PacMan -> Jarvan] on other things, ill circle back on that perhaps tomorrow
+[08.12.24 21:47:50] TELL [Jarvan -> PacMan] yy
+[08.12.24 21:47:55] TELL [Jarvan -> PacMan] that might be it
+[08.12.24 21:49:56] TELL [Jarvan -> PacMan] port me to AQ please
+[08.12.24 21:51:21] PARTY [PacMan] what lvl r u
+[08.12.24 21:51:24] PARTY [Jarvan] low
+[08.12.24 21:51:31] PARTY [PacMan] ok, im 44, and i disabled exp gain
+[08.12.24 21:51:33] PARTY [Jarvan] thats how i discoverd it
+[08.12.24 21:51:35] PARTY [PacMan] im summoning u
+[08.12.24 21:51:39] PARTY [Jarvan] y
+[08.12.24 21:52:12] PARTY [Jarvan] these are no problem
+[08.12.24 21:52:27] PARTY [Jarvan] but once i start hitting AQ
+[08.12.24 21:52:33] PARTY [Jarvan] they heal so much and insta spawn
+[08.12.24 21:53:25] PARTY [Jarvan] cant do it
+[08.12.24 21:54:29] PARTY [Jarvan] maybe they run ot of mana?
+[08.12.24 21:54:38] PARTY [Jarvan] if we keep hitting AQ?
+[08.12.24 21:54:48] PARTY [PacMan] nah, the only think im thinking is a sorc
+[08.12.24 21:55:07] PARTY [Jarvan] im thinking its not a 2 man job what it is
+[08.12.24 21:55:07] PARTY [PacMan] also let me see i think i found their respawnt imer
+[08.12.24 21:55:52] PARTY [PacMan] nah its doable with small numbers with the right motivation haha, im just thinking and looking at the co
+[08.12.24 21:55:54] PARTY [PacMan] code rn
+[08.12.24 21:56:00] PARTY [Jarvan] hehe
+[08.12.24 21:56:05] PARTY [Jarvan] yy take your time
+[08.12.24 21:57:01] PARTY [PacMan] okay the nurses are on a 10 second timer
+[08.12.24 21:57:17] PARTY [PacMan] do they spawn always next to queena nt?
+[08.12.24 21:57:22] PARTY [Jarvan] yy
+[08.12.24 21:57:53] PARTY [Jarvan] and i could not make them give up unless AQ gave up too
+[08.12.24 21:58:39] PARTY [Jarvan] tried with pole too
+[08.12.24 21:59:35] PARTY [PacMan] heh
+[08.12.24 21:59:38] PARTY [Jarvan] I was wondering 
+[08.12.24 21:59:49] PARTY [Jarvan] How does an olympiad works on this server?
+[08.12.24 22:00:01] PARTY [PacMan] its team based
+[08.12.24 22:00:04] PARTY [Jarvan] since there are no main class
+[08.12.24 22:00:08] PARTY [Jarvan] how so
+[08.12.24 22:00:18] PARTY [PacMan] 2v2, 4v4, 6v6 i believe is what i did
+[08.12.24 22:00:31] PARTY [PacMan] top teams get hero
+[08.12.24 22:00:41] PARTY [Jarvan] very interesting
+[08.12.24 22:01:30] PARTY [Jarvan] wpn +?
+[08.12.24 22:01:46] PARTY [PacMan] 40, gonna increase more
+[08.12.24 22:01:50] PARTY [Jarvan] hahaha
+[08.12.24 22:01:52] PARTY [Jarvan] try 100
+[08.12.24 22:02:54] PARTY [Jarvan] dont kill the ants that heal, lets see how much dmg do you need to outheal them
+[08.12.24 22:03:55] PARTY [Jarvan] thats crazy
+[08.12.24 22:04:06] PARTY [PacMan] almost had it
+[08.12.24 22:04:19] PARTY [Jarvan] Not fair
+[08.12.24 22:04:21] ALL [Jarvan] xC
+[08.12.24 22:04:22] ALL [Jarvan] xD
+[08.12.24 22:04:51] ALL [PacMan]  +1000
+[08.12.24 22:04:56] PARTY [Jarvan] yeah
+[08.12.24 22:05:02] PARTY [Jarvan] wont be a 10 man job either
+[08.12.24 22:05:29] PARTY [PacMan] all u gotta do have enough burst to kill a nurse before it heals
+[08.12.24 22:05:36] PARTY [PacMan] then u do ur rotation
+[08.12.24 22:05:41] PARTY [Jarvan] yeah but they insta heal
+[08.12.24 22:05:48] PARTY [PacMan] they dont, they have a casting time
+[08.12.24 22:05:51] PARTY [Jarvan] cast time too high 
+[08.12.24 22:06:01] PARTY [PacMan] a couple sorcs im tellin u
+[08.12.24 22:06:03] PARTY [Jarvan] that would be a challange
+[08.12.24 22:06:15] PARTY [PacMan] bugs are fire weak
+[08.12.24 22:06:29] PARTY [Jarvan] make sense
+[08.12.24 22:06:40] PARTY [PacMan] next time we can try with a sorc
+[08.12.24 22:06:44] PARTY [PacMan] i wont need nearly as much matk
+[08.12.24 22:06:54] PARTY [PacMan] so ill bring like 3 char equivalent of matk if that makes sense
+[08.12.24 22:06:57] PARTY [PacMan] vs this crazy patk
+[08.12.24 22:07:01] PARTY [Jarvan] yeah
+[08.12.24 22:07:05] PARTY [Jarvan] would make more sense
+[08.12.24 22:07:19] PARTY [Jarvan] would not lv my sorc for that experiment
+[08.12.24 22:07:28] PARTY [PacMan] yea, or u can have another mage as a low lvl
+[08.12.24 22:07:30] ALL [Jarvan] keeping it low lvl :P
+[08.12.24 22:07:33] PARTY [PacMan] and have ur sorc as secondary
+[08.12.24 22:07:47] PARTY [Jarvan] that works too
+[08.12.24 22:08:00] PARTY [Jarvan] i also had question about kamael classes
+[08.12.24 22:08:01] PARTY [PacMan] i actually gotta experiment cause i have zealot rn, what lvl do u get that isnt it higher lvl
+[08.12.24 22:08:16] PARTY [Jarvan] its like 63
+[08.12.24 22:08:18] PARTY [Jarvan] or 66
+[08.12.24 22:08:32] PARTY [Jarvan] those kamael classes are wack
+[08.12.24 22:08:41] PARTY [Jarvan] very weak in terms of other combos
+[08.12.24 22:08:53] PARTY [PacMan] not a lot i can do about it... other than start editing their skills
+[08.12.24 22:09:00] PARTY [Jarvan] nah
+[08.12.24 22:09:01] PARTY [PacMan] kamaels are treated very differently by the game engine
+[08.12.24 22:09:19] PARTY [PacMan] when u switch kamael it changes all armor skins too
+[08.12.24 22:09:22] PARTY [PacMan] u have to relog ur char
+[08.12.24 22:09:35] PARTY [Jarvan] i was thinking that u set their classes with something predefined 
+[08.12.24 22:09:41] PARTY [Jarvan] just like now but different combos
+[08.12.24 22:09:47] PARTY [PacMan] that is what i do
+[08.12.24 22:09:49] PARTY [Jarvan] just to balance them a bit
+[08.12.24 22:09:58] PARTY [PacMan] since theres only one combination that makes sense the melee/melle range/range
+[08.12.24 22:10:04] PARTY [PacMan] male/male female/female
+[08.12.24 22:10:25] PARTY [Jarvan] i was thinking cross race 
+[08.12.24 22:10:28] PARTY [PacMan] beyond editing the skills themselves
+[08.12.24 22:10:33] PARTY [Jarvan] but that would break the servr rules i believe
+[08.12.24 22:11:02] PARTY [Jarvan] or maybe trickster/doombranger 
+[08.12.24 22:11:30] PARTY [PacMan] trickster is archer and doombringer is close range, no?
+[08.12.24 22:11:36] PARTY [Jarvan] yeah
+[08.12.24 22:11:43] PARTY [PacMan] hows that gonna combine?
+[08.12.24 22:12:19] PARTY [PacMan] short of just straight boosting kamaels... like +30% dmg buff
+[08.12.24 22:12:31] PARTY [Jarvan] so the doombranger have a couple useful skills that counter close combat attacks
+[08.12.24 22:12:47] PARTY [Jarvan] and a good passive too
+[08.12.24 22:12:58] PARTY [PacMan] which skills? does it require switching weapons to use them? its not a good combinatoin
+[08.12.24 22:13:08] PARTY [Jarvan] might work its charm or trickster agains pvp but thats about it 
+[08.12.24 22:13:36] PARTY [Jarvan] no like true berserker is toggle buff, eye for eye i think was the name
+[08.12.24 22:13:44] PARTY [Jarvan] or something like that
+[08.12.24 22:13:55] PARTY [Jarvan] violent temper debuff that reduce p.def
+[08.12.24 22:14:00] PARTY [PacMan] hmmmmmm
+[08.12.24 22:14:55] PARTY [Jarvan] is it possible to combine trickster and doombringer without you modifying anything 
+[08.12.24 22:14:59] PARTY [Jarvan] just to see what will come out of it
+[08.12.24 22:15:25] PARTY [Jarvan] i mean adding it like a sub class option
+[08.12.24 22:15:28] PARTY [PacMan] not quickly, and once u restart its gone
+[08.12.24 22:15:37] PARTY [PacMan] individually add each skill by id
+[08.12.24 22:15:49] PARTY [Jarvan] wont be worth 
+[08.12.24 22:16:23] PARTY [Jarvan] in the website i see that you have the blessed jewels
+[08.12.24 22:16:31] PARTY [Jarvan] and all other raid jewels as wellk
+[08.12.24 22:16:33] PARTY [Jarvan] well*}
+[08.12.24 22:16:41] PARTY [PacMan] ye just finished that up today, what do u think?
+[08.12.24 22:16:48] PARTY [Jarvan] beautiful work 
+[08.12.24 22:16:51] PARTY [PacMan] i also show who owns them, so u can see them transition hands
+[08.12.24 22:16:51] PARTY [Jarvan] i love it !
+[08.12.24 22:16:57] PARTY [PacMan] if its equipped ornot
+[08.12.24 22:17:01] PARTY [PacMan] or if its in a warehouse
+[08.12.24 22:17:09] PARTY [Jarvan] lol
+[08.12.24 22:17:09] PARTY [PacMan] bitcoin level tracking lmfao
+[08.12.24 22:17:15] PARTY [Jarvan] more like FBI 
+[08.12.24 22:17:15] PARTY [Jarvan] xD
+[08.12.24 22:17:17] PARTY [PacMan] haha
+[08.12.24 22:17:27] PARTY [PacMan] its got a bill gates covid chip
+[08.12.24 22:17:45] PARTY [Jarvan] hahahaha]
+[08.12.24 22:18:07] PARTY [Jarvan] jesus it actually says where it is
+[08.12.24 22:18:26] PARTY [Jarvan] thats some crazy stuff
+[08.12.24 22:18:43] PARTY [PacMan] i just told AI what i wanted to see
+[08.12.24 22:18:54] PARTY [PacMan] helped me write the code
+[08.12.24 22:18:57] PARTY [Jarvan] making l2 with AI
+[08.12.24 22:18:59] PARTY [Jarvan] that is sick
+[08.12.24 22:19:12] PARTY [Jarvan] have u checked all other epic raids
+[08.12.24 22:19:20] PARTY [Jarvan] their drops
+[08.12.24 22:19:27] PARTY [Jarvan] retail everything?
+[08.12.24 22:19:30] PARTY [PacMan] yeah these are my old files, and they all function, i had major clans running the raids, etc
+[08.12.24 22:19:51] PARTY [Jarvan] damn
+[08.12.24 22:19:56] PARTY [PacMan] right now i have two servers running actually
+[08.12.24 22:20:03] PARTY [PacMan] i just got a modern l2j version of high five
+[08.12.24 22:20:10] PARTY [PacMan] im starting to remake my stackclass there
+[08.12.24 22:20:18] PARTY [Jarvan] what the difference
+[08.12.24 22:20:18] PARTY [PacMan] cause my files are literally 10 yrs old, no more updates coming
+[08.12.24 22:20:45] PARTY [PacMan] well they're really good files
+[08.12.24 22:20:49] PARTY [PacMan] so not too much
+[08.12.24 22:21:05] PARTY [Jarvan] have funn
+[08.12.24 22:21:41] PARTY [PacMan] the problem is like if for example, i wanted to incorporate autofarm
+[08.12.24 22:21:51] PARTY [PacMan] i cant use the l2j autofarm pack
+[08.12.24 22:21:55] PARTY [PacMan] i have a different server pack
+[08.12.24 22:22:03] PARTY [PacMan] id have to create my own custom version of autofarm...
+[08.12.24 22:22:14] PARTY [Jarvan] too much hasle
+[08.12.24 22:22:21] PARTY [Jarvan] i think now everyone has bots
+[08.12.24 22:22:31] PARTY [Jarvan] tower, walker, adrena 
+[08.12.24 22:22:37] PARTY [Jarvan] all so accessible
+[08.12.24 22:22:43] PARTY [PacMan] yea, well thast why i like the autofarm idea tbh
+[08.12.24 22:22:46] PARTY [Jarvan] and better then any autofarm out there
+[08.12.24 22:22:47] PARTY [PacMan] give everyone the ability
+[08.12.24 22:22:56] PARTY [PacMan] actually u know what
+[08.12.24 22:22:58] PARTY [Jarvan] thats true
+[08.12.24 22:23:01] PARTY [PacMan] i could probably make a fking epic autofarm
+[08.12.24 22:23:09] PARTY [PacMan] use the existing one as a blueprint of how to build one
+[08.12.24 22:23:14] PARTY [Jarvan] u could haha
+[08.12.24 22:23:16] PARTY [PacMan] cause i was a botting expert back in the day lol
+[08.12.24 22:23:21] PARTY [PacMan] just like my autopotion
+[08.12.24 22:23:26] PARTY [PacMan] is a fuck you to the macro ppl
+[08.12.24 22:23:31] PARTY [PacMan] autofarm is a fuck you to the botters
+[08.12.24 22:23:42] PARTY [Jarvan] well...
+[08.12.24 22:23:47] PARTY [Jarvan] that autopotion stuff
+[08.12.24 22:23:55] PARTY [Jarvan] kind a not working very good
+[08.12.24 22:23:59] PARTY [PacMan] why?
+[08.12.24 22:24:03] PARTY [PacMan] i havent had any issues
+[08.12.24 22:24:06] PARTY [PacMan] whats ur experience
+[08.12.24 22:24:16] PARTY [Jarvan] my mana always low as shit
+[08.12.24 22:24:23] PARTY [Jarvan] even with it on
+[08.12.24 22:24:30] PARTY [PacMan] well i mean, yea
+[08.12.24 22:24:31] PARTY [Jarvan] pots in inventory
+[08.12.24 22:24:35] PARTY [Jarvan] out of combat
+[08.12.24 22:24:36] PARTY [Jarvan] still
+[08.12.24 22:24:41] PARTY [PacMan] they work in combat now
+[08.12.24 22:25:04] PARTY [Jarvan] have not tested that
+[08.12.24 22:25:20] PARTY [PacMan] 99% sure ive restarted since
+[08.12.24 22:25:23] PARTY [PacMan] let me see
+[08.12.24 22:26:02] PARTY [Jarvan] i guess not xD
+[08.12.24 22:26:42] ALL [PacMan] hmm
+[08.12.24 22:26:44] PARTY [Jarvan] how much is the enchant % 
+[08.12.24 22:26:48] ALL [PacMan] lets see if it pops when i leave combat
+[08.12.24 22:26:57] ALL [PacMan] yup
+[08.12.24 22:27:00] ALL [Jarvan] that works
+[08.12.24 22:27:00] ALL [PacMan] i need to rebuild serevr i
+[08.12.24 22:27:03] ALL [PacMan] thats why
+[08.12.24 22:27:05] ALL [PacMan] u have mp issues still
+[08.12.24 22:27:15] ALL [Jarvan] reboot*?
+[08.12.24 22:27:17] ALL [PacMan] i made them work in combat, but havent rebuilt
+[08.12.24 22:27:23] ALL [PacMan] nah, this is a rebuild, not a reboot
+[08.12.24 22:27:27] ALL [Jarvan] ow
+[08.12.24 22:27:28] ALL [PacMan] when u edit a java file u gotta rebuild
+[08.12.24 22:27:42] ALL [PacMan] which is fine its just 1 minute
+[08.12.24 22:27:44] ALL [Jarvan] way out of my zone of expertisee
+[08.12.24 22:27:52] ALL [PacMan] me too until recently
+[08.12.24 22:28:09] ALL [Jarvan] can u spawn ant queen again
+[08.12.24 22:28:12] ALL [Jarvan] i wanted to test
+[08.12.24 22:28:14] ALL [Jarvan] 	Type=1 	ID=268845544 	Color=0 	Underline=0 	Title=Red Soul Crystal - Stage 12
+[08.12.24 22:28:20] ALL [Jarvan] if my crystal will get upgraded
+[08.12.24 22:28:31] ALL [Jarvan] forgot to use it
+[08.12.24 22:29:03] ALL [PacMan] u saw i added all SAs to all weapons?
+[08.12.24 22:29:19] ALL [Jarvan] where
+[08.12.24 22:29:21] ALL [Jarvan] in giran?
+[08.12.24 22:29:27] ALL [PacMan] yeah wherever u do SAs
+[08.12.24 22:29:37] ALL [PacMan] they gonna be all available for each weapon
+[08.12.24 22:29:44] ALL [Jarvan] what do u mean
+[08.12.24 22:29:50] ALL [PacMan] haste on soulbow
+[08.12.24 22:29:51] ALL [Jarvan] i can have focus on mage weapon?
+[08.12.24 22:29:55] ALL [PacMan] i mean if u want
+[08.12.24 22:29:58] ALL [Jarvan] wait
+[08.12.24 22:30:00] ALL [Jarvan] reallyy
+[08.12.24 22:30:10] ALL [PacMan] yeah im pretty sure i did it that way
+[08.12.24 22:30:17] ALL [PacMan] because stack class
+[08.12.24 22:30:22] ALL [Jarvan] because earlier
+[08.12.24 22:30:23] ALL [PacMan] maybe u want a bow with acumen
+[08.12.24 22:30:25] ALL [Jarvan] 	Type=1 	ID=268511261 	Color=0 	Underline=0 	Title=Dynasty Blade - Great Gale
+[08.12.24 22:30:30] ALL [Jarvan] i had only 3 options
+[08.12.24 22:30:37] ALL [PacMan] ok
+[08.12.24 22:30:38] ALL [Jarvan] which were the weapon specified
+[08.12.24 22:30:46] ALL [Jarvan] maybe wrong mammon ?
+[08.12.24 22:31:02] ALL [PacMan] nah, maybe i neglected masterwork or smth
+[08.12.24 22:31:07] ALL [PacMan] lemme take a look
+[08.12.24 22:32:27] ALL [PacMan] lemme go run around in the game, pick up an item, try to SA it and ill let u kno
+[08.12.24 22:32:39] ALL [Jarvan] yy
+[08.12.24 22:32:43] ALL [Jarvan] will go explore
+[08.12.24 22:32:45] ALL [Jarvan] too
+[08.12.24 23:16:49] ALL [Piringui] hi
+[08.12.24 23:16:55] TELL [PacMan -> Jarvan] ah i found all my old work, it was just all google docs
+[08.12.24 23:17:04] TELL [PacMan -> Jarvan] apparently, i had a list of 21 SAs
+[08.12.24 23:17:10] SHOUT [Piringui] esta en beta esto?
+[08.12.24 23:17:15] TELL [Jarvan -> PacMan] hehe
+[08.12.24 23:17:46] TELL [Jarvan -> PacMan] nice
+[08.12.24 23:26:44] SHOUT [Piringui] donde se cambia de profesion??
+[08.12.24 23:31:58] SHOUT [PacMan] sim, táem beta enquêntao a populaçao tábaixa

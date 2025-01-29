@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="43200" respawn_random="3600" period_of_day="none">
+		<territory>
+			<add x="-181030" y="175145" zmin="-10442" zmax="-10042" />
+			<add x="-180555" y="175398" zmin="-10442" zmax="-10042" />
+			<add x="-181167" y="177695" zmin="-10442" zmax="-10042" />
+			<add x="-182442" y="176741" zmin="-10442" zmax="-10042" />
+		</territory>
+		<npc id="32769" /><!--Corpse of Gracia Soldier-->
+	</spawn>
+</list>

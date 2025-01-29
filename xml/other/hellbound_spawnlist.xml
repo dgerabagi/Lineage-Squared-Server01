@@ -1,0 +1,713 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+ npc_id - NPC ID for spawning
+ loc - exact coordinates (for point spawn, specify "0 0 0 0" if location-based) (format: x y z heading)
+ amount - quantity (for location-based spawn)
+ loc_id - territory ID (table locations, specified in spawnlist; specify "0" if point-based)
+ respawn - respawn time in seconds
+ respawn_rnd - random component of respawn
+ stage - stages at which the NPC spawns, separated by ";"
+ -->
+<list>
+	<!-- Typhoon -->
+	<data npc_id="25539" loc="-15864 250872 -3013 0" respawn="43200" respawn_random="3600" stage="1;2;3;4;5;6;7;8;9;10;11" />
+		
+	<!-- Spawn of static mobs on Hellbound, spawn doesn't change depending on stages -->
+	<!--Junior Watchman-->
+	<data npc_id="22320" loc="-10404 237620 -3128 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-10350 237301 -3136 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-10283 237337 -3144 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-10787 237709 -3072 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-5616 234208 -2880 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-5824 234416 -2808 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-17613 238818 -3320 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-17665 239594 -3312 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-18424 239768 -3328 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-16968 234376 -2608 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-17684 235257 -2768 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-16648 235188 -2808 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-19909 239099 -2832 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-19476 238591 -2832 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-20253 240851 -2856 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-20164 240791 -2856 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-20881 240544 -2824 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-21107 240407 -2808 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22320" loc="-20640 240690 -2840 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Junior Summoner-->
+	<data npc_id="22321" loc="-10311 237477 -3144 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-10525 237636 -3120 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-10324 237590 -3120 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-5344 234304 -2896 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-5552 234592 -2832 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-18168 236705 -2848 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-17403 239340 -3272 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-17286 238316 -3320 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-16633 238253 -3328 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-18280 238856 -3312 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-17925 240005 -3360 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-17192 234712 -2672 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-16459 234205 -2688 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-17902 234370 -2544 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-20225 239423 -2832 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-19671 238382 -2808 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-20136 238236 -2728 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-20048 241006 -2856 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-20954 240908 -2840 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22321" loc="-10515 237829 -3080 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Blind Huntsman-->
+	<data npc_id="22324" loc="-13532 235663 -3264 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-13288 237256 -3248 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-12686 236576 -3280 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-14044 237868 -3280 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-13240 238087 -3240 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-14609 237485 -3352 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-15627 237617 -3360 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-16007 237877 -3352 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-17832 236408 -2800 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-17842 236538 -2808 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-17217 237664 -3328 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-17227 234980 -2760 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-16729 234967 -2784 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-16612 235021 -2800 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-17622 234902 -2704 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-19991 238555 -2768 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-20221 238216 -2728 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-19294 239064 -2864 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22324" loc="-20575 240712 -2856 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Blind Watchman-->
+	<data npc_id="22325" loc="-12232 238662 -3264 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-14355 234970 -3136 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-15073 235936 -3320 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-14717 236743 -3312 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-15752 236456 -3344 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-14924 235667 -3280 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-14782 238226 -3296 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-16170 237292 -3344 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-14349 236437 -3304 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-17497 236018 -2800 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-18064 236460 -2832 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-17000 236968 -3312 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-17985 234402 -2536 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-17344 235192 -2800 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-19985 238307 -2736 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-20354 237694 -2496 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-19952 239005 -2832 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22325" loc="-19548 238920 -2848 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Arcane Scout-->
+	<data npc_id="22327" loc="-23718 245490 -3136 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22327" loc="-23697 245214 -3112 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22327" loc="-23639 244290 -3136 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22327" loc="-23184 243967 -3128 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22327" loc="-23157 244304 -3136 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22327" loc="-24366 246050 -3136 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Arcane Guardian-->
+	<data npc_id="22328" loc="-24439 245462 -3128 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22328" loc="-22946 245321 -3136 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22328" loc="-23561 244437 -3136 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22328" loc="-24726 245426 -3136 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22328" loc="-24289 246624 -3136 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22328" loc="-23652 246387 -3136 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Arcane Watchman-->
+	<data npc_id="22329" loc="-24624 245068 -3136 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22329" loc="-23654 246081 -3136 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22329" loc="-24372 244700 -3136 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22329" loc="-24241 245124 -3120 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22329" loc="-22937 245523 -3112 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22329" loc="-24377 245488 -3128 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Sand Scorpion-->
+	<data npc_id="22334" loc="-9915 253915 -3136 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22334" loc="-3750 253970 -3216 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22334" loc="-6356 250917 -3088 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22334" loc="-7832 251721 -3008 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22334" loc="-5472 250144 -3112 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22334" loc="-4790 249767 -3112 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22334" loc="-5745 250841 -3128 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22334" loc="-9119 251568 -2936 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22334" loc="-10633 251038 -2856 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Desert Scorpion-->
+	<data npc_id="22335" loc="-22181 252230 -3360 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-20424 251272 -3264 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-19400 251704 -3280 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-19698 252019 -3304 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-18339 251723 -3264 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-17327 249758 -2912 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-18148 253021 -3432 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-17448 253105 -3432 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-16456 252267 -3416 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-19053 255425 -3144 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-17305 254466 -3216 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-15841 250893 -2984 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-16305 249891 -2808 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-16557 250466 -2952 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-16075 251303 -3120 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-20232 256888 -3168 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-15028 253369 -3456 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-17231 255366 -3168 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22335" loc="-15816 254280 -3136 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Sand Devil-->
+	<data npc_id="22336" loc="-9481 253152 -3064 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22336" loc="-7172 253540 -3208 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22336" loc="-5790 254042 -3208 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22336" loc="-5484 250493 -3112 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22336" loc="-11368 252360 -2992 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22336" loc="-9499 251604 -2952 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22336" loc="-18152 256392 -3136 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22336" loc="-9704 255688 -3248 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22336" loc="-11480 253768 -3152 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Desiccator-->
+	<data npc_id="22337" loc="-19000 249800 -3168 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-17519 250132 -2976 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-17635 250872 -3120 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-18070 249647 -3000 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-18947 253256 -3432 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-20044 252460 -3352 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-20818 254119 -3176 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-5456 250477 -3112 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-5033 250445 -3112 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-11033 256300 -3328 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-8139 253407 -3120 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-6900 254113 -3240 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-11822 255392 -3272 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-16981 251830 -3344 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-20290 255701 -3208 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-19016 257240 -3136 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-18602 254268 -3304 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-16937 255992 -3192 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-15848 250405 -2864 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22337" loc="-15237 252905 -3448 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Sandstorm-->
+	<data npc_id="22340" loc="-21707 254152 -3256 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22340" loc="-18015 249857 -3016 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22340" loc="-18318 251358 -3216 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22340" loc="-15821 252955 -3432 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22340" loc="-15441 254553 -3120 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22340" loc="-7882 253135 -3120 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22340" loc="-6087 254572 -3152 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22340" loc="-3779 253679 -3240 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22340" loc="-5992 252280 -3264 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22336" loc="-6232 250184 -3024 0" respawn="50" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Chimera of Earth-->
+	<data npc_id="22349" loc="1527 232903 -3272 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="1223 235495 -3328 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="2199 232986 -3216 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="4125 234074 -3272 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="3071 239280 -3104 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="3442 238401 -3224 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="4453 238735 -3208 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="4635 239367 -3072 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="7955 240219 -2080 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="7445 239843 -2024 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="9407 237919 -1976 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="9834 237812 -1960 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="8560 239355 -2024 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="8339 240456 -2040 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="11128 235215 -1928 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22349" loc="11167 234830 -1864 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Chimera of Darkness-->
+	<data npc_id="22350" loc="1632 234961 -3352 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="824 235287 -3280 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="1112 237596 -3152 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="886 236121 -3232 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="2275 233833 -3328 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="2630 237944 -3320 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="2613 240192 -2904 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="7001 240247 -1960 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="6853 239474 -1960 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="8000 238746 -2000 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="9908 239539 -1960 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="8675 238491 -1952 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="8587 240036 -2040 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="8268 235942 -1952 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="8990 236541 -1904 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22350" loc="5103 234775 -3128 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Chimera of Wind-->
+	<data npc_id="22351" loc="2042 234066 -3344 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="2174 235293 -3360 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="2184 234553 -3376 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="2983 236508 -3408 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="3716 236573 -3320 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="2013 239588 -3032 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="5157 237797 -3264 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="7301 239715 -2008 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="6716 240801 -1976 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="8120 238943 -1992 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="10073 238444 -1976 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="8507 240079 -2064 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="10972 237656 -1952 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="9642 236269 -1952 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="10434 235517 -2000 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22351" loc="4264 234880 -3216 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<!--Chimera of Fire-->
+	<data npc_id="22352" loc="2022 239482 -3064 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="3205 233645 -3344 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="2847 233398 -3288 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="2862 236427 -3408 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="6581 240217 -1888 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="7683 239779 -2048 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="6774 239346 -1960 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="8724 237855 -1944 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="8409 239644 -2048 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="10925 238010 -1952 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="10496 237369 -1968 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="10269 237058 -1976 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="5197 235229 -3144 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="807 237085 -3200 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="817 236992 -3208 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22352" loc="1596 233442 -3304 0" respawn="60" respawn_random="0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" count="2" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-26576" y="250930" zmin="-2524" zmax="-2424" />
+			<add x="-26706" y="250840" zmin="-2523" zmax="-2423" />
+			<add x="-26865" y="250862" zmin="-2501" zmax="-2401" />
+			<add x="-26968" y="250896" zmin="-2481" zmax="-2381" />
+			<add x="-27004" y="250995" zmin="-2462" zmax="-2362" />
+			<add x="-27057" y="251055" zmin="-2448" zmax="-2348" />
+			<add x="-27176" y="251123" zmin="-2432" zmax="-2332" />
+			<add x="-27383" y="251295" zmin="-2395" zmax="-2295" />
+			<add x="-27418" y="251450" zmin="-2362" zmax="-2262" />
+			<add x="-27526" y="251695" zmin="-2327" zmax="-2227" />
+			<add x="-27158" y="251673" zmin="-2325" zmax="-2225" />
+			<add x="-27024" y="251433" zmin="-2364" zmax="-2264" />
+			<add x="-26944" y="251322" zmin="-2403" zmax="-2303" />
+			<add x="-26788" y="251236" zmin="-2424" zmax="-2324" />
+			<add x="-26674" y="251158" zmin="-2414" zmax="-2314" />
+		</territory>
+	</data>
+	<data npc_id="22339" respawn="3600" count="5" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22460" y="250743" zmin="-3320" zmax="-3220" />
+			<add x="-22530" y="254960" zmin="-3300" zmax="-3200" />
+			<add x="-20713" y="257725" zmin="-3056" zmax="-2956" />
+			<add x="-20556" y="257314" zmin="-3154" zmax="-3054" />
+			<add x="-19765" y="258269" zmin="-3099" zmax="-2999" />
+			<add x="-19390" y="258555" zmin="-3116" zmax="-3016" />
+			<add x="-18808" y="258499" zmin="-3092" zmax="-2992" />
+			<add x="-18494" y="257830" zmin="-3104" zmax="-3004" />
+			<add x="-18356" y="257274" zmin="-3105" zmax="-3005" />
+			<add x="-17046" y="256785" zmin="-3154" zmax="-3054" />
+			<add x="-16478" y="256966" zmin="-3125" zmax="-3025" />
+			<add x="-15920" y="256653" zmin="-3126" zmax="-3026" />
+			<add x="-15895" y="255819" zmin="-3196" zmax="-3096" />
+			<add x="-14927" y="255328" zmin="-3143" zmax="-3043" />
+			<add x="-14634" y="255106" zmin="-3154" zmax="-3054" />
+			<add x="-15787" y="254096" zmin="-3159" zmax="-3059" />
+			<add x="-15891" y="254084" zmin="-3162" zmax="-3062" />
+			<add x="-16358" y="254330" zmin="-3208" zmax="-3108" />
+			<add x="-16589" y="254269" zmin="-3237" zmax="-3137" />
+			<add x="-16998" y="253245" zmin="-3462" zmax="-3362" />
+			<add x="-16349" y="253269" zmin="-3460" zmax="-3360" />
+			<add x="-15572" y="253542" zmin="-3452" zmax="-3352" />
+			<add x="-15117" y="253992" zmin="-3454" zmax="-3354" />
+			<add x="-14771" y="253846" zmin="-3475" zmax="-3375" />
+			<add x="-14794" y="253331" zmin="-3486" zmax="-3386" />
+			<add x="-14974" y="252936" zmin="-3432" zmax="-3332" />
+			<add x="-15153" y="252532" zmin="-3396" zmax="-3296" />
+			<add x="-15790" y="251960" zmin="-3423" zmax="-3323" />
+			<add x="-16255" y="251729" zmin="-3388" zmax="-3288" />
+			<add x="-16568" y="251875" zmin="-3389" zmax="-3289" />
+			<add x="-16755" y="251645" zmin="-3334" zmax="-3234" />
+			<add x="-16486" y="251123" zmin="-3175" zmax="-3075" />
+			<add x="-16227" y="251202" zmin="-3153" zmax="-3053" />
+			<add x="-16125" y="251410" zmin="-3198" zmax="-3098" />
+			<add x="-15971" y="251415" zmin="-3161" zmax="-3061" />
+			<add x="-15946" y="251342" zmin="-3118" zmax="-3018" />
+			<add x="-15849" y="251370" zmin="-3078" zmax="-2978" />
+			<add x="-15662" y="251398" zmin="-3029" zmax="-2929" />
+			<add x="-15328" y="251100" zmin="-2871" zmax="-2771" />
+			<add x="-15703" y="250541" zmin="-2897" zmax="-2797" />
+			<add x="-15558" y="250217" zmin="-2706" zmax="-2606" />
+			<add x="-15767" y="249783" zmin="-2619" zmax="-2519" />
+			<add x="-16699" y="249076" zmin="-2700" zmax="-2600" />
+			<add x="-17327" y="248836" zmin="-2716" zmax="-2616" />
+			<add x="-18239" y="249154" zmin="-2889" zmax="-2789" />
+			<add x="-19194" y="249512" zmin="-3193" zmax="-3093" />
+			<add x="-20149" y="250483" zmin="-3286" zmax="-3186" />
+			<add x="-21269" y="250645" zmin="-3290" zmax="-3190" />
+		</territory>
+	</data>
+	<data npc_id="22353" count="2" respawn="3600" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="7432" y="237560" zmin="-2000" zmax="-1600" />
+			<add x="10936" y="239032" zmin="-2000" zmax="-1600" />
+			<add x="12472" y="238072" zmin="-2000" zmax="-1600" />
+			<add x="11736" y="236808" zmin="-2000" zmax="-1600" />
+			<add x="11768" y="235288" zmin="-2000" zmax="-1600" />
+			<add x="9496" y="234008" zmin="-2000" zmax="-1600" />
+			<add x="6856" y="234792" zmin="-2000" zmax="-1600" />
+			<add x="6920" y="236456" zmin="-2000" zmax="-1600" />
+		</territory>
+	</data>
+	<data npc_id="22353" count="2" respawn="3600" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="7480" y="237560" zmin="-2000" zmax="-1600" />
+			<add x="9592" y="238616" zmin="-2000" zmax="-1600" />
+			<add x="10248" y="239800" zmin="-2000" zmax="-1600" />
+			<add x="7976" y="240888" zmin="-2000" zmax="-1600" />
+			<add x="7128" y="241768" zmin="-2000" zmax="-1600" />
+			<add x="6040" y="241656" zmin="-2000" zmax="-1600" />
+			<add x="5992" y="240056" zmin="-2000" zmax="-1600" />
+			<add x="6424" y="239304" zmin="-2000" zmax="-1600" />
+			<add x="7560" y="238264" zmin="-2000" zmax="-1600" />
+		</territory>
+	</data>
+	
+<!-- Спаун статичных нпц на Хеллбаунде, не меняют спаун в зависимости от стадий -->
+	<data npc_id="32294" loc="-11840 236224 -3264 16384" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32347" loc="-11944 236232 -3280 16384" stage="1;2;3;4;5;6;7;8;9;10;11" /><!--Shadai-->
+	<data npc_id="36677" loc="-11720 236232 -3264 16384" stage="1;2;3;4;5;6;7;8;9;10;11" /><!--Julia-->
+	<data npc_id="32356" loc="-12072 236216 -3280 16384" stage="1;2;3;4;5;6;7;8;9;10;11" /><!--Jude-->
+	<data npc_id="32293" loc="-16745 209719 -3664 51120" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32331" loc="-23797 245142 -3104 0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32300" loc="-21075 250295 -3288 16384" stage="1;2;3;4;5;6;7;8;9;10;11" />
+<!--	<data npc_id="32308" loc="-19696 249280 -3232 16384" stage="1;2;3;4;5;6;7;8;9;10;11" /> -->
+<!--	<data npc_id="32352" loc="-19648 249424 -3224 16384" stage="1;2;3;4;5;6;7;8;9;10;11" /> -->
+	<data npc_id="32297" loc="-19904 250016 -3240 12288" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32298" loc="-4896 255840 -3128 49152" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="36677" loc="-4968 256632 -3136 52507" stage="1;2;3;4;5;6;7;8;9;10;11" /><!--Julia-->
+	<data npc_id="32356" loc="-4096 255472 -3128 40960" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32307" loc="-5952 249344 -3112 0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="18486" loc="-27008 251216 -2384 0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32296" loc="-27504 252448 -2248 0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32355" loc="-28916 249381 -3472 0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32313" loc="10632 244721 -2008 32804" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32357" loc="8809 249960 -1984 0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32357" loc="8844 250008 -1992 0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32245" loc="8800 251652 -2024 11668" stage="9;10;11" />
+	<data npc_id="32357" loc="8866 251710 -2016 0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32357" loc="8756 251730 -2024 0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32357" loc="8670 252518 -1896 0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32357" loc="8690 252678 -1928 0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="32346" loc="13694 255389 -2000 32768" stage="1;2;3;4;5;6;7;8;9;10;11" />
+<!-- Temporary	<data npc_id="32347" loc="9048 253048 -1928 49909" stage="9;10;11" /> -->
+	
+<!-- Corpse in Village -->
+	<data npc_id="32306" loc="-26811 251947 -3497 254" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-27229 251854 -3518 172" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-28257 252061 -3518 64987" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-28586 251747 -3518 15103" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-27983 251483 -3518 15887" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-27884 251049 -3518 65199" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-27184 251076 -3518 22795" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-27152 251310 -3518 29167" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-28750 251172 -3518 16622" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-28686 250827 -3518 16092" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-28822 252300 -3518 54217" stage="1;2;3;4" />
+	<data npc_id="32306" loc="29553 252712 -3518 6711" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-29513 252961 -3518 58792" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-27330 252382 -3518 1894" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-28403 249095 -3474 20065" stage="1;2;3;4" />
+	<data npc_id="32306" loc="-28673 249067 -3477 15990" stage="1;2;3;4" />
+	
+<!-- Magic Barier Guards -->
+	<data npc_id="18467" loc="-410 234647 -3248 45973" respawn="600" respawn_rnd="600" stage="7" />
+	<data npc_id="18467" loc="-320 234737 -3251 45973" respawn="600" respawn_rnd="600" stage="7" />
+	<data npc_id="18467" loc="-234 234818 -3259 45973" respawn="600" respawn_rnd="600" stage="7" />
+	<data npc_id="18467" loc="-175 234921 -3256 45973" respawn="600" respawn_rnd="600" stage="7" />
+	<data npc_id="18467" loc="-164 235023 -3270 45973" respawn="600" respawn_rnd="600" stage="7" />
+	<data npc_id="18467" loc="-213 235116 -3264 45973" respawn="600" respawn_rnd="600" stage="7" />
+	<data npc_id="18467" loc="-341 235117 -3248 45973" respawn="600" respawn_rnd="600" stage="7" />
+	<data npc_id="18467" loc="-472 235038 -3248 45973" respawn="600" respawn_rnd="600" stage="7" />
+    
+<!-- Quarry Guards -->
+	<data npc_id="22344" count="8" loc_id="700027" respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-4744" y="246136" zmin="-2165" zmax="-1365" />
+			<add x="-4344" y="242168" zmin="-2165" zmax="-1365" />
+			<add x="-7736" y="242152" zmin="-2165" zmax="-1365" />
+			<add x="-7128" y="245416" zmin="-2165" zmax="-1365" />
+		</territory>
+	</data>
+	<data npc_id="22345" count="9" loc_id="700027" respawn="80" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-4744" y="246136" zmin="-2165" zmax="-1365" />
+			<add x="-4344" y="242168" zmin="-2165" zmax="-1365" />
+			<add x="-7736" y="242152" zmin="-2165" zmax="-1365" />
+			<add x="-7128" y="245416" zmin="-2165" zmax="-1365" />
+		</territory>
+	</data>
+	<data npc_id="22346" loc="-5585 244854 -2076 27840" respawn="900" respawn_rnd="900" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22346" loc="-4788 241228 -1880 0" respawn="900" respawn_rnd="900" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22346" loc="-5585 244854 -2076 27840" respawn="900" respawn_rnd="900" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-4391 243431 -2084 22405" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-5467 243695 -2035 32977" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-5253 242252 -2072 54337" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-4807 241362 -1891 53667" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-6620 242155 -2079 23330" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-7006 243942 -2084 18776" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-8158 244221 -2089 2104" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-7937 242615 -2035 58824" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-4954 244750 -2120 19304" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-5301 245729 -2057 14506" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-5352 246972 -1892 4050" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-4063 247354 -1984 65151" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-2911 248287 -2379 12501" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-3874 248492 -2451 55063" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-5001 248211 -2465 29686" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-4347 248986 -2710 8049" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-3259 249531 -2976 6408" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-5319 247866 -2332 48457" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-3822 246389 -1890 44943" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22347" loc="-5380 246383 -2002 33887" respawn="180" respawn_rnd="180" stage="1;2;3;4;5;6;7;8;9;10" />
+		
+<!-- Quarry Slaves -->
+	<data npc_id="32299" loc="-4400 245425 -2027 46070" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-4066 244468 -2043 60748" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-3714 244117 -2044 33672" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-4216 243814 -2020 13700" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-5755 243046 -2032 38842" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-5613 242378 -2055 46121" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-6812 242386 -2043 25159" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-6419 242875 -2067 9528" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-6645 244074 -2017 14162" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-6487 244581 -2044 45796" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-4807 244946 -2070 5925" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-5649 245574 -2047 36959" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-6190 245253 -2073 58475" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-6253 245529 -2072 61671" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-6290 244398 -1975 37604" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-7566 244970 -2046 53860" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-8042 243926 -2055 59978" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-7758 243482 -2044 12684" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-7254 242713 -2031 1358" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-7123 242154 -2023 17094" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-6100 241945 -2038 15479" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-5912 241750 -2018 14733" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-5100 242540 -2064 18278" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-4710 242741 -2066 16383" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-5123 243955 -2009 24091" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-5470 244622 -2034 39276" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="32299" loc="-7389 244290 -2050 18480" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	
+<!-- Leodas -->
+	<data npc_id="22448" loc="-27880 252776 -3548 18480" respawn="129600" respawn_rnd="86400" stage="1;2;3;4;5;6;7;8;9;10;11" />
+		
+<!-- Derek -->
+	<data npc_id="18465" loc="-25675 254686 -2144 16380" respawn="36000" respawn_rnd="36000" stage="4" />
+    
+<!-- Kief Buron In Harbor -->
+	<data npc_id="32345" loc="-11954 236171 -3272 16380" respawn_rnd="60" stage="1;2;3;4" />
+	<data npc_id="32354" loc="-20684 250275 -3277 12892" respawn_rnd="60" stage="1;2;3;4" />
+    
+<!-- Kief Buron In Village -->
+	<data npc_id="32345" loc="-28567 248994 -3472 16384" respawn_rnd="60" stage="5;6;7;8;9;10;11" />
+	<data npc_id="32354" loc="-29062 250938 -3527 64692" respawn_rnd="60" stage="5;6;7;8;9;10;11" />
+
+<!-- Dolmen -->
+	<data npc_id="32307" loc="-5952 249344 -3117 0" stage="1;2;3;4;5;6;7;8;9;10;11" />
+    
+<!-- Hellinark -->
+	<data npc_id="22326" loc="-23909 245910 -3136 16380" respawn="36000" respawn_rnd="3600" stage="5;6;7;8;9;10;11" />
+	<data npc_id="22329" count="15" stage="1;2;3;4;5;6;7;8;9;10;11">
+		<territory>
+			<add x="-22312" y="243756" zmin="-3042" zmax="-2942" />
+			<add x="-22305" y="243662" zmin="-3058" zmax="-2958" />
+			<add x="-23480" y="243278" zmin="-3025" zmax="-2925" />
+			<add x="-23936" y="243406" zmin="-2991" zmax="-2891" />
+			<add x="-24195" y="244025" zmin="-3164" zmax="-3064" />
+			<add x="-24547" y="244219" zmin="-3138" zmax="-3038" />
+			<add x="-25082" y="244999" zmin="-3151" zmax="-3051" />
+			<add x="-25373" y="245320" zmin="-3141" zmax="-3041" />
+			<add x="-24933" y="245513" zmin="-3164" zmax="-3064" />
+			<add x="-24829" y="245543" zmin="-3164" zmax="-3064" />
+			<add x="-25036" y="245828" zmin="-3135" zmax="-3035" />
+			<add x="-24845" y="247006" zmin="-3109" zmax="-3009" />
+			<add x="-24176" y="247423" zmin="-3132" zmax="-3032" />
+			<add x="-23683" y="247185" zmin="-3058" zmax="-2958" />
+			<add x="-23403" y="246666" zmin="-3120" zmax="-3020" />
+			<add x="-23448" y="246291" zmin="-3164" zmax="-3064" />
+			<add x="-23076" y="246127" zmin="-3141" zmax="-3041" />
+			<add x="-22563" y="245063" zmin="-3139" zmax="-3039" />
+			<add x="-22795" y="244806" zmin="-3161" zmax="-3061" />
+			<add x="-22465" y="244473" zmin="-3141" zmax="-3041" />
+		</territory>
+	</data>
+	
+	<data npc_id="18484" loc="-23283 245408 -3072 0" respawn="300" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18484" loc="-23845 244452 -3138 0" respawn="300" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18484" loc="-23619 245844 -3140 0" respawn="300" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18484" loc="-24391 244782 -3138 0" respawn="300" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18484" loc="-24354 245380 -3138 0" respawn="300" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18484" loc="-23319 244695 -3138 0" respawn="300" stage="1;2;3;4;5;6;7;8;9;10" />
+ 
+<!-- Outpost Guards -->
+	<data npc_id="18466" loc="4912 244032 -1930 36864" respawn="36000" respawn_rnd="3600" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22358" loc="4867 244495 -1930 36863" respawn="300" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22358" loc="5282 243755 -1930 36863" respawn="300" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22358" loc="5529 243572 -1595 36863" respawn="300" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22358" loc="4896 244816 -1595 36864" respawn="300" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22357" loc="5440 243488 -1595 36864" respawn="300" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22357" loc="4800 244800 -1595 36864" respawn="300" stage="1;2;3;4;5;6;7;8;9;10" />
+   
+<!-- Natives -->
+	<data npc_id="32362" loc="-26979 251120 -3520 42440" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-26955 250976 -3525 23938" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-28491 250709 -3525 47047" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-28830 250205 -3480 8615" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-28773 250709 -3525 10472" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-28904 251163 -3525 52054" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-29088 250219 -3480 10083" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-27234 251187 -3525 39999" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-27874 251724 -3525 15577" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-27799 251209 -3520 1534" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-27169 250819 -3520 17748" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-27041 251883 -3520 35048" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-27405 252043 -3520 30046" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-27849 251917 -3520 34835" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32362" loc="-27886 251777 -3525 49895" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32363" loc="-29374 253083 -3520 43134" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32363" loc="-28531 251087 -3525 61999" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32363" loc="-28371 250215 -3480 21462" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32363" loc="-28704 251654 -3520 43528" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32363" loc="-28767 252690 -3525 17716" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32363" loc="-29646 252915 -3520 61217" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32363" loc="-29457 252695 -3525 6802" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32363" loc="-28559 252050 -3525 49895" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32363" loc="-25420 252198 -3256 0" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32363" loc="-25420 252382 -3256 64496" respawn_rnd="60" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-28368 249440 -3472 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-27176 250977 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-28388 250974 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-28367 250834 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-28353 250794 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-27163 251146 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-27046 251146 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-27969 252048 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-27385 252041 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-27456 252083 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-29491 253089 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-28896 249040 -3472 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-29064 250914 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-29070 250758 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-28912 249184 -3472 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-29070 250732 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-29411 253129 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32361" loc="-29481 253179 -3520 0" stage="5;6;7;8;9;10" />
+	<data npc_id="32364" loc="-27352 252387 -3520 5416" stage="5;6;7;8;9;10;11" />
+    
+<!-- Keltas And Underlings -->
+	<data npc_id="22341" loc="-24061 252925 -3044 16380" respawn="1200" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-24296 252703 -3048 7497" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-24207 253277 -3040 21487" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-24243 253626 -3040 8559" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-24312 253050 -3046 46233" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-24999 252677 -3048 29794" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-25054 251866 -3288 55437" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-24543 251660 -3352 422" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-24401 251412 -3344 46754" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-24063 251225 -3328 60265" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-23693 251219 -3312 3335" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-23090 252202 -3368 16475" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-23454 252145 -3360 34388" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-23690 251817 -3368 42646" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-22651 252472 -3280 24730" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-23067 252803 -3312 25757" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-22706 252921 -3272 13213" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-22456 252950 -3274 1204" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-23513 250247 -3256 51759" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-23602 250581 -3268 31848" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-24022 252235 -3208 27584" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-22133 251747 -3352 15634" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-22235 252066 -3368 19611" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-24355 252335 -3120 30135" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-23980 252893 -3040 17260" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-24424 253550 -3046 24542" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-24651 252575 -3056 40569" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-25226 252116 -3264 45141" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-25133 251768 -3264 42075" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-25012 251641 -3268 57091" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-23240 251280 -3288 177" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-23087 251860 -3367 13084" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-22237 251493 -3352 63309" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-22514 252339 -3312 21164" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-22770 252717 -3273 64719" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-23517 251302 -3320 43779" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-23658 250880 -3264 45788" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-23421 250565 -3264 13446" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-23103 251150 -3264 9541" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-24409 252249 -3088 32390" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-22256 251467 -3352 59532" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-22668 251670 -3368 41299" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-25803 252082 -3256 44037" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-25615 252253 -3248 13258" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-27308 252489 -3525 28246" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-27869 251844 -3520 17098" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-28504 251962 -3520 30963" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-27207 250895 -3520 23310" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-28903 250759 -3520 49978" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-28601 250352 -3512 55810" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-28472 250469 -3520 10516" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-28981 250541 -3520 32161" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-27860 251184 -3520 49313" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-27043 251256 -3525 2751" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-26955 251098 -3525 51478" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-25725 251897 -3248 4257" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-26940 252385 -3525 63610" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-28340 251895 -3520 63581" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-28766 252769 -3520 18500" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-29684 253063 -3525 21419" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22342" loc="-28848 252819 -3520 52985" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-27931 251980 -3525 20845" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-28968 251137 -3525 33756" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-28646 250193 -3472 46275" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-28687 251753 -3525 15584" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-27864 251442 -3525 51456" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-27691 251095 -3525 60480" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-26732 251918 -3472 3000" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-26958 252092 -3520 14817" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-28784 252555 -3525 49673" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-27355 251136 -3525 56906" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-28688 251961 -3525 49476" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-28538 251183 -3525 6437" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-29565 252790 -3525 23296" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-29430 253123 -3520 2419" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22343" loc="-25604 252085 -3248 5309" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10" />
+    
+<!-- Remnant - Ancient Temple -->
+	<data npc_id="18463" loc="-27061 254941 -2042 46320" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18463" loc="-27455 255499 -2012 25521" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18463" loc="-27918 256493 -1932 27597" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18463" loc="-28073 257065 -1933 7677" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18463" loc="-26991 257600 -1932 63910" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18463" loc="-26661 257615 -1926 473" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18463" loc="-25730 254439 -2153 54360" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18463" loc="-25099 255567 -2147 16358" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18463" loc="-29151 255839 -2147 42134" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18463" loc="-29068 254817 -2167 50499" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18463" loc="-27982 254332 -2153 58681" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18463" loc="-27263 254089 -2129 48379" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-27281 255183 -2039 49515" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-27286 255929 -1960 12297" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-27583 256373 -1924 24848" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-27949 256665 -1932 18243" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-28234 256868 -1941 26312" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-27462 257674 -1928 4984" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-26343 256435 -1933 53950" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-26166 255304 -2145 53579" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-26008 254988 -2147 52882" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-25102 254910 -2144 19611" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-26666 256235 -1911 62890" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-28666 254838 -2167 63197" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-27693 254611 -2110 7116" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="18464" loc="-27180 253936 -2141 54336" respawn_rnd="60" stage="2;3;4;5;6;7;8;9;10" />
+	<data npc_id="22330" loc="-25903 254538 -2144 10629" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-28877 255181 -2160 38118" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-27649 255533 -2056 13444" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-27511 254560 -2080 1314" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-26892 254672 -2136 64140" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-27526 255418 -2024 25570" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-28259 255399 -2152 25577" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-28625 254489 -2160 3126" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-28101 255472 -2112 57717" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-25579 254941 -2144 42441" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-25559 255718 -2120 18520" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-26099 254662 -2144 27734" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-27417 256610 -1920 7440" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-28333 256547 -1920 34011" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-25332 257229 -2128 0" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-26581 256912 -1928 42074" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-25338 256643 -2120 14720" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-26397 256697 -1928 57159" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-25549 257252 -2120 4188" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+	<data npc_id="22330" loc="-25620 256906 -2088 7356" respawn_rnd="60" stage="1;2;3;4;5;6;7;8;9;10;11" />
+
+</list>

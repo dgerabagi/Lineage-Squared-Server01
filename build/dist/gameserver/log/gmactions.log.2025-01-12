@@ -1,0 +1,53 @@
+[12.01.25 09:54:16] SUCCESS PacMan[268481203] admin_gmspeed 3
+[12.01.25 09:57:50] SUCCESS PacMan[268481203] admin_admin
+[12.01.25 09:57:51] SUCCESS PacMan[268481203] admin_char_manage
+[12.01.25 09:57:52] SUCCESS PacMan[268481203] admin_show_characters 0
+[12.01.25 09:57:53] SUCCESS PacMan[268481203] admin_teleportto Jessy
+[12.01.25 09:57:56] SUCCESS PacMan[268481203] admin_admin
+[12.01.25 09:57:57] SUCCESS PacMan[268481203] admin_show_moves
+[12.01.25 09:57:58] SUCCESS PacMan[268481203] admin_show_html teleports/town.htm
+[12.01.25 09:57:58] SUCCESS PacMan[268481203] admin_show_html teleports/town/giran.htm
+[12.01.25 09:57:59] SUCCESS PacMan[268481203] admin_move_to 82698 148638 -3473
+[12.01.25 10:00:09] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[12.01.25 10:00:11] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[12.01.25 10:00:12] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[12.01.25 10:00:13] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[12.01.25 10:00:48] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[12.01.25 10:00:50] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[12.01.25 10:00:50] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[12.01.25 10:00:52] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[12.01.25 10:03:04] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[12.01.25 10:03:05] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[12.01.25 10:03:06] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[12.01.25 10:03:10] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[12.01.25 10:03:41] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[12.01.25 10:03:42] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[12.01.25 10:03:42] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[12.01.25 10:03:44] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_htm
+[12.01.25 10:03:46] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[12.01.25 10:04:09] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_admin
+[12.01.25 10:04:09] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_server admserver.htm
+[12.01.25 10:04:10] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_show_html reload.htm
+[12.01.25 10:04:12] SUCCESS PacMan[268481203] -> 36600 Vote/Donation Shop admin_reload_multisell
+[12.01.25 10:49:40] SUCCESS PacMan[268481203] -> 36677 Julia admin_admin
+[12.01.25 10:49:41] SUCCESS PacMan[268481203] -> 36677 Julia admin_gmshop
+[12.01.25 10:49:43] SUCCESS PacMan[268481203] -> 36677 Julia admin_show_html gmstore/gear/weapons.htm
+[12.01.25 10:49:44] SUCCESS PacMan[268481203] -> 36677 Julia admin_show_html gmstore/gear/weapons/c.htm
+[12.01.25 10:49:48] SUCCESS PacMan[268481203] -> 36677 Julia admin_buy 9023
+[12.01.25 10:50:23] SUCCESS PacMan[268481203] -> 36677 Julia admin_admin
+[12.01.25 10:50:26] SUCCESS PacMan[268481203] -> 36677 Julia admin_enchant
+[12.01.25 10:50:32] SUCCESS PacMan[268481203] -> PacMan[268481203] admin_setew 65535
+[12.01.25 10:50:57] SUCCESS PacMan[268481203] admin_gmspeed 3
+[12.01.25 17:54:00] SUCCESS PacMan[268481203] admin_admin
+[12.01.25 17:54:02] SUCCESS PacMan[268481203] admin_server admserver.htm
+[12.01.25 17:54:03] SUCCESS PacMan[268481203] admin_show_html reload.htm
+[12.01.25 17:54:05] SUCCESS PacMan[268481203] admin_reload_npc
+[12.01.25 17:54:37] SUCCESS PacMan[268481203] admin_reload_npc
+[12.01.25 17:54:58] SUCCESS PacMan[268481203] admin_admin
+[12.01.25 17:55:05] SUCCESS PacMan[268481203] admin_show_spawns
+[12.01.25 17:55:09] SUCCESS PacMan[268481203] admin_spawn_monster 29181
+[12.01.25 17:55:32] SUCCESS PacMan[268481203] admin_delete
+[12.01.25 18:02:02] SUCCESS PacMan[268481203] admin_admin
+[12.01.25 18:02:03] SUCCESS PacMan[268481203] admin_char_manage
+[12.01.25 18:02:04] SUCCESS PacMan[268481203] admin_show_characters 0
+[12.01.25 18:02:07] SUCCESS PacMan[268481203] admin_teleportto Litis

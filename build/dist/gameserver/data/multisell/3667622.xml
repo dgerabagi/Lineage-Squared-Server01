@@ -1,0 +1,189 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Potions -->
+
+<list maintainEnchantment="true">
+
+	<!-- Greater Swift Attack Potion -->
+	<item>
+		<ingredient id="57" count="60000"/>
+		<production id="1375" count="1"/>
+	</item>
+
+	<!-- Greater Haste Potion -->
+	<item>
+		<ingredient id="57" count="30000"/>
+		<production id="1374" count="1"/>
+	</item>
+
+	<!-- Greater Magic Haste Potion -->
+	<item>
+		<ingredient id="57" count="60000"/>
+		<production id="6036" count="1"/>
+	</item>
+  
+	<!-- Healing Potion -->
+	<item>
+		<ingredient id="57" count="50000"/>
+		<production id="1539" count="1"/>
+	</item>
+	
+	<!-- CP Potion -->
+	<item>
+		<ingredient id="57" count="25000"/>
+		<production id="5591" count="1"/>
+	</item>
+	
+	<!-- Greater CP Potion -->
+	<item>
+		<ingredient id="57" count="50000"/>
+		<production id="5592" count="1"/>
+	</item>
+  
+    <!-- Mana Potion -->
+	<item>
+		<ingredient id="57" count="50000"/>
+		<production id="728" count="1"/>
+	</item>
+	
+	   <!-- Elixir of Life (B-Grade) -->
+  <item>
+    <ingredient id="57" count="100000"/>
+    <production id="8625" count="10"/>
+  </item>
+
+ <!-- Elixir of Life (A-Grade) -->
+  <item>
+    <ingredient id="57" count="300000"/>
+    <production id="8626" count="10"/>
+  </item>
+
+  <!-- Elixir of Life (S-Grade) -->
+  <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="8627" count="10"/>
+  </item>
+  
+   <!-- Elixir of Mental Strength (B-Grade) -->
+  <item>
+    <ingredient id="57" count="200000"/>
+    <production id="8631" count="10"/>
+  </item>
+
+  <!-- Elixir of Mental Strength (A-Grade) -->
+  <item>
+    <ingredient id="57" count="500000"/>
+    <production id="8632" count="10"/>
+  </item>
+
+  <!-- Elixir of Mental Strength (S-Grade) -->
+  <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="8633" count="10"/>
+  </item>
+
+  <!-- Elixir of CP (B-Grade) -->
+  <item>
+    <ingredient id="57" count="200000"/>
+    <production id="8637" count="10"/>
+  </item>
+
+  <!-- Elixir of CP (A-Grade) -->
+  <item>
+    <ingredient id="57" count="500000"/>
+    <production id="8638" count="10"/>
+  </item>
+  
+  <!-- Elixir of CP (S-Grade) -->
+  <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="8639" count="10"/>
+  </item>
+  
+<!-- Improved Kookaburra Ocarina -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="10313" count="1"/>
+	</item>
+	
+	<!-- Turtle Ascetic Summon Bracelet -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="14064" count="1"/>
+	</item>
+	
+	<!-- Toy Knight Summon Bracelet -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="14061" count="1"/>
+	</item>
+	
+	<!-- Spirit Shaman Summon Bracelet -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="14062" count="1"/>
+	</item>
+	
+	<!-- Owl Monk Summon Bracelet -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="14063" count="1"/>
+	</item>
+	
+	<!-- Fairy Princess Hunting Helper Necklace -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="10313" count="1"/>
+	</item>
+	
+	<!-- White Weasel Hunting Helper Necklace -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="13017" count="1"/>
+	</item>
+	
+	<!-- Wild Beast Fighter Hunting Helper Necklace -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="13019" count="1"/>
+	</item>
+	
+	<!-- Fox Shaman Hunting Helper Necklace -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="13020" count="1"/>
+	</item>
+	
+	<!-- Improved Cougar Chime -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="10312" count="1"/>
+	</item>
+	
+	<!-- Improved Buffalo Panpipe -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="10311" count="1"/>
+	</item>
+	
+	<!-- Fenrir Necklace -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="10426" count="1"/>
+	</item>
+	
+	<!-- Guardian's Dragon Bugle -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="14819" count="1"/>
+	</item>
+	
+	<!-- Deinonychus Mesozoic Stone -->
+	<item>
+		<ingredient id="57" count="50000000"/>
+		<production id="14828" count="1"/>
+	</item>
+	
+
+
+</list>

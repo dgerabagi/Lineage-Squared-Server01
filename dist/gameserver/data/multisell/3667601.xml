@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<!-- Vote Rewards List -->
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<production id="10178" count="3"/>	<!-- Sweet Fruit Cocktail -->
+		<ingredient id="7569" count="1"/>	<!-- Four-Leaf Clover -->
+	</item>
+	<item>
+		<production id="10179" count="3"/>	<!-- Fresh Fruit Cocktail -->
+		<ingredient id="7569" count="1"/>	<!-- Four-Leaf Clover -->
+	</item>
+	<item>
+		<production id="14739" count="2"/>	<!-- Fresh Milk -->
+		<ingredient id="7569" count="1"/>	<!-- Four-Leaf Clover -->
+	</item>
+	<item>
+		<production id="21243" count="2"/>	<!-- Super Healthy Juice (CP) -->
+		<ingredient id="7569" count="1"/>	<!-- Four-Leaf Clover -->
+	</item>
+	<item>
+		<production id="21239" count="3"/>	<!-- Super Healthy Juice (HP) -->
+		<ingredient id="7569" count="2"/>	<!-- Four-Leaf Clover -->
+	</item>
+	<item>
+		<production id="21210" count="2"/>	<!-- MP Recovery Potion -->
+		<ingredient id="7569" count="3"/>	<!-- Four-Leaf Clover -->
+	</item>
+	<item>
+		<production id="20391" count="2"/>	<!-- Vitality Maintaining Potion -->
+		<ingredient id="7569" count="3"/>	<!-- Four-Leaf Clover -->
+	</item>
+	<item>
+		<production id="14055" count="2"/>	<!-- Vitality Replenishing Beverage -->
+		<ingredient id="7569" count="5"/>	<!-- Four-Leaf Clover -->
+	</item>
+</list>

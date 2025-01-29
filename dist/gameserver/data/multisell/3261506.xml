@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Exchange Vesper to Noble Vesper -->
+<!-- MULTISELL - [exchange_noble_for_s84] -->
+<list>
+	<config showall="true" notax="true" keepenchanted="true"/>
+	<item>
+		<ingredient id="21874" count="1" /> <!--Medal of Glory-->
+		<production id="-300" count="50" /> <!--Fame-->
+	</item>
+	<item>
+		<production id="16306" count="1"/>		<!--Vesper Helmet (Masterwork)-->
+		<ingredient id="13137" count="1"/>		<!--Vesper Helmet-->
+		<ingredient id="14052" count="430"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13140" count="1"/>		<!--Vesper Noble Helmet-->
+		<ingredient id="16306" count="1"/>		<!--Vesper Helmet (Masterwork)-->
+		<ingredient id="14052" count="430"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16837" count="1"/>		<!--Vesper Noble Helmet (Masterwork)-->
+		<ingredient id="13140" count="1"/>		<!--Vesper Noble Helmet-->
+		<ingredient id="14052" count="430"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16307" count="1"/>		<!--Vesper Leather Helmet (Masterwork)-->
+		<ingredient id="13138" count="1"/>		<!--Vesper Leather Helmet-->
+		<ingredient id="14052" count="430"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13141" count="1"/>		<!--Vesper Noble Leather Helmet-->
+		<ingredient id="16307" count="1"/>		<!--Vesper Leather Helmet (Masterwork)-->
+		<ingredient id="14052" count="430"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16838" count="1"/>		<!--Vesper Noble Leather Helmet (Masterwork)-->
+		<ingredient id="13141" count="1"/>		<!--Vesper Noble Leather Helmet-->
+		<ingredient id="14052" count="430"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16308" count="1"/>		<!--Vesper Circlet (Masterwork)-->
+		<ingredient id="13139" count="1"/>		<!--Vesper Circlet-->
+		<ingredient id="14052" count="430"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13142" count="1"/>		<!--Vesper Noble Circlet-->
+		<ingredient id="16308" count="1"/>		<!--Vesper Circlet (Masterwork)-->
+		<ingredient id="14052" count="430"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16839" count="1"/>		<!--Vesper Noble Circlet (Masterwork)-->
+		<ingredient id="16308" count="1"/>		<!--Vesper Noble Circlet-->
+		<ingredient id="14052" count="430"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16309" count="1"/>		<!--Vesper Breastplate (Masterwork)-->
+		<ingredient id="13432" count="1"/>		<!--Vesper Breastplate-->
+		<ingredient id="14052" count="1150"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13435" count="1"/>		<!--Vesper Noble Breastplate-->
+		<ingredient id="16309" count="1"/>		<!--Vesper Breastplate (Masterwork)-->
+		<ingredient id="14052" count="1150"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16840" count="1"/>		<!--Vesper Noble Breastplate (Masterwork)-->
+		<ingredient id="13435" count="1"/>		<!--Vesper Noble Breastplate-->
+		<ingredient id="14052" count="1150"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16310" count="1"/>		<!--Vesper Leather Breastplate (Masterwork)-->
+		<ingredient id="13433" count="1"/>		<!--Vesper Leather Breastplate-->
+		<ingredient id="14052" count="860"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13436" count="1"/>		<!--Vesper Noble Houberk-->
+		<ingredient id="16310" count="1"/>		<!--Vesper Leather Breastplate (Masterwork)-->
+		<ingredient id="14052" count="860"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16841" count="1"/>		<!--Vesper Noble Houberk (Masterwork)-->
+		<ingredient id="13436" count="1"/>		<!--Vesper Noble Leather Breastplate-->
+		<ingredient id="14052" count="860"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16311" count="1"/>		<!--Vesper Tunic (Masterwork)-->
+		<ingredient id="13434" count="1"/>		<!--Vesper Tunic-->
+		<ingredient id="14052" count="860"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13437" count="1"/>		<!--Vesper Noble Tunic-->
+		<ingredient id="16311" count="1"/>		<!--Vesper Tunic (Masterwork)-->
+		<ingredient id="14052" count="860"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16842" count="1"/>		<!--Vesper Noble Tunic (Masterwork)-->
+		<ingredient id="13437" count="1"/>		<!--Vesper Noble Tunic-->
+		<ingredient id="14052" count="860"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16312" count="1"/>		<!--Vesper Gaiters (Masterwork)-->
+		<ingredient id="13438" count="1"/>		<!--Vesper Gaiters-->
+		<ingredient id="14052" count="720"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13448" count="1"/>		<!--Vesper Noble Gaiter-->
+		<ingredient id="16312" count="1"/>		<!--Vesper Gaiter (Masterwork)-->
+		<ingredient id="14052" count="720"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16843" count="1"/>		<!--Vesper Noble Gaiter (Masterwork)-->
+		<ingredient id="13448" count="1"/>		<!--Vesper Noble Gaiter-->
+		<ingredient id="14052" count="720"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16313" count="1"/>		<!--Vesper Leather Leggings (Masterwork)-->
+		<ingredient id="13441" count="1"/>		<!--Vesper Leather Leggings-->
+		<ingredient id="14052" count="540"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13451" count="1"/>		<!--Vesper Noble Leather Legging-->
+		<ingredient id="16313" count="1"/>		<!--Vesper Leather Legging (Masterwork)-->
+		<ingredient id="14052" count="540"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16844" count="1"/>		<!--Vesper Noble Leather Legging (Masterwork)-->
+		<ingredient id="13451" count="1"/>		<!--Vesper Noble Leather Legging-->
+		<ingredient id="14052" count="540"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16314" count="1"/>		<!--Vesper Stockings (Masterwork)-->
+		<ingredient id="13444" count="1"/>		<!--Vesper Stockings-->
+		<ingredient id="14052" count="540"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13454" count="1"/>		<!--Vesper Noble Stockings-->
+		<ingredient id="16314" count="1"/>		<!--Vesper Stockings (Masterwork)-->
+		<ingredient id="14052" count="540"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16845" count="1"/>		<!--Vesper Noble Stockings (Masterwork)-->
+		<ingredient id="13454" count="1"/>		<!--Vesper Noble Stockings-->
+		<ingredient id="14052" count="540"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16315" count="1"/>		<!--Vesper Gauntlet (Masterwork)-->
+		<ingredient id="13439" count="1"/>		<!--Vesper Gauntlet-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13449" count="1"/>		<!--Vesper Noble Gauntlet-->
+		<ingredient id="16315" count="1"/>		<!--Vesper Gauntlet (Masterwork)-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16846" count="1"/>		<!--Vesper Noble Gauntlet (Masterwork)-->
+		<ingredient id="13449" count="1"/>		<!--Vesper Noble Gauntlet-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16316" count="1"/>		<!--Vesper Leather Gloves (Masterwork)-->
+		<ingredient id="13442" count="1"/>		<!--Vesper Leather Gloves-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13452" count="1"/>		<!--Vesper Noble Leather Gloves-->
+		<ingredient id="16316" count="1"/>		<!--Vesper Leather Gloves (Masterwork)-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16847" count="1"/>		<!--Vesper Noble Leather Gloves (Masterwork)-->
+		<ingredient id="13452" count="1"/>		<!--Vesper Noble Leather Gloves-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16317" count="1"/>		<!--Vesper Gloves (Masterwork)-->
+		<ingredient id="13445" count="1"/>		<!--Vesper Gloves-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13455" count="1"/>		<!--Vesper Noble Gloves-->
+		<ingredient id="16317" count="1"/>		<!--Vesper Gloves (Masterwork)-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16848" count="1"/>		<!--Vesper Noble Gloves (Masterwork)-->
+		<ingredient id="13455" count="1"/>		<!--Vesper Noble Gloves-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16318" count="1"/>		<!--Vesper Boots (Masterwork)-->
+		<ingredient id="13440" count="1"/>		<!--Vesper Boots-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13450" count="1"/>		<!--Vesper Noble Boots-->
+		<ingredient id="16318" count="1"/>		<!--Vesper Boots (Masterwork)-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16849" count="1"/>		<!--Vesper Noble Boots (Masterwork)-->
+		<ingredient id="13450" count="1"/>		<!--Vesper Noble Boots-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16319" count="1"/>		<!--Vesper Leather Boots (Masterwork)-->
+		<ingredient id="13443" count="1"/>		<!--Vesper Leather Boots-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13453" count="1"/>		<!--Vesper Noble Leather Boots-->
+		<ingredient id="16319" count="1"/>		<!--Vesper Leather Boots (Masterwork)-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16850" count="1"/>		<!--Vesper Noble Leather Boots (Masterwork)-->
+		<ingredient id="13453" count="1"/>		<!--Vesper Noble Leather Boots-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16320" count="1"/>		<!--Vesper Shoes (Masterwork)-->
+		<ingredient id="13446" count="1"/>		<!--Vesper Shoes-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="13456" count="1"/>		<!--Vesper Noble Shoes-->
+		<ingredient id="16320" count="1"/>		<!--Vesper Shoes (Masterwork)-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16851" count="1"/>		<!--Vesper Noble Shoes (Masterwork)-->
+		<ingredient id="13456" count="1"/>		<!--Vesper Noble Shoes-->
+		<ingredient id="14052" count="290"/>	<!--Noble Enhancement Stone-->
+		<ingredient id="-300" count="2000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16150" count="1"/>		<!--Vesper Dual Sword - Destruction-->
+		<ingredient id="52" count="1"/>		<!--Vesper Dual Sword-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16042" count="1"/>		<!--Vesper Cutter - Thunder-->
+		<ingredient id="13457" count="1"/>		<!--Vesper Cutter-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16043" count="1"/>		<!--Vesper Slasher - Gale-->
+		<ingredient id="13458" count="1"/>		<!--Vesper Slasher-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16044" count="1"/>		<!--Vesper Buster - Cleverness-->
+		<ingredient id="13459" count="1"/>		<!--Vesper Buster-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16045" count="1"/>		<!--Vesper Shaper -  Gale-->
+		<ingredient id="13460" count="1"/>		<!--Vesper Shaper-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16046" count="1"/>		<!--Vesper Fighter - Gale-->
+		<ingredient id="13461" count="1"/>		<!--Vesper Fighter-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16047" count="1"/>		<!--Vesper Stormer - Thunder-->
+		<ingredient id="13462" count="1"/>		<!--Vesper Stormer-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16048" count="1"/>		<!--Vesper Avenger - Landslide-->
+		<ingredient id="13463" count="1"/>		<!--Vesper Avenger-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16049" count="1"/>		<!--Vesper Retributer - Gale-->
+		<ingredient id="13464" count="1"/>		<!--Vesper Retributer-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16050" count="1"/>		<!--Vesper Caster - Cleverness-->
+		<ingredient id="13465" count="1"/>		<!--Vesper Caster-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16051" count="1"/>		<!--Vesper Singer - Hail-->
+		<ingredient id="13466" count="1"/>		<!--Vesper Singer-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16052" count="1"/>		<!--Vesper Thrower - Clairvoyance-->
+		<ingredient id="13467" count="1"/>		<!--Vesper Thrower-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16053" count="1"/>		<!--Vesper Pincer - Thunder-->
+		<ingredient id="13468" count="1"/>		<!--Vesper Pincer-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16054" count="1"/>		<!--Vesper Shooter - Clairvoyance-->
+		<ingredient id="13469" count="1"/>		<!--Vesper Shooter-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16055" count="1"/>		<!--Vesper Nagan - Gale-->
+		<ingredient id="13470" count="1"/>		<!--Vesper Nagan-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+	<item>
+		<production id="16148" count="1"/>		<!--Vesper Dual Daggers - Gale-->
+		<ingredient id="13884" count="1"/>		<!--Vesper Dual Daggers-->
+		<ingredient id="-300" count="6000" />	<!--Fame-->
+	</item>
+</list>

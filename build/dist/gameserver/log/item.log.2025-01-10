@@ -1,0 +1,767 @@
+[10.01.25 00:16:08] WarehouseWithdraw 9445 Dynasty Bow (1)[268556262] Mochin[268580951] 1
+[10.01.25 00:16:08] WarehouseWithdraw 9445 Dynasty Bow (1)[268556371] Mochin[268580951] 1
+[10.01.25 00:16:08] WarehouseWithdraw 9445 Dynasty Bow (1)[268557239] Mochin[268580951] 1
+[10.01.25 00:17:28] EnchantFail 9445 +3 Dynasty Bow (1)[268556371] Mochin[268580951] 1
+[10.01.25 00:19:28] EnchantFail 9445 +4 Dynasty Bow (1)[268556262] Mochin[268580951] 1
+[10.01.25 00:20:31] EnchantFail 9445 +5 Dynasty Bow (1)[268557239] Mochin[268580951] 1
+[10.01.25 00:25:27] RefundSell 13463 Vesper Avenger (1)[268519306] Mochin[268580951] 1
+[10.01.25 00:25:44] Delete 8858 Shadow Item: Great Axe (1)[268483039] Mochin[268580951] 1
+[10.01.25 01:04:35] Delete 1799 Recipe: Leather Gloves (2)[268485304] Jessy[268556006] 2
+[10.01.25 01:05:17] Delete 1803 Recipe: Necklace of Wisdom (3)[268485284] Jessy[268556006] 3
+[10.01.25 01:05:19] Delete 1814 Recipe: Leather (1)[268485213] Jessy[268556006] 1
+[10.01.25 01:07:43] Crystalize 1123 Blue Buckskin Boots (1)[268485412] Jessy[268556006] 1
+[10.01.25 01:07:46] Delete 2022 Mace of Judgment Head (1)[268485435] Jessy[268556006] 1
+[10.01.25 01:07:47] Crystalize 605 Leather Gauntlets (1)[268485368] Jessy[268556006] 1
+[10.01.25 01:08:54] Delete 1341 Bone Arrow (165)[268485480] Jessy[268556006] 165
+[10.01.25 01:20:37] Delete 6698 Sealed Tateossian Earring Part (3)[268486356] Jessy[268556006] 3
+[10.01.25 01:23:20] Crystalize 1123 Blue Buckskin Boots (1)[268485452] Jessy[268556006] 1
+[10.01.25 01:23:22] Delete 4155 Recipe: Blue Wolf Breastplate (100%) (1)[268485919] Jessy[268556006] 1
+[10.01.25 01:23:24] Drop 4064 Avadon Breastplate Part (1)[268485862] Jessy[268556006] 1
+[10.01.25 01:23:25] Drop 4057 Zubei's Gaiter Material (3)[268485850] Jessy[268556006] 3
+[10.01.25 01:23:27] Drop 4065 Avadon Gaiters Material (2)[268485952] Jessy[268556006] 2
+[10.01.25 01:23:29] Drop 4067 Zubei's Leather Gaiter Texture (2)[268485806] Jessy[268556006] 2
+[10.01.25 01:23:30] Drop 4066 Zubei's Leather Shirt Fabric (1)[268485816] Jessy[268556006] 1
+[10.01.25 01:23:31] Drop 4051 Adamantite Necklace Chain (2)[268485843] Jessy[268556006] 2
+[10.01.25 01:23:33] Drop 1977 Composite Armor Temper (7)[268485625] Jessy[268556006] 7
+[10.01.25 01:23:35] Drop 2970 Recipe: Ring of Binding (1)[268485624] Jessy[268556006] 1
+[10.01.25 01:23:36] Drop 2110 Heathen's Book Page (3)[268485614] Jessy[268556006] 3
+[10.01.25 01:23:38] Drop 1341 Bone Arrow (264)[268485554] Jessy[268556006] 264
+[10.01.25 01:23:39] Drop 2147 Recipe: Blacksmith's frame (1)[268485553] Jessy[268556006] 1
+[10.01.25 01:23:41] Drop 1832 Greater Antidote (13)[268485485] Jessy[268556006] 13
+[10.01.25 01:23:42] Drop 2032 Goat Head Staff Head (1)[268485503] Jessy[268556006] 1
+[10.01.25 01:23:45] Drop 2023 Conjuror's Staff Head (2)[268485355] Jessy[268556006] 2
+[10.01.25 01:23:47] Drop 6711 Sealed Major Arcana Robe Part (4)[268486116] Jessy[268556006] 4
+[10.01.25 01:23:49] Drop 6700 Sealed Tateossian Necklace Chain (4)[268486314] Jessy[268556006] 4
+[10.01.25 01:23:51] Drop 6698 Sealed Tateossian Earring Part (2)[268486544] Jessy[268556006] 2
+[10.01.25 01:23:52] Drop 6707 Sealed Draconic Leather Armor Part (4)[268486157] Jessy[268556006] 4
+[10.01.25 01:23:55] Drop 6701 Sealed Imperial Crusader Breastplate Part (4)[268486156] Jessy[268556006] 4
+[10.01.25 01:23:57] Drop 4050 Adamantite Ring Wire (2)[268485965] Jessy[268556006] 2
+[10.01.25 01:23:58] Drop 4049 Adamantite Earring Gemstone (1)[268486029] Jessy[268556006] 1
+[10.01.25 01:24:01] Drop 6699 Sealed Tateossian Ring Gem (8)[268486313] Jessy[268556006] 8
+[10.01.25 01:24:05] Drop 1343 Silver Arrow (267)[268485864] Jessy[268556006] 267
+[10.01.25 01:24:08] Drop 6037 Waking Scroll (26)[268485357] Jessy[268556006] 26
+[10.01.25 01:25:28] Drop 5545 Dark Legion's Edge Blade (1)[268549290] Jessy[268556006] 1
+[10.01.25 02:21:14] TradeSell 6608 +3 Arcana Mace \Acumen\ (1)[268579344] BP[268498507] 1
+[10.01.25 02:21:14] TradeBuy 6608 +3 Arcana Mace \Acumen\ (1)[268579344] Judi[268506949] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 16842 Vesper Noble Tunic (1)[268513105] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 16845 Vesper Noble Stockings (1)[268513108] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 16839 Vesper Noble Circlet (1)[268513099] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 16851 Vesper Noble Shoes (1)[268513114] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 16848 Vesper Noble Gloves (1)[268513111] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 11601 +3 Dynasty Earring (1)[268601185] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 14161 Sealed Vesper Necklace (1)[268609287] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 14162 Sealed Vesper Ring (1)[268539773] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 14162 Sealed Vesper Ring (1)[268509507] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 14163 +3 Vesper Earring (1)[268506295] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 14221 Forgotten Scroll - Turn Stone (1)[268550971] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 10481 Blue Soul Crystal - Stage 15 (1)[268529640] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 10482 Green Soul Crystal - Stage 15 (1)[268538489] Jessy[268556006] 1
+[10.01.25 02:22:50] ClanWarehouseWithdraw 21713 Sealed Cloak of Zaken (1)[268539784] Jessy[268556006] 1
+[10.01.25 02:23:45] ClanWarehouseWithdraw 15710 Sealed Moirai Shield  (1)[268493509] Jessy[268556006] 1
+[10.01.25 02:23:48] WarehouseWithdraw 15544 Eternal Core Sword (1)[268560349] Jessy[268556006] 1
+[10.01.25 02:24:14] ClanWarehouseDeposit 15544 Eternal Core Sword (1)[268560349] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeSell 14161 Sealed Vesper Necklace (1)[268609287] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 14161 Sealed Vesper Necklace (1)[268609287] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 11601 +3 Dynasty Earring (1)[268601185] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 11601 +3 Dynasty Earring (1)[268601185] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 14162 Sealed Vesper Ring (1)[268539773] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 14162 Sealed Vesper Ring (1)[268539773] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 14162 Sealed Vesper Ring (1)[268509507] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 14162 Sealed Vesper Ring (1)[268509507] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 14163 +3 Vesper Earring (1)[268506295] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 14163 +3 Vesper Earring (1)[268506295] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 14221 Forgotten Scroll - Turn Stone (1)[268550971] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 14221 Forgotten Scroll - Turn Stone (1)[268550971] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 10481 Blue Soul Crystal - Stage 15 (1)[268529640] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 10481 Blue Soul Crystal - Stage 15 (1)[268529640] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 21713 Sealed Cloak of Zaken (1)[268539784] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 21713 Sealed Cloak of Zaken (1)[268539784] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 15710 Sealed Moirai Shield  (1)[268493509] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 15710 Sealed Moirai Shield  (1)[268493509] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 16842 Vesper Noble Tunic (1)[268513105] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 16842 Vesper Noble Tunic (1)[268513105] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 16845 Vesper Noble Stockings (1)[268513108] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 16845 Vesper Noble Stockings (1)[268513108] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 16839 Vesper Noble Circlet (1)[268513099] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 16839 Vesper Noble Circlet (1)[268513099] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 16851 Vesper Noble Shoes (1)[268513114] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 16851 Vesper Noble Shoes (1)[268513114] Judi[268506949] 1
+[10.01.25 02:24:49] TradeSell 16848 Vesper Noble Gloves (1)[268513111] Jessy[268556006] 1
+[10.01.25 02:24:49] TradeBuy 16848 Vesper Noble Gloves (1)[268513111] Judi[268506949] 1
+[10.01.25 03:01:48] Drop 8876 Magic Symbol (55)[268491777] BP[268498507] 55
+[10.01.25 03:20:36] Drop 728 Mana Potion (111)[268492081] BP[268498507] 111
+[10.01.25 03:48:15] ClanWarehouseDeposit 14105 Sealed Vesper Breastplate (1)[268492739] Jessy[268556006] 1
+[10.01.25 05:45:01] Crystalize 6684 Sealed Major Arcana Robe (1)[268497197] Jessy[268556006] 1
+[10.01.25 05:45:08] Drop 5544 Branch of the Mother Tree Head (1)[268497209] Jessy[268556006] 1
+[10.01.25 05:56:55] WarehouseDeposit 14166 Life Stone - level 84 (34)[268487304] Jessy[268556006] 34
+[10.01.25 05:56:55] WarehouseDeposit 14167 Mid-Grade Life Stone - level 84 (10)[268487348] Jessy[268556006] 10
+[10.01.25 05:56:55] WarehouseDeposit 14168 High-Grade Life Stone - level 84 (1)[268487853] Jessy[268556006] 1
+[10.01.25 05:56:55] WarehouseDeposit 16160 Life Stone - level 85 (22)[268487340] Jessy[268556006] 22
+[10.01.25 05:56:55] WarehouseDeposit 16161 Mid-Grade Life Stone - level 85 (8)[268487343] Jessy[268556006] 8
+[10.01.25 05:56:55] WarehouseDeposit 6361 Green Seal Stone (252777)[268485466] Jessy[268556006] 252777
+[10.01.25 05:56:55] WarehouseDeposit 6360 Blue Seal Stone (94458)[268485362] Jessy[268556006] 94458
+[10.01.25 05:56:55] WarehouseDeposit 6362 Red Seal Stone (48277)[268485361] Jessy[268556006] 48277
+[10.01.25 05:56:55] WarehouseDeposit 6319 Mimir's Elixir (1)[268488538] Jessy[268556006] 1
+[10.01.25 05:56:55] WarehouseDeposit 15632 Sub Class Reward (1)[268497206] Jessy[268556006] 1
+[10.01.25 05:56:55] WarehouseDeposit 15632 Sub Class Reward (1)[268492743] Jessy[268556006] 1
+[10.01.25 05:57:28] ClanWarehouseWithdraw 16838 Vesper Noble Leather Helmet (1)[268549671] Jessy[268556006] 1
+[10.01.25 05:57:28] ClanWarehouseWithdraw 16841 Vesper Noble Leather Breastplate (1)[268549674] Jessy[268556006] 1
+[10.01.25 05:57:28] ClanWarehouseWithdraw 16844 Vesper Noble Leather Legging (1)[268549683] Jessy[268556006] 1
+[10.01.25 05:57:28] ClanWarehouseWithdraw 16847 Vesper Noble Leather Gloves (1)[268549780] Jessy[268556006] 1
+[10.01.25 05:57:28] ClanWarehouseWithdraw 16850 Vesper Noble Leather Boots (1)[268549783] Jessy[268556006] 1
+[10.01.25 05:57:28] ClanWarehouseWithdraw 14160 Sealed Vesper Earring (1)[268493506] Jessy[268556006] 1
+[10.01.25 05:57:28] ClanWarehouseWithdraw 14160 Sealed Vesper Earring (1)[268517769] Jessy[268556006] 1
+[10.01.25 05:57:28] ClanWarehouseWithdraw 6660 Ring of Queen Ant (1)[268506319] Jessy[268556006] 1
+[10.01.25 05:57:28] ClanWarehouseWithdraw 14162 Sealed Vesper Ring (1)[268493505] Jessy[268556006] 1
+[10.01.25 05:57:28] ClanWarehouseWithdraw 15766 Sealed Moirai Ring (1)[268541435] Jessy[268556006] 1
+[10.01.25 05:57:50] ClanWarehouseWithdraw 11269 +7 Dynasty Blade - Great Gale \Focus\ (1)[268634139] Jessy[268556006] 1
+[10.01.25 05:57:50] ClanWarehouseWithdraw 9857 +7 Dynasty Blade \Focus\ (1)[268529854] Jessy[268556006] 1
+[10.01.25 05:59:32] TradeSell 16841 Vesper Noble Leather Breastplate (1)[268549674] Jessy[268556006] 1
+[10.01.25 05:59:32] TradeBuy 16841 Vesper Noble Leather Breastplate (1)[268549674] 17[268497646] 1
+[10.01.25 05:59:32] TradeSell 16844 Vesper Noble Leather Legging (1)[268549683] Jessy[268556006] 1
+[10.01.25 05:59:32] TradeBuy 16844 Vesper Noble Leather Legging (1)[268549683] 17[268497646] 1
+[10.01.25 05:59:32] TradeSell 16838 Vesper Noble Leather Helmet (1)[268549671] Jessy[268556006] 1
+[10.01.25 05:59:32] TradeBuy 16838 Vesper Noble Leather Helmet (1)[268549671] 17[268497646] 1
+[10.01.25 05:59:32] TradeSell 1467 Soulshot: S-grade (4444)[268497661] Jessy[268556006] 4444
+[10.01.25 05:59:32] TradeBuy 1467 Soulshot: S-grade (4444)[268497661] 17[268497646] 4444
+[10.01.25 05:59:32] TradeSell 16847 Vesper Noble Leather Gloves (1)[268549780] Jessy[268556006] 1
+[10.01.25 05:59:32] TradeBuy 16847 Vesper Noble Leather Gloves (1)[268549780] 17[268497646] 1
+[10.01.25 05:59:32] TradeSell 10482 Green Soul Crystal - Stage 15 (1)[268538489] Jessy[268556006] 1
+[10.01.25 05:59:32] TradeBuy 10482 Green Soul Crystal - Stage 15 (1)[268538489] 17[268497646] 1
+[10.01.25 05:59:32] TradeSell 14160 Sealed Vesper Earring (1)[268493506] Jessy[268556006] 1
+[10.01.25 05:59:32] TradeBuy 14160 Sealed Vesper Earring (1)[268493506] 17[268497646] 1
+[10.01.25 05:59:32] TradeSell 14160 Sealed Vesper Earring (1)[268517769] Jessy[268556006] 1
+[10.01.25 05:59:32] TradeBuy 14160 Sealed Vesper Earring (1)[268517769] 17[268497646] 1
+[10.01.25 05:59:32] TradeSell 6660 Ring of Queen Ant (1)[268506319] Jessy[268556006] 1
+[10.01.25 05:59:32] TradeBuy 6660 Ring of Queen Ant (1)[268506319] 17[268497646] 1
+[10.01.25 05:59:32] TradeSell 14162 Sealed Vesper Ring (1)[268493505] Jessy[268556006] 1
+[10.01.25 05:59:32] TradeBuy 14162 Sealed Vesper Ring (1)[268493505] 17[268497646] 1
+[10.01.25 05:59:32] TradeSell 11269 +7 Dynasty Blade - Great Gale \Focus\ (1)[268634139] Jessy[268556006] 1
+[10.01.25 05:59:32] TradeBuy 11269 +7 Dynasty Blade - Great Gale \Focus\ (1)[268634139] 17[268497646] 1
+[10.01.25 05:59:45] Drop 16850 Vesper Noble Leather Boots (1)[268549783] Jessy[268556006] 1
+[10.01.25 06:03:51] ClanWarehouseWithdraw 11599 +3 Dynasty Necklace (1)[268601183] Jessy[268556006] 1
+[10.01.25 06:04:06] Drop 11599 +3 Dynasty Necklace (1)[268601183] Jessy[268556006] 1
+[10.01.25 06:22:29] TradeSell 57 Adena (150000000)[268498968] Tromb[268512555] 150000000
+[10.01.25 06:22:29] TradeBuy 57 Adena (150000000)[268498968] DarkQ[268498800] 150000000
+[10.01.25 06:22:29] TradeSell 6676 Sealed Imperial Crusader Gauntlet (1)[268521118] Tromb[268512555] 1
+[10.01.25 06:22:29] TradeBuy 6676 Sealed Imperial Crusader Gauntlet (1)[268521118] DarkQ[268498800] 1
+[10.01.25 06:22:29] TradeSell 6677 Sealed Imperial Crusader Boots (1)[268521373] Tromb[268512555] 1
+[10.01.25 06:22:29] TradeBuy 6677 Sealed Imperial Crusader Boots (1)[268521373] DarkQ[268498800] 1
+[10.01.25 06:22:29] TradeSell 9549 Wind Stone (8)[268526538] Tromb[268512555] 8
+[10.01.25 06:22:29] TradeBuy 9549 Wind Stone (8)[268526538] DarkQ[268498800] 8
+[10.01.25 06:22:29] TradeSell 1462 Crystal: S Grade (146)[268544066] Tromb[268512555] 146
+[10.01.25 06:22:29] TradeBuy 1462 Crystal: S Grade (146)[268544066] DarkQ[268498800] 146
+[10.01.25 06:22:29] TradeSell 9550 Dark Stone (4)[268505062] Tromb[268512555] 4
+[10.01.25 06:22:29] TradeBuy 9550 Dark Stone (4)[268505062] DarkQ[268498800] 4
+[10.01.25 06:22:29] TradeSell 9548 Earth Stone (2)[268517840] Tromb[268512555] 2
+[10.01.25 06:22:29] TradeBuy 9548 Earth Stone (2)[268517840] DarkQ[268498800] 2
+[10.01.25 06:22:29] TradeSell 6622 Giant's Codex (12)[268526070] Tromb[268512555] 12
+[10.01.25 06:22:29] TradeBuy 6622 Giant's Codex (12)[268526070] DarkQ[268498800] 12
+[10.01.25 06:22:29] TradeSell 9547 Water Stone (6)[268520674] Tromb[268512555] 6
+[10.01.25 06:22:29] TradeBuy 9547 Water Stone (6)[268520674] DarkQ[268498800] 6
+[10.01.25 06:22:29] TradeSell 728 Mana Potion (319)[268493065] Tromb[268512555] 319
+[10.01.25 06:22:29] TradeBuy 728 Mana Potion (319)[268493065] DarkQ[268498800] 319
+[10.01.25 06:46:23] Crystalize 6328 Sealed Majestic Ring (1)[268498980] DarkQ[268498800] 1
+[10.01.25 06:50:03] TradeSell 14160 Sealed Vesper Earring (1)[268493506] 17[268497646] 1
+[10.01.25 06:50:03] TradeBuy 14160 Sealed Vesper Earring (1)[268493506] Jessy[268556006] 1
+[10.01.25 06:50:03] TradeSell 14160 Sealed Vesper Earring (1)[268517769] 17[268497646] 1
+[10.01.25 06:50:03] TradeBuy 14160 Sealed Vesper Earring (1)[268517769] Jessy[268556006] 1
+[10.01.25 06:50:03] TradeSell 14162 Sealed Vesper Ring (1)[268493505] 17[268497646] 1
+[10.01.25 06:50:03] TradeBuy 14162 Sealed Vesper Ring (1)[268493505] Jessy[268556006] 1
+[10.01.25 06:50:03] TradeSell 13144 Sealed Vesper Leather Helmet (1)[268493534] 17[268497646] 1
+[10.01.25 06:50:03] TradeBuy 13144 Sealed Vesper Leather Helmet (1)[268493534] Jessy[268556006] 1
+[10.01.25 06:50:03] TradeSell 6660 Ring of Queen Ant (1)[268506319] 17[268497646] 1
+[10.01.25 06:50:03] TradeBuy 6660 Ring of Queen Ant (1)[268506319] Jessy[268556006] 1
+[10.01.25 06:50:03] TradeSell 57 Adena (300000000)[268500665] 17[268497646] 300000000
+[10.01.25 06:50:03] TradeBuy 57 Adena (300000000)[268500665] Jessy[268556006] 300000000
+[10.01.25 06:50:03] TradeSell 16847 Vesper Noble Leather Gloves (1)[268549780] 17[268497646] 1
+[10.01.25 06:50:03] TradeBuy 16847 Vesper Noble Leather Gloves (1)[268549780] Jessy[268556006] 1
+[10.01.25 06:50:03] TradeSell 16838 Vesper Noble Leather Helmet (1)[268549671] 17[268497646] 1
+[10.01.25 06:50:03] TradeBuy 16838 Vesper Noble Leather Helmet (1)[268549671] Jessy[268556006] 1
+[10.01.25 06:50:03] TradeSell 11269 +7 Dynasty Blade - Great Gale \Focus\ (1)[268634139] 17[268497646] 1
+[10.01.25 06:50:03] TradeBuy 11269 +7 Dynasty Blade - Great Gale \Focus\ (1)[268634139] Jessy[268556006] 1
+[10.01.25 06:50:03] TradeSell 16841 Vesper Noble Leather Breastplate (1)[268549674] 17[268497646] 1
+[10.01.25 06:50:03] TradeBuy 16841 Vesper Noble Leather Breastplate (1)[268549674] Jessy[268556006] 1
+[10.01.25 06:50:03] TradeSell 16850 Vesper Noble Leather Boots (1)[268549783] 17[268497646] 1
+[10.01.25 06:50:03] TradeBuy 16850 Vesper Noble Leather Boots (1)[268549783] Jessy[268556006] 1
+[10.01.25 06:50:03] TradeSell 16844 Vesper Noble Leather Legging (1)[268549683] 17[268497646] 1
+[10.01.25 06:50:03] TradeBuy 16844 Vesper Noble Leather Legging (1)[268549683] Jessy[268556006] 1
+[10.01.25 06:50:03] TradeSell 11599 +3 Dynasty Necklace (1)[268601183] 17[268497646] 1
+[10.01.25 06:50:03] TradeBuy 11599 +3 Dynasty Necklace (1)[268601183] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 10481 Blue Soul Crystal - Stage 15 (1)[268529640] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 10481 Blue Soul Crystal - Stage 15 (1)[268529640] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 21716 Cloak of Zaken (1)[268489724] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 21716 Cloak of Zaken (1)[268489724] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 15710 Sealed Moirai Shield  (1)[268493509] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 15710 Sealed Moirai Shield  (1)[268493509] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 14163 +3 Vesper Earring (1)[268506295] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 14163 +3 Vesper Earring (1)[268506295] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 14162 Sealed Vesper Ring (1)[268509507] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 14162 Sealed Vesper Ring (1)[268509507] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 16845 Vesper Noble Stockings (1)[268513108] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 16845 Vesper Noble Stockings (1)[268513108] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 16848 Vesper Noble Gloves (1)[268513111] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 16848 Vesper Noble Gloves (1)[268513111] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 16851 Vesper Noble Shoes (1)[268513114] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 16851 Vesper Noble Shoes (1)[268513114] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 14162 Sealed Vesper Ring (1)[268539773] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 14162 Sealed Vesper Ring (1)[268539773] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 6608 +3 Arcana Mace \Acumen\ (1)[268579344] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 6608 +3 Arcana Mace \Acumen\ (1)[268579344] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 11601 +3 Dynasty Earring (1)[268601185] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 11601 +3 Dynasty Earring (1)[268601185] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 14161 Sealed Vesper Necklace (1)[268609287] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 14161 Sealed Vesper Necklace (1)[268609287] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 16842 Vesper Noble Tunic (1)[268513105] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 16842 Vesper Noble Tunic (1)[268513105] Jessy[268556006] 1
+[10.01.25 06:50:35] TradeSell 16839 Vesper Noble Circlet (1)[268513099] Judi[268506949] 1
+[10.01.25 06:50:35] TradeBuy 16839 Vesper Noble Circlet (1)[268513099] Jessy[268556006] 1
+[10.01.25 06:50:44] Drop 10482 Green Soul Crystal - Stage 15 (1)[268538489] 17[268497646] 1
+[10.01.25 06:54:07] TradeSell 14163 +3 Vesper Earring (1)[268556402] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 14163 +3 Vesper Earring (1)[268556402] zak[268531058] 1
+[10.01.25 06:54:07] TradeSell 6659 +8 Zaken's Earring (1)[268539790] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 6659 +8 Zaken's Earring (1)[268539790] zak[268531058] 1
+[10.01.25 06:54:07] TradeSell 14164 +3 Vesper Necklace (1)[268556406] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 14164 +3 Vesper Necklace (1)[268556406] zak[268531058] 1
+[10.01.25 06:54:07] TradeSell 6660 +7 Ring of Queen Ant (1)[268534664] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 6660 +7 Ring of Queen Ant (1)[268534664] zak[268531058] 1
+[10.01.25 06:54:07] TradeSell 16838 +6 Vesper Noble Leather Helmet (1)[268658770] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 16838 +6 Vesper Noble Leather Helmet (1)[268658770] zak[268531058] 1
+[10.01.25 06:54:07] TradeSell 15720 +6 Vorpal Ring (1)[268527832] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 15720 +6 Vorpal Ring (1)[268527832] zak[268531058] 1
+[10.01.25 06:54:07] TradeSell 16847 +6 Vesper Noble Leather Gloves (1)[268572524] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 16847 +6 Vesper Noble Leather Gloves (1)[268572524] zak[268531058] 1
+[10.01.25 06:54:07] TradeSell 16850 +6 Vesper Noble Leather Boots (1)[268572520] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 16850 +6 Vesper Noble Leather Boots (1)[268572520] zak[268531058] 1
+[10.01.25 06:54:07] TradeSell 16841 +6 Vesper Noble Leather Breastplate (1)[268572165] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 16841 +6 Vesper Noble Leather Breastplate (1)[268572165] zak[268531058] 1
+[10.01.25 06:54:07] TradeSell 21716 Cloak of Zaken (1)[268493637] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 21716 Cloak of Zaken (1)[268493637] zak[268531058] 1
+[10.01.25 06:54:07] TradeSell 16844 +6 Vesper Noble Leather Legging (1)[268572169] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 16844 +6 Vesper Noble Leather Legging (1)[268572169] zak[268531058] 1
+[10.01.25 06:54:07] TradeSell 11269 +7 Dynasty Blade - Great Gale \Focus\ (1)[268634139] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 11269 +7 Dynasty Blade - Great Gale \Focus\ (1)[268634139] zak[268531058] 1
+[10.01.25 06:54:07] TradeSell 10481 Blue Soul Crystal - Stage 15 (1)[268529640] Jessy[268556006] 1
+[10.01.25 06:54:07] TradeBuy 10481 Blue Soul Crystal - Stage 15 (1)[268529640] zak[268531058] 1
+[10.01.25 06:57:17] TradeSell 21716 Cloak of Zaken (1)[268489724] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 21716 Cloak of Zaken (1)[268489724] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 16845 Vesper Noble Stockings (1)[268513108] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 16845 Vesper Noble Stockings (1)[268513108] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 16851 Vesper Noble Shoes (1)[268513114] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 16851 Vesper Noble Shoes (1)[268513114] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 16848 Vesper Noble Gloves (1)[268513111] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 16848 Vesper Noble Gloves (1)[268513111] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 11601 +3 Dynasty Earring (1)[268601185] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 11601 +3 Dynasty Earring (1)[268601185] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 11599 +3 Dynasty Necklace (1)[268601183] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 11599 +3 Dynasty Necklace (1)[268601183] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 16842 Vesper Noble Tunic (1)[268513105] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 16842 Vesper Noble Tunic (1)[268513105] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 16839 Vesper Noble Circlet (1)[268513099] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 16839 Vesper Noble Circlet (1)[268513099] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 10482 Green Soul Crystal - Stage 15 (1)[268538489] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 10482 Green Soul Crystal - Stage 15 (1)[268538489] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 6608 +3 Arcana Mace \Acumen\ (1)[268579344] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 6608 +3 Arcana Mace \Acumen\ (1)[268579344] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 14162 Sealed Vesper Ring (1)[268539773] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 14162 Sealed Vesper Ring (1)[268539773] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 14162 Sealed Vesper Ring (1)[268509507] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 14162 Sealed Vesper Ring (1)[268509507] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 14160 Sealed Vesper Earring (1)[268517769] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 14160 Sealed Vesper Earring (1)[268517769] LEMA[268534243] 1
+[10.01.25 06:57:17] TradeSell 15710 Sealed Moirai Shield  (1)[268493509] Jessy[268556006] 1
+[10.01.25 06:57:17] TradeBuy 15710 Sealed Moirai Shield  (1)[268493509] LEMA[268534243] 1
+[10.01.25 06:59:25] TradeSell 16847 Vesper Noble Leather Gloves (1)[268549780] Jessy[268556006] 1
+[10.01.25 06:59:25] TradeBuy 16847 Vesper Noble Leather Gloves (1)[268549780] 11[268486633] 1
+[10.01.25 06:59:25] TradeSell 16838 Vesper Noble Leather Helmet (1)[268549671] Jessy[268556006] 1
+[10.01.25 06:59:25] TradeBuy 16838 Vesper Noble Leather Helmet (1)[268549671] 11[268486633] 1
+[10.01.25 06:59:25] TradeSell 16841 Vesper Noble Leather Breastplate (1)[268549674] Jessy[268556006] 1
+[10.01.25 06:59:25] TradeBuy 16841 Vesper Noble Leather Breastplate (1)[268549674] 11[268486633] 1
+[10.01.25 06:59:25] TradeSell 16850 Vesper Noble Leather Boots (1)[268549783] Jessy[268556006] 1
+[10.01.25 06:59:25] TradeBuy 16850 Vesper Noble Leather Boots (1)[268549783] 11[268486633] 1
+[10.01.25 06:59:25] TradeSell 16844 Vesper Noble Leather Legging (1)[268549683] Jessy[268556006] 1
+[10.01.25 06:59:25] TradeBuy 16844 Vesper Noble Leather Legging (1)[268549683] 11[268486633] 1
+[10.01.25 06:59:25] TradeSell 14163 +3 Vesper Earring (1)[268506295] Jessy[268556006] 1
+[10.01.25 06:59:25] TradeBuy 14163 +3 Vesper Earring (1)[268506295] 11[268486633] 1
+[10.01.25 06:59:25] TradeSell 6660 Ring of Queen Ant (1)[268506319] Jessy[268556006] 1
+[10.01.25 06:59:25] TradeBuy 6660 Ring of Queen Ant (1)[268506319] 11[268486633] 1
+[10.01.25 06:59:25] TradeSell 14161 Sealed Vesper Necklace (1)[268609287] Jessy[268556006] 1
+[10.01.25 06:59:25] TradeBuy 14161 Sealed Vesper Necklace (1)[268609287] 11[268486633] 1
+[10.01.25 06:59:47] Drop 9857 +7 Dynasty Blade \Focus\ (1)[268529854] Jessy[268556006] 1
+[10.01.25 07:02:26] TradeSell 14194 Forgotten Scroll - Blessing of Eva (1)[268502490] Jessy[268556006] 1
+[10.01.25 07:02:26] TradeBuy 14194 Forgotten Scroll - Blessing of Eva (1)[268502490] LEMA[268534243] 1
+[10.01.25 07:02:26] TradeSell 14195 Forgotten Scroll - Lord of Vampire (1)[268502488] Jessy[268556006] 1
+[10.01.25 07:02:26] TradeBuy 14195 Forgotten Scroll - Lord of Vampire (1)[268502488] LEMA[268534243] 1
+[10.01.25 07:03:09] Drop 10481 Blue Soul Crystal - Stage 15 (1)[268498082] Jessy[268556006] 1
+[10.01.25 07:05:52] WarehouseWithdraw 13143 Sealed Vesper Helmet (1)[268525919] 10[268481827] 1
+[10.01.25 07:05:52] WarehouseWithdraw 14213 Forgotten Scroll - Enlightenment - Healer (1)[268568841] 10[268481827] 1
+[10.01.25 07:06:15] Drop 14213 Forgotten Scroll - Enlightenment - Healer (1)[268568841] 10[268481827] 1
+[10.01.25 07:06:17] Drop 13143 Sealed Vesper Helmet (1)[268525919] 10[268481827] 1
+[10.01.25 07:18:33] Drop 1538 Blessed Scroll of Escape (2)[268503099] 11[268486633] 2
+[10.01.25 07:18:40] Drop 1538 Blessed Scroll of Escape (1)[268503102] LEMA[268534243] 1
+[10.01.25 07:19:46] TradeSell 15720 +6 Vorpal Ring (1)[268527832] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 15720 +6 Vorpal Ring (1)[268527832] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 10481 Blue Soul Crystal - Stage 15 (1)[268529640] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 10481 Blue Soul Crystal - Stage 15 (1)[268529640] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 16838 +6 Vesper Noble Leather Helmet (1)[268658770] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 16838 +6 Vesper Noble Leather Helmet (1)[268658770] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 11269 +7 Dynasty Blade - Great Gale \Focus\ (1)[268634139] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 11269 +7 Dynasty Blade - Great Gale \Focus\ (1)[268634139] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 14163 +3 Vesper Earring (1)[268556402] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 14163 +3 Vesper Earring (1)[268556402] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 15763 Sealed Vorpal Ring (1)[268503091] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 15763 Sealed Vorpal Ring (1)[268503091] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 14164 +3 Vesper Necklace (1)[268556406] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 14164 +3 Vesper Necklace (1)[268556406] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 16841 +6 Vesper Noble Leather Breastplate (1)[268572165] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 16841 +6 Vesper Noble Leather Breastplate (1)[268572165] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 16844 +6 Vesper Noble Leather Legging (1)[268572169] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 16844 +6 Vesper Noble Leather Legging (1)[268572169] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 16850 +6 Vesper Noble Leather Boots (1)[268572520] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 16850 +6 Vesper Noble Leather Boots (1)[268572520] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 16847 +6 Vesper Noble Leather Gloves (1)[268572524] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 16847 +6 Vesper Noble Leather Gloves (1)[268572524] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 6660 +7 Ring of Queen Ant (1)[268534664] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 6660 +7 Ring of Queen Ant (1)[268534664] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 21716 Cloak of Zaken (1)[268493637] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 21716 Cloak of Zaken (1)[268493637] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 6659 +8 Zaken's Earring (1)[268539790] zak[268531058] 1
+[10.01.25 07:19:46] TradeBuy 6659 +8 Zaken's Earring (1)[268539790] Jessy[268556006] 1
+[10.01.25 07:19:46] TradeSell 1538 Blessed Scroll of Escape (22)[268503142] zak[268531058] 22
+[10.01.25 07:19:46] TradeBuy 1538 Blessed Scroll of Escape (22)[268503142] Jessy[268556006] 22
+[10.01.25 07:19:46] TradeSell 3936 Blessed Scroll of Resurrection (22)[268503143] zak[268531058] 22
+[10.01.25 07:19:46] TradeBuy 3936 Blessed Scroll of Resurrection (22)[268503143] Jessy[268556006] 22
+[10.01.25 07:20:51] TradeSell 14160 Sealed Vesper Earring (1)[268514866] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 14160 Sealed Vesper Earring (1)[268514866] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 11600 +3 Dynasty Ring (1)[268601188] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 11600 +3 Dynasty Ring (1)[268601188] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 15720 Vorpal Ring (1)[268538277] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 15720 Vorpal Ring (1)[268538277] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 11557 +3 Dynasty Helmet (1)[268607200] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 11557 +3 Dynasty Helmet (1)[268607200] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 15768 Sealed Moirai Necklace (1)[268527558] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 15768 Sealed Moirai Necklace (1)[268527558] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 13463 Vesper Avenger (1)[268506340] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 13463 Vesper Avenger (1)[268506340] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 11513 +3 Dynasty Gauntlet (1)[268607198] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 11513 +3 Dynasty Gauntlet (1)[268607198] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 43 Wooden Helmet (1)[268486833] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 43 Wooden Helmet (1)[268486833] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 10230 +3 Dynasty Platinum Plate \Force Master\ (1)[268530126] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 10230 +3 Dynasty Platinum Plate \Force Master\ (1)[268530126] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 11512 +3 Dynasty Gaiters (1)[268607202] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 11512 +3 Dynasty Gaiters (1)[268607202] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 11600 +3 Dynasty Ring (1)[268541737] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 11600 +3 Dynasty Ring (1)[268541737] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 11526 +3 Dynasty Boots (1)[268607197] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 11526 +3 Dynasty Boots (1)[268607197] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 16847 Vesper Noble Leather Gloves (1)[268549780] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 16847 Vesper Noble Leather Gloves (1)[268549780] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 14163 +3 Vesper Earring (1)[268506295] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 14163 +3 Vesper Earring (1)[268506295] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 16844 Vesper Noble Leather Legging (1)[268549683] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 16844 Vesper Noble Leather Legging (1)[268549683] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 16850 Vesper Noble Leather Boots (1)[268549783] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 16850 Vesper Noble Leather Boots (1)[268549783] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 6660 Ring of Queen Ant (1)[268506319] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 6660 Ring of Queen Ant (1)[268506319] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 14161 Sealed Vesper Necklace (1)[268609287] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 14161 Sealed Vesper Necklace (1)[268609287] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 9857 +7 Dynasty Blade \Focus\ (1)[268529854] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 9857 +7 Dynasty Blade \Focus\ (1)[268529854] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 10481 Blue Soul Crystal - Stage 15 (1)[268498082] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 10481 Blue Soul Crystal - Stage 15 (1)[268498082] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 10226 Icarus Shooter (1)[268503080] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 10226 Icarus Shooter (1)[268503080] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 15696 Sealed Moirai Circlet  (1)[268503081] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 15696 Sealed Moirai Circlet  (1)[268503081] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 16162 High-Grade Life Stone - level 85 (8)[268503088] 11[268486633] 8
+[10.01.25 07:20:51] TradeBuy 16162 High-Grade Life Stone - level 85 (8)[268503088] Jessy[268556006] 8
+[10.01.25 07:20:51] TradeSell 16166 High-Grade Life Stone - level 86 (3)[268503089] 11[268486633] 3
+[10.01.25 07:20:51] TradeBuy 16166 High-Grade Life Stone - level 86 (3)[268503089] Jessy[268556006] 3
+[10.01.25 07:20:51] TradeSell 1538 Blessed Scroll of Escape (22)[268503164] 11[268486633] 22
+[10.01.25 07:20:51] TradeBuy 1538 Blessed Scroll of Escape (22)[268503164] Jessy[268556006] 22
+[10.01.25 07:20:51] TradeSell 15767 Sealed Moirai Earring (1)[268503082] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 15767 Sealed Moirai Earring (1)[268503082] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 16841 Vesper Noble Leather Breastplate (1)[268549674] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 16841 Vesper Noble Leather Breastplate (1)[268549674] Jessy[268556006] 1
+[10.01.25 07:20:51] TradeSell 16838 Vesper Noble Leather Helmet (1)[268549671] 11[268486633] 1
+[10.01.25 07:20:51] TradeBuy 16838 Vesper Noble Leather Helmet (1)[268549671] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 13463 Vesper Avenger (1)[268506340] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 10226 Icarus Shooter (1)[268503080] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 10225 Icarus Wingblade (1)[268500395] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 10230 +3 Dynasty Platinum Plate \Force Master\ (1)[268530126] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 11512 +3 Dynasty Gaiters (1)[268607202] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 11513 +3 Dynasty Gauntlet (1)[268607198] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 11526 +3 Dynasty Boots (1)[268607197] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 11557 +3 Dynasty Helmet (1)[268607200] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 15695 Sealed Moirai Leather Helmet  (1)[268500396] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 15696 Sealed Moirai Circlet  (1)[268503081] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 15699 Sealed Moirai Tunic  (1)[268500397] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 13144 Sealed Vesper Leather Helmet (1)[268493534] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 16838 Vesper Noble Leather Helmet (1)[268549671] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 16841 Vesper Noble Leather Breastplate (1)[268549674] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 16844 Vesper Noble Leather Legging (1)[268549683] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 16847 Vesper Noble Leather Gloves (1)[268549780] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 16850 Vesper Noble Leather Boots (1)[268549783] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 11600 +3 Dynasty Ring (1)[268541737] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 11600 +3 Dynasty Ring (1)[268601188] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 15766 Sealed Moirai Ring (1)[268541435] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 15767 Sealed Moirai Earring (1)[268503082] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 15768 Sealed Moirai Necklace (1)[268500402] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 15768 Sealed Moirai Necklace (1)[268527558] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 6660 Ring of Queen Ant (1)[268506319] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 14160 Sealed Vesper Earring (1)[268493506] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 14160 Sealed Vesper Earring (1)[268514866] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 14161 Sealed Vesper Necklace (1)[268609287] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 14162 Sealed Vesper Ring (1)[268493505] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 14163 +3 Vesper Earring (1)[268506295] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 15720 Vorpal Ring (1)[268538277] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 15763 Sealed Vorpal Ring (1)[268503091] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 8921 Demon Circlet (1)[268497201] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 21713 Sealed Cloak of Zaken (1)[268500410] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 6577 Blessed Scroll: Enchant Weapon (S) (1)[268497205] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 960 Scroll: Enchant Armor (S) (7)[268486326] Jessy[268556006] 7
+[10.01.25 07:24:11] ClanWarehouseDeposit 14184 Forgotten Scroll - Golem Armor (1)[268500406] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 10481 Blue Soul Crystal - Stage 15 (1)[268498082] Jessy[268556006] 1
+[10.01.25 07:24:11] ClanWarehouseDeposit 10481 Blue Soul Crystal - Stage 15 (1)[268529640] Jessy[268556006] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 6608 +3 Arcana Mace \Acumen\ (1)[268579344] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 9448 Dynasty Cudgel (1)[268652667] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 9450 Dynasty Bagh-Nakh (1)[268655021] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 13143 Sealed Vesper Helmet (1)[268525919] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 21716 Cloak of Zaken (1)[268489724] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 15710 Sealed Moirai Shield  (1)[268493509] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 16839 Vesper Noble Circlet (1)[268513099] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 16842 Vesper Noble Tunic (1)[268513105] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 16845 Vesper Noble Stockings (1)[268513108] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 16848 Vesper Noble Gloves (1)[268513111] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 16851 Vesper Noble Shoes (1)[268513114] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 11599 +3 Dynasty Necklace (1)[268601183] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 11601 +3 Dynasty Earring (1)[268601185] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 11601 +3 Dynasty Earring (1)[268601187] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 14160 Sealed Vesper Earring (1)[268517769] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 14162 Sealed Vesper Ring (1)[268509507] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 14162 Sealed Vesper Ring (1)[268539773] LEMA[268534243] 1
+[10.01.25 07:25:35] ClanWarehouseDeposit 13073 Green Soul Crystal - Stage 16 (1)[268503078] LEMA[268534243] 1
+[10.01.25 07:26:04] ClanWarehouseDeposit 9857 +7 Dynasty Blade \Focus\ (1)[268529854] Jessy[268556006] 1
+[10.01.25 07:26:04] ClanWarehouseDeposit 11269 +7 Dynasty Blade - Great Gale \Focus\ (1)[268634139] Jessy[268556006] 1
+[10.01.25 07:36:18] TradeSell 6674 Sealed Imperial Crusader Breastplate (1)[268547692] Syla[268521618] 1
+[10.01.25 07:36:18] TradeBuy 6674 Sealed Imperial Crusader Breastplate (1)[268547692] DarkQ[268498800] 1
+[10.01.25 07:36:18] TradeSell 6675 Sealed Imperial Crusader Gaiters (1)[268480600] Syla[268521618] 1
+[10.01.25 07:36:18] TradeBuy 6675 Sealed Imperial Crusader Gaiters (1)[268480600] DarkQ[268498800] 1
+[10.01.25 07:36:18] TradeSell 9550 Dark Stone (4)[268505062] DarkQ[268498800] 4
+[10.01.25 07:36:18] TradeBuy 9550 Dark Stone (4)[268505062] Syla[268521618] 4
+[10.01.25 08:13:27] TradeSell 6370 Saint Spear (1)[268550287] Syla[268521618] 1
+[10.01.25 08:13:27] TradeBuy 6370 Saint Spear (1)[268550287] DarkQ[268498800] 1
+[10.01.25 08:13:27] TradeSell 1467 Soulshot: S-grade (12332)[268479797] Syla[268521618] 12332
+[10.01.25 08:13:27] TradeBuy 1467 Soulshot: S-grade (12332)[268479797] DarkQ[268498800] 12332
+[10.01.25 08:32:06] Crystalize 5290 Sealed Dark Crystal Gloves (1)[268500934] DarkQ[268498800] 1
+[10.01.25 08:53:36] Delete 1799 Recipe: Leather Gloves (2)[268484018] Syla[268521618] 2
+[10.01.25 08:53:38] Delete 1798 Recipe: Leather Helmet (1)[268484064] Syla[268521618] 1
+[10.01.25 08:53:41] Delete 1814 Recipe: Leather (5)[268522228] Syla[268521618] 5
+[10.01.25 08:53:44] Delete 5282 Recipe: Greater Blessed Spiritshot (S) Compressed Package(100%) (1)[268511713] Syla[268521618] 1
+[10.01.25 08:53:48] Delete 5157 Recipe: Soulshot (S) Compressed Package (100%) (3)[268501741] Syla[268521618] 3
+[10.01.25 08:53:50] Delete 6901 Recipe: Shining Arrow (100%) (1)[268506798] Syla[268521618] 1
+[10.01.25 08:53:51] Delete 1803 Recipe: Necklace of Wisdom (3)[268484058] Syla[268521618] 3
+[10.01.25 08:53:55] Delete 1506 Necklace of Courage (1)[268521755] Syla[268521618] 1
+[10.01.25 08:53:59] Delete 1508 Ring of Raccoon (1)[268521757] Syla[268521618] 1
+[10.01.25 08:54:01] Delete 9899 Weight Loss Ring (1)[268521756] Syla[268521618] 1
+[10.01.25 08:54:10] Delete 257 Viper Fang (1)[268521780] Syla[268521618] 1
+[10.01.25 08:54:12] Delete 5284 Zweihander (1)[268521778] Syla[268521618] 1
+[10.01.25 08:54:19] Delete 6690 Imperial Staff Head (4)[268547414] Syla[268521618] 4
+[10.01.25 14:52:26] Crystalize 9529 Sealed Dynasty Shield (1)[268522771] Omoi[268682072] 1
+[10.01.25 15:03:50] WarehouseWithdraw 959 Scroll: Enchant Weapon (S) (4)[268522215] Nanja[268741346] 4
+[10.01.25 15:06:32] WarehouseDeposit 9516 Sealed Dynasty Helmet (1)[268500872] Nanja[268741346] 1
+[10.01.25 15:06:32] WarehouseDeposit 9514 Sealed Dynasty Breast Plate (1)[268499466] Nanja[268741346] 1
+[10.01.25 15:06:32] WarehouseDeposit 9529 Sealed Dynasty Shield (1)[268499802] Nanja[268741346] 1
+[10.01.25 15:06:32] WarehouseDeposit 6622 Giant's Codex (10)[268492059] Nanja[268741346] 10
+[10.01.25 15:06:32] WarehouseDeposit 14183 Forgotten Scroll - Demolition Impact (1)[268524436] Nanja[268741346] 1
+[10.01.25 15:06:32] WarehouseDeposit 959 Scroll: Enchant Weapon (S) (3)[268491179] Nanja[268741346] 3
+[10.01.25 15:06:32] WarehouseDeposit 960 Scroll: Enchant Armor (S) (16)[268492004] Nanja[268741346] 16
+[10.01.25 15:06:32] WarehouseDeposit 6847 Recipe: Sealed Tateossian Earring (70%) (1)[268548226] Nanja[268741346] 1
+[10.01.25 15:06:32] WarehouseDeposit 6851 Recipe: Sealed Tateossian Necklace(70%) (1)[268548227] Nanja[268741346] 1
+[10.01.25 15:06:32] WarehouseDeposit 6855 Recipe: Sealed Imperial Crusader Gaiters (60%) (1)[268592367] Nanja[268741346] 1
+[10.01.25 15:06:32] WarehouseDeposit 6883 Recipe: Basalt Battlehammer (60%) (1)[268580452] Nanja[268741346] 1
+[10.01.25 15:06:32] WarehouseDeposit 15801 Recipe - Sealed Vesper Gauntlet (60%)  (1)[268504012] Nanja[268741346] 1
+[10.01.25 15:06:32] WarehouseDeposit 15802 Recipe - Sealed Vesper Leather Gloves (60%)  (1)[268504013] Nanja[268741346] 1
+[10.01.25 15:06:32] WarehouseDeposit 15809 Recipe - Sealed Vesper Ring (70%)  (4)[268504036] Nanja[268741346] 4
+[10.01.25 15:06:32] WarehouseDeposit 15810 Recipe - Sealed Vesper Earring (70%)  (3)[268523886] Nanja[268741346] 3
+[10.01.25 15:06:32] WarehouseDeposit 15815 Recipe - Sealed Vesper Cutter (60%) (1)[268522315] Nanja[268741346] 1
+[10.01.25 15:06:32] WarehouseDeposit 15816 Recipe - Sealed Vesper Slasher (60%) (1)[268644238] Nanja[268741346] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 6680 Sealed Draconic Leather Armor (1)[268524473] Omoi[268682072] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 10253 Dynasty Crusher (1)[268488250] Omoi[268682072] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 15792 Recipe - Sealed Vesper Helmet (60%)  (2)[268517085] Omoi[268682072] 2
+[10.01.25 15:21:31] ClanWarehouseDeposit 15793 Recipe - Sealed Vesper Leather Helmet (60%)  (1)[268518040] Omoi[268682072] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 15804 Recipe - Sealed Vesper Boots (60%)  (1)[268518051] Omoi[268682072] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 15805 Recipe - Sealed Vesper Leather Boots (60%)  (1)[268517082] Omoi[268682072] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 15807 Recipe - Sealed Vesper Sigil (60%)  (1)[268517416] Omoi[268682072] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 15808 Recipe - Sealed Vesper Shield (60%)  (1)[268518171] Omoi[268682072] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 15809 Recipe - Sealed Vesper Ring (70%)  (13)[268599665] Omoi[268682072] 13
+[10.01.25 15:21:31] ClanWarehouseDeposit 15810 Recipe - Sealed Vesper Earring (70%)  (4)[268599373] Omoi[268682072] 4
+[10.01.25 15:21:31] ClanWarehouseDeposit 15811 Recipe - Sealed Vesper Necklace (70%)  (5)[268602140] Omoi[268682072] 5
+[10.01.25 15:21:31] ClanWarehouseDeposit 15817 Recipe - Vesper Buster (60%) (1)[268487849] Omoi[268682072] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 15821 Recipe - Vesper Avenger (60%) (1)[268602152] Omoi[268682072] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 15824 Recipe - Vesper Singer (60%) (1)[268602504] Omoi[268682072] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 15825 Recipe - Vesper Thrower (60%) (2)[268487536] Omoi[268682072] 2
+[10.01.25 15:21:31] ClanWarehouseDeposit 14186 Forgotten Scroll - Lightning Shock (1)[268524435] Omoi[268682072] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 14227 Forgotten Scroll - Great Fury (1)[268533367] Omoi[268682072] 1
+[10.01.25 15:21:31] ClanWarehouseDeposit 959 Scroll: Enchant Weapon (S) (26)[268681436] Omoi[268682072] 26
+[10.01.25 15:21:31] ClanWarehouseDeposit 960 Scroll: Enchant Armor (S) (15)[268599559] Omoi[268682072] 15
+[10.01.25 15:22:46] RefundSell 1344 Mithril Arrow (163)[268524368] Omoi[268682072] 163
+[10.01.25 15:22:46] RefundSell 6342 Sealed Majestic Earring Gemstone (2)[268524484] Omoi[268682072] 2
+[10.01.25 15:22:46] RefundSell 6711 Sealed Major Arcana Robe Part (1)[268597031] Omoi[268682072] 1
+[10.01.25 15:22:46] RefundSell 5495 Sealed Shield of Nightmare Fragment (1)[268524222] Omoi[268682072] 1
+[10.01.25 15:23:17] ClanWarehouseDeposit 6701 Sealed Imperial Crusader Breastplate Part (1)[268599148] Omoi[268682072] 1
+[10.01.25 15:23:17] ClanWarehouseDeposit 9530 Sealed Dynasty Breast Plate Piece (4)[268522893] Omoi[268682072] 4
+[10.01.25 15:23:17] ClanWarehouseDeposit 9531 Sealed Dynasty Gaiter Piece (20)[268522894] Omoi[268682072] 20
+[10.01.25 15:23:17] ClanWarehouseDeposit 9534 Sealed Dynasty Boot Piece (1)[268522869] Omoi[268682072] 1
+[10.01.25 15:23:17] ClanWarehouseDeposit 9538 Sealed Dynasty Leather Glove Piece (1)[268522901] Omoi[268682072] 1
+[10.01.25 15:23:17] ClanWarehouseDeposit 9540 Sealed Dynasty Tunic Piece (2)[268522891] Omoi[268682072] 2
+[10.01.25 15:23:28] Delete 6707 Sealed Draconic Leather Armor Part (4)[268597011] Omoi[268682072] 4
+[10.01.25 15:32:26] ClanWarehouseWithdraw 6367 Angel Slayer (1)[268511622] Omoi[268682072] 1
+[10.01.25 15:57:21] ClanWarehouseWithdraw 959 Scroll: Enchant Weapon (S) (3)[268525757] Omoi[268682072] 3
+[10.01.25 15:57:21] ClanWarehouseWithdraw 6577 Blessed Scroll: Enchant Weapon (S) (1)[268525758] Omoi[268682072] 1
+[10.01.25 15:58:29] WarehouseWithdraw 9551 Divine Stone (44)[268525776] Omoi[268682072] 44
+[10.01.25 16:00:45] WarehouseWithdraw 9551 Divine Stone (44)[268526751] Omoi[268682072] 44
+[10.01.25 16:02:11] ClanWarehouseWithdraw 959 Scroll: Enchant Weapon (S) (3)[268526771] Omoi[268682072] 3
+[10.01.25 16:02:11] ClanWarehouseWithdraw 6577 Blessed Scroll: Enchant Weapon (S) (1)[268526773] Omoi[268682072] 1
+[10.01.25 16:02:48] ClanWarehouseWithdraw 959 Scroll: Enchant Weapon (S) (3)[268526782] Omoi[268682072] 3
+[10.01.25 16:02:48] ClanWarehouseWithdraw 6577 Blessed Scroll: Enchant Weapon (S) (1)[268526783] Omoi[268682072] 1
+[10.01.25 20:29:54] Crystalize 2499 Elven Long Sword (1)[268506294] OneShoTOneHiT[268550331] 1
+[10.01.25 20:29:59] Crystalize 11843 Common Item - Berserker Blade (1)[268660985] OneShoTOneHiT[268550331] 1
+[10.01.25 20:30:03] Crystalize 12142 Common Item - Full Plate Boots (1)[268647508] OneShoTOneHiT[268550331] 1
+[10.01.25 20:30:04] Crystalize 12141 Common Item - Full Plate Gauntlet (1)[268647507] OneShoTOneHiT[268550331] 1
+[10.01.25 20:30:09] Crystalize 12144 Common Item - Full Plate Armor (1)[268647506] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 848 Enchanted Earring (1)[268534759] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 879 Enchanted Ring (1)[268534881] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 45 Bone Helmet (1)[268534556] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 60 Composite Armor (1)[268525413] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 517 Composite Helmet (1)[268525416] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 2459 Demon's Gloves (1)[268525418] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 417 Manticore Skin Gaiters (1)[268535772] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 400 Theca Leather Armor (1)[268525415] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 420 Theca Leather Gaiters (1)[268525412] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 43 Wooden Helmet (1)[268550341] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 2208 Recipe: Ogre Power Gauntlets (1)[268543595] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 846 Coral Earring (1)[268550343] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 114 Earring of Strength (1)[268550344] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 472 Demon's Stockings (1)[268525414] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 2435 Demon's Boots (1)[268525417] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 911 Enchanted Necklace (1)[268534873] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 4224 Dream Armor (1)[268550337] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 4227 Dream Boots (1)[268550340] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 4226 Dream Gloves (1)[268550339] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 4222 Dream Shield (1)[268550342] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 4225 Dream Stockings (1)[268550338] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 628 Hoplon (1)[268534818] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 4221 Ubiquitous Axe (1)[268550349] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 380 Plate Gaiters (1)[268524659] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 396 Salamander Skin Mail (1)[268524661] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 438 Sage's Rag (1)[268524662] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 189 Staff of Life (1)[268524655] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 630 Square Shield (1)[268524665] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 851 Omen Beast's Eye Earring (1)[268524656] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 396 Salamander Skin Mail (1)[268524660] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 914 Necklace of Darkness (1)[268524657] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 630 Square Shield (1)[268524664] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 914 Necklace of Darkness (1)[268524658] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 630 Square Shield (1)[268524663] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 1125 Assault Boots (1)[268506310] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 438 Sage's Rag (1)[268506307] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 353 Half Plate Armor (1)[268506302] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 2412 Plate Helmet (1)[268506309] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 380 Plate Gaiters (1)[268506305] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 882 Mithril Ring (1)[268506300] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 396 Salamander Skin Mail (1)[268506306] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 70 Claymore (1)[268506297] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 851 Omen Beast's Eye Earring (1)[268506298] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 1125 Assault Boots (1)[268506311] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 380 Plate Gaiters (1)[268506303] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 189 Staff of Life (1)[268506296] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 2412 Plate Helmet (1)[268506308] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 882 Mithril Ring (1)[268506301] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 851 Omen Beast's Eye Earring (1)[268506299] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 12336 Common Item - Necklace of Binding (1)[268661311] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 12335 Common Item - Nassen's Earring (1)[268661312] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 12335 Common Item - Nassen's Earring (1)[268661314] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 12337 Common Item - Ring of Binding (1)[268661315] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 12337 Common Item - Ring of Binding (1)[268661316] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 1125 Assault Boots (1)[268536624] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 189 Staff of Life (1)[268536613] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 1125 Assault Boots (1)[268536623] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 607 Ogre Power Gauntlets (1)[268536621] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 380 Plate Gaiters (1)[268536618] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 607 Ogre Power Gauntlets (1)[268536620] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 851 Omen Beast's Eye Earring (1)[268536615] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 914 Necklace of Darkness (1)[268536617] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 438 Sage's Rag (1)[268536619] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 2499 Elven Long Sword (1)[268536614] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 2499 Elven Long Sword (1)[268524654] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 607 Ogre Power Gauntlets (1)[268536622] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 882 Mithril Ring (1)[268536616] OneShoTOneHiT[268550331] 1
+[10.01.25 20:32:54] RefundSell 955 Scroll: Enchant Weapon (D) (7)[268524666] OneShoTOneHiT[268550331] 7
+[10.01.25 20:35:00] Drop 1538 Blessed Scroll of Escape (42)[268537257] Jessy[268556006] 42
+[10.01.25 20:45:44] EnchantFail 398 +4 Plated Leather (1)[268537364] OneShoTOneHiT[268550331] 1
+[10.01.25 20:54:46] EnchantFail 917 +3 Necklace of Mermaid (1)[268537571] OneShoTOneHiT[268550331] 1
+[10.01.25 20:56:14] Crystalize 12145 Common Item - Full Plate Helmet (1)[268647509] OneShoTOneHiT[268550331] 1
+[10.01.25 20:56:47] EnchantFail 885 +3 Ring of Ages (1)[268537576] OneShoTOneHiT[268550331] 1
+[10.01.25 20:57:16] EnchantFail 917 +7 Necklace of Mermaid (1)[268537570] OneShoTOneHiT[268550331] 1
+[10.01.25 20:57:36] EnchantFail 885 +5 Ring of Ages (1)[268537578] OneShoTOneHiT[268550331] 1
+[10.01.25 20:58:15] EnchantFail 119 +4 Necklace of Binding (1)[268537179] OneShoTOneHiT[268550331] 1
+[10.01.25 20:58:29] EnchantFail 885 +4 Ring of Ages (1)[268537581] OneShoTOneHiT[268550331] 1
+[10.01.25 20:58:51] EnchantFail 886 +3 Ring of Binding (1)[268537182] OneShoTOneHiT[268550331] 1
+[10.01.25 20:59:31] EnchantFail 886 +3 Ring of Binding (1)[268537183] OneShoTOneHiT[268550331] 1
+[10.01.25 21:07:01] EnchantFail 5286 +4 Berserker Blade (1)[268538303] OneShoTOneHiT[268550331] 1
+[10.01.25 21:58:45] Drop 6662 Ring of Core (1)[268678456] CoreR[268654290] 1
+[10.01.25 22:23:20] EnchantFail 886 +3 Ring of Binding (1)[268540614] OneShoTOneHiT[268550331] 1
+[10.01.25 22:28:37] Drop 2988 Recipe: Tempered Mithril Gaiters (2)[268633380] OneShoTOneHiT[268550331] 2
+[10.01.25 22:28:39] Drop 2183 Recipe: Mithril Banded Mail (2)[268550560] OneShoTOneHiT[268550331] 2
+[10.01.25 22:28:40] Drop 1342 Iron Arrow (177)[268660049] OneShoTOneHiT[268550331] 177
+[10.01.25 22:28:42] Drop 1341 Bone Arrow (700)[268648179] OneShoTOneHiT[268550331] 700
+[10.01.25 22:28:43] Drop 5472 Recipe: Metallic Thread(100%) (1)[268535808] OneShoTOneHiT[268550331] 1
+[10.01.25 22:28:44] Drop 2270 Recipe: Goat Head Staff (1)[268535730] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:48] RefundSell 381 Chain Gaiters (1)[268540693] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:48] RefundSell 60 Composite Armor (1)[268538487] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:48] RefundSell 64 Composite Boots (1)[268538272] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:48] RefundSell 64 Composite Boots (1)[268539123] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 107 Composite Shield (1)[268538402] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 473 Divine Stockings (1)[268540320] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2461 Drake Leather Gloves (1)[268539210] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2497 Full Plate Shield (1)[268540518] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 471 Karmian Stockings (1)[268540695] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 608 Mithril Gauntlets (1)[268538271] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 397 Mithril Shirt (1)[268537452] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 419 Rind Leather Gaiters (1)[268537365] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 1149 Shining Circlet (1)[268538401] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2436 Theca Leather Boots (1)[268539318] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2460 Theca Leather Gloves (1)[268539209] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2460 Theca Leather Gloves (1)[268539319] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 917 Necklace of Mermaid (1)[268537566] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 917 Necklace of Mermaid (1)[268537564] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 917 Necklace of Mermaid (1)[268537575] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 917 Necklace of Mermaid (1)[268537567] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 917 Necklace of Mermaid (1)[268537562] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 917 Necklace of Mermaid (1)[268537574] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 917 Necklace of Mermaid (1)[268537569] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 917 Necklace of Mermaid (1)[268537565] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 917 Necklace of Mermaid (1)[268537572] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 1975 Rind Leather Armor Design (44)[268537366] OneShoTOneHiT[268550331] 44
+[10.01.25 22:31:49] RefundSell 917 Necklace of Mermaid (1)[268537573] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 917 Necklace of Mermaid (1)[268538596] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 917 Necklace of Mermaid (1)[268538707] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 885 Ring of Ages (1)[268537583] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 885 Ring of Ages (1)[268537577] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 885 Ring of Ages (1)[268537582] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 885 Ring of Ages (1)[268537580] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 885 Ring of Ages (1)[268537584] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 885 Ring of Ages (1)[268537587] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 885 Ring of Ages (1)[268537586] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 885 Ring of Ages (1)[268538595] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 885 Ring of Ages (1)[268538708] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 1831 Antidote (24)[268550469] OneShoTOneHiT[268550331] 24
+[10.01.25 22:31:49] RefundSell 1832 Greater Antidote (40)[268648170] OneShoTOneHiT[268550331] 40
+[10.01.25 22:31:49] RefundSell 4595 Greater Dye of INT <Int+2 Men-2> (10)[268540742] OneShoTOneHiT[268550331] 10
+[10.01.25 22:31:49] RefundSell 8723 Life Stone: level 46 (1)[268542032] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2073 Chakram Edge (26)[268540740] OneShoTOneHiT[268550331] 26
+[10.01.25 22:31:49] RefundSell 2121 Eminence Bow Shaft (6)[268540615] OneShoTOneHiT[268550331] 6
+[10.01.25 22:31:49] RefundSell 2193 Recipe: Boots of Power (4)[268550517] OneShoTOneHiT[268550331] 4
+[10.01.25 22:31:49] RefundSell 2994 Recipe: Boots of Seal (2)[268540774] OneShoTOneHiT[268550331] 2
+[10.01.25 22:31:49] RefundSell 2972 Recipe: Brigandine Gaiters (1)[268535665] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2975 Recipe: Brigandine Helmet (1)[268535139] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2205 Recipe: Chain Gaiters (1)[268535817] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2989 Recipe: Chain Hood (1)[268535681] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 3009 Recipe: Composite Boots (1)[268540121] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2154 Recipe: Elven Earring (1)[268648194] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2297 Recipe: Flamberge (1)[268538286] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 6037 Waking Scroll (8)[268660017] OneShoTOneHiT[268550331] 8
+[10.01.25 22:31:49] RefundSell 2938 Karmian Boots Fabric (68)[268540739] OneShoTOneHiT[268550331] 68
+[10.01.25 22:31:49] RefundSell 2942 Reinforced Mithril Gloves Design (117)[268540738] OneShoTOneHiT[268550331] 117
+[10.01.25 22:31:49] RefundSell 2120 Great Pata Blade (7)[268540321] OneShoTOneHiT[268550331] 7
+[10.01.25 22:31:49] RefundSell 2158 Recipe: Mithril Ring (1)[268649036] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 1825 Recipe: Oriharukon (3)[268533901] OneShoTOneHiT[268550331] 3
+[10.01.25 22:31:49] RefundSell 2086 Elven Bow of Nobility Shaft (19)[268537367] OneShoTOneHiT[268550331] 19
+[10.01.25 22:31:49] RefundSell 2167 Recipe: Ring of Ages (2)[268540047] OneShoTOneHiT[268550331] 2
+[10.01.25 22:31:49] RefundSell 2984 Recipe: Salamander Skin Boots (3)[268535638] OneShoTOneHiT[268550331] 3
+[10.01.25 22:31:49] RefundSell 2109 Akat Longbow Shaft (15)[268538597] OneShoTOneHiT[268550331] 15
+[10.01.25 22:31:49] RefundSell 2079 Bec De Corbin Blade (1)[268540045] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 1932 Bone Helmet Design (5)[268534458] OneShoTOneHiT[268550331] 5
+[10.01.25 22:31:49] RefundSell 2929 Brigandine Shield Fragment (1)[268537278] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2919 Brigandine Gaiters Material (6)[268651017] OneShoTOneHiT[268550331] 6
+[10.01.25 22:31:49] RefundSell 1941 Brigandine Temper (1)[268533893] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 1959 Chain Mail Shirt Material (26)[268540694] OneShoTOneHiT[268550331] 26
+[10.01.25 22:31:49] RefundSell 2104 Club of Nature Head (4)[268538407] OneShoTOneHiT[268550331] 4
+[10.01.25 22:31:49] RefundSell 1977 Composite Armor Temper (16)[268538488] OneShoTOneHiT[268550331] 16
+[10.01.25 22:31:49] RefundSell 2956 Composite Boots Part (441)[268538270] OneShoTOneHiT[268550331] 441
+[10.01.25 22:31:49] RefundSell 4055 Composite Shield Fragment (346)[268538400] OneShoTOneHiT[268550331] 346
+[10.01.25 22:31:49] RefundSell 1934 Crafted Leather Gloves Lining (1)[268534491] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 1974 Crimson Boot Fabric (2)[268539854] OneShoTOneHiT[268550331] 2
+[10.01.25 22:31:49] RefundSell 8744 High-Grade Life Stone: level 49 (3)[268525423] OneShoTOneHiT[268550331] 3
+[10.01.25 22:31:49] RefundSell 8745 High-Grade Life Stone: level 52 (4)[268525425] OneShoTOneHiT[268550331] 4
+[10.01.25 22:31:49] RefundSell 2107 Dark Screamer Edge (10)[268538709] OneShoTOneHiT[268550331] 10
+[10.01.25 22:31:49] RefundSell 2072 Dark Elven Dagger Edge (14)[268537453] OneShoTOneHiT[268550331] 14
+[10.01.25 22:31:49] RefundSell 2074 Crystallized Ice Bow Shaft (1)[268539878] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2119 Crystal Dagger Blade (7)[268539212] OneShoTOneHiT[268550331] 7
+[10.01.25 22:31:49] RefundSell 2962 Drake Leather Gloves Design (93)[268539320] OneShoTOneHiT[268550331] 93
+[10.01.25 22:31:49] RefundSell 2949 Dwarven Chain Gloves Design (1)[268539862] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 1988 Divine Tunic Fabric (14)[268540319] OneShoTOneHiT[268550331] 14
+[10.01.25 22:31:49] RefundSell 4603 Greater Dye of CON <Con+3 Str-3> (15)[268537589] OneShoTOneHiT[268550331] 15
+[10.01.25 22:31:49] RefundSell 2947 Dwarven Chain Shield Fragment (2)[268540029] OneShoTOneHiT[268550331] 2
+[10.01.25 22:31:49] RefundSell 4606 Greater Dye of DEX <Dex+3 Con-3> (6)[268540325] OneShoTOneHiT[268550331] 6
+[10.01.25 22:31:49] RefundSell 2959 Full Plate Helmet Design (80)[268540517] OneShoTOneHiT[268550331] 80
+[10.01.25 22:31:49] RefundSell 4601 Greater Dye of STR <Str+3 Con-3> (7)[268538711] OneShoTOneHiT[268550331] 7
+[10.01.25 22:31:49] RefundSell 1943 Manticore Skin Gaiters Pattern (2)[268648447] OneShoTOneHiT[268550331] 2
+[10.01.25 22:31:49] RefundSell 21746 Maestro's Key (11)[268516349] OneShoTOneHiT[268550331] 11
+[10.01.25 22:31:49] RefundSell 4604 Greater Dye of CON <Con+3 Dex-3> (27)[268538276] OneShoTOneHiT[268550331] 27
+[10.01.25 22:31:49] RefundSell 4600 Greater Dye of WIT <Wit+2 Men-2> (7)[268537455] OneShoTOneHiT[268550331] 7
+[10.01.25 22:31:49] RefundSell 2918 Mithril Scale Gaiters Material (4)[268609342] OneShoTOneHiT[268550331] 4
+[10.01.25 22:31:49] RefundSell 1940 Iron Boots Design (3)[268648294] OneShoTOneHiT[268550331] 3
+[10.01.25 22:31:49] RefundSell 4605 Greater Dye of DEX <Dex+3 Str-3> (28)[268538278] OneShoTOneHiT[268550331] 28
+[10.01.25 22:31:49] RefundSell 1900 Enchanted Necklace Chain (14)[268550468] OneShoTOneHiT[268550331] 14
+[10.01.25 22:31:49] RefundSell 4608 Greater Dye of INT <Int+3 Wit-3> (6)[268538408] OneShoTOneHiT[268550331] 6
+[10.01.25 22:31:49] RefundSell 1939 Mithril Banded Gaiters Material (5)[268648288] OneShoTOneHiT[268550331] 5
+[10.01.25 22:31:49] RefundSell 1906 Mithril Ring Wire (4)[268633379] OneShoTOneHiT[268550331] 4
+[10.01.25 22:31:49] RefundSell 1953 Sage's Rag Lining (2)[268659991] OneShoTOneHiT[268550331] 2
+[10.01.25 22:31:49] RefundSell 2055 Glaive Edge (1)[268633401] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 4611 Greater Dye of WIT <Wit+3 Int-3> (12)[268538491] OneShoTOneHiT[268550331] 12
+[10.01.25 22:31:49] RefundSell 4607 Greater Dye of INT <Int+3 Men-3> (6)[268538410] OneShoTOneHiT[268550331] 6
+[10.01.25 22:31:49] RefundSell 4609 Greater Dye of MEN <Men+3 Int-3> (6)[268538409] OneShoTOneHiT[268550331] 6
+[10.01.25 22:31:49] RefundSell 1972 Knight's Shield Fragment (1)[268540081] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2951 Rind Leather Gloves Design (1)[268539855] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2961 Full Plate Boots Part (80)[268539211] OneShoTOneHiT[268550331] 80
+[10.01.25 22:31:49] RefundSell 1905 Omen Beast's Eye Earring Gemstone (1)[268660048] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 4610 Greater Dye of MEN <Men+3 Wit-3> (6)[268538490] OneShoTOneHiT[268550331] 6
+[10.01.25 22:31:49] RefundSell 2950 Gloves of Seal Pattern (1)[268540487] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2106 Grace Dagger Edge (14)[268538710] OneShoTOneHiT[268550331] 14
+[10.01.25 22:31:49] RefundSell 2083 Stiletto Edge (1)[268540460] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 1938 Mithril Banded Mail Material (5)[268648364] OneShoTOneHiT[268550331] 5
+[10.01.25 22:31:49] RefundSell 1907 Necklace of Darkness Gem (1)[268542053] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 1971 Great Helmet Material (1)[268540030] OneShoTOneHiT[268550331] 1
+[10.01.25 22:31:49] RefundSell 2102 Pa'agrian Hammer Head (3)[268538403] OneShoTOneHiT[268550331] 3
+[10.01.25 22:31:49] RefundSell 2095 Sword of Nightmare Blade (4)[268538275] OneShoTOneHiT[268550331] 4
+[10.01.25 22:31:49] RefundSell 2091 Tsurugi Blade (4)[268538273] OneShoTOneHiT[268550331] 4
+[10.01.25 22:31:49] RefundSell 2096 Sword of Whispering Death Blade (9)[268538274] OneShoTOneHiT[268550331] 9
+[10.01.25 22:31:49] RefundSell 1983 Shining Circlet Pattern (65)[268538399] OneShoTOneHiT[268550331] 65
+[10.01.25 22:31:49] RefundSell 2098 Nirvana Axe Blade (4)[268538404] OneShoTOneHiT[268550331] 4
+[10.01.25 22:31:49] RefundSell 4612 Greater Dye of WIT <Wit+3 Men-3> (6)[268539324] OneShoTOneHiT[268550331] 6
+[10.01.25 22:31:49] RefundSell 1981 Mithril Gauntlets Design (147)[268539124] OneShoTOneHiT[268550331] 147
+[10.01.25 22:31:49] RefundSell 1918 Nassen's Earring Gemstone (221)[268540613] OneShoTOneHiT[268550331] 221
+[10.01.25 22:31:49] RefundSell 2917 Ring of Binding Gemstone (48)[268540612] OneShoTOneHiT[268550331] 48
+[10.01.25 22:31:49] RefundSell 2103 Sage's Staff Head (6)[268538406] OneShoTOneHiT[268550331] 6
+[10.01.25 22:31:49] RefundSell 1916 Necklace of Mermaid Teardrop (87)[268538594] OneShoTOneHiT[268550331] 87
+[10.01.25 22:55:58] EnchantFail 5286 +4 Berserker Blade (1)[268541641] OneShoTOneHiT[268550331] 1
+[10.01.25 22:56:45] ClanWarehouseDeposit 9816 Earth Egg (7)[268539121] OneShoTOneHiT[268550331] 7
+[10.01.25 22:56:45] ClanWarehouseDeposit 9814 Memento Mori (11)[268537450] OneShoTOneHiT[268550331] 11
+[10.01.25 22:56:45] ClanWarehouseDeposit 8176 Destruction Tombstone (10)[268537363] OneShoTOneHiT[268550331] 10
+[10.01.25 22:56:45] ClanWarehouseDeposit 9817 Nonliving Nucleus (5)[268538486] OneShoTOneHiT[268550331] 5
+[10.01.25 23:26:07] Drop 2464 Avadon Gloves (1)[268542932] CoreR[268654290] 1
+[10.01.25 23:26:19] Crystalize 2464 Avadon Gloves (1)[268542932] Corera[268653796] 1
+[10.01.25 23:43:33] Drop 8176 Destruction Tombstone (15)[268541337] CoreR[268654290] 15
+[10.01.25 23:43:34] Drop 9816 Earth Egg (9)[268542818] CoreR[268654290] 9
+[10.01.25 23:43:35] Drop 9818 Angelic Essence (2)[268542641] CoreR[268654290] 2
+[10.01.25 23:43:38] Drop 9817 Nonliving Nucleus (6)[268541336] CoreR[268654290] 6
+[10.01.25 23:43:40] Drop 9814 Memento Mori (6)[268541252] CoreR[268654290] 6
+[10.01.25 23:44:30] ClanWarehouseDeposit 8176 Destruction Tombstone (15)[268541337] Corera[268653796] 15
+[10.01.25 23:44:30] ClanWarehouseDeposit 9814 Memento Mori (6)[268541252] Corera[268653796] 6
+[10.01.25 23:44:30] ClanWarehouseDeposit 9816 Earth Egg (9)[268542818] Corera[268653796] 9
+[10.01.25 23:44:30] ClanWarehouseDeposit 9817 Nonliving Nucleus (6)[268541336] Corera[268653796] 6
+[10.01.25 23:44:30] ClanWarehouseDeposit 9818 Angelic Essence (2)[268542641] Corera[268653796] 2

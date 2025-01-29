@@ -1,0 +1,195 @@
+<html>
+<head>
+    <title>Buffer Dashboard</title>
+</head>
+<body>
+<br>
+<!-- Unified Header with proper buttons -->
+<table height=39 border=0 cellpadding=0 cellspacing=0 width=750>
+    <tr>
+        <td align=left>
+            <table border=0 cellpadding=0 cellspacing=0>
+                <tr>
+                    <td valign=top><img src="icon.skill0912" width=32 height=32></td>
+                    <td>
+                        <table width=350>
+                            <tr><td><font color=CC6633>Buffer Dashboard</font></td></tr>
+                            <tr><td><font color=FFFF99>Select from a wide range of songs and dances!</font></td></tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<!-- Row of 5 unified buttons -->
+<table width="750" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table border="0" cellpadding="5" cellspacing="0">
+                <tr>
+                    <td>
+                      <button value="Stackclass" action="bypass _bbsgetfav" 
+                              width="120" height="30" 
+                              back="L2UI_ct1.button_df_over" 
+                              fore="L2UI_ct1.button_df">
+                    </td>
+                    <td>
+                      <button value="Battlegrounds" action="bypass _bbsPVPBattlegrounds" 
+                              width="120" height="30" 
+                              back="L2UI_ct1.button_df_over" 
+                              fore="L2UI_ct1.button_df">
+                    </td>
+                    <td>
+                      <button value="Buffer" action="bypass _bbsbuff" 
+                              width="120" height="30"
+                              back="L2UI_ct1.button_df_over" 
+                              fore="L2UI_ct1.button_df">
+                    </td>
+                    <td>
+                      <button value="Partymatching" action="bypass _bbsPartymatching"
+                              width="120" height="30"
+                              back="L2UI_ct1.button_df_over"
+                              fore="L2UI_ct1.button_df">
+                    </td>
+                    <td>
+                      <button value="AutoFarm" action="bypass _bbsautofarm main"
+                              width="120" height="30"
+                              back="L2UI_ct1.button_df_over"
+                              fore="L2UI_ct1.button_df">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<img src="L2UI_CT1.Gauge_DF_CP_Center" width=750 height=2>
+<br>
+<table>
+    <tr>
+        <td width=500 align=left>
+            <font color="D70000">The cost of a single buff %pice% adena.</font> / <font color="D70000">Group buffs %group_pice% adena.</font>
+        </td>
+    </tr>
+</table>
+<center>
+    <table width="400" height="370">
+        <tr>
+            <td>
+                <center>
+                    <table>
+                        <tr><td><center>Operations:</center></td></tr>
+                        <tr>
+                            <td>
+                                <center><button value="Mage Buffs" action="bypass _bbsblist:mage:index" width="130" height="20" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center>
+                                <center><button value="Fighter Buffs" action="bypass _bbsblist:fighter:index" width="130" height="20" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center>
+                                    <table>
+                                        <tr>
+                                            <td><button value="Cancel" action="bypass _bbsbcansel:index" width="55" height="20" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+                                            <td><button value="Heal" action="bypass _bbsbregen:index" width="70" height="20" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+                                        </tr>
+                                    </table>
+                                </center>
+                            </td>
+                        </tr>
+                    </table>
+                </center>
+                <center>
+                    <table>
+                        <tr><td><center>Object:</center></td></tr>
+                        <tr><td><center><button value="%aim%" action="bypass _bbsbaim:index;" width="130" height="20" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center></td></tr>
+                    </table>
+                </center>
+                <center>
+                    <table>
+                        <tr><td><center>Sets:</center></td></tr>
+                        <tr>
+                            <td>
+                                <center><edit var="name" width="130" height="10" length="10"></center>
+                                <center><button value="Create" action="bypass _bbsbsave:index: $name" width="130" height="20" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center>
+                            </td>
+                        </tr>
+                        <tr><td><center>%list_sheme%</center></td></tr>
+                    </table>
+                </center>
+            </td>
+            <td align="center">
+                <!-- Wrap navigation in a wider table and add a blank cell to shift right -->
+                <table width="600" border=0 cellpadding=0 cellspacing=0>
+                    <tr>
+                        <td width="75"></td>
+                        <td>
+                            <table width="300" border=0 cellpadding=0 cellspacing=0>
+                                <tr>
+                                    <td><center><button value="<< Back" action="bypass _bbsbuff:2" width="90" height="18" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center></td>
+                                    <td><center><font color="F2C202">Page 3</font></center></td>
+                                    <td><center><button value="Next >>" action="bypass _bbsbuff:4" width="90" height="18" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></center></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+
+                <!-- Separate table for "Offensive Buffs" title only -->
+                <table width="600" border=0 cellpadding=0 cellspacing=0>
+                    <tr>
+                        <!-- Add an empty cell to shift the title left or right -->
+                        <td align=center><font color=F2C202>Offensive & Supportive Songs/Dances</font></td>
+                    </tr>
+                </table>
+
+                <!-- Now the buffs in their own table below -->
+                <table width="600" border=0 cellpadding=2 cellspacing=2>
+                    <tr>
+                        <td align=center><img src=icon.skill0276 width=32 height=32><button value="Dance Conc." action="bypass _bbsbsingle:276:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0273 width=32 height=32><button value="Dance Myst." action="bypass _bbsbsingle:273:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0365 width=32 height=32><button value="Dance Siren" action="bypass _bbsbsingle:365:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0275 width=32 height=32><button value="Dance Fury" action="bypass _bbsbsingle:275:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0274 width=32 height=32><button value="Dance Fire" action="bypass _bbsbsingle:274:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0271 width=32 height=32><button value="Dance Warr." action="bypass _bbsbsingle:271:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                    </tr>
+                </table>
+                <!-- Now the buffs in their own table below -->
+                <table width="600" border=0 cellpadding=2 cellspacing=2>
+                    <tr>
+                        <td align=center><img src=icon.skill0349 width=32 height=32><button value="Song Renew." action="bypass _bbsbsingle:349:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0268 width=32 height=32><button value="Song Wind" action="bypass _bbsbsingle:268:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0304 width=32 height=32><button value="Song Vital." action="bypass _bbsbsingle:304:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0915 width=32 height=32><button value="Dance Berserk" action="bypass _bbsbsingle:915:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0310 width=32 height=32><button value="Dance Vamp." action="bypass _bbsbsingle:310:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0272 width=32 height=32><button value="Dance Insp." action="bypass _bbsbsingle:272:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                    </tr>
+                </table>
+
+
+                <!-- Now the buffs in their own table below -->
+                <table width="600" border=0 cellpadding=2 cellspacing=2>
+                    <tr>
+                        <td align=center><img src=icon.skill0363 width=32 height=32><button value="Song Medi." action="bypass _bbsbsingle:363:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0305 width=32 height=32><button value="Song Venge." action="bypass _bbsbsingle:305:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0265 width=32 height=32><button value="Song Life" action="bypass _bbsbsingle:265:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0914 width=32 height=32><button value="Song Purify" action="bypass _bbsbsingle:914:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0364 width=32 height=32><button value="Song Champ." action="bypass _bbsbsingle:364:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0269 width=32 height=32><button value="Song Hunter" action="bypass _bbsbsingle:269:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                    </tr>
+                </table>
+                <!-- Now the buffs in their own table below -->
+                <table width="600" border=0 cellpadding=2 cellspacing=2>
+                    <tr>
+                        <td width="200"></td>
+                        <td align=center><img src=icon.skill0277 width=32 height=32><button value="Dance Light" action="bypass _bbsbsingle:277:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td align=center><img src=icon.skill0366 width=32 height=32><button value="Dance Shadow" action="bypass _bbsbsingle:366:1:3" width=90 height=18 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+                        <td width="200"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</center>
+</body>
+</html>

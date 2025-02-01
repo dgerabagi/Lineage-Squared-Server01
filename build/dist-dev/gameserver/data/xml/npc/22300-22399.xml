@@ -2917,6 +2917,7 @@
 				<reward item_id="1882" min="1" max="1" chance="20.3299" />	<!--Leather-->
 				<reward item_id="1884" min="1" max="1" chance="20.3299" />	<!--Cord-->
 				<reward item_id="1885" min="1" max="1" chance="20.3299" />	<!--High-Grade Suede-->
+				<reward item_id="1878" min="1" max="2" chance="18.3658" />	<!--Braided Hemp-->
 			</group>
 			<group chance="20.7305">
 				<reward item_id="1894" min="1" max="1" chance="9.3299" />	<!--Crafted Leather-->

@@ -20,6 +20,7 @@ build/*.zip
 
 # Ignore logs, caches, and temp files
 *.log
+*.log*
 *.tmp
 *.cache
 *.DS_Store

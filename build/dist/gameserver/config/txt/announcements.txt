@@ -7,6 +7,6 @@ Type: .cfg to see commands
 Type: .offline to set offline shop
 Alt + B -> Favorite
 ----------------------------------
-1/28 - Kamael & Raids are Fixed!
+Vote System Working, Go Vote!
 ----------------------------------
 New Player? READ THESE!!

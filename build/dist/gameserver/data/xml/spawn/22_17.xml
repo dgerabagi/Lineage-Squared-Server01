@@ -1372,7 +1372,11 @@
 	</spawn>
 	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
 		<point x="83672" y="148008" z="-3400" h="32767" />
-		<npc id="31126" /><!--Beta Mammon-->
+		<npc id="31113" /><!--Beta Merchant of Mammon-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="83688" y="147944" z="-3400" h="30767" />
+		<npc id="31126" /><!--Beta Blacksmith of Mammon-->
 	</spawn>
 	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
 		<point x="83396" y="147904" z="-3404" h="16384" />

@@ -197,15 +197,23 @@ public class StackClassPage extends Functions implements ScriptFile, ICommunityB
 	 * Actually change the player's class (primary, secondary, or swap).
 	 */
 	private void confirmChange(Player player, String option, int classId) {
-		if (!canChangeClass(player))
+		System.out.println("[StackClassPage] confirmChange() called: Player=" + player.getName() +
+				", option=" + option + ", classId=" + classId);
+
+		if (!canChangeClass(player)) {
+			System.out.println("[StackClassPage] canChangeClass() returned false. Aborting.");
 			return;
+		}
+
 		// Make sure the player pays the required adena
 		if (!player.getInventory().destroyItemByItemId(NEEDED_ITEM_ID, ITEM_COUNT)) {
 			player.sendMessage(ITEM_NEEDED_MESSAGE);
+			System.out.println("[StackClassPage] Not enough adena. Needed " + ITEM_COUNT + ", aborting.");
 			return;
 		}
 
 		// Clear buffs, set mp=0, unsummon pet, social action
+		System.out.println("[StackClassPage] Removing all buffs, unsummoning pet, etc.");
 		player.getEffectList().stopAllEffects();
 		player.setCurrentMp(0);
 		if (player.getPet() != null)
@@ -213,6 +221,7 @@ public class StackClassPage extends Functions implements ScriptFile, ICommunityB
 		player.broadcastPacket(new SocialAction(player.getObjectId(), SocialAction.LEVEL_UP));
 
 		// Then do the actual operation:
+		System.out.println("[StackClassPage] Doing operation: " + option + " for classId=" + classId);
 		if (option.equals("primary")) {
 			player.switchStackClass(classId, true);
 			player.sendMessage("Your primary class has been switched!");
@@ -220,11 +229,15 @@ public class StackClassPage extends Functions implements ScriptFile, ICommunityB
 			player.switchStackClass(classId, false);
 			player.sendMessage("Your secondary class has been switched!");
 		} else if (option.equals("swap")) {
-			if (ClassId.values()[player.getSecondaryClassId()].getLevel() < 4)
+			if (ClassId.values()[player.getSecondaryClassId()].getLevel() < 4) {
+				System.out.println("[StackClassPage] Secondary class is not 4th level, cannot swap. Aborting.");
 				return;
+			}
 			player.swapStackClasses();
 			player.sendMessage("Your main classes have been swapped!");
 		}
+
+		System.out.println("[StackClassPage] confirmChange() finished for " + player.getName());
 		showMainPage(player);
 	}
 

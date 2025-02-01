@@ -705,92 +705,6 @@ public final class Player extends Playable implements PlayerGroup {
 	}
 
 	/**
-	 * Updates the 'sex' column in the characters table for this player.
-	 */
-	public void setCharSexInDb(int newSex) {
-		Connection con = null;
-		PreparedStatement ps = null;
-		try {
-			con = DatabaseFactory.getInstance().getConnection();
-			ps = con.prepareStatement("UPDATE characters SET sex=? WHERE obj_Id=? LIMIT 1");
-			ps.setInt(1, newSex);
-			ps.setInt(2, getObjectId());
-			ps.executeUpdate();
-		} catch (Exception e) {
-			_log.warn("Could not update sex in DB for " + getName() + " to " + newSex, e);
-		} finally {
-			DbUtils.closeQuietly(con, ps);
-		}
-	}
-
-	/**
-	 * Updates the 'primary_class_template' column in the characters table for this
-	 * player.
-	 */
-	public void setPrimaryClassInDb(int newClassTemplate) {
-		Connection con = null;
-		PreparedStatement ps = null;
-		try {
-			con = DatabaseFactory.getInstance().getConnection();
-			ps = con.prepareStatement("UPDATE characters SET primary_class_template=? WHERE obj_Id=? LIMIT 1");
-			ps.setInt(1, newClassTemplate);
-			ps.setInt(2, getObjectId());
-			ps.executeUpdate();
-		} catch (Exception e) {
-			_log.warn("Could not update primary_class_template in DB for " + getName() + " to " + newClassTemplate, e);
-		} finally {
-			DbUtils.closeQuietly(con, ps);
-		}
-	}
-
-	/**
-	 * Checks if we have stored the player’s original race/sex yet; if not, store
-	 * them in variables or in
-	 * setVar(...) so that we can revert when switching back from Kamael.
-	 *
-	 * For example, we’ll store them in character_variables so we don’t lose them
-	 * across server restarts.
-	 */
-	public void storeOriginalAppearanceIfNeeded() {
-		// If we already stored, do nothing:
-		if (getVar("original_sex") != null)
-			return;
-
-		// Save the original sex (0=male,1=female) and original class template
-		setVar("original_sex", String.valueOf(getSex()), -1);
-		// The old line was setVar("original_pct", getPrimaryClass());
-		// Must pass string:
-		setVar("original_pct", String.valueOf(getPrimaryClass()), -1);
-	}
-
-	/**
-	 * Reverts to whichever race/sex you had originally, if you have previously
-	 * stored them.
-	 * This is invoked upon switching back to your main (non-Kamael) class.
-	 */
-	public void revertOriginalAppearanceIfStored() {
-		String origSexStr = getVar("original_sex");
-		String origPCTStr = getVar("original_pct");
-		if (origSexStr == null || origPCTStr == null)
-			return; // Nothing stored, skip
-
-		int oldSex = Integer.parseInt(origSexStr);
-		int oldPCT = Integer.parseInt(origPCTStr);
-
-		// DB changes:
-		setCharSexInDb(oldSex);
-		setPrimaryClassInDb(oldPCT);
-
-		// Also update our cached fields:
-		_sex = oldSex; // if you store "sex" internally, see how your code does it
-		_primaryClassTemplate = oldPCT;
-
-		// Optionally, you might want to un‐set these so it does not re‐fire:
-		// unsetVar("original_sex");
-		// unsetVar("original_pct");
-	}
-
-	/**
 	 * Constructor<?> of L2Player (use L2Character constructor).<BR>
 	 * <BR>
 	 * <p/>
@@ -1974,36 +1888,87 @@ public final class Player extends Playable implements PlayerGroup {
 
 	public void switchStackClass(int newClassId, boolean primary) {
 		AutoFarmState st = AutoFarmEngine.getInstance().getAutoFarmState(getObjectId());
-		saveUnlocks();
+		saveUnlocks(); // same as before
+
 		StackClass currentClasses = getActiveClass();
 		UnlockedClass unlockedClass = getUnlocks().getUnlockedClass(newClassId);
+		if (unlockedClass == null) {
+			System.out.println("[switchStackClass] Could not find an unlockedClass for " + newClassId);
+			return;
+		}
+
+		// 1) If picking a new primary:
 		if (primary) {
+			// If we are mixing races in a disallowed way, forcibly shuffle the secondary
+			// out:
 			if (ClassId.values()[newClassId].getRace() != getActiveClassClassId().getRace()
 					&& ClassId.values()[currentClasses.getSecondaryClass()].getRace() != Race.dwarf) {
 				removeClassSkill(currentClasses.getSecondaryClass());
-				currentClasses.setSecondaryClass(getPrimaryClass());
+				currentClasses.setSecondaryClass(getPrimaryClass()); // basically your old main
 				currentClasses.setExpWithoutSave(0);
 			}
+			// Remove skills of the old main:
 			removeClassSkill(currentClasses.getFirstClassId());
+
+			// The old main class to rename in DB:
+			int oldMainClassId = currentClasses.getFirstClassId();
+
+			// 2) Actually switch the main in memory:
 			currentClasses.setFirstClassId(newClassId);
 			currentClasses.setFirstExp(unlockedClass.getExp());
+
+			// 3) Adjust setClassId(...) for visuals, etc.
 			setClassId(newClassId, false, false, true);
-		} else {
+
+			// 4) Then rename that row in character_subclasses:
+			storeMainClasses(true, oldMainClassId);
+		}
+		// 5) If picking a new secondary:
+		else {
+			// We are only changing the secondClassId in memory:
 			removeClassSkill(currentClasses.getSecondaryClass());
 			currentClasses.setSecondaryClass(newClassId);
 			currentClasses.setExpWithoutSave(unlockedClass.getExp());
+
+			// We do NOT rename the row in `character_subclasses`; instead,
+			// we do a direct UPDATE of secondClassId, secondExp, secondLevel, etc.:
+			Connection con = null;
+			PreparedStatement ps = null;
+			try {
+				con = DatabaseFactory.getInstance().getConnection();
+				ps = con.prepareStatement(
+						"UPDATE character_subclasses "
+								+ "SET secondClassId=?, secondExp=?, secondLevel=? "
+								+ "WHERE char_obj_id=? AND class_id=? AND isBase=1");
+				ps.setInt(1, newClassId);
+				ps.setLong(2, unlockedClass.getExp());
+				ps.setInt(3, unlockedClass.getLevel());
+				ps.setInt(4, getObjectId());
+				ps.setInt(5, currentClasses.getFirstClassId()); // the main's class_id
+				int rowCount = ps.executeUpdate();
+				System.out.println("[switchStackClass-secondary] updated " + rowCount + " row(s) for secondClassId.");
+			} catch (Exception e) {
+				_log.error("Error updating secondClassId in DB:", e);
+			} finally {
+				DbUtils.closeQuietly(con, ps);
+			}
 		}
+
+		// 6) Next, remove any skills that are not valid for the new arrangement:
 		for (Skill sk : getAllSkills())
 			if (!SkillAcquireHolder.getInstance().isSkillPossible(this, sk))
 				removeSkill(sk);
 
+		// 7) Re-apply the data for skill sets, etc. (the rest is unchanged)
 		restoreSkills(getSecondaryClassId());
 		restoreSkills(getActiveClassClassId().getId());
 
 		boolean secondaryClassMage = ClassId.values()[getSecondaryClassId()].isMage();
-		PlayerTemplate t = CharTemplateTable.getInstance().getTemplate(getPrimaryClass(),
-				getTemplateClassId(getActiveClassClassId().getId(), getSex(), getLevel()), secondaryClassMage,
-				getSex() == 1);
+		PlayerTemplate t = CharTemplateTable.getInstance().getTemplate(
+				getPrimaryClass(),
+				getTemplateClassId(getActiveClassClassId().getId(), getSex(), getLevel()),
+				secondaryClassMage,
+				(getSex() == 1));
 		_template = t;
 
 		sendPacket(new ExStorageMaxCount(this));
@@ -2027,29 +1992,58 @@ public final class Player extends Playable implements PlayerGroup {
 		broadcastCharInfo();
 		updateEffectIcons();
 		updateStats();
+
 		st = AutoFarmEngine.getInstance().getAutoFarmState(getObjectId());
-		if (st != null) {
+		if (st != null)
 			AutoFarmSkillDAO.getInstance().loadSkillsForStackClass(this, st);
-		}
 	}
 
 	public void swapStackClasses() {
 		AutoFarmState st = AutoFarmEngine.getInstance().getAutoFarmState(getObjectId());
-		saveUnlocks();
-		UnlockedClass first = getUnlocks().getUnlockedClass(getActiveClassClassId().getId());
-		UnlockedClass second = getUnlocks().getUnlockedClass(getSecondaryClassId());
+		System.out.println("[Player] swapStackClasses() called for " + getName() +
+				". Current primary=" + getActiveClassClassId().getId() +
+				", secondary=" + getSecondaryClassId());
 
+		// 1) Save old data so we don't lose anything
+		System.out.println("[Player] saveUnlocks() called before the swap");
+		saveUnlocks();
+
+		// 2) The old main class ID (which is about to become secondary)
+		int oldMainClassId = getActiveClassClassId().getId();
+
+		// Some references to the old classes:
+		UnlockedClass first = getUnlocks().getUnlockedClass(oldMainClassId);
+		UnlockedClass second = getUnlocks().getUnlockedClass(getSecondaryClassId());
+		if (first == null || second == null) {
+			System.out.println(
+					"[Player] Could not find 'UnlockedClass' references for primary or secondary. Aborting swap.");
+			return;
+		}
+
+		System.out.println("[Player] BEFORE SWAP -> Primary class ID=" + oldMainClassId +
+				" (exp=" + first.getExp() + "), Secondary class ID=" + getSecondaryClassId() +
+				" (exp=" + second.getExp() + ")");
+
+		// 3) Actually swap them in memory
 		StackClass stack = getActiveClass();
 		stack.setFirstClassId(second.getId());
 		stack.setFirstExp(second.getExp());
 		stack.setSecondaryClass(first.getId());
 		stack.setExpWithoutSave(first.getExp());
 
+		// Now update template. We'll guess if new main is a mage
 		boolean secondaryClassMage = ClassId.values()[first.getId()].isMage();
-		PlayerTemplate t = CharTemplateTable.getInstance().getTemplate(getPrimaryClass(),
-				getTemplateClassId(second.getId(), getSex(), getLevel()), secondaryClassMage, getSex() == 1);
-
+		PlayerTemplate t = CharTemplateTable.getInstance().getTemplate(
+				getPrimaryClass(),
+				getTemplateClassId(second.getId(), getSex(), getLevel()),
+				secondaryClassMage,
+				(getSex() == 1));
 		_template = t;
+
+		System.out.println("[Player] After memory-swap -> newPrimary=" + stack.getFirstClassId() +
+				", newSecondary=" + stack.getSecondaryClass());
+
+		// 4) Remove all skills, re-learn from new data
 		removeAllSkills();
 		restoreSkills(getActiveClassClassId().getId());
 		restoreSkills(getSecondaryClassId());
@@ -2077,10 +2071,20 @@ public final class Player extends Playable implements PlayerGroup {
 		broadcastCharInfo();
 		updateEffectIcons();
 		updateStats();
+
+		// 5) Important: store them in DB so it persists,
+		// passing the old main class ID so we rename from "oldMainClassId" to new.
+		System.out.println(
+				"[Player] storeMainClasses(true, oldMainClassId=" + oldMainClassId + ") after swap for " + getName());
+		storeMainClasses(true, oldMainClassId);
+
 		st = AutoFarmEngine.getInstance().getAutoFarmState(getObjectId());
 		if (st != null) {
+			System.out.println("[Player] Reloading auto-farm skills for new main class: " + stack.getFirstClassId());
 			AutoFarmSkillDAO.getInstance().loadSkillsForStackClass(this, st);
 		}
+
+		System.out.println("[Player] swapStackClasses() finished successfully for " + getName());
 	}
 
 	public void addNewStackClass(int classId, boolean primary) {
@@ -7210,6 +7214,7 @@ public final class Player extends Playable implements PlayerGroup {
 	}
 
 	/*
+	 * Old code
 	 * public boolean isOnMainClass() {
 	 * return getActiveClass().isMain();
 	 * }
@@ -7275,79 +7280,90 @@ public final class Player extends Playable implements PlayerGroup {
 		}
 	}
 
-	/**
-	 * Saves main+secondary class data into `character_subclasses`.
-	 * Previously, this method would rename or delete the row for the old main
-	 * class,
-	 * causing us to lose the original isBase=1 row and break the ability to revert
-	 * later.
-	 *
-	 * Now, we simply:
-	 * 1) Set active=0 for ALL sub-rows belonging to this character.
-	 * 2) Update the sub-row that matches getFirstClassId(), applying level/exp
-	 * (unless "IgnoreDelevelStore" is set),
-	 * and set active=? depending on setActive param, but leave isBase alone.
-	 */
+	// The 1-parameter version (restored):
 	public void storeMainClasses(boolean setActive) {
-		StackClass current = getActiveClass();
-		if (current == null) {
-			_log.warn("Could not store sub data, active class is null for {}", this);
+		// For normal updates, oldMainClassId = current main:
+		int oldMainClassId = getActiveClassClassId().getId();
+		storeMainClasses(setActive, oldMainClassId);
+	}
+
+	/**
+	 * The new 2-parameter version: actually rename the row from oldMainClassId to
+	 * the newMainClassId.
+	 * Called by swapStackClasses(...) or if dev wants a custom oldMainClassId for
+	 * some reason.
+	 */
+	public void storeMainClasses(boolean ignoredSetActive, int oldMainClassId) {
+		if (_activeClass == null) {
+			_log.warn("[storeMainClasses] Could not store sub data: active class is null for " + getName());
 			return;
 		}
 
-		// If forcibly-lowered => skip storing that forcibly-lowered level/exp
-		boolean skipLevelExp = "1".equals(getVar("IgnoreDelevelStore"));
+		long storedExp = _activeClass.getExp();
+		int storedLevel = _activeClass.getLevel();
+
+		int newMainClassId = _activeClass.getFirstClassId();
+		int secondClassId = _activeClass.getSecondaryClass();
+		long secondExp = _activeClass.getSecondaryExp();
+		int secondLevel = _activeClass.getSecondaryLevel();
+
+		System.out.println("[storeMainClasses] Called for " + getName()
+				+ ". oldMainClassId=" + oldMainClassId
+				+ ", newMainClassId=" + newMainClassId
+				+ ", secondClassId=" + secondClassId
+				+ ", storedLevel=" + storedLevel
+				+ ", storedExp=" + storedExp
+				+ ", secondLevel=" + secondLevel
+				+ ", secondExp=" + secondExp);
 
 		Connection con = null;
 		PreparedStatement ps = null;
+		PreparedStatement ps2 = null;
 
 		try {
 			con = DatabaseFactory.getInstance().getConnection();
 
-			// 1) Set active=0 for ALL rows of this character
-			ps = con.prepareStatement(
-					"UPDATE character_subclasses SET active=0 WHERE char_obj_id=?");
-			ps.setInt(1, getObjectId());
-			ps.executeUpdate();
-			DbUtils.closeQuietly(ps);
+			// 1) rename old main class row to newMainClassId in character_subclasses
+			String sql1 = "UPDATE character_subclasses "
+					+ "SET class_id=?, exp=?, level=?, secondClassId=?, secondExp=?, secondLevel=? "
+					+ "WHERE char_obj_id=? AND class_id=?";
+			ps = con.prepareStatement(sql1);
+			ps.setInt(1, newMainClassId);
+			ps.setLong(2, storedExp);
+			ps.setInt(3, storedLevel);
+			ps.setInt(4, secondClassId);
+			ps.setLong(5, secondExp);
+			ps.setInt(6, secondLevel);
+			ps.setInt(7, getObjectId());
+			ps.setInt(8, oldMainClassId);
 
-			// 2) Update the row that corresponds to the player's current "main" class
-			// i.e. the class_id == current.getFirstClassId(). We do NOT change isBase
-			// or do any row deletions or reassignments. We only update exp/level and
-			// active=1 if requested.
-			String sql = "UPDATE character_subclasses " +
-					"SET exp=?, level=?, " +
-					"    secondClassId=?, secondExp=?, secondLevel=?, " +
-					"    active=? " +
-					"WHERE char_obj_id=? AND class_id=?";
-			ps = con.prepareStatement(sql);
+			int updatedRows = ps.executeUpdate();
+			DbUtils.close(ps);
+			ps = null;
 
-			long storedExp;
-			int storedLevel;
-			if (!skipLevelExp) {
-				storedExp = current.getExp();
-				storedLevel = current.getLevel();
-			} else {
-				// If ignoring forcibly-lowered, store the "before" level/exp
-				storedExp = current.getExpBeforeDelevel() > 0 ? current.getExpBeforeDelevel() : current.getExp();
-				storedLevel = current.getLevelBeforeDelevel() > 0 ? current.getLevelBeforeDelevel()
-						: current.getLevel();
-			}
+			System.out.println("[storeMainClasses] Subclass update query: " + sql1);
+			System.out.println("[storeMainClasses] Rows updated in character_subclasses=" + updatedRows);
 
-			int idx = 1;
-			ps.setLong(idx++, storedExp);
-			ps.setInt(idx++, storedLevel);
-			ps.setInt(idx++, current.getSecondaryClass());
-			ps.setLong(idx++, current.getSecondaryExp());
-			ps.setInt(idx++, current.getSecondaryLevel());
-			ps.setInt(idx++, setActive ? 1 : 0);
-			ps.setInt(idx++, getObjectId());
-			ps.setInt(idx++, current.getFirstClassId());
-			ps.executeUpdate();
+			// 2) update the characters table so char select screen sees the right level
+			String sql2 = "UPDATE characters SET level=?, exp=?, sp=? WHERE obj_Id=?";
+			ps2 = con.prepareStatement(sql2);
+			ps2.setInt(1, storedLevel);
+			ps2.setLong(2, storedExp);
+			ps2.setLong(3, getSp());
+			ps2.setInt(4, getObjectId());
+
+			int updatedChars = ps2.executeUpdate();
+			DbUtils.close(ps2);
+			ps2 = null;
+
+			System.out.println("[storeMainClasses] " + updatedChars
+					+ " row(s) updated in `characters` for level/exp/sp. (sql=" + sql2 + ")");
 		} catch (Exception e) {
-			_log.warn("Could not store main/secondary class data for {}", this, e);
+			_log.warn("[storeMainClasses] Could not store main/secondary class data for " + getName() + ":", e);
 		} finally {
-			DbUtils.closeQuietly(con, ps);
+			DbUtils.closeQuietly(ps);
+			DbUtils.closeQuietly(ps2);
+			DbUtils.closeQuietly(con);
 		}
 	}
 

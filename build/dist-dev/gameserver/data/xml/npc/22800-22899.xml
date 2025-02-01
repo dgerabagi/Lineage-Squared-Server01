@@ -5103,7 +5103,7 @@
 			<group chance="70.0">
 				<reward item_id="57" min="115052" max="268710" chance="70.0000" />	<!--Adena-->
 			</group>
-			<group chance="0.8035">
+			<group chance="8.0035">
 				<reward item_id="15764" min="1" max="1" chance="0.1" />	<!--Sealed Vorpal Earring-->
 				<reward item_id="15743" min="1" max="1" chance="0.05" />	<!--Sealed Vorpal Helmet-->
 				<reward item_id="15745" min="1" max="1" chance="0.05" />	<!--Sealed Vorpal Circlet-->
@@ -5194,7 +5194,7 @@
 			<group chance="70.0">
 				<reward item_id="57" min="65375" max="152689" chance="70.0000" />	<!--Adena-->
 			</group>
-			<group chance="0.8035">
+			<group chance="8.0035">
 				<reward item_id="15763" min="1" max="1" chance="0.1" />	<!--Sealed Vorpal Ring-->
 				<reward item_id="15753" min="1" max="1" chance="0.05" />	<!--Sealed Vorpal Leather Gloves-->
 				<reward item_id="15754" min="1" max="1" chance="0.05" />	<!--Sealed Vorpal Gloves-->
@@ -5288,7 +5288,7 @@
 			<group chance="70.0">
 				<reward item_id="57" min="65375" max="152689" chance="70.0000" />	<!--Adena-->
 			</group>
-			<group chance="0.8035">
+			<group chance="8.0035">
 				<reward item_id="15744" min="1" max="1" chance="0.05" />	<!--Sealed Vorpal Leather Helmet-->
 				<reward item_id="15752" min="1" max="1" chance="0.05" />	<!--Sealed Vorpal Gauntlet-->
 				<reward item_id="15756" min="1" max="1" chance="0.05" />	<!--Sealed Vorpal Leather Boots-->
@@ -5392,7 +5392,7 @@
 			<group chance="70.0">
 				<reward item_id="57" min="195846" max="45686" chance="70.0000" />	<!--Adena-->
 			</group>
-			<group chance="0.3251">
+			<group chance="3.3251">
 				<reward item_id="15558" min="1" max="1" chance="0.0050" />	<!--Periel Sword-->
 				<reward item_id="15570" min="1" max="1" chance="0.0050" />	<!--Finale Blade-->
 				<reward item_id="15569" min="1" max="1" chance="0.0050" />	<!--Gemtail Rapier-->

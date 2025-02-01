@@ -89,11 +89,13 @@ public class RaidBossInstance extends MonsterInstance {
 			calcRaidPointsReward(points);
 		}
 
+		// ReflectionBosses handle re-spawn differently
 		if (this instanceof ReflectionBossInstance) {
 			super.onDeath(killer);
 			return;
 		}
 
+		// Give diary entries, hero, clan rep, etc.
 		if (killer.isPlayable() && getAggroList().getTopDamager() != null) {
 			Player player = killer.getPlayer();
 			if (player.isInParty()) {
@@ -174,15 +176,15 @@ public class RaidBossInstance extends MonsterInstance {
 					for (Player mem : topDmg.getParty().getPartyMembers()) {
 						if (mem.getClan() != null) {
 							if (!repMap.containsKey(mem.getClan())) {
-								repMap.put(mem.getClan(), Integer.valueOf(repPerMember));
+								repMap.put(mem.getClan(), repPerMember);
 							} else {
-								int oldVal = repMap.get(mem.getClan()).intValue();
-								repMap.put(mem.getClan(), Integer.valueOf(oldVal + repPerMember));
+								int oldVal = repMap.get(mem.getClan());
+								repMap.put(mem.getClan(), oldVal + repPerMember);
 							}
 						}
 					}
 					for (Entry<Clan, Integer> e : repMap.entrySet()) {
-						e.getKey().incReputation(e.getValue().intValue(), true, "raid");
+						e.getKey().incReputation(e.getValue(), true, "raid");
 					}
 				} else if (topDmg.getClan() != null) {
 					topDmg.getClan().incReputation(clanReputationToAdd, true, "raid");
@@ -190,6 +192,7 @@ public class RaidBossInstance extends MonsterInstance {
 			}
 		}
 
+		// Schedule minions for unspawn
 		if (getMinionList().hasAliveMinions()) {
 			ThreadPoolManager.getInstance().schedule(new RunnableImpl() {
 				@Override
@@ -201,7 +204,7 @@ public class RaidBossInstance extends MonsterInstance {
 			}, getMinionUnspawnInterval());
 		}
 
-		// Example for Cabrio, etc.:
+		// Example for Cabrio, Kernon, Golkonda, Hallate:
 		int boxId = 0;
 		switch (getNpcId()) {
 			case 25035:
@@ -227,7 +230,21 @@ public class RaidBossInstance extends MonsterInstance {
 			}
 		}
 
+		/**
+		 * ------------------------------------------------------------------------
+		 * FIX: Set a non-zero respawn time in the spawner BEFORE
+		 * notifying the RaidBossSpawnManager.
+		 * ------------------------------------------------------------------------
+		 */
+		if (getSpawn() != null) {
+			// If the spawn's getRespawnDelay() is in seconds, then do:
+			int nextRespawn = (int) (System.currentTimeMillis() / 1000L) + getSpawn().getRespawnDelay();
+			getSpawn().setRespawnTime(nextRespawn);
+		}
+
+		// This updates the DB with spawner.getRespawnTime()
 		RaidBossSpawnManager.getInstance().onBossStatusChange(getNpcId());
+
 		super.onDeath(killer);
 	}
 
@@ -247,7 +264,7 @@ public class RaidBossInstance extends MonsterInstance {
 				+ ", name=" + getName()
 				+ ", loc=(" + getX() + "," + getY() + "," + getZ() + "), lvl=" + getLevel());
 
-		// Create the dynamic zones
+		// Create the dynamic zones, etc.
 		RaidBossZoneCreator.createZonesForBoss(this);
 	}
 
@@ -278,6 +295,6 @@ public class RaidBossInstance extends MonsterInstance {
 
 	// Stub method
 	private void calcRaidPointsReward(int points) {
-		// do nothing or handle your logic
+		// do nothing or handle your logic for awarding raid points
 	}
 }

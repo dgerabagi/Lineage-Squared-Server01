@@ -1,6 +1,3 @@
-//
-// C:\l2sq\Pac Project\Java\l2ft\gameserver\model\RaidBossZoneCreator.java
-//
 package l2ft.gameserver.model;
 
 import l2ft.commons.collections.MultiValueSet;
@@ -12,6 +9,8 @@ import l2ft.gameserver.model.entity.Reflection;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import l2ft.commons.geometry.Polygon;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * Dynamically creates two polygon-based "circular" zones around a spawned
@@ -22,13 +21,30 @@ import l2ft.commons.geometry.Polygon;
  * Now also:
  * • Ignores bosses above level 76
  * • Z-limited to ±150 from boss's Z
+ * 
+ * NEW: The created zones are stored per boss so that when the boss dies
+ * the de-level zones can be removed (after a delay) to avoid interference.
  */
 public class RaidBossZoneCreator {
     private static final Logger _log = LoggerFactory.getLogger(RaidBossZoneCreator.class);
 
     private static final int OUTER_RADIUS = 2900;
     private static final int INNER_RADIUS = 2500;
-    private static final int Z_RANGE_LIMIT = 150; // ±150
+    private static final int Z_RANGE_LIMIT = 200; // ±200
+
+    // Store the pair of zones created for each bossId.
+    private static final Map<Integer, ZonePair> _bossZones = new ConcurrentHashMap<Integer, ZonePair>();
+
+    // Helper inner class to hold both outer and inner zones.
+    private static class ZonePair {
+        public final RaidBossOuterZone outerZone;
+        public final RaidBossInnerZone innerZone;
+
+        public ZonePair(RaidBossOuterZone outer, RaidBossInnerZone inner) {
+            outerZone = outer;
+            innerZone = inner;
+        }
+    }
 
     public static void createZonesForBoss(RaidBossInstance boss) {
         if (boss == null) {
@@ -36,7 +52,7 @@ public class RaidBossZoneCreator {
             return;
         }
 
-        // If boss's level is above 76, skip
+        // If boss's level is above 76, skip creating de-level zones.
         int bossLevel = boss.getLevel();
         if (bossLevel > 76) {
             _log.info("[RaidBossZoneCreator] Boss " + boss.getName()
@@ -53,13 +69,54 @@ public class RaidBossZoneCreator {
                 + ") at loc=(" + loc.x + "," + loc.y + "," + loc.z
                 + "), reflId=" + reflect.getId());
 
-        // Outer ring
+        // Create the outer zone.
         RaidBossOuterZone outer = createOuterZone(bossId, loc, OUTER_RADIUS, reflect);
         outer.setActive(true);
 
-        // Inner ring
+        // Create the inner zone.
         RaidBossInnerZone inner = createInnerZone(bossId, loc, INNER_RADIUS, reflect);
         inner.setActive(true);
+
+        // Store the zones so they can later be removed when the boss dies.
+        _bossZones.put(bossId, new ZonePair(outer, inner));
+    }
+
+    /**
+     * Removes the de–level zones for the given boss.
+     * For each zone, every creature currently inside is forced to "leave"
+     * (triggering onZoneLeave) and then the zone is deactivated.
+     *
+     * @param bossId the ID of the boss whose zones should be removed
+     */
+    public static void removeZonesForBoss(int bossId) {
+        ZonePair pair = _bossZones.remove(bossId);
+        if (pair == null) {
+            _log.info("[RaidBossZoneCreator] No zones found for bossId=" + bossId + " to remove.");
+            return;
+        }
+        _log.info("[RaidBossZoneCreator] Removing zones for bossId=" + bossId);
+
+        removeZone(pair.outerZone);
+        removeZone(pair.innerZone);
+    }
+
+    // Helper method to remove a zone: force all creatures to leave and then
+    // deactivate.
+    private static void removeZone(Zone zone) {
+        if (zone == null) {
+            return;
+        }
+        if (!zone.isActive()) {
+            return;
+        }
+        // For every creature in the zone, simulate a zone leave.
+        Creature[] creatures = zone.getObjects();
+        for (int i = 0; i < creatures.length; i++) {
+            zone.doLeave(creatures[i]);
+        }
+        // Deactivate the zone.
+        zone.setActive(false);
+        _log.debug("[RaidBossZoneCreator] Zone " + zone.getName() + " removed.");
     }
 
     private static RaidBossOuterZone createOuterZone(int bossId, Location center,
@@ -111,8 +168,9 @@ public class RaidBossZoneCreator {
     }
 
     /**
-     * Creates a polygon-based circle with 16 segments around `center` of `radius`,
-     * with Z limited to ±150 from boss Z.
+     * Creates a polygon-based circle with 16 segments around the center of the
+     * given radius,
+     * with Z limited to ±150 from the boss's Z.
      */
     private static Territory createCircularTerritory(Location center, int radius) {
         Polygon poly = new Polygon();

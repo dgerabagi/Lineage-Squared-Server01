@@ -1,6 +1,3 @@
-//
-// C:\l2sq\Pac Project\Java\l2ft\gameserver\model\instances\RaidBossInstance.java
-//
 package l2ft.gameserver.model.instances;
 
 import java.util.HashMap;
@@ -36,7 +33,7 @@ import org.slf4j.LoggerFactory;
 public class RaidBossInstance extends MonsterInstance {
 	private static final Logger _log = LoggerFactory.getLogger(RaidBossInstance.class);
 	private ScheduledFuture<?> minionMaintainTask;
-	private static final int MINION_UNSPAWN_INTERVAL = 5000; // 5s
+	private static final int MINION_UNSPAWN_INTERVAL = 5000; // 5 seconds
 
 	public RaidBossInstance(int objectId, NpcTemplate template) {
 		super(objectId, template);
@@ -95,7 +92,6 @@ public class RaidBossInstance extends MonsterInstance {
 			return;
 		}
 
-		// Give diary entries, hero, clan rep, etc.
 		if (killer.isPlayable() && getAggroList().getTopDamager() != null) {
 			Player player = killer.getPlayer();
 			if (player.isInParty()) {
@@ -192,7 +188,6 @@ public class RaidBossInstance extends MonsterInstance {
 			}
 		}
 
-		// Schedule minions for unspawn
 		if (getMinionList().hasAliveMinions()) {
 			ThreadPoolManager.getInstance().schedule(new RunnableImpl() {
 				@Override
@@ -204,7 +199,6 @@ public class RaidBossInstance extends MonsterInstance {
 			}, getMinionUnspawnInterval());
 		}
 
-		// Example for Cabrio, Kernon, Golkonda, Hallate:
 		int boxId = 0;
 		switch (getNpcId()) {
 			case 25035:
@@ -237,13 +231,19 @@ public class RaidBossInstance extends MonsterInstance {
 		 * ------------------------------------------------------------------------
 		 */
 		if (getSpawn() != null) {
-			// If the spawn's getRespawnDelay() is in seconds, then do:
 			int nextRespawn = (int) (System.currentTimeMillis() / 1000L) + getSpawn().getRespawnDelay();
 			getSpawn().setRespawnTime(nextRespawn);
 		}
 
-		// This updates the DB with spawner.getRespawnTime()
 		RaidBossSpawnManager.getInstance().onBossStatusChange(getNpcId());
+
+		// NEW: Schedule removal of the de-level zones 120 seconds after boss death.
+		ThreadPoolManager.getInstance().schedule(new RunnableImpl() {
+			@Override
+			public void runImpl() {
+				RaidBossZoneCreator.removeZonesForBoss(getNpcId());
+			}
+		}, 120000L);
 
 		super.onDeath(killer);
 	}
@@ -264,7 +264,7 @@ public class RaidBossInstance extends MonsterInstance {
 				+ ", name=" + getName()
 				+ ", loc=(" + getX() + "," + getY() + "," + getZ() + "), lvl=" + getLevel());
 
-		// Create the dynamic zones, etc.
+		// Create the dynamic zones for de-leveling.
 		RaidBossZoneCreator.createZonesForBoss(this);
 	}
 
@@ -293,8 +293,8 @@ public class RaidBossInstance extends MonsterInstance {
 		return false;
 	}
 
-	// Stub method
+	// Stub method for raid points calculation.
 	private void calcRaidPointsReward(int points) {
-		// do nothing or handle your logic for awarding raid points
+		// Implement your raid points reward logic here if needed.
 	}
 }

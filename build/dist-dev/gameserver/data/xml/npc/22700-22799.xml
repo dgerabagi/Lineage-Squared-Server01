@@ -5997,6 +5997,8 @@
 			<reward item_id="15634" min="1" max="1" chance="8.7220" />	<!--Vesper Cutter Piece-->
 			<reward item_id="15635" min="1" max="1" chance="8.7064" />	<!--Vesper Slasher Piece-->
 			<reward item_id="15636" min="1" max="1" chance="8.7220" />	<!--Vesper Buster Piece-->
+			<reward item_id="15663" min="1" max="1" chance="8.2125" />	<!--Sealed Vesper Breastplate Piece-->
+			<reward item_id="15666" min="1" max="1" chance="8.5522" />	<!--Sealed Vesper Gaiter Piece-->
 			<reward item_id="9628" min="1" max="3" chance="57.5820" />	<!--Leonard-->
 			<reward item_id="15815" min="1" max="1" chance="1.0243" />	<!--Recipe - Sealed Vesper Cutter (60%)-->
 			<reward item_id="15816" min="1" max="1" chance="1.0243" />	<!--Recipe - Sealed Vesper Slasher (60%)-->
@@ -6107,6 +6109,8 @@
 			<reward item_id="15641" min="1" max="1" chance="6.7960" />	<!--Vesper Retributer Piece-->
 			<reward item_id="15642" min="1" max="1" chance="6.7180" />	<!--Vesper Caster Piece-->
 			<reward item_id="15643" min="1" max="1" chance="6.7358" />	<!--Vesper Singer Piece-->
+			<reward item_id="15664" min="1" max="1" chance="8.2558" />	<!--Sealed Vesper Leather Breastplate Piece-->
+			<reward item_id="15670" min="1" max="1" chance="8.4983" />	<!--Sealed Vesper Leather Legging Piece-->
 			<reward item_id="9630" min="1" max="1" chance="33.0375" />	<!--Orichalcum-->
 			<reward item_id="15821" min="1" max="1" chance="0.6957" />	<!--Recipe - Vesper Avenger (60%)-->
 			<reward item_id="15822" min="1" max="1" chance="0.6957" />	<!--Recipe - Vesper Retributer (60%)-->
@@ -6215,6 +6219,8 @@
 			<reward item_id="15637" min="1" max="1" chance="8.7657" />	<!--Vesper Shaper Piece-->
 			<reward item_id="15638" min="1" max="1" chance="8.7637" />	<!--Vesper Fighter Piece-->
 			<reward item_id="15639" min="1" max="1" chance="8.7664" />	<!--Vesper Stormer Piece-->
+			<reward item_id="15665" min="1" max="1" chance="10.2558" />	<!--Sealed Vesper Tunic Piece-->
+			<reward item_id="15673" min="1" max="1" chance="10.4983" />	<!--Sealed Vesper Stockings Piece-->
 			<reward item_id="959" min="1" max="1" chance="1.0278" />	<!--Scroll: Enchant Weapon (S-Grade)-->
 			<reward item_id="9628" min="1" max="5" chance="67.1790" />	<!--Leonard-->
 			<reward item_id="15825" min="1" max="1" chance="0.3125" />	<!--Recipe - Vesper Thrower (60%)-->

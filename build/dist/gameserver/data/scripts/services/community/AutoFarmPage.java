@@ -9,6 +9,7 @@ import java.util.Set;
 import java.util.StringTokenizer;
 
 import l2ft.gameserver.Config;
+import l2ft.gameserver.dao.CommunityPathsDAO;
 import l2ft.gameserver.data.htm.HtmCache;
 import l2ft.gameserver.handler.bbs.CommunityBoardManager;
 import l2ft.gameserver.handler.bbs.ICommunityBoardHandler;
@@ -22,9 +23,8 @@ import l2ft.gameserver.network.l2.s2c.ShowBoard;
 import l2ft.gameserver.scripts.Functions;
 import l2ft.gameserver.scripts.ScriptFile;
 import l2ft.gameserver.utils.BbsUtil;
-import l2ft.gameserver.dao.CommunityPathsDAO;
 
-// === ADDED: ensure we can save changes to DB immediately
+// Added for immediate DB saves
 import l2ft.gameserver.dao.AutoFarmSkillDAO;
 
 import l2ft.gameserver.autofarm.AutoFarmConfig;
@@ -42,6 +42,7 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
     private static final String MAIN_HTML = "autofarm/bbs_autoFarmMain.htm";
     private static final String SKILL_HTML = "autofarm/bbs_autoFarmSkill.htm";
 
+    // Skills to exclude from the "available list"
     private static final Integer[] EXCLUDED_IDS_ARRAY = {
             246, 247, 326, 623, 624, 780, 813, 933, 994, 995, 1321, 1322, 1521, 2099, 22042
     };
@@ -121,6 +122,7 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
                 showMainPage(player);
                 return;
             }
+
             Player foundPm = null;
             for (Player pm : p.getPartyMembers()) {
                 if (pm == player)
@@ -214,9 +216,8 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
             AutoFarmSkillSlot slot = farmState.getSkillSlot(slotIdx);
             if (slot != null) {
                 slot.setSkillId(skillId);
-                // === IMMEDIATELY SAVE CHANGES ===
+                // Immediately save changes to DB
                 AutoFarmSkillDAO.getInstance().saveSingleSlotForStackClass(player, farmState, slotIdx);
-
             }
             showSkillPage(player, slotIdx, 0);
         } else if ("skillclear".equals(subCmd)) {
@@ -228,9 +229,8 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
             AutoFarmSkillSlot slot = farmState.getSkillSlot(slotIdx);
             if (slot != null) {
                 slot.setSkillId(0);
-                // === IMMEDIATELY SAVE CHANGES ===
+                // Immediately save changes to DB
                 AutoFarmSkillDAO.getInstance().saveSingleSlotForStackClass(player, farmState, slotIdx);
-
             }
             showSkillPage(player, slotIdx, 0);
         } else if ("skillhp".equals(subCmd)) {
@@ -238,15 +238,13 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
                 return;
             int slotIdx = Integer.parseInt(st.nextToken());
             double val = Double.parseDouble(st.nextToken());
-            st.nextToken(); // skip 'user' or 'target'
+            st.nextToken(); // skip 'user'/'target'
 
             AutoFarmState farmState = AutoFarmEngine.getInstance().getOrCreateState(player);
             AutoFarmSkillSlot sSlot = farmState.getSkillSlot(slotIdx);
             if (sSlot != null) {
                 sSlot.setTargetHpPercent(val);
-                // === IMMEDIATELY SAVE CHANGES ===
                 AutoFarmSkillDAO.getInstance().saveSingleSlotForStackClass(player, farmState, slotIdx);
-
             }
             showSkillPage(player, slotIdx, 0);
         } else if ("skillmid".equals(subCmd)) {
@@ -259,9 +257,7 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
             AutoFarmSkillSlot sSlot = farmState.getSkillSlot(slotIdx);
             if (sSlot != null) {
                 sSlot.setTargetMpPercent(val);
-                // === IMMEDIATELY SAVE CHANGES ===
                 AutoFarmSkillDAO.getInstance().saveSingleSlotForStackClass(player, farmState, slotIdx);
-
             }
             showSkillPage(player, slotIdx, 0);
         } else if ("skillcp".equals(subCmd)) {
@@ -274,9 +270,7 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
             AutoFarmSkillSlot sSlot = farmState.getSkillSlot(slotIdx);
             if (sSlot != null) {
                 sSlot.setTargetCpPercent(cpVal);
-                // === IMMEDIATELY SAVE CHANGES ===
                 AutoFarmSkillDAO.getInstance().saveSingleSlotForStackClass(player, farmState, slotIdx);
-
             }
             showSkillPage(player, slotIdx, 0);
         } else if ("skillreuse".equals(subCmd)) {
@@ -289,9 +283,7 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
             AutoFarmSkillSlot sSlot = farmState.getSkillSlot(slotIdx);
             if (sSlot != null) {
                 sSlot.setReuseDelayMs(reuseSec * 1000L);
-                // === IMMEDIATELY SAVE CHANGES ===
                 AutoFarmSkillDAO.getInstance().saveSingleSlotForStackClass(player, farmState, slotIdx);
-
             }
             showSkillPage(player, slotIdx, 0);
         } else if ("skillparty".equals(subCmd)) {
@@ -304,9 +296,7 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
             AutoFarmSkillSlot sSlot = farmState.getSkillSlot(slotIdx);
             if (sSlot != null) {
                 sSlot.setPartySkill(isParty);
-                // === IMMEDIATELY SAVE CHANGES ===
                 AutoFarmSkillDAO.getInstance().saveSingleSlotForStackClass(player, farmState, slotIdx);
-
             }
             showSkillPage(player, slotIdx, 0);
         } else if ("skillally".equals(subCmd)) {
@@ -319,9 +309,7 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
             AutoFarmSkillSlot sSlot = farmState.getSkillSlot(slotIdx);
             if (sSlot != null) {
                 sSlot.setAllySkill(isAlly);
-                // === IMMEDIATELY SAVE CHANGES ===
                 AutoFarmSkillDAO.getInstance().saveSingleSlotForStackClass(player, farmState, slotIdx);
-
             }
             showSkillPage(player, slotIdx, 0);
         } else if ("skillself".equals(subCmd)) {
@@ -334,9 +322,7 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
             AutoFarmSkillSlot sSlot = farmState.getSkillSlot(slotIdx);
             if (sSlot != null) {
                 sSlot.setSelfBuff(isSelfBuff);
-                // === IMMEDIATELY SAVE CHANGES ===
                 AutoFarmSkillDAO.getInstance().saveSingleSlotForStackClass(player, farmState, slotIdx);
-
             }
             showSkillPage(player, slotIdx, 0);
         } else if ("skillauto".equals(subCmd)) {
@@ -349,9 +335,7 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
             AutoFarmSkillSlot sSlot = farmState.getSkillSlot(slotIdx);
             if (sSlot != null) {
                 sSlot.setAutoReuse(isAutoReuse);
-                // === IMMEDIATELY SAVE CHANGES ===
                 AutoFarmSkillDAO.getInstance().saveSingleSlotForStackClass(player, farmState, slotIdx);
-
             }
             showSkillPage(player, slotIdx, 0);
         } else {
@@ -371,7 +355,9 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
 
         String html = HtmCache.getInstance().getNotNull(Config.BBS_HOME_DIR + MAIN_HTML, player);
 
-        String status = running ? "<font color=\"00FF00\">Running</font>" : "<font color=\"FF0000\">Stopped</font>";
+        String status = running
+                ? "<font color=\"00FF00\">Running</font>"
+                : "<font color=\"FF0000\">Stopped</font>";
         html = html.replace("%AF_STATUS%", status);
 
         String displayTargetType = capitalizeSearchType(currType);
@@ -404,7 +390,6 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
         String spoilCheck = "L2UI.CheckBox";
         if (hasSpoil && spoilEnabled)
             spoilCheck = "L2UI.CheckBox_checked";
-
         html = html.replace("%SPOIL_CHECK%", spoilCheck);
 
         // We have 72 skill slots in total (4 rows × 18 columns)
@@ -419,12 +404,11 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
             if (slot != null && slot.getSkillId() > 0) {
                 icon = String.format("icon.skill%04d", slot.getSkillId());
             }
-            String btn = "<td align=\"center\">" +
-                    "<button action=\"bypass _bbsautofarm skill " + i + " 0\" " +
-                    "width=\"32\" height=\"32\" " +
-                    "back=\"" + icon + "\" fore=\"" + icon + "\">";
-            // Note: no "</button>" closer to avoid black boxes
-            btn += "</td>";
+            String btn = "<td align=\"center\">"
+                    + "<button action=\"bypass _bbsautofarm skill " + i + " 0\" "
+                    + "width=\"32\" height=\"32\" "
+                    + "back=\"" + icon + "\" fore=\"" + icon + "\">"
+                    + "</td>";
             int rowIndex = i / 18; // 0..3
             rowBuffers[rowIndex].append(btn);
         }
@@ -456,6 +440,7 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
         }
         html = html.replace("%PARTY_MEMBER_LIST%", partyList);
 
+        // Send to client
         html = BbsUtil.htmlAll(html, player);
         ShowBoard.separateAndSend(html, player);
     }
@@ -480,6 +465,11 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
         showMainPage(player);
     }
 
+    /**
+     * Displays the skill editor page for the given slotIndex & pageNum.
+     * We now label pages as “Page 1,” “Page 2,” etc. so the client does not
+     * interpret single digits as item codes.
+     */
     private void showSkillPage(Player player, int slotIndex, int pageNum) {
         AutoFarmState farmState = AutoFarmEngine.getInstance().getOrCreateState(player);
         AutoFarmSkillSlot slot = farmState.getSkillSlot(slotIndex);
@@ -496,9 +486,32 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
         }
 
         final int PAGE_SIZE = 12;
-        int startIdx = pageNum * PAGE_SIZE;
-        int endIdx = Math.min(allSkills.size(), startIdx + PAGE_SIZE);
+        int totalSkillCount = allSkills.size();
+        // total pages
+        int totalPages = (int) Math.ceil((double) totalSkillCount / PAGE_SIZE);
 
+        // clamp
+        if (pageNum < 0)
+            pageNum = 0;
+        if (totalPages == 0) {
+            totalPages = 1;
+            pageNum = 0;
+        } else if (pageNum >= totalPages) {
+            pageNum = totalPages - 1;
+        }
+
+        int startIdx = pageNum * PAGE_SIZE;
+        int endIdx = Math.min(totalSkillCount, startIdx + PAGE_SIZE);
+
+        // Debug
+        System.out.println("[AutoFarmPage:showSkillPage] skill count=" + totalSkillCount
+                + ", PAGE_SIZE=" + PAGE_SIZE
+                + ", requested pageNum=" + pageNum
+                + ", totalPages=" + totalPages
+                + ", startIdx=" + startIdx
+                + ", endIdx=" + endIdx);
+
+        // build skill table
         StringBuilder skillTable = new StringBuilder();
         int curIndex = startIdx;
         for (int row = 0; row < 3; row++) {
@@ -513,11 +526,12 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
                             .append("\" width=\"32\" height=\"32\" ")
                             .append("back=\"icon.skill").append(String.format("%04d", skillId)).append("\" ")
                             .append("fore=\"icon.skill").append(String.format("%04d", skillId)).append("\">");
-                    // no "</button>"
+
+                    // no closing </button> to avoid black edges
                     skillTable.append("<br><font color=\"808080\">");
                     skillTable.append("<center>").append(sk.getName()).append("</center>");
-                    skillTable.append("</font>");
-                    skillTable.append("</td>");
+                    skillTable.append("</font></td>");
+
                     curIndex++;
                 } else {
                     skillTable.append("<td width=\"60\"></td>");
@@ -527,23 +541,37 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
         }
         html = html.replace("%SKILL_LIST%", skillTable.toString());
 
-        int totalPages = (int) Math.ceil((double) allSkills.size() / PAGE_SIZE);
-        StringBuilder pages = new StringBuilder("<table border=0 cellpadding=2 cellspacing=2><tr>");
+        // page links labeled as “Page X”
+        StringBuilder pages = new StringBuilder("<table border=0 cellpadding=0 cellspacing=0><tr>");
         for (int p = 0; p < totalPages; p++) {
             pages.append("<td>");
+            String pageLabel = "Page " + (p + 1); // e.g. "Page 1", "Page 2", ...
             if (p == pageNum) {
-                pages.append("<font color=\"LEVEL\">").append(p + 1).append("</font>");
+                // highlight
+                pages.append("<font color=\"LEVEL\">").append(pageLabel).append("</font>");
             } else {
                 pages.append("<a action=\"bypass _bbsautofarm skill ")
                         .append(slotIndex).append(" ").append(p)
-                        .append("\">").append(p + 1).append("</a>");
+                        .append("\">")
+                        .append(pageLabel)
+                        .append("</a>");
             }
             pages.append("</td>");
+
+            // put a pipe and forced width except after last page
+            if (p < (totalPages - 1)) {
+                pages.append("<td width=\"15\" align=\"center\" valign=\"middle\">|</td>");
+            }
+
+            // debug
+            System.out.println("[AutoFarmPage:showSkillPage] building link for p=" + p
+                    + " => link text='" + pageLabel + "'");
         }
         pages.append("</tr></table>");
+        System.out.println("[AutoFarmPage:showSkillPage] pages html snippet = " + pages.toString());
         html = html.replace("%PAGE_LIST%", pages.toString());
 
-        // Fill placeholders for the selected skill
+        // fill placeholders for selected skill
         String selectedIcon = "icon.skill0000";
         String selectedName = "(No skill)";
         if (slot != null && slot.getSkillId() > 0) {
@@ -567,7 +595,7 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
         html = html.replace("%MID_VALUE%", String.format("%.0f%%", mpVal));
         html = html.replace("%REUSE_SEC%", String.valueOf(reuseSec));
 
-        // Party / ally / self / auto
+        // toggles
         boolean partySkill = (slot != null && slot.isPartySkill());
         String partyCheck = partySkill ? "L2UI.CheckBox_checked" : "L2UI.CheckBox";
         html = html.replace("%PARTY_SKILL_CHECK%", partyCheck);
@@ -592,10 +620,12 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
         String autoToggleVal = autoReuse ? "false" : "true";
         html = html.replace("%AUTO_SKILL_TOGGLE%", autoToggleVal);
 
+        // final
         html = BbsUtil.htmlAll(html, player);
         ShowBoard.separateAndSend(html, player);
     }
 
+    /** Capitalize ESearchType. */
     private String capitalizeSearchType(ESearchType st) {
         if (st == null)
             return "Off";
@@ -618,12 +648,13 @@ public class AutoFarmPage extends Functions implements ScriptFile, ICommunityBoa
     public void onWriteCommand(Player player, String bypass,
             String arg1, String arg2, String arg3,
             String arg4, String arg5) {
-        // no-op
+        // Not used
     }
 
     @Override
     public void onLoad() {
         CommunityBoardManager.getInstance().registerHandler(this);
+        // load DB data
         CommunityPathsDAO.getInstance().selectAll();
     }
 

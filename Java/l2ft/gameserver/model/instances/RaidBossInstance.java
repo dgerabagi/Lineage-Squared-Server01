@@ -1,8 +1,10 @@
 package l2ft.gameserver.model.instances;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.Set;
 import java.util.concurrent.ScheduledFuture;
 
 import l2ft.commons.threading.RunnableImpl;
@@ -14,7 +16,12 @@ import l2ft.gameserver.data.xml.holder.NpcHolder;
 import l2ft.gameserver.idfactory.IdFactory;
 import l2ft.gameserver.instancemanager.QuestManager;
 import l2ft.gameserver.instancemanager.RaidBossSpawnManager;
-import l2ft.gameserver.model.*;
+import l2ft.gameserver.model.AggroList.HateInfo;
+import l2ft.gameserver.model.CommandChannel;
+import l2ft.gameserver.model.Creature;
+import l2ft.gameserver.model.GameObjectTasks;
+import l2ft.gameserver.model.Party;
+import l2ft.gameserver.model.Player;
 import l2ft.gameserver.model.base.Experience;
 import l2ft.gameserver.model.entity.Hero;
 import l2ft.gameserver.model.entity.HeroDiary;
@@ -24,16 +31,11 @@ import l2ft.gameserver.model.quest.QuestState;
 import l2ft.gameserver.network.l2.s2c.SystemMessage;
 import l2ft.gameserver.tables.SkillTable;
 import l2ft.gameserver.templates.npc.NpcTemplate;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
-/**
- * Basic RaidBoss logic: spawns the boss, includes dynamic zone creation, etc.
- */
 public class RaidBossInstance extends MonsterInstance {
-	private static final Logger _log = LoggerFactory.getLogger(RaidBossInstance.class);
 	private ScheduledFuture<?> minionMaintainTask;
-	private static final int MINION_UNSPAWN_INTERVAL = 5000; // 5 seconds
+
+	private static final int MINION_UNSPAWN_INTERVAL = 5000; // time to unspawn minions when boss is dead, msec
 
 	public RaidBossInstance(int objectId, NpcTemplate template) {
 		super(objectId, template);
@@ -49,7 +51,7 @@ public class RaidBossInstance extends MonsterInstance {
 	}
 
 	protected int getKilledInterval(MinionInstance minion) {
-		return 120000; // 2 minutes
+		return 120000; // 2 minutes to respawn
 	}
 
 	@Override
@@ -60,17 +62,17 @@ public class RaidBossInstance extends MonsterInstance {
 	}
 
 	private class MaintainKilledMinion extends RunnableImpl {
-		private final MinionInstance _minion;
+		private final MinionInstance minion;
 
-		public MaintainKilledMinion(MinionInstance m) {
-			_minion = m;
+		public MaintainKilledMinion(MinionInstance minion) {
+			this.minion = minion;
 		}
 
 		@Override
-		public void runImpl() {
+		public void runImpl() throws Exception {
 			if (!isDead()) {
-				_minion.refreshID();
-				spawnMinion(_minion);
+				minion.refreshID();
+				spawnMinion(minion);
 			}
 		}
 	}
@@ -81,12 +83,11 @@ public class RaidBossInstance extends MonsterInstance {
 			minionMaintainTask.cancel(false);
 			minionMaintainTask = null;
 		}
-		int points = getTemplate().rewardRp;
-		if (points > 0) {
-			calcRaidPointsReward(points);
-		}
 
-		// ReflectionBosses handle re-spawn differently
+		final int points = getTemplate().rewardRp;
+		if (points > 0)
+			calcRaidPointsReward(points);
+
 		if (this instanceof ReflectionBossInstance) {
 			super.onDeath(killer);
 			return;
@@ -95,177 +96,197 @@ public class RaidBossInstance extends MonsterInstance {
 		if (killer.isPlayable() && getAggroList().getTopDamager() != null) {
 			Player player = killer.getPlayer();
 			if (player.isInParty()) {
-				for (Player member : player.getParty().getPartyMembers()) {
-					if (member.isNoble()) {
-						Hero.getInstance().addHeroDiary(member.getObjectId(),
-								HeroDiary.ACTION_RAID_KILLED, getNpcId());
-					}
-				}
+				for (Player member : player.getParty().getPartyMembers())
+					if (member.isNoble())
+						Hero.getInstance().addHeroDiary(member.getObjectId(), HeroDiary.ACTION_RAID_KILLED, getNpcId());
 				player.getParty().broadCast(Msg.CONGRATULATIONS_YOUR_RAID_WAS_SUCCESSFUL);
 			} else {
-				if (player.isNoble()) {
-					Hero.getInstance().addHeroDiary(player.getObjectId(),
-							HeroDiary.ACTION_RAID_KILLED, getNpcId());
-				}
+				if (player.isNoble())
+					Hero.getInstance().addHeroDiary(player.getObjectId(), HeroDiary.ACTION_RAID_KILLED, getNpcId());
 				player.sendPacket(Msg.CONGRATULATIONS_YOUR_RAID_WAS_SUCCESSFUL);
 			}
 
 			Quest q = QuestManager.getQuest(508);
 			if (q != null) {
 				String qn = q.getName();
-				if (player.getClan() != null
-						&& player.getClan().getLeader().isOnline()
+				if (player.getClan() != null && player.getClan().getLeader().isOnline()
 						&& player.getClan().getLeader().getPlayer().getQuestState(qn) != null) {
 					QuestState st = player.getClan().getLeader().getPlayer().getQuestState(qn);
 					st.getQuest().onKill(this, st);
 				}
 			}
 
-			// clan rep example
 			int clanReputationToAdd = 0;
-			switch (getNpcId()) {
-				case 29001: // QA
-				case 29006: // Core
-				case 29014: // Orfen
-					clanReputationToAdd = 1500;
-					break;
-				case 29022: // Zaken
-				case 29176:
-				case 29181:
-				case 29103:
-				case 29099:
-					clanReputationToAdd = 2500;
-					break;
-				case 29179:
-				case 29180:
-				case 29047:
-				case 29020:
-				case 29118:
-					clanReputationToAdd = 5000;
-					break;
-				case 29028:
-				case 29019:
-				case 29066:
-				case 29067:
-				case 29068:
-					clanReputationToAdd = 10000;
-					break;
-				default:
-					if (getLevel() >= 40 && getLevel() <= 49) {
-						clanReputationToAdd = 75;
-					} else if (getLevel() >= 50 && getLevel() <= 59) {
-						clanReputationToAdd = 100;
-					} else if (getLevel() >= 60 && getLevel() <= 75) {
-						clanReputationToAdd = 125;
-					} else if (getLevel() >= 76 && getLevel() <= 79) {
-						clanReputationToAdd = 200;
-					} else if (getLevel() > 80) {
-						clanReputationToAdd = 300;
-					}
-					break;
-			}
-			Player topDmg = getAggroList().getTopDamager().getPlayer();
-			if (topDmg != null) {
-				if (topDmg.isInParty()) {
-					int repPerMember = clanReputationToAdd / topDmg.getParty().getMemberCount();
-					Map<Clan, Integer> repMap = new HashMap<Clan, Integer>();
-					for (Player mem : topDmg.getParty().getPartyMembers()) {
-						if (mem.getClan() != null) {
-							if (!repMap.containsKey(mem.getClan())) {
-								repMap.put(mem.getClan(), repPerMember);
-							} else {
-								int oldVal = repMap.get(mem.getClan());
-								repMap.put(mem.getClan(), oldVal + repPerMember);
-							}
-						}
-					}
-					for (Entry<Clan, Integer> e : repMap.entrySet()) {
-						e.getKey().incReputation(e.getValue(), true, "raid");
-					}
-				} else if (topDmg.getClan() != null) {
-					topDmg.getClan().incReputation(clanReputationToAdd, true, "raid");
+			if (getNpcId() == 29001)// Queen Ant
+				clanReputationToAdd = 1500;
+			else if (getNpcId() == 29006)// Core
+				clanReputationToAdd = 1500;
+			else if (getNpcId() == 29014)// Orfen
+				clanReputationToAdd = 1500;
+			else if (getNpcId() == 29022 || getNpcId() == 29176 || getNpcId() == 29181)// Zaken
+				clanReputationToAdd = 2500;
+			else if (getNpcId() == 29103 || getNpcId() == 29099)// Baylor
+				clanReputationToAdd = 2500;
+			else if (getNpcId() == 29179 || getNpcId() == 29180)// Freya
+				clanReputationToAdd = 5000;
+			else if (getNpcId() == 29047)// Halisha
+				clanReputationToAdd = 5000;
+			else if (getNpcId() == 29020)// Baium
+				clanReputationToAdd = 5000;
+			else if (getNpcId() == 29118)// Beleth
+				clanReputationToAdd = 5000;
+			else if (getNpcId() == 29028)// Valakas
+				clanReputationToAdd = 10000;
+			else if (getNpcId() == 29019 || getNpcId() == 29066 || getNpcId() == 29067 || getNpcId() == 29068)// Antharas
+				clanReputationToAdd = 10000;
+			else if (getLevel() >= 40 && getLevel() <= 49)
+				clanReputationToAdd = 75;
+			else if (getLevel() >= 50 && getLevel() <= 59)
+				clanReputationToAdd = 100;
+			else if (getLevel() >= 60 && getLevel() <= 75)
+				clanReputationToAdd = 125;
+			else if (getLevel() >= 76 && getLevel() <= 79)
+				clanReputationToAdd = 200;
+			else if (getLevel() > 80)
+				clanReputationToAdd = 300;
+
+			Player mostDamagePlayer = getAggroList().getTopDamager().getPlayer();
+
+			if (mostDamagePlayer.isInParty()) {
+				int reputationPerMember = Math
+						.round(clanReputationToAdd / mostDamagePlayer.getParty().getMemberCount());
+				Map<Clan, Integer> repPerClan = new HashMap<>();
+				for (Player member : mostDamagePlayer.getParty().getPartyMembers()) {
+					if (member.getClan() != null)
+						if (repPerClan.containsKey(member.getClan()))
+							repPerClan.put(member.getClan(), repPerClan.get(member.getClan()) + reputationPerMember);
+						else
+							repPerClan.put(member.getClan(), reputationPerMember);
 				}
-			}
+				for (Entry<Clan, Integer> clan : repPerClan.entrySet())
+					clan.getKey().incReputation(clan.getValue(), true, "raid");
+			} else if (mostDamagePlayer.getClan() != null)
+				mostDamagePlayer.getClan().incReputation(clanReputationToAdd, true, "raid");
+
 		}
 
-		if (getMinionList().hasAliveMinions()) {
+		if (getMinionList().hasAliveMinions())
 			ThreadPoolManager.getInstance().schedule(new RunnableImpl() {
 				@Override
-				public void runImpl() {
-					if (isDead()) {
+				public void runImpl() throws Exception {
+					if (isDead())
 						getMinionList().unspawnMinions();
-					}
 				}
 			}, getMinionUnspawnInterval());
-		}
 
 		int boxId = 0;
 		switch (getNpcId()) {
-			case 25035:
+			case 25035: // Shilens Messenger Cabrio
 				boxId = 31027;
 				break;
-			case 25054:
+			case 25054: // Demon Kernon
 				boxId = 31028;
 				break;
-			case 25126:
+			case 25126: // Golkonda, the Longhorn General
 				boxId = 31029;
 				break;
-			case 25220:
+			case 25220: // Death Lord Hallate
 				boxId = 31030;
 				break;
 		}
+
 		if (boxId != 0) {
-			NpcTemplate boxT = NpcHolder.getInstance().getTemplate(boxId);
-			if (boxT != null) {
-				NpcInstance box = new NpcInstance(IdFactory.getInstance().getNextId(), boxT);
+			NpcTemplate boxTemplate = NpcHolder.getInstance().getTemplate(boxId);
+			if (boxTemplate != null) {
+				final NpcInstance box = new NpcInstance(IdFactory.getInstance().getNextId(), boxTemplate);
 				box.spawnMe(getLoc());
 				box.setSpawnedLoc(getLoc());
+
 				ThreadPoolManager.getInstance().schedule(new GameObjectTasks.DeleteTask(box), 60000);
 			}
 		}
-
-		/**
-		 * ------------------------------------------------------------------------
-		 * FIX: Set a non-zero respawn time in the spawner BEFORE
-		 * notifying the RaidBossSpawnManager.
-		 * ------------------------------------------------------------------------
-		 */
-		if (getSpawn() != null) {
-			int nextRespawn = (int) (System.currentTimeMillis() / 1000L) + getSpawn().getRespawnDelay();
-			getSpawn().setRespawnTime(nextRespawn);
-		}
-
 		RaidBossSpawnManager.getInstance().onBossStatusChange(getNpcId());
 
-		// NEW: Schedule removal of the de-level zones 120 seconds after boss death.
-		ThreadPoolManager.getInstance().schedule(new RunnableImpl() {
-			@Override
-			public void runImpl() {
-				RaidBossZoneCreator.removeZonesForBoss(getNpcId());
-			}
-		}, 120000L);
-
 		super.onDeath(killer);
+	}
+
+	// FIXME [G1ta0] разобрать этот хлам
+	@SuppressWarnings("unchecked")
+	private void calcRaidPointsReward(int totalPoints) {
+		// Object groupkey (L2Party/L2CommandChannel/L2Player) | [List<L2Player> group,
+		// Long GroupDdamage]
+		Map<Object, Object[]> participants = new HashMap<Object, Object[]>();
+		double totalHp = getMaxHp();
+
+		// Разбиваем игроков по группам. По возможности используем наибольшую из
+		// доступных групп: Command Channel → Party → StandAlone (сам плюс пет :)
+		for (HateInfo ai : getAggroList().getPlayableMap().values()) {
+			Player player = ai.attacker.getPlayer();
+			Object key = player.getParty() != null
+					? player.getParty().getCommandChannel() != null ? player.getParty().getCommandChannel()
+							: player.getParty()
+					: player.getPlayer();
+			Object[] info = participants.get(key);
+			if (info == null) {
+				info = new Object[] { new HashSet<Player>(), new Long(0) };
+				participants.put(key, info);
+			}
+
+			// если это пати или командный канал то берем оттуда весь список участвующих,
+			// даже тех кто не в аггролисте
+			// дубликаты не страшны - это хашсет
+			if (key instanceof CommandChannel) {
+				for (Player p : ((CommandChannel) key))
+					if (p.isInRangeZ(this, Config.ALT_PARTY_DISTRIBUTION_RANGE))
+						((Set<Player>) info[0]).add(p);
+			} else if (key instanceof Party) {
+				for (Player p : ((Party) key).getPartyMembers())
+					if (p.isInRangeZ(this, Config.ALT_PARTY_DISTRIBUTION_RANGE))
+						((Set<Player>) info[0]).add(p);
+			} else
+				((Set<Player>) info[0]).add(player);
+
+			info[1] = ((Long) info[1]).longValue() + ai.damage;
+		}
+
+		for (Object[] groupInfo : participants.values()) {
+			Set<Player> players = (HashSet<Player>) groupInfo[0];
+			// это та часть, которую игрок заслужил дамагом группы, но на нее может быть
+			// наложен штраф от уровня игрока
+			int perPlayer = (int) Math
+					.round(totalPoints * ((Long) groupInfo[1]).longValue() / (totalHp * players.size()));
+			for (Player player : players) {
+				int playerReward = perPlayer;
+				// применяем штраф если нужен
+				playerReward = (int) Math.round(
+						playerReward * Experience.penaltyModifier(calculateLevelDiffForDrop(player.getLevel()), 9));
+				if (playerReward == 0)
+					continue;
+				player.sendPacket(
+						new SystemMessage(SystemMessage.YOU_HAVE_EARNED_S1_RAID_POINTS).addNumber(playerReward));
+				RaidBossSpawnManager.getInstance().addPoints(player.getObjectId(), getNpcId(), playerReward);
+			}
+		}
+
+		RaidBossSpawnManager.getInstance().updatePointsDb();
+		RaidBossSpawnManager.getInstance().calculateRanking();
+	}
+
+	@Override
+	protected void onDecay() {
+		super.onDecay();
+		RaidBossSpawnManager.getInstance().onBossStatusChange(getNpcId());
 	}
 
 	@Override
 	protected void onSpawn() {
 		super.onSpawn();
-		// Resist Full Magic Attack
-		addSkill(SkillTable.getInstance().getInfo(4045, 1));
+		addSkill(SkillTable.getInstance().getInfo(4045, 1)); // Resist Full Magic Attack
 
-		if (!isBoss() && getLevel() >= 76) {
+		if (!isBoss() && getLevel() >= 76)
 			Announcements.getInstance().announceToAll(getName() + " Raid Boss just spawned!");
-		}
 
 		RaidBossSpawnManager.getInstance().onBossSpawned(this);
-
-		_log.info("[RaidBossInstance] onSpawn => npcId=" + getNpcId()
-				+ ", name=" + getName()
-				+ ", loc=(" + getX() + "," + getY() + "," + getZ() + "), lvl=" + getLevel());
-
-		// Create the dynamic zones for de-leveling.
-		RaidBossZoneCreator.createZonesForBoss(this);
 	}
 
 	@Override
@@ -291,10 +312,5 @@ public class RaidBossInstance extends MonsterInstance {
 	@Override
 	public boolean canChampion() {
 		return false;
-	}
-
-	// Stub method for raid points calculation.
-	private void calcRaidPointsReward(int points) {
-		// Implement your raid points reward logic here if needed.
 	}
 }

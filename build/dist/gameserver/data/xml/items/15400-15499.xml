@@ -1123,7 +1123,7 @@
       </not>
     </cond>
   </etcitem>
-  <etcitem id="15486" name="Spirit Stone Fragment ">
+  <etcitem id="15486" name="Spirit Stone Fragment">
     <set name="class" value="OTHER"/>
     <set name="crystal_type" value="NONE"/>
     <set name="destroyable" value="true"/>

@@ -82,7 +82,9 @@ public class AutoFarmSkillSlot {
     }
 
     public boolean isOnCooldown() {
-        return (System.currentTimeMillis() < (lastUseTimestamp + reuseDelayMs));
+        long now = System.currentTimeMillis();
+        long nextReady = lastUseTimestamp + reuseDelayMs;
+        return (now < nextReady);
     }
 
     public void setLastUseNow() {
@@ -157,64 +159,105 @@ public class AutoFarmSkillSlot {
     /**
      * Our “when to cast” logic:
      *
-     * - If partySkill or allySkill => let AutoFarmTask handle. (We just return
-     * TRUE.)
-     * - If selfBuff => we do 2 branches:
-     * 1) If skill is HP/MP/CP heal => check caster’s HP/MP/CP threshold.
-     * 2) Else => TOTEM or normal buff => always cast if missing (AutoFarmTask
-     * checks if missing if autoReuse).
+     * - If partySkill or allySkill => let AutoFarmTask handle (just return true).
+     * - If selfBuff => check HP/MP/CP threshold if it's a recognized healing skill,
+     * otherwise if targetHpPercent < 100.0, treat it as requiring HP < threshold
+     * (for e.g. Guts).
+     * - Otherwise => single-target or offensive skill => requires target’s HP%
+     * check.
      *
-     * - Otherwise => we do a single-target or offensive skill => requires target’s
-     * HP% check.
+     * If the checks pass, return true; otherwise false.
      */
     public boolean checkConditions(Player player) {
-        if (player == null || player.isDead())
+        System.out.println("[AutoFarmSkillSlot] checkConditions() called for skillId=" + skillId);
+
+        if (player == null || player.isDead()) {
+            System.out.println("[AutoFarmSkillSlot] -> false: player is null or dead.");
             return false;
+        }
 
         Skill skillObj = getSkill(player);
-        if (skillObj == null)
+        if (skillObj == null) {
+            System.out.println("[AutoFarmSkillSlot] -> false: skillObj is null (skillId=" + skillId + ").");
             return false;
+        }
 
-        // If party or ally => we let the Task do that logic.
+        // If party or ally => let the Task do that logic.
         if (partySkill || allySkill) {
+            System.out.println("[AutoFarmSkillSlot] -> true: partySkill/allySkill. Task will handle target.");
             return true;
         }
 
+        // Handle selfBuff logic
         if (selfBuff) {
+            System.out.println(
+                    "[AutoFarmSkillSlot] skillId=" + skillObj.getId() + " is selfBuff. Checking thresholds...");
             // If it's any of the Heal skill types, do threshold checks
             if (isHpHealSkill(skillObj)) {
                 double hpPerc = (player.getCurrentHp() / player.getMaxHp()) * 100.0;
+                System.out.println("[AutoFarmSkillSlot] isHpHealSkill => player's HP%=" + hpPerc
+                        + ", threshold=" + targetHpPercent);
                 if (hpPerc > targetHpPercent) {
+                    System.out.println("[AutoFarmSkillSlot] -> false: HP is above threshold for heal skill.");
                     return false;
                 }
             } else if (isMpHealSkill(skillObj)) {
                 double mpPerc = (player.getCurrentMp() / player.getMaxMp()) * 100.0;
+                System.out.println("[AutoFarmSkillSlot] isMpHealSkill => player's MP%=" + mpPerc
+                        + ", threshold=" + targetMpPercent);
                 if (mpPerc > targetMpPercent) {
+                    System.out.println("[AutoFarmSkillSlot] -> false: MP is above threshold for MP-heal skill.");
                     return false;
                 }
             } else if (isCpHealSkill(skillObj)) {
                 double cpPerc = (player.getCurrentCp() / player.getMaxCp()) * 100.0;
+                System.out.println("[AutoFarmSkillSlot] isCpHealSkill => player's CP%=" + cpPerc
+                        + ", threshold=" + targetCpPercent);
                 if (cpPerc > targetCpPercent) {
+                    System.out.println("[AutoFarmSkillSlot] -> false: CP is above threshold for CP-heal skill.");
                     return false;
                 }
+            } else {
+                // Normal buff (like Guts, etc.)
+                System.out.println("[AutoFarmSkillSlot] Not recognized as heal/totem. Checking if targetHp% < 100...");
+                // If the user explicitly set targetHpPercent < 100, let's require that player's
+                // HP be below threshold
+                if (targetHpPercent < 100.0) {
+                    double hpPerc = (player.getCurrentHp() / player.getMaxHp()) * 100.0;
+                    System.out.println("[AutoFarmSkillSlot] 'normal' self buff but HP% trigger = " + targetHpPercent
+                            + ", current HP%=" + hpPerc);
+                    if (hpPerc > targetHpPercent) {
+                        System.out.println(
+                                "[AutoFarmSkillSlot] -> false: HP is above threshold for normal selfBuff skill.");
+                        return false;
+                    }
+                } else {
+                    // If user left HP% at 100, we won't do an HP-based check
+                    System.out.println(
+                            "[AutoFarmSkillSlot] targetHpPercent=100 => no HP check for normal buff. Allowed to cast.");
+                }
             }
-            // else TOTEM or normal buff => always cast (the “autoReuse => isMissingEffect”
-            // check
-            // is done in AutoFarmTask).
+
+            System.out.println("[AutoFarmSkillSlot] -> true: selfBuff skill meets threshold conditions.");
             return true;
         }
 
-        // else => single-target logic
+        // else => single-target or offensive skill => requires target’s HP% check
         Creature t = (player.getTarget() instanceof Creature) ? (Creature) player.getTarget() : null;
-        if (t == null || t.isDead())
-            return false;
-
-        // For attack/damage type skills, we interpret 'targetHpPercent' as "cast if
-        // target has <= that HP%".
-        double tHpPerc = (t.getCurrentHp() / t.getMaxHp()) * 100.0;
-        if (tHpPerc > targetHpPercent) {
+        if (t == null || t.isDead()) {
+            System.out.println("[AutoFarmSkillSlot] -> false: no valid creature target or it's dead.");
             return false;
         }
+
+        double tHpPerc = (t.getCurrentHp() / t.getMaxHp()) * 100.0;
+        System.out.println("[AutoFarmSkillSlot] Offensive skill => target HP%=" + tHpPerc
+                + ", threshold=" + targetHpPercent);
+        if (tHpPerc > targetHpPercent) {
+            System.out.println("[AutoFarmSkillSlot] -> false: target's HP% above threshold for offensive skill.");
+            return false;
+        }
+
+        System.out.println("[AutoFarmSkillSlot] -> true: conditions met for offensive skill usage.");
         return true;
     }
 }

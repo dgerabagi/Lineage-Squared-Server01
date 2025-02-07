@@ -2265,174 +2265,87 @@ public final class Player extends Playable implements PlayerGroup {
 		addExpAndSp(normalExp, normalSp, normalExp - expWithoutBonus, normalSp - spWithoutBonus, false, true);
 	}
 
-	/**
-	 * Award the given amounts of XP and SP to this player,
-	 * taking into account forcibly-lowered states (SkipRaidExp),
-	 * possible pet-sharing, etc.
-	 */
 	@Override
-	public void addExpAndSp(long addToExp, long addToSp) {
-		// Simply delegate to the fuller version with 6 parameters.
-		addExpAndSp(addToExp, addToSp, 0, 0, false, false);
+	public void addExpAndSp(long exp, long sp) {
+		addExpAndSp(exp, sp, 0, 0, false, false);
 	}
 
-	/**
-	 * Award the given amounts of XP and SP to this player, handling:
-	 * - forcibly-lowered “SkipRaidExp” logic (RaidBossDelevelManager),
-	 * - pet share logic (if applyToPet == true),
-	 * - Karma reduction,
-	 * - “NoExp” toggle,
-	 * - skill-level checks & system messages after awarding EXP.
-	 */
-	public void addExpAndSp(long addToExp, long addToSp,
-			long bonusAddExp, long bonusAddSp,
-			boolean applyRate, boolean applyToPet) {
+	public void addExpAndSp(long addToExp, long addToSp, long bonusAddExp, long bonusAddSp, boolean applyRate,
+			boolean applyToPet) {
 		if (_activeClass == null)
 			return;
 
-		// Debug: show input params
-		_log.info("[Player Debug] addExpAndSp: player=" + getName()
-				+ ", addExp=" + addToExp
-				+ ", addSp=" + addToSp
-				+ ", bonusExp=" + bonusAddExp
-				+ ", bonusSp=" + bonusAddSp
-				+ ", oldMainExp=" + _activeClass.getExp()
-				+ ", oldSecExp=" + _activeClass.getSecondaryExp());
-
-		// 1) Possibly apply server rates:
 		if (applyRate) {
-			addToExp = (long) (addToExp * Config.RATE_XP * getRateExp());
-			addToSp = (long) (addToSp * Config.RATE_SP * getRateSp());
+			addToExp *= Config.RATE_XP * getRateExp();
+			addToSp *= Config.RATE_SP * getRateSp();
 		}
 
-		// 2) If forcibly-lowered: skip awarding real XP/SP, store them for later
-		if ("1".equals(getVar("SkipRaidExp"))) {
-			// Defer XP & SP to the manager for distribution on zone exit
-			RaidBossDelevelManager.getInstance().storeDeferredXp(this, addToExp, addToSp);
-			// Then do not apply them now:
-			addToExp = 0;
-			addToSp = 0;
-			bonusAddExp = 0;
-			bonusAddSp = 0;
-		}
-
-		// 3) Possibly share with pet/summon
-		if (addToExp > 0 && applyToPet) {
-			Summon pet = getPet();
-			if (pet != null && !pet.isDead() && !PetDataTable.isVitaminPet(pet.getNpcId())) {
-				// Sin Eater gets *all* the XP
-				if (pet.getNpcId() == PetDataTable.SIN_EATER_ID) {
-					pet.addExpAndSp(addToExp, 0);
-					addToExp = 0;
-				}
-				// Normal pets/servitors share portion
-				else if (pet.isPet() && pet.getExpPenalty() > 0) {
-					// Only if pet within ~20-level range
-					if (pet.getLevel() > getLevel() - 20 && pet.getLevel() < getLevel() + 5) {
-						long toPet = (long) (addToExp * pet.getExpPenalty());
-						pet.addExpAndSp(toPet, 0);
-						addToExp -= toPet;
-					} else {
-						// big level difference fallback
-						long toPet = (long) (addToExp * pet.getExpPenalty() / 5.0);
-						pet.addExpAndSp(toPet, 0);
-						addToExp -= toPet;
-					}
-				} else if (pet.isSummon()) {
-					// e.g. Warlock Summon, share fraction
-					double ratio = pet.getExpPenalty();
-					long toPet = (long) (addToExp * ratio);
-					pet.addExpAndSp(toPet, 0);
-					addToExp -= toPet;
-				}
+		Summon pet = getPet();
+		if (addToExp > 0) {
+			if (applyToPet) {
+				if (pet != null && !pet.isDead() && !PetDataTable.isVitaminPet(pet.getNpcId()))
+					// Sin Eater Đ·Đ°Đ±Đ¸Ń€Đ°ĐµŃ‚ Đ˛Ń�ŃŽ ŃŤĐşŃ�ĐżŃ� Ń� ĐżĐµŃ€Ń�ĐľĐ˝Đ°Đ¶Đ°
+					if (pet.getNpcId() == PetDataTable.SIN_EATER_ID) {
+						pet.addExpAndSp(addToExp, 0);
+						addToExp = 0;
+					} else if (pet.isPet() && pet.getExpPenalty() > 0f)
+						if (pet.getLevel() > getLevel() - 20 && pet.getLevel() < getLevel() + 5) {
+							pet.addExpAndSp((long) (addToExp * pet.getExpPenalty()), 0);
+							addToExp *= 1. - pet.getExpPenalty();
+						} else {
+							pet.addExpAndSp((long) (addToExp * pet.getExpPenalty() / 5.), 0);
+							addToExp *= 1. - pet.getExpPenalty() / 5.;
+						}
+					else if (pet.isSummon())
+						addToExp *= 1. - pet.getExpPenalty();
 			}
-		}
 
-		// 4) Decrease Karma if some SP was gained
-		if (!isCursedWeaponEquipped() && addToSp > 0 && _karma > 0) {
-			_karma -= addToSp / (Config.KARMA_SP_DIVIDER * Config.RATE_SP);
+			// Remove Karma when the player kills L2MonsterInstance
+			// TODO [G1ta0] Đ´Đ˛Đ¸Đ˝Ń�Ń‚ŃŚ Đ˛ ĐĽĐµŃ‚ĐľĐ´ Đ˝Đ°Ń‡Đ¸Ń�Đ»ĐµĐ˝Đ¸ŃŹ Đ˝Đ°ĐłŃ€Đ°Đ´
+			// ĐżŃ€Đ¸ Ń�Đ±ĐąĐ¸Ń�Ń‚Đ˛Đµ ĐĽĐľĐ±Đ°
+			if (!isCursedWeaponEquipped() && addToSp > 0 && _karma > 0)
+				_karma -= addToSp / (Config.KARMA_SP_DIVIDER * Config.RATE_SP);
+
 			if (_karma < 0)
 				_karma = 0;
+
+			if (getVarB("NoExp"))
+				addToExp = 0;
 		}
 
-		// 5) Respect "NoExp" player variable
-		if (getVarB("NoExp"))
-			addToExp = 0;
+		int oldLvl = _activeClass.getLevel();
+		int oldSecondaryLevel = _activeClass.getSecondaryLevel();
 
-		// 6) Actually add the XP & SP to the main class, plus any bonus amounts
-		long totalExp = addToExp + bonusAddExp; // full XP for messages
-		long totalSp = addToSp + bonusAddSp; // full SP for messages
-		int oldLevel = _activeClass.getLevel();
-
-		// Update the secondary class first (if you want partial XP to it, etc.)
-		// For your current usage, we do all leveling on main and secondary via
-		// addExp(...).
-		int oldSecLevel = getActiveClass().getSecondaryLevel();
-		if (_activeClass.getSecondaryClass() != 1) // means we do have a secondary
-			_activeClass.setSecondaryExp(_activeClass.getSecondaryExp() + 0);
-
-		// Then main:
 		_activeClass.addExp(addToExp);
 		addSp(addToSp);
 
-		_log.info("[Player Debug] addExpAndSp: after awarding => player=" + getName()
-				+ ", newMainExp=" + _activeClass.getExp()
-				+ ", newSecExp=" + _activeClass.getSecondaryExp());
+		if (addToExp > 0 && addToSp > 0 && (bonusAddExp > 0 || bonusAddSp > 0))
+			sendPacket(new SystemMessage2(SystemMsg.YOU_HAVE_ACQUIRED_S1_EXP_BONUS_S2_AND_S3_SP_BONUS_S4)
+					.addLong(addToExp).addLong(bonusAddExp).addInteger(addToSp).addInteger((int) bonusAddSp));
+		else if (addToSp > 0 && addToExp == 0)
+			sendPacket(new SystemMessage(SystemMessage.YOU_HAVE_ACQUIRED_S1_SP).addNumber(addToSp));
+		else if (addToSp > 0 && addToExp > 0)
+			sendPacket(new SystemMessage(SystemMessage.YOU_HAVE_EARNED_S1_EXPERIENCE_AND_S2_SP).addNumber(addToExp)
+					.addNumber(addToSp));
+		else if (addToSp == 0 && addToExp > 0)
+			sendPacket(new SystemMessage(SystemMessage.YOU_HAVE_EARNED_S1_EXPERIENCE).addNumber(addToExp));
 
-		// 7) Show system messages
-		if (totalExp > 0 || totalSp > 0) {
-			if (totalExp > 0 && totalSp > 0) {
-				if (bonusAddExp > 0 || bonusAddSp > 0) {
-					// e.g. "You have acquired S1 EXP (Bonus S2) and S3 SP (Bonus S4)."
-					sendPacket(new SystemMessage2(SystemMsg.YOU_HAVE_ACQUIRED_S1_EXP_BONUS_S2_AND_S3_SP_BONUS_S4)
-							.addLong(addToExp).addLong(bonusAddExp)
-							.addInteger(addToSp).addInteger((int) bonusAddSp));
-				} else {
-					// "You have earned S1 experience and S2 SP."
-					sendPacket(new SystemMessage(SystemMessage.YOU_HAVE_EARNED_S1_EXPERIENCE_AND_S2_SP)
-							.addNumber(totalExp).addNumber(totalSp));
-				}
-			} else if (totalExp > 0) {
-				if (bonusAddExp > 0) {
-					// "You have acquired S1 Exp (Bonus S2)."
-					sendPacket(new SystemMessage(SystemMessage.YOU_HAVE_EARNED_S1_EXPERIENCE)
-							.addNumber(addToExp + bonusAddExp));
-				} else {
-					// "You have earned S1 experience."
-					sendPacket(new SystemMessage(SystemMessage.YOU_HAVE_EARNED_S1_EXPERIENCE)
-							.addNumber(totalExp));
-				}
-			} else if (totalSp > 0) {
-				if (bonusAddSp > 0) {
-					// "You have acquired S1 SP (Bonus S2)."
-					sendPacket(new SystemMessage(SystemMessage.YOU_HAVE_ACQUIRED_S1_SP)
-							.addNumber(addToSp + bonusAddSp));
-				} else {
-					// "You have acquired S1 SP."
-					sendPacket(new SystemMessage(SystemMessage.YOU_HAVE_ACQUIRED_S1_SP)
-							.addNumber(totalSp));
-				}
-			}
+		int level = _activeClass.getLevel();
+		int secondaryLevel = _activeClass.getSecondaryLevel();
+		if (level != oldLvl || oldSecondaryLevel != secondaryLevel) {
+			int levels = level - oldLvl;
+			if (levels > 0)
+				getNevitSystem().addPoints(1950);
+			levelSet(levels);
 		}
 
-		// 8) Now see if level changed
-		int newLevel = getLevel();
-		int levelDiff = newLevel - oldLevel;
-		if (levelDiff != 0) {
-			// e.g. we gained 1 level or lost 1 level
-			levelSet(levelDiff);
+		if (pet != null && pet.isPet() && PetDataTable.isVitaminPet(pet.getNpcId())) {
+			PetInstance _pet = (PetInstance) pet;
+			_pet.setLevel(getLevel());
+			_pet.setExp(_pet.getExpForNextLevel());
+			_pet.broadcastStatusUpdate();
 		}
 
-		// If we have a vitamin pet that must sync levels
-		Summon maybePet = getPet();
-		if (maybePet != null && maybePet.isPet() && PetDataTable.isVitaminPet(maybePet.getNpcId())) {
-			PetInstance pInst = (PetInstance) maybePet;
-			pInst.setLevel(getLevel());
-			pInst.setExp(pInst.getExpForNextLevel());
-			pInst.broadcastStatusUpdate();
-		}
-
-		// synergy with Blessing of Nevit, etc.:
 		if (getNevitSystem().isBlessingActive()) {
 			addVitality(Config.ALT_VITALITY_NEVIT_POINT);
 		}
@@ -2456,7 +2369,6 @@ public final class Player extends Playable implements PlayerGroup {
 	 * 
 	 * @param send
 	 */
-
 	public void rewardSkills(boolean send) {
 		boolean update = false;
 		if (Config.AUTO_LEARN_SKILLS) {
@@ -5101,8 +5013,8 @@ public final class Player extends Playable implements PlayerGroup {
 
 	/**
 	 * Persists this player's data to DB (subclass, variables, location, etc.).
-	 * If "IgnoreDelevelStore" is set, we skip writing forcibly-lowered level/exp
-	 * to the DB so that the original level is preserved.
+	 * If "IgnoreDelevelStore" is set to "1", we skip writing forcibly-lowered
+	 * level/exp to DB, and also skip storeMainClasses.
 	 */
 	public void store(boolean fast) {
 		if (!_storeLock.tryLock())
@@ -5118,13 +5030,13 @@ public final class Player extends Playable implements PlayerGroup {
 				// If forcibly-lowered => skip storing that lowered level/exp
 				boolean skipLevelExp = "1".equals(getVar("IgnoreDelevelStore"));
 
-				String sql = "UPDATE characters SET face=?,hairStyle=?,hairColor=?," +
-						"x=?,y=?,z=?," +
-						"karma=?,pvpkills=?,pkkills=?," +
-						"rec_have=?,rec_left=?,rec_bonus_time=?," +
-						"clanid=?,deletetime=?,title=?," +
-						"accesslevel=?,online=?,leaveclan=?,deleteclan=?,onlinetime=?," +
-						"char_name=?,sp=?";
+				String sql = "UPDATE characters SET face=?,hairStyle=?,hairColor=?,"
+						+ "x=?,y=?,z=?,"
+						+ "karma=?,pvpkills=?,pkkills=?,"
+						+ "rec_have=?,rec_left=?,rec_bonus_time=?,"
+						+ "clanid=?,deletetime=?,title=?,"
+						+ "accesslevel=?,online=?,leaveclan=?,deleteclan=?,onlinetime=?,"
+						+ "char_name=?,sp=?";
 
 				if (!skipLevelExp)
 					sql += ",level=?,exp=?";
@@ -5135,43 +5047,30 @@ public final class Player extends Playable implements PlayerGroup {
 
 				int paramIndex = 1;
 
-				// Basic appearance
+				// Fill basic appearance, position, etc. (omitted for brevity)
 				statement.setInt(paramIndex++, getFace());
 				statement.setInt(paramIndex++, getHairStyle());
 				statement.setInt(paramIndex++, getHairColor());
-
-				// Position
 				statement.setInt(paramIndex++, getX());
 				statement.setInt(paramIndex++, getY());
 				statement.setInt(paramIndex++, getZ());
-
-				// PVP stats
 				statement.setInt(paramIndex++, getKarma());
 				statement.setInt(paramIndex++, getPvpKills());
 				statement.setInt(paramIndex++, getPkKills());
-
-				// Recommendations
 				statement.setInt(paramIndex++, getRecomHave());
 				statement.setInt(paramIndex++, getRecomLeft());
 				statement.setInt(paramIndex++, getRecomBonusTime());
-
-				// Clan info
 				statement.setInt(paramIndex++, getClanId());
 				statement.setLong(paramIndex++, getDeleteTimer());
 				statement.setString(paramIndex++, getTitle());
-
-				// Access / Online stats
 				statement.setInt(paramIndex++, getAccessLevel());
 				statement.setInt(paramIndex++, isOnline() && !isInOfflineMode() ? 1 : 0);
 				statement.setLong(paramIndex++, getLeaveClanTime());
 				statement.setLong(paramIndex++, getDeleteClanTime());
 				statement.setLong(paramIndex++, getOnlineTime());
-
-				// Name + SP
 				statement.setString(paramIndex++, getName());
 				statement.setLong(paramIndex++, getSp());
 
-				// Possibly skip forcibly-lowered level/exp
 				if (!skipLevelExp) {
 					statement.setInt(paramIndex++, getLevel());
 					statement.setLong(paramIndex++, getExp());
@@ -5186,8 +5085,10 @@ public final class Player extends Playable implements PlayerGroup {
 					CharacterGroupReuseDAO.getInstance().insert(this);
 				}
 
-				// Store main+secondary class data
-				storeMainClasses(true);
+				// if ignoring forcibly-lowered changes, skip storeMainClasses
+				if (!skipLevelExp) {
+					storeMainClasses(true);
+				}
 			} catch (Exception e) {
 				_log.warn("Could not store char data for " + this + "!", e);
 			} finally {
@@ -5234,7 +5135,6 @@ public final class Player extends Playable implements PlayerGroup {
 	 * @param fromDB if true, remove/update from character_skills
 	 * @return the Skill that was removed, or null if not found
 	 */
-
 	public Skill removeSkill(Skill skill, boolean fromDB) {
 		if (skill == null) {
 			return null;
@@ -5264,17 +5164,6 @@ public final class Player extends Playable implements PlayerGroup {
 			return firstClassId;
 		else if (SkillAcquireHolder.getInstance().isItPomanderClassSkill(getActiveClass().getSecondaryLevel(),
 				getSecondaryClassId(), skill))
-			return getSecondaryClassId();
-		else
-			return 0;
-	}
-
-	public int getPomanderClassOfTheSkill(Skill skill) {
-		int firstClassId = getActiveClass().getFirstClassId();
-		if (SkillAcquireHolder.getInstance().isItPomanderClassSkill(getLevel(), firstClassId, skill))
-			return firstClassId;
-		else if (SkillAcquireHolder.getInstance().isItPomanderClassSkill(getSecondaryClassId(), getSecondaryClassId(),
-				skill))
 			return getSecondaryClassId();
 		else
 			return 0;
@@ -5486,6 +5375,17 @@ public final class Player extends Playable implements PlayerGroup {
 		} finally {
 			DbUtils.closeQuietly(con, statement, rset);
 		}
+	}
+
+	public int getPomanderClassOfTheSkill(Skill skill) {
+		int firstClassId = getActiveClass().getFirstClassId();
+		if (SkillAcquireHolder.getInstance().isItPomanderClassSkill(getLevel(), firstClassId, skill))
+			return firstClassId;
+		else if (SkillAcquireHolder.getInstance().isItPomanderClassSkill(getSecondaryClassId(), getSecondaryClassId(),
+				skill))
+			return getSecondaryClassId();
+		else
+			return 0;
 	}
 
 	/**

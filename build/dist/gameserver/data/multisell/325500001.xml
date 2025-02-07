@@ -3,267 +3,434 @@
 <!-- MULTISELL - [trader_immortality_00] -->
 <list>
 	<config showall="true" notax="true" ignoreprice="true" keepenchanted="false" />
+	<!-- Existing Icarus recipes and pieces -->
 	<item>
-		<production id="10373" count="1"/>
-		<ingredient id="13796" count="136"/>
-		<ingredient id="13841" count="40"/>
+		<production id="10373" count="1"/>			<!--Recipe: Icarus Sawsword (60%)-->
+		<ingredient id="13796" count="136"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="40"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10374" count="1"/>
-		<ingredient id="13796" count="136"/>
-		<ingredient id="13841" count="40"/>
+		<production id="10374" count="1"/>			<!--Recipe: Icarus Disperser (60%)-->
+		<ingredient id="13796" count="136"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="40"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10375" count="1"/>
-		<ingredient id="13796" count="136"/>
-		<ingredient id="13841" count="40"/>
+		<production id="10375" count="1"/>			<!--Recipe: Icarus Spirit (60%)-->
+		<ingredient id="13796" count="136"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="40"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10376" count="1"/>
-		<ingredient id="13796" count="136"/>
-		<ingredient id="13841" count="40"/>
+		<production id="10376" count="1"/>			<!--Recipe: Icarus Heavy Arms (60%)-->
+		<ingredient id="13796" count="136"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="40"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10377" count="1"/>
-		<ingredient id="13796" count="136"/>
-		<ingredient id="13841" count="40"/>
+		<production id="10377" count="1"/>			<!--Recipe: Icarus Trident (60%)-->
+		<ingredient id="13796" count="136"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="40"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10378" count="1"/>
-		<ingredient id="13796" count="136"/>
-		<ingredient id="13841" count="40"/>
+		<production id="10378" count="1"/>			<!--Recipe: Icarus Hammer (60%)-->
+		<ingredient id="13796" count="136"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="40"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10379" count="1"/>
-		<ingredient id="13796" count="136"/>
-		<ingredient id="13841" count="40"/>
+		<production id="10379" count="1"/>			<!--Recipe: Icarus Hand (60%)-->
+		<ingredient id="13796" count="136"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="40"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10380" count="1"/>
-		<ingredient id="13796" count="136"/>
-		<ingredient id="13841" count="40"/>
+		<production id="10380" count="1"/>			<!--Recipe: Icarus Hall (60%)-->
+		<ingredient id="13796" count="136"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="40"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10381" count="1"/>
-		<ingredient id="13796" count="136"/>
-		<ingredient id="13841" count="40"/>
+		<production id="10381" count="1"/>			<!--Recipe: Icarus Spitter (60%)-->
+		<ingredient id="13796" count="136"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="40"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10397" count="1"/>
-		<ingredient id="13796" count="26"/>
-		<ingredient id="13841" count="6"/>
+		<production id="10397" count="1"/>			<!--Icarus Sawsword Piece-->
+		<ingredient id="13796" count="26"/>			<!--Freed Soul-->
+		<ingredient id="13841" count="6"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10398" count="1"/>
-		<ingredient id="13796" count="26"/>
-		<ingredient id="13841" count="6"/>
+		<production id="10398" count="1"/>			<!--Icarus Disperser Piece-->
+		<ingredient id="13796" count="26"/>			<!--Freed Soul-->
+		<ingredient id="13841" count="6"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10399" count="1"/>
-		<ingredient id="13796" count="26"/>
-		<ingredient id="13841" count="6"/>
+		<production id="10399" count="1"/>			<!--Icarus Spirit Piece-->
+		<ingredient id="13796" count="26"/>			<!--Freed Soul-->
+		<ingredient id="13841" count="6"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10405" count="1"/>
-		<ingredient id="13796" count="26"/>
-		<ingredient id="13841" count="6"/>
+		<production id="10405" count="1"/>			<!--Icarus Spitter Piece-->
+		<ingredient id="13796" count="26"/>			<!--Freed Soul-->
+		<ingredient id="13841" count="6"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10400" count="1"/>
-		<ingredient id="13796" count="26"/>
-		<ingredient id="13841" count="6"/>
+		<production id="10400" count="1"/>			<!--Icarus Heavy Arms Piece-->
+		<ingredient id="13796" count="26"/>			<!--Freed Soul-->
+		<ingredient id="13841" count="6"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10401" count="1"/>
-		<ingredient id="13796" count="26"/>
-		<ingredient id="13841" count="6"/>
+		<production id="10401" count="1"/>			<!--Icarus Trident Piece-->
+		<ingredient id="13796" count="26"/>			<!--Freed Soul-->
+		<ingredient id="13841" count="6"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10402" count="1"/>
-		<ingredient id="13796" count="26"/>
-		<ingredient id="13841" count="6"/>
+		<production id="10402" count="1"/>			<!--Icarus Hammer Piece-->
+		<ingredient id="13796" count="26"/>			<!--Freed Soul-->
+		<ingredient id="13841" count="6"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10403" count="1"/>
-		<ingredient id="13796" count="26"/>
-		<ingredient id="13841" count="6"/>
+		<production id="10403" count="1"/>			<!--Icarus Hand Piece-->
+		<ingredient id="13796" count="26"/>			<!--Freed Soul-->
+		<ingredient id="13841" count="6"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10404" count="1"/>
-		<ingredient id="13796" count="26"/>
-		<ingredient id="13841" count="6"/>
+		<production id="10404" count="1"/>			<!--Icarus Hall Piece-->
+		<ingredient id="13796" count="26"/>			<!--Freed Soul-->
+		<ingredient id="13841" count="6"/>			<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="10413" count="1"/>
-		<ingredient id="13796" count="800"/>
-		<ingredient id="13841" count="200"/>
+		<production id="10413" count="1"/>			<!--Dynastic Essence II-->
+		<ingredient id="13796" count="800"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="200"/>		<!--Dragonkin Charm-->
 	</item>
 	<item>
-		<production id="14207" count="1"/>
-		<ingredient id="13796" count="200"/>
-		<ingredient id="13841" count="50"/>
+		<production id="14207" count="1"/>			<!--Forgotten Scroll - Deflect Magic-->
+		<ingredient id="13796" count="200"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="50"/>			<!--Dragonkin Charm-->
 		<ingredient id="57" count="12000000"/>
 	</item>
 	<item>
-		<production id="14210" count="1"/>
-		<ingredient id="13796" count="200"/>
-		<ingredient id="13841" count="50"/>
+		<production id="14210" count="1"/>			<!--Forgotten Scroll - Dual Dagger Mastery-->
+		<ingredient id="13796" count="200"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="50"/>			<!--Dragonkin Charm-->
 		<ingredient id="57" count="12000000"/>
 	</item>
 	<item>
-		<production id="10578" count="1"/>
-		<ingredient id="13796" count="200"/>
-		<ingredient id="13841" count="50"/>
+		<production id="10578" count="1"/>			<!--Forgotten Scroll - Mutual Response-->
+		<ingredient id="13796" count="200"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="50"/>			<!--Dragonkin Charm-->
 		<ingredient id="57" count="12000000"/>
 	</item>
 	<item>
-		<production id="14221" count="1"/>
-		<ingredient id="13796" count="200"/>
-		<ingredient id="13841" count="50"/>
+		<production id="14221" count="1"/>			<!--Forgotten Scroll - Turn Stone-->
+		<ingredient id="13796" count="200"/>		<!--Freed Soul-->
+		<ingredient id="13841" count="50"/>			<!--Dragonkin Charm-->
 		<ingredient id="57" count="12000000"/>
 	</item>
 	<item>
-		<production id="15634" count="1"/>
+		<production id="15634" count="1"/>			<!--Vesper Cutter Piece-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm-->
+	</item>
+	<item>
+		<production id="15635" count="1"/>			<!--Vesper Slasher Piece-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm-->
+	</item>
+	<item>
+		<production id="15636" count="1"/>			<!--Vesper Buster Piece-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm-->
+	</item>
+	<item>
+		<production id="15637" count="1"/>			<!--Vesper Shaper Piece-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm-->
+	</item>
+	<item>
+		<production id="15638" count="1"/>			<!--Vesper Fighter Piece-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm-->
+	</item>
+	<item>
+		<production id="15639" count="1"/>			<!--Vesper Stormer Piece-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm-->
+	</item>
+	<item>
+		<production id="15640" count="1"/>			<!--Vesper Avenger Piece-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm-->
+	</item>
+	<item>
+		<production id="15641" count="1"/>			<!--Vesper Retributer Piece-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm-->
+	</item>
+	<item>
+		<production id="15642" count="1"/>			<!--Vesper Caster Piece-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm-->
+	</item>
+	<item>
+		<production id="15643" count="1"/>			<!--Vesper Singer Piece-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm-->
+	</item>
+	<item>
+		<production id="15644" count="1"/>			<!--Vesper Thrower Piece-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm-->
+	</item>
+
+	<!-- New Vesper Armor Production Entries (Armor pieces 15660 - 15675)
+	     (Prices have been raised to match the Vesper weapon recipe price of 2867120.) -->
+	<item>
+		<production id="15660" count="1"/>			<!--Sealed Vesper Helmet Piece (Price: 2867120)-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm-->
+	</item>
+	<item>
+		<production id="15661" count="1"/>			<!--Sealed Vesper Leather Helmet Piece (Price: 2867120)-->
 		<ingredient id="13796" count="8"/>
 		<ingredient id="15486" count="4"/>
 		<ingredient id="13841" count="2"/>
 	</item>
 	<item>
-		<production id="15635" count="1"/>
+		<production id="15662" count="1"/>			<!--Sealed Vesper Circlet Piece (Price: 2867120)-->
 		<ingredient id="13796" count="8"/>
 		<ingredient id="15486" count="4"/>
 		<ingredient id="13841" count="2"/>
 	</item>
 	<item>
-		<production id="15636" count="1"/>
+		<production id="15663" count="1"/>			<!--Sealed Vesper Breastplate Piece (Price: 2867120)-->
 		<ingredient id="13796" count="8"/>
 		<ingredient id="15486" count="4"/>
 		<ingredient id="13841" count="2"/>
 	</item>
 	<item>
-		<production id="15637" count="1"/>
+		<production id="15664" count="1"/>			<!--Sealed Vesper Leather Breastplate Piece (Price: 2867120)-->
 		<ingredient id="13796" count="8"/>
 		<ingredient id="15486" count="4"/>
 		<ingredient id="13841" count="2"/>
 	</item>
 	<item>
-		<production id="15638" count="1"/>
+		<production id="15665" count="1"/>			<!--Sealed Vesper Tunic Piece (Price: 2867120)-->
 		<ingredient id="13796" count="8"/>
 		<ingredient id="15486" count="4"/>
 		<ingredient id="13841" count="2"/>
 	</item>
 	<item>
-		<production id="15639" count="1"/>
+		<production id="15666" count="1"/>			<!--Sealed Vesper Gaiter Piece (Price: 2867120)-->
 		<ingredient id="13796" count="8"/>
 		<ingredient id="15486" count="4"/>
 		<ingredient id="13841" count="2"/>
 	</item>
 	<item>
-		<production id="15640" count="1"/>
+		<production id="15667" count="1"/>			<!--Sealed Vesper Gauntlet Piece (Price: 2867120)-->
 		<ingredient id="13796" count="8"/>
 		<ingredient id="15486" count="4"/>
 		<ingredient id="13841" count="2"/>
 	</item>
 	<item>
-		<production id="15641" count="1"/>
+		<production id="15668" count="1"/>			<!--Sealed Vesper Boots Piece (Price: 2867120)-->
 		<ingredient id="13796" count="8"/>
 		<ingredient id="15486" count="4"/>
 		<ingredient id="13841" count="2"/>
 	</item>
 	<item>
-		<production id="15642" count="1"/>
+		<production id="15669" count="1"/>			<!--Sealed Vesper Verteidiger Piece (Price: 2867120)-->
 		<ingredient id="13796" count="8"/>
 		<ingredient id="15486" count="4"/>
 		<ingredient id="13841" count="2"/>
 	</item>
 	<item>
-		<production id="15643" count="1"/>
+		<production id="15670" count="1"/>			<!--Sealed Vesper Leather Legging Piece (Price: 2867120)-->
 		<ingredient id="13796" count="8"/>
 		<ingredient id="15486" count="4"/>
 		<ingredient id="13841" count="2"/>
 	</item>
 	<item>
-		<production id="15644" count="1"/>
+		<production id="15671" count="1"/>			<!--Sealed Vesper Leather Gloves Piece (Price: 2867120)-->
 		<ingredient id="13796" count="8"/>
 		<ingredient id="15486" count="4"/>
 		<ingredient id="13841" count="2"/>
 	</item>
 	<item>
-		<production id="15815" count="1"/>
+		<production id="15672" count="1"/>			<!--Sealed Vesper Leather Boots Piece (Price: 2867120)-->
+		<ingredient id="13796" count="8"/>
+		<ingredient id="15486" count="4"/>
+		<ingredient id="13841" count="2"/>
+	</item>
+	<item>
+		<production id="15673" count="1"/>			<!--Sealed Vesper Stockings Piece (Price: 2867120)-->
+		<ingredient id="13796" count="8"/>
+		<ingredient id="15486" count="4"/>
+		<ingredient id="13841" count="2"/>
+	</item>
+	<item>
+		<production id="15674" count="1"/>			<!--Sealed Vesper Gloves Piece (Price: 2867120)-->
+		<ingredient id="13796" count="8"/>
+		<ingredient id="15486" count="4"/>
+		<ingredient id="13841" count="2"/>
+	</item>
+	<item>
+		<production id="15675" count="1"/>			<!--Sealed Vesper Shoes Piece (Price: 2867120)-->
+		<ingredient id="13796" count="8"/>
+		<ingredient id="15486" count="4"/>
+		<ingredient id="13841" count="2"/>
+	</item>
+
+	<!-- New Vesper Jewelry (Gems) Production Entries (IDs 15769 - 15771)
+	     (Ingredients are assumed to match the “piece” ratio; these are tentative.) -->
+	<item>
+		<production id="15769" count="1"/>			<!--Sealed Vesper Ring Gem-->
+		<ingredient id="13796" count="8"/>			<!--Freed Soul (ingredients not confirmed)-->
+		<ingredient id="15486" count="4"/>			<!--Spirit Stone Fragment (ingredients not confirmed)-->
+		<ingredient id="13841" count="2"/>			<!--Dragonkin Charm (ingredients not confirmed)-->
+	</item>
+	<item>
+		<production id="15770" count="1"/>			<!--Sealed Vesper Earring Gem-->
+		<ingredient id="13796" count="8"/>
+		<ingredient id="15486" count="4"/>
+		<ingredient id="13841" count="2"/>
+	</item>
+	<item>
+		<production id="15771" count="1"/>			<!--Sealed Vesper Necklace Gem-->
+		<ingredient id="13796" count="8"/>
+		<ingredient id="15486" count="4"/>
+		<ingredient id="13841" count="2"/>
+	</item>
+
+	<!-- New Vesper Recipe Production Entries (IDs 15792 - 15811)
+	     These recipes use the “recipe” ingredient ratio (9× the piece ingredients)
+	     and have their price (2867120) set to match the Vesper weapon recipes. -->
+	<item>
+		<production id="15792" count="1"/>			<!--Recipe - Sealed Vesper Helmet (60%) (Price: 2867120)-->
+		<ingredient id="13796" count="72"/>			<!--Freed Soul-->
+		<ingredient id="15486" count="32"/>			<!--Spirit Stone Fragment-->
+		<ingredient id="13841" count="18"/>			<!--Dragonkin Charm-->
+	</item>
+	<item>
+		<production id="15793" count="1"/>			<!--Recipe - Sealed Vesper Leather Helmet (60%) (Price: 2867120)-->
 		<ingredient id="13796" count="72"/>
 		<ingredient id="15486" count="32"/>
 		<ingredient id="13841" count="18"/>
 	</item>
 	<item>
-		<production id="15816" count="1"/>
+		<production id="15794" count="1"/>			<!--Recipe - Sealed Vesper Circlet (60%) (Price: 2867120)-->
 		<ingredient id="13796" count="72"/>
 		<ingredient id="15486" count="32"/>
 		<ingredient id="13841" count="18"/>
 	</item>
 	<item>
-		<production id="15817" count="1"/>
+		<production id="15795" count="1"/>			<!--Recipe - Sealed Vesper Breastplate (60%) (Price: 2867120)-->
 		<ingredient id="13796" count="72"/>
 		<ingredient id="15486" count="32"/>
 		<ingredient id="13841" count="18"/>
 	</item>
 	<item>
-		<production id="15818" count="1"/>
+		<production id="15796" count="1"/>			<!--Recipe - Sealed Vesper Leather Breastplate (60%) (Price: 2867120)-->
 		<ingredient id="13796" count="72"/>
 		<ingredient id="15486" count="32"/>
 		<ingredient id="13841" count="18"/>
 	</item>
 	<item>
-		<production id="15819" count="1"/>
+		<production id="15797" count="1"/>			<!--Recipe - Sealed Vesper Tunic (60%) (Price: 2867120)-->
 		<ingredient id="13796" count="72"/>
 		<ingredient id="15486" count="32"/>
 		<ingredient id="13841" count="18"/>
 	</item>
 	<item>
-		<production id="15820" count="1"/>
+		<production id="15798" count="1"/>			<!--Recipe - Sealed Vesper Gaiter (60%) (Price: 2867120)-->
 		<ingredient id="13796" count="72"/>
 		<ingredient id="15486" count="32"/>
 		<ingredient id="13841" count="18"/>
 	</item>
 	<item>
-		<production id="15821" count="1"/>
+		<production id="15799" count="1"/>			<!--Recipe - Sealed Vesper Leather Legging (60%) (Price: 2867120)-->
 		<ingredient id="13796" count="72"/>
 		<ingredient id="15486" count="32"/>
 		<ingredient id="13841" count="18"/>
 	</item>
 	<item>
-		<production id="15822" count="1"/>
+		<production id="15800" count="1"/>			<!--Recipe - Sealed Vesper Stockings (60%) (Price: 2867120)-->
 		<ingredient id="13796" count="72"/>
 		<ingredient id="15486" count="32"/>
 		<ingredient id="13841" count="18"/>
 	</item>
 	<item>
-		<production id="15823" count="1"/>
+		<production id="15801" count="1"/>			<!--Recipe - Sealed Vesper Gauntlet (60%) (Price: 2867120)-->
 		<ingredient id="13796" count="72"/>
 		<ingredient id="15486" count="32"/>
 		<ingredient id="13841" count="18"/>
 	</item>
 	<item>
-		<production id="15824" count="1"/>
+		<production id="15802" count="1"/>			<!--Recipe - Sealed Vesper Leather Gloves (60%) (Price: 2867120)-->
 		<ingredient id="13796" count="72"/>
 		<ingredient id="15486" count="32"/>
 		<ingredient id="13841" count="18"/>
 	</item>
 	<item>
-		<production id="15825" count="1"/>
+		<production id="15803" count="1"/>			<!--Recipe - Sealed Vesper Gloves (60%) (Price: 2867120)-->
 		<ingredient id="13796" count="72"/>
 		<ingredient id="15486" count="32"/>
 		<ingredient id="13841" count="18"/>
 	</item>
 	<item>
-		<production id="8619" count="1"/>
-		<ingredient id="13796" count="13"/>
-		<ingredient id="15486" count="6"/>
-		<ingredient id="13841" count="3"/>
+		<production id="15804" count="1"/>			<!--Recipe - Sealed Vesper Boots (60%) (Price: 2867120)-->
+		<ingredient id="13796" count="72"/>
+		<ingredient id="15486" count="32"/>
+		<ingredient id="13841" count="18"/>
 	</item>
 	<item>
-		<production id="8620" count="1"/>
-		<ingredient id="13796" count="13"/>
-		<ingredient id="15486" count="6"/>
-		<ingredient id="13841" count="3"/>
+		<production id="15805" count="1"/>			<!--Recipe - Sealed Vesper Shoes (60%) (Price: 2867120)-->
+		<ingredient id="13796" count="72"/>
+		<ingredient id="15486" count="32"/>
+		<ingredient id="13841" count="18"/>
+	</item>
+	<item>
+		<production id="15806" count="1"/>			<!--Recipe - Sealed Vesper Sigil (60%) (Price: 2867120)-->
+		<ingredient id="13796" count="72"/>
+		<ingredient id="15486" count="32"/>
+		<ingredient id="13841" count="18"/>
+	</item>
+	<item>
+		<production id="15807" count="1"/>			<!--Recipe - Sealed Vesper Shield (60%) (Price: 2867120)-->
+		<ingredient id="13796" count="72"/>
+		<ingredient id="15486" count="32"/>
+		<ingredient id="13841" count="18"/>
+	</item>
+	<item>
+		<production id="15808" count="1"/>			<!--Recipe - Sealed Vesper Ring (70%) (Price: 2867120)-->
+		<ingredient id="13796" count="72"/>
+		<ingredient id="15486" count="32"/>
+		<ingredient id="13841" count="18"/>
+	</item>
+	<item>
+		<production id="15809" count="1"/>			<!--Recipe - Sealed Vesper Earring (70%) (Price: 2867120)-->
+		<ingredient id="13796" count="72"/>
+		<ingredient id="15486" count="32"/>
+		<ingredient id="13841" count="18"/>
+	</item>
+	<item>
+		<production id="15810" count="1"/>			<!--Recipe - Sealed Vesper Necklace (70%) (Price: 2867120)-->
+		<ingredient id="13796" count="72"/>
+		<ingredient id="15486" count="32"/>
+		<ingredient id="13841" count="18"/>
+	</item>
+	<item>
+		<production id="15811" count="1"/>			<!--Recipe - Sealed Moirai Ring (70%) (Price: 2867120)-->
+		<ingredient id="13796" count="72"/>
+		<ingredient id="15486" count="32"/>
+		<ingredient id="13841" count="18"/>
 	</item>
 </list>
